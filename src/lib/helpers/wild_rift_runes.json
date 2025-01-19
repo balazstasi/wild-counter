@@ -1,10 +1,37 @@
 {
-  "runes": [
+  "primary": [
     {
       "id": 4,
       "name": "Electrocute",
       "image_url": "https://www.wildriftfire.com/images/runes/electrocute.png",
       "description": "PASSIVE: Basic attacks and abilities generate stacks on enemy champions hit, up to one per attack or cast. Applying 3 stacks to a target within a 3 second period causes them to be struck by lightning, dealing them 40 - 194 (based on level) (+40% bonus AD) (+25% AP) Adaptive damage.\n\r\nADAPTIVE DAMAGE: Deals either physical or magic damage depending on your bonus statistics, defaulting based on the origin of the effect.\n\r\nCooldown: 20-13 seconds",
+      "element_type": "rune",
+      "rune_type": "primary"
+    },
+    {
+      "id": 7,
+      "name": "Aery",
+      "image_url": "https://www.wildriftfire.com/images/runes/aery.png",
+      "description": "PASSIVE: Basic attacks and abilities against an enemy champion signals Aery to dash to them, dealing 10 - 60 (based on level) (+20% bonus AD) (+10% AP) Adaptive damage. Healing, shielding, or buffing an ally signals Aery to dash to them, shielding them for 20 - 120 (based on level) (+40% bonus AD) (+20% AP) for 2 seconds.\n\r\nAery lingers on the target for 2 seconds before flying back to the user, and cannot be sent out again until she returns. Aery is initially very slow, but gradually accelerates, and can be picked up by moving near her.\n\r\nADAPTIVE DAMAGE: Deals either physical or magic damage depending on your bonus statistics, defaulting based on the origin of the effect.",
+      "element_type": "rune",
+      "rune_type": "primary"
+    },
+    {
+      "id": 94,
+      "name": "Phase Rush",
+      "image_url": "https://www.wildriftfire.com/images/runes/phase-rush.png",
+      "description": "Hitting a champion with 3 separate attacks or abilities within 3 seconds grants (Melee 40% / 60% / Ranged 30% / 50%) Movement speed, 25 Ability Haste and reduces your current basic ability cooldowns by 20%.\n\r\nCooldown: 12s",
+      "element_type": "rune",
+      "stats": {},
+      "price": "",
+      "build_path": [],
+      "builds_into": []
+    },
+    {
+      "id": 69,
+      "name": "Conqueror",
+      "image_url": "https://www.wildriftfire.com/images/runes/conqueror.png",
+      "description": "Basic attacks and abilities generate stacks of Conqueror on enemy champions hit, up to one per attack or cast. Each stack of Conqueror lasts 6 seconds and grants 2 - 6 (based on level) bonus (Adaptive) Attack Damage 4 - 12 (based on level) or Ability Power 3 - 9 (based on level), stacking up to 6 times, for a maximum of 12 - 36 (based on level) bonus Attack Damage or 18 - 54 (based on level) Ability Power (Adaptive).\n\r\nWhile fully stacked, gain 8 % melle ( 5% ranged) Physical Vamp and Magical Vamp.\n\r\nAdaptive Damage: Deals either physical or magic damage depending on your bonus stats, defaulting based on the origin of the effect.",
       "element_type": "rune",
       "stats": {},
       "price": "",
@@ -17,32 +44,16 @@
       "image_url": "https://www.wildriftfire.com/images/runes/fleet-footwork.png",
       "description": "Moving, attacking and casting builds Energy stacks. At  100 stacks, your next attack heals you, grants increased Movement Speed, and restores mana or energy if you attack a champion. At 100 Energy stacks, your next attack gains 100% Attack Speed.\n\r\nHeal: 15 - 85 + 30% bonus Attack Damage + 30% Ability Power\r\nMovement Speed bonus: 20% for 1 second.\r\nWhen attacking a champion, restore 8% missing mana or 8% missing energy.\r\nHeals for 60% (Melee) / 20% (Ranged) when attacking minions or monsters.",
       "element_type": "rune",
-      "stats": {},
-      "price": "",
-      "build_path": [],
-      "builds_into": []
+      "rune_type": "primary"
     },
-    {
-      "id": 7,
-      "name": "Aery",
-      "image_url": "https://www.wildriftfire.com/images/runes/aery.png",
-      "description": "PASSIVE: Basic attacks and abilities against an enemy champion signals Aery to dash to them, dealing 10 - 60 (based on level) (+20% bonus AD) (+10% AP) Adaptive damage. Healing, shielding, or buffing an ally signals Aery to dash to them, shielding them for 20 - 120 (based on level) (+40% bonus AD) (+20% AP) for 2 seconds.\n\r\nAery lingers on the target for 2 seconds before flying back to the user, and cannot be sent out again until she returns. Aery is initially very slow, but gradually accelerates, and can be picked up by moving near her.\n\r\nADAPTIVE DAMAGE: Deals either physical or magic damage depending on your bonus statistics, defaulting based on the origin of the effect.",
-      "element_type": "rune",
-      "stats": {},
-      "price": "",
-      "build_path": [],
-      "builds_into": []
-    },
+
     {
       "id": 10,
       "name": "Grasp of the Undying",
       "image_url": "https://www.wildriftfire.com/images/runes/grasp-of-the-undying.png",
       "description": "Entering combat generates one stack every second for the next 3 seconds. Additional stacks may be generated by re-entering combat after 2 seconds. After reaching 4 stacks, your next basic attack within 6 seconds against an enemy champion consumes all stacks to deal 3% of your maximum health in bonus magic damage, restore 2.5% of your maximum health, and permanently grant 10 bonus health. The empowered attack duration refreshes whenever going in combat.\n\r\nOn ranged champions, all effects are reduced by 40%.",
       "element_type": "rune",
-      "stats": {},
-      "price": "",
-      "build_path": [],
-      "builds_into": []
+      "rune_type": "primary"
     },
     {
       "id": 12,
@@ -50,10 +61,89 @@
       "image_url": "https://www.wildriftfire.com/images/runes/aftershock.png",
       "description": "Immobilizing an enemy champion grants a static 50 (+80% bonus armor) bonus armor and 50 (+80% bonus magic resistance) bonus magic resistance for 2.5 seconds.\n\r\nAfter the duration, you release a shockwave that deals 25 - 125 (based on level) (+3% of your maximum health) magic damage to nearby enemies.\n\r\nCooldown: 35s",
       "element_type": "rune",
+      "rune_type": "primary"
+    },
+    {
+      "id": 98,
+      "name": "Lethal Tempo",
+      "image_url": "https://www.wildriftfire.com/images/runes/lethal-tempo.png",
+      "description": "Gain stackable Attack Speed when attacking enemy champions. Stacks up to 6 times. At max stacks, you gain bonus range and can exceed your Attack Speed cap.\r\nEach stack increases Attack Speed by 10 – 18% (melee) or 4 – 13% (ranged) for 6 seconds.\r\nAt max stacks, gain 50 (melee) or 75 (ranged) Attack Distance.",
+      "element_type": "rune",
       "stats": {},
       "price": "",
       "build_path": [],
       "builds_into": []
+    },
+    {
+      "id": 109,
+      "name": "First Strike",
+      "image_url": "https://www.wildriftfire.com/images/runes/first-strike.png",
+      "description": "In 0.25s after engaging an enemy champion in combat, dealing damage to them grants 10 gold and a First Strike effect that lasts 3s to you, allowing you to deal 8% bonus true damage to the enemy champion. Once the effect has ended, gain gold according to the bonus damage dealt (melee: 100%/ranged: 85%) during the effect. (20-13s cooldown)",
+      "element_type": "rune",
+      "stats": {},
+      "price": "",
+      "build_path": [],
+      "builds_into": []
+    },
+    {
+      "id": 110,
+      "name": "Glacial Augment",
+      "image_url": "https://www.wildriftfire.com/images/runes/glacial-augment.png",
+      "description": "Landing an attack on an enemy champion reduces their Movement Speed by 20% for 1.5s. This effect only affects each champion up to a maximum of 1 time(s) within 10s. Immobilizing an enemy champion triggers 3 glacial rays that radiate toward you, creating a frozen region that lasts for 3s. Movement Speed of enemies within the region is reduced by (1.5% of the champion's Max Health +20)%. The damage that they deal is also reduced by 12%. Upon leaving the frozen region. Movement Speed reduction will continue to persist for 1.5s. (20s cooldown)",
+      "element_type": "rune",
+      "stats": {},
+      "price": "",
+      "build_path": [],
+      "builds_into": []
+    }
+  ],
+  "secondary": {
+    "domination": [[], [], []],
+    "resolve": [[], [], []],
+    "inspiration": [[], [], []],
+    "precision": [[], [], []]
+  },
+
+  "all": [
+    {
+      "id": 4,
+      "name": "Electrocute",
+      "image_url": "https://www.wildriftfire.com/images/runes/electrocute.png",
+      "description": "PASSIVE: Basic attacks and abilities generate stacks on enemy champions hit, up to one per attack or cast. Applying 3 stacks to a target within a 3 second period causes them to be struck by lightning, dealing them 40 - 194 (based on level) (+40% bonus AD) (+25% AP) Adaptive damage.\n\r\nADAPTIVE DAMAGE: Deals either physical or magic damage depending on your bonus statistics, defaulting based on the origin of the effect.\n\r\nCooldown: 20-13 seconds",
+      "element_type": "rune",
+      "rune_type": "primary"
+    },
+    {
+      "id": 3,
+      "name": "Fleet Footwork",
+      "image_url": "https://www.wildriftfire.com/images/runes/fleet-footwork.png",
+      "description": "Moving, attacking and casting builds Energy stacks. At  100 stacks, your next attack heals you, grants increased Movement Speed, and restores mana or energy if you attack a champion. At 100 Energy stacks, your next attack gains 100% Attack Speed.\n\r\nHeal: 15 - 85 + 30% bonus Attack Damage + 30% Ability Power\r\nMovement Speed bonus: 20% for 1 second.\r\nWhen attacking a champion, restore 8% missing mana or 8% missing energy.\r\nHeals for 60% (Melee) / 20% (Ranged) when attacking minions or monsters.",
+      "element_type": "rune",
+      "rune_type": "primary"
+    },
+    {
+      "id": 7,
+      "name": "Aery",
+      "image_url": "https://www.wildriftfire.com/images/runes/aery.png",
+      "description": "PASSIVE: Basic attacks and abilities against an enemy champion signals Aery to dash to them, dealing 10 - 60 (based on level) (+20% bonus AD) (+10% AP) Adaptive damage. Healing, shielding, or buffing an ally signals Aery to dash to them, shielding them for 20 - 120 (based on level) (+40% bonus AD) (+20% AP) for 2 seconds.\n\r\nAery lingers on the target for 2 seconds before flying back to the user, and cannot be sent out again until she returns. Aery is initially very slow, but gradually accelerates, and can be picked up by moving near her.\n\r\nADAPTIVE DAMAGE: Deals either physical or magic damage depending on your bonus statistics, defaulting based on the origin of the effect.",
+      "element_type": "rune",
+      "rune_type": "primary"
+    },
+    {
+      "id": 10,
+      "name": "Grasp of the Undying",
+      "image_url": "https://www.wildriftfire.com/images/runes/grasp-of-the-undying.png",
+      "description": "Entering combat generates one stack every second for the next 3 seconds. Additional stacks may be generated by re-entering combat after 2 seconds. After reaching 4 stacks, your next basic attack within 6 seconds against an enemy champion consumes all stacks to deal 3% of your maximum health in bonus magic damage, restore 2.5% of your maximum health, and permanently grant 10 bonus health. The empowered attack duration refreshes whenever going in combat.\n\r\nOn ranged champions, all effects are reduced by 40%.",
+      "element_type": "rune",
+      "rune_type": "primary"
+    },
+    {
+      "id": 12,
+      "name": "Aftershock",
+      "image_url": "https://www.wildriftfire.com/images/runes/aftershock.png",
+      "description": "Immobilizing an enemy champion grants a static 50 (+80% bonus armor) bonus armor and 50 (+80% bonus magic resistance) bonus magic resistance for 2.5 seconds.\n\r\nAfter the duration, you release a shockwave that deals 25 - 125 (based on level) (+3% of your maximum health) magic damage to nearby enemies.\n\r\nCooldown: 35s",
+      "element_type": "rune",
+      "rune_type": "primary"
     },
     {
       "id": 15,

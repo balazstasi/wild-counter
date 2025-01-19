@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { BottomNavigation } from "@/components/composed/bottom-navigation";
-
 type Section = "liveCounter" | "builds" | "champions";
 
 export function Layout() {
@@ -23,7 +22,11 @@ function LiveCounter() {
 }
 
 function Builds() {
-  return <h2 className="text-2xl font-bold">Builds</h2>;
+  return (
+    <div>
+      <h2 className="text-2xl font-bold">Builds</h2>
+    </div>
+  );
 }
 
 function Champions() {
