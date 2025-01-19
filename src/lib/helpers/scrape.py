@@ -1,11 +1,31 @@
 import requests
 from bs4 import BeautifulSoup
-from PIL import Image
-import io
-import os
+import json
 from pathlib import Path
-import hashlib
-from typing import Dict, List, Optional
+from typing import Dict, List, Optional, Literal
+from dataclasses import dataclass, asdict
+from selenium import webdriver
+from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+import time
+import geckodriver_autoinstaller
+import concurrent.futures
+import sys
+import os
+
+@dataclass
+class GameElement:
+    id: int
+    name: str
+    image_url: str
+    description: str
+    element_type: Literal["item", "rune"]
+    stats: Dict[str, str]  # For items
+    price: str  # For items
+    build_path: List[str]  # For items
+    builds_into: List[str]  # For items
 
 class WebScraper:
     def __init__(self, base_url: str, output_dir: str = "scraped_content"):
@@ -166,17 +186,157 @@ class WebScraper:
         
         return all_content
 
-# Update the usage example
+class WildRiftScraper:
+    ELEMENT_CONFIGS = {
+        "item": {
+            "max_id": 196,
+            "relation_type": "Item",
+            "output_file": "wild_rift_items.json",
+            "html_dir": "item_html"
+        },
+        "rune": {
+            "max_id": 133,
+            "relation_type": "Rune",
+            "output_file": "wild_rift_runes.json",
+            "html_dir": "rune_html"
+        }
+    }
+
+    def __init__(self, output_dir: str = ".", element_type: Literal["item", "rune"] = "item"):
+        self.base_url = "https://www.wildriftfire.com"
+        self.output_dir = Path(output_dir)
+        self.output_dir.mkdir(exist_ok=True)
+        
+        self.element_type = element_type
+        self.config = self.ELEMENT_CONFIGS[element_type]
+        
+        self.html_dir = self.output_dir / self.config["html_dir"]
+        self.html_dir.mkdir(exist_ok=True)
+        
+        self.session = requests.Session()
+        self.session.headers.update({
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.5",
+            "X-Requested-With": "XMLHttpRequest"
+        })
+
+    def fetch_element_html(self, element_id: int) -> Optional[str]:
+        """Fetch HTML content for a game element"""
+        try:
+            url = f"{self.base_url}/ajax/tooltip?relation_type={self.config['relation_type']}&relation_id={element_id}"
+            response = requests.get(url)
+            if response.status_code == 200:
+                html_content = response.text
+                # Save HTML content to file
+                os.makedirs(self.config['html_dir'], exist_ok=True)
+                html_file_path = os.path.join(self.config['html_dir'], f"{self.element_type}_{element_id}.html")
+                with open(html_file_path, "w", encoding="utf-8") as f:
+                    f.write(html_content)
+                return html_content
+            return None
+        except Exception as e:
+            print(f"Error fetching {self.element_type} {element_id}: {e}")
+            return None
+
+    def parse_element_html(self, html_content: str, element_id: int) -> GameElement:
+        soup = BeautifulSoup(html_content, 'html.parser')
+        name_elem = soup.find("div", class_="tt__info__title").find("span")
+        name = name_elem.text.strip() if name_elem else "Unknown"
+        
+        image_elem = soup.find("div", class_="tt__image").find("img")
+        image_url = f"https://www.wildriftfire.com{image_elem['src']}" if image_elem else ""
+        
+        if self.element_type == "item":
+            price_elem = soup.find("div", class_="tt__info__cost").find("span")
+            price = price_elem.text.strip() if price_elem else ""
+            
+            stats_elem = soup.find("div", class_="tt__info__stats")
+            stats = {}
+            if stats_elem:
+                for stat in stats_elem.find_all("div"):
+                    stat_text = stat.text.strip()
+                    if ":" in stat_text:
+                        key, value = stat_text.split(":", 1)
+                        stats[key.strip()] = value.strip()
+            
+            description_elem = soup.find("div", class_="tt__info__uniques")
+            description = description_elem.text.strip() if description_elem else ""
+        else:  # rune
+            description_elem = soup.find("div", class_="tt__info__uniques")
+            if description_elem:
+                span_elem = description_elem.find("span")
+                description = span_elem.text.strip() if span_elem else description_elem.text.strip()
+            else:
+                description = ""
+            price = ""
+            stats = {}
+        
+        return GameElement(
+            id=element_id,
+            name=name,
+            image_url=image_url,
+            description=description,
+            element_type=self.element_type,
+            stats=stats,
+            price=price,
+            build_path=[],
+            builds_into=[]
+        )
+
+    def fetch_and_parse_element(self, element_id: int) -> Optional[Dict]:
+        """Fetch and parse a single game element"""
+        html_content = self.fetch_element_html(element_id)
+        if html_content:
+            element_data = self.parse_element_html(html_content, element_id)
+            if element_data:
+                return asdict(element_data)
+        return None
+
+    def scrape_elements(self, start_id: int = 1) -> List[Dict]:
+        """Scrape all elements using multiple threads"""
+        elements = []
+        end_id = self.config["max_id"]
+        
+        with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+            future_to_id = {
+                executor.submit(self.fetch_and_parse_element, element_id): element_id
+                for element_id in range(start_id, end_id + 1)
+            }
+            
+            for future in concurrent.futures.as_completed(future_to_id):
+                element_id = future_to_id[future]
+                try:
+                    element_data = future.result()
+                    if element_data:
+                        elements.append(element_data)
+                        print(f"Successfully processed {self.element_type} {element_id}: {element_data['name']}")
+                except Exception as e:
+                    print(f"Error processing {self.element_type} {element_id}: {e}")
+        
+        # Save all elements at once
+        self.save_to_json(elements)
+        return elements
+
+    def save_to_json(self, elements: List[Dict]):
+        """Save scraped elements to JSON file"""
+        output_file = self.output_dir / self.config["output_file"]
+        with open(output_file, "w", encoding="utf-8") as f:
+            json.dump({f"{self.element_type}s": elements}, f, indent=2, ensure_ascii=False)
+        print(f"Saved {len(elements)} {self.element_type}s to {output_file}")
+
+def main():
+    # Scrape items
+    item_scraper = WildRiftScraper(element_type="item")
+    items = item_scraper.scrape_elements()
+    item_scraper.save_to_json(items)
+    
+    # Scrape runes
+    rune_scraper = WildRiftScraper(element_type="rune")
+    runes = rune_scraper.scrape_elements()
+    rune_scraper.save_to_json(runes)
+
 if __name__ == "__main__":
-    scraper = WebScraper("https://www.wildriftfire.com")
-    content = scraper.scrape(max_depth=3)  # Adjust max_depth as needed
-    
-    # Count total images across all pages
-    def count_images(content_dict):
-        total = len(content_dict.get('images', []))
-        for sub_page in content_dict.get('sub_pages', {}).values():
-            total += count_images(sub_page)
-        return total
-    
-    total_images = count_images(content)
-    print(f"Total images scraped: {total_images}")
+    element_type = sys.argv[1] if len(sys.argv) > 1 else "item"
+    scraper = WildRiftScraper(element_type=element_type)
+    scraper.scrape_elements()
