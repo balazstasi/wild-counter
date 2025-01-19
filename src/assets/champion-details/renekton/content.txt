@@ -1,0 +1,110 @@
+Title: Renekton :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Renekton in League of Legends: Wild Rift. Our build guide will teach you how to play Renekton in the current meta.
+
+Headings:
+- Level 1 Renekton Stats
+- Renekton's Abilities
+- Renekton  Build Guide for Wild Rift
+- Renekton's Item Build
+- Renekton's Spells & Runes
+- Renekton's Situational Items
+- Renekton's Situational Runes
+- Renekton's Skill Order
+- How to play Renekton
+- Renekton's Abilities
+- Reign of Anger (Passive)
+- Cull The Meek (1)
+- Ruthless Predator (2)
+- Slice and Dice (3)
+- Dominus (Ultimate)
+- Renekton Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Casting abilities with 50 Fury or more consumes that Fury for enhanced effects. Enhanced abilities do not generate any Fury.
+
+Attacks generate 5 Fury. Fury gains are increased by 50% when under 50% Health. Out of combat, 4 Fury dissipates every second.
+
+Deal 80 / 130 / 180 / 230 (+90% AD) physical damage to nearby enemies, generating 5 Fury and healing 7 / 9 / 11 / 13 (+10% AD) per enemy hit.
+
+Reign of Anger: Damage increases to 120 / 195 / 270 / 345 (+135% AD) physical damage and healing is increased by 200%.
+
+Empowers the next attack to strike twice, stunning for 0.75 seconds and dealing 20 / 50 / 80 / 110 (+150% AD) physical damage.
+
+Reign of Anger: Strikes three times, stunning for 1.5 seconds and dealing 30 / 75 / 120 / 165 (+225% AD) physical damage.
+
+Under the effect of Red Fury, clear all shields on the target.
+
+Dash in a direction, dealing 40 / 80 / 120 / 160 (+90% AD) physical damage and generating 5 Fury for each enemy passed through.
+
+Hitting an enemy grants a second dash to cast within 4 seconds.
+
+Reign of Anger: The second dash now deals 70 / 130 / 190 / 250 (+135% AD) physical damage and shreds armor by 25% / 30% / 35% / 40% for 4 seconds.
+
+Renekton is a top-lane fighter. He uses his mobility, tankiness and crowd control to get onto the enemy backline and kill their carries. Renekton is a powerful early game baron lane champion and with his high damage and sustain, he's able to dominate in the early stages.
+
+Renekton doesn't have a mana bar, but instead has a Rage bar from his passive, Reign of Anger. This is the most important part of his kit so make sure you keep an eye on the Rage bar as if it is at 50% or higher, your abilities get more powerful.
+
+Renekton doesn't have mana, he instead has a Rage bar. Attacks generate Fury, which is gained faster when under 50% health. When you step out of combat, Fury dissipates every second. When Renekton casts an ability with 50 Fury or more, he consumes that Fury to enhance the next ability.
+
+This is the most important part of Renekton's Kit. It makes him really strong as he doesn't need to worry about consuming mana when using his abilities. Just keep an eye on your Rage bar (under health) so you know when you have enough Fury to enhance your abilities.
+
+Renekton spins in a circle dealing physical damage to nearby enemies, generating fury and healing per enemy hit. Reign of Anger - Damage increases and healing is tripled.
+
+Cull the Meek is amazing for sustaining in the laning phase as this works on minions as well. When you jump in to fight the enemy, if you get low you can stack up 50 Fury and use your Cull the Meek on minions to heal up a lot and stay in the fight.
+
+Also works really well if you are in a big team fight, as if you are low and have loads of champion surrounding you, you can use the ability to heal a lot and stay in the fight.
+
+Empowers the next attack to strike twice, stunning for just under a second and dealing physical damage. Reign of Anger - Strikes 3 times, stunning for longer and dealing even more physical damage.
+
+When using Ruthless Predator, most of the time you want to make sure you have more than 50 Fury. Not only do you strike 3 times which works really well with the Blade of the Ruined King and Black Cleaver, but also you stun the target for longer allowing the rest of your team to follow up and help kill the enemy.
+
+Ruthless Predator is most effective during the early game to get an advantage in the lane, as it does a lot of damage and you can follow it up with more auto attacks and other abilities whilst the enemy is stunned.
+
+Dash in a direction, dealing physical damage and generating Fury for each enemy passed through. Hitting an enemy grans a second dash to cast within a few seconds. Reign of Anger - The second dash deals more damage and shreds armor for a few seconds.
+
+It is crucial to make sure you hit an enemy when using this ability. This works on monsters, minions and of course champions. This allows you to dash again, so if you need to chase down the enemy or want to dash away to create a bigger distance, it can be done.
+
+The best combo to do is Slice into the enemy using Ruthless Predator, auto-attack and then dash back out. It's a great way to get some nice free damage off on the enemy during the laning phase.
+
+Gain Fury and health for 15 seconds. Every second after casting, you gain Fury and deal magic damage to nearby enemies. It's important to use Dominus at the start of every fight.
+
+Being able to get Fury and health straight away will help a lot when going in to fight the enemy team. Also gaining Fury every second is really important as you can get multiple enhanced abilities off during a single team fight with your Dominus activated.
+
+Renekton uses a mixture of both damage and tank items that work well with his kit. Blade of the Ruined King is a core item for Renekton. Renekton is an early-game aggressive champion, and with Blade of the Ruined King, you can get that advantage in the early game that you need. Also, Empowered Ruthless Predator counts as three attacks, which will instantly proc Blade of the Ruined King's Passive, dealing a lot of damage. Black Cleaver is a strong item that works well with Renekton's kit. You can use many abilities and attacks quickly, which will shred the enemy's armor so you can do even more damage.
+
+For runes, we have the following:
+
+Renekton's Ruthless Predator is a great way for Renekton to auto attack multiple times in a matter of sections, this will make enemies vulnerable to taking more damage.
+
+With Renekton's strong early game Brutal's damage is going to help Renekton get a huge early-game advantage.
+
+When enemy champions are low on health, Renekton can deal bonus damage. Renekton already has a lot of damage potential and will always look to dash into enemy carries, so dealing extra damage can help Renekton kill them.
+
+Alacrity gives Renekton Attack Speed, which will help him become even stronger in the early game and scale well to deal more damage in team fights. Legend: Tenacity is another excellent option when playing against champions that have Crowd Control.
+
+Since Renekton is generally at the front during team fights, he will take a lot of damage. Bone plating will help Renekton take reduced damage from the first three instances of damage which will help him survive longer.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for the killing blow. For the 2nd spell, it's best to go for Ignite. This helps a lot when going into fights and trying to get that extra damage to kill off the enemies.
+
+Renekton is one of the strongest early game champions because of his damage and early sustain that keep him alive. When you hit level 3 and have access to Ruthless Predator, you can dash in with your Slice and Dice making sure you hit an enemy, and use your 2nd ability to stun them and then dash back out straight away. This is even more effective if you have 50% or more Fury as your 2nd ability will stun for longer and deal even more damage.
+
+Renekton is a great team fight champion in the late game. You want to stay with your team at all times and try not to get caught out by yourself. When a team fight happens, you want to make sure you are at the front protecting your team. Make sure you always go towards the biggest threat on the enemy team and try to take them down. Renekton can also do really well in split-push situations especially with this item build. You can solo a lot of champions and try to get an early advantage for your team.
+
+Overall Renekton is a strong champion especially in the early game which when ahead can carry the game off of his own back. The abilities are really easy to get used to and with no mana, it's one less thing to worry about.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

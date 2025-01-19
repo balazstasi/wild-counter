@@ -1,0 +1,120 @@
+Title: Pyke :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Pyke in League of Legends: Wild Rift. Our build guide will teach you how to play Pyke in the current meta.
+
+Headings:
+- Level 1 Pyke Stats
+- Pyke's Abilities
+- Pyke  Build Guide for Wild Rift
+- Pyke's Item Build
+- Pyke's Spells & Runes
+- Pyke's Skill Order
+- Pyke's Item Build
+- Pyke's Spells & Runes
+- Pyke's Situational Runes
+- Pyke's Skill Order
+- How to play Pyke
+- Pyke's Abilities
+- Gift of the Drowned Ones (Passive)
+- Bone Skewer (1)
+- Ghostwater Dive (2)
+- Phantom Undertow (3)
+- Death From Below (Ultimate)
+- Pyke Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Stores 10% (+0.35 lethality) of damage taken from champions, increased to 50% (+0.65%lethality) if there are two or more visible enemy champions nearby. Damage stored cannot exceed 160 (lower value between 65% HP and 160 + 800% bonus AD).
+
+When Pyke is not visible to enemies, he heals for the amount of damage stored.
+
+Pyke cannot increase his max Health and converts 14 bonus Health to 1 Attack Damage.
+
+Charge: Slows himself by 15% for up to 3 seconds, increasing cast rage over the first 0.8 seconds.
+
+Release: Hurls his spear, dealing 130 / 195 / 260 / 325 (+60% AD) physical damage, slowing the target by 90% for 1 second and pulling it in. Releasing the ability immediately will cause Pyke to thrust his spear instead, dealing the same damage.
+
+Deals 50% damage to minions and monsters.
+
+If Bone Skewer is overcharged it refunds a portion of its cooldown and 50% of its mana cost.
+
+Dashes forward, leaving behind a phantom. After 1 second, the phantom returns to Pyke, dealing 120 / 175 / 230 / 285 (+100% AD) physical damage and stunning for 1.5 (+1% lethality) seconds.
+
+Deals 50% damage to minions and monsters.
+
+Marks target area with an X, executing enemy champions below 250 / 400 / 550 (+80% AD +250% lethality) health. Non-champions and champions above the threshold take 50% of this amount as physical damage.
+
+If an enemy champion is struck, Pyke blinks to the location. If they were executed Pyke can recast Death from Below within 15 seconds.
+
+Pyke earns 100% additional gold every time he executes an enemy. If here is an assist from a teammate, the last assisting teammate will get 120% of the additional gold, and Pyke will get 160% of the additional gold (maximum 600), every time an enemy Champion is defeated by a teammate in the area with a X, Pyke can get 160% of the additional gold (capped at 600).
+
+Pyke is an assassin support. He's played a little differently from the traditional supports that you might be used to playing. Pyke's strength is around his playmaking potential, roaming capabilities and sharing gold with the rest of his team. He's one of the best roaming supports in the game as he has the ability to roam really easily and dodge around vision with his stealth from Ghostwater Dive, and he can also lock down enemies with his Bone Skewer and stun from Phantom Undertow combo.
+
+Pyke stores a percentage of damage taken from champions. The amount of damage stored is increased if there are two or more visible enemy champions nearby.
+
+When Pyke is not visible to enemies, he heals for the amount of damage stored. This can be triggered by walking into a bush (if there is no ward in there) or using Ghostwater Dive.
+
+Also, Pyke cannot increase his max health, but instead converts bonus health to attack damage.
+
+Charging Bone Skewer slows Pyke for a few seconds, increasing the cast range over the next second. When you release Bone Skewer, Pyke throws his spear, dealing physical damage, slowing the target and pulling it in.
+
+You can also just tap Bone Skewer which will cause Pyke to just thrust his spear instead and it deals the same amount of damage. If Bone Skewer is charged for too long, it will stop and it refunds a portion of its cooldown and half of its mana cost.
+
+Pyke becomes camouflaged for a few seconds and gains movement speed that decays over the duration. Camouflage hides Pyke from view while enemies remain outside his immediate area. Attacking or casting spells will immediately end the camouflage.
+
+Ghostwater Dive is one of the reasons why Pyke is so good at roaming and engaging around the map, but you can also use this for quick disengage to heal back up from his passive.
+
+When using Ghostwater Dive, be careful for control wards as they can reveal Pyke when he is camouflaged.
+
+Pyke dashes, leaving behind a phantom. After a second the phantom returns to Pyke, dealing physical damage to enemy champions and stunning them for just over a second.
+
+This will be your main engage tool after coming out of Ghostwater Dive or landing your Bone Skewer, but it can also be used as an escape tool as you can get over many walls on the map. You can use Flash after activating Phantom Undertow to increase the phantom pathing range.
+
+Pyke strikes in an X-Shaped area, executing enemy champions below a certain amount of health. Champions above the threshold take half of the amount as physical damage. When a champion dies in the X, Pyke can recast Death from Below within the next few seconds.
+
+There is a little indicator on the champion health bars - when the outer line turns red, that means they are in execute range, but be careful because enemies can still dash or flash out as it is a skill shot.
+
+Each execution grants gold to Pyke and the last assisting ally, and an enemy champion killed inside the X by an ally grants Pyke gold.
+
+Pyke does well with physical damage and armor penetration items that boost his abilities and auto attacks. Youmuu's Ghostblade is a great first item for Pyke. It gives him both attack damage and ability haste so he can use his abilities more often. The passive, Momentum, enables Pyke to be even faster when rotating around the map, and to use his crowd control to catch out enemies. Duskblade of Draktharr is another great armor penetration item that gives Pyke more attack damage and ability haste. Its passive, Nightstalker, also works well with Ghostwater Dive because you will be unseen for more than a second which causes his next attack against a champion to deal bonus physical damage.
+
+For runes we have the following:
+
+Electrocute is relatively easy to proc on Pyke especially after you hit Bone Skewer since it pulls the enemy towards you. All you need to do is hit Phantom Undertow and auto attack to deal an extra bit of damage.
+
+With Pyke, he will stealthfully use Ghostwater Dive when roaming around the map and looking for kills in team fights. With Sudden Impact, whenever he comes out of stealth, he will get some Armor Penetration to deal more damage with his auto attacks and other abilities.
+
+Pyke's Bone Skewer and Phantom Undertow are used multiple times during team fights to try and immobilize enemy champions. With Cheap Shot, when Pyke lands one of these abilities, he can deal true damage.
+
+Eyeball Collector is great since it gives Pyke more Attack Damage every time he gets a takedown. Zombie Ward can also be a good choice if you often roam and look to kill wards.
+
+Since Pyke is always looking to dash in to try and land Bone Skewer, he will take a lot of damage. Bone plating will help Pyke take reduced damage from the first three instances of damage which will help him survive longer.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get you out of a bad situation or allows you to extend the range of Pyke's Phantom Undertow. The 2nd spell is Ignite. When playing Pyke, you want to play aggressive and try to roam around the map to make plays so having Ignite helps you with trying to get that killing blow.
+
+Pyke has very long cooldowns on his abilities in the early game, especially Bone Skewer, so only use it if you feel confident enough that it is going to hit an enemy. After landing Bone Skewer, make sure you follow up with Phantom Undertow to chain the crowd control and make it harder for the enemy to escape.
+
+When possible it's always good to roam to the mid lane with Pyke. Use Ghostwater Dive when roaming around the map to avoid being seen and to surprise the enemy when you look to gank.
+
+When playing Pyke in the late game it's important to just lurk in the flanks especially when team fights are breaking out. This makes the enemies keep guessing where you are and then once someone is low enough on health you can execute them with Death From Below.
+
+If you are the only engage on your team then you will need to try your best to hook enemies with Bone Skewer, but be careful, try not to get caught because Pyke is not the tankiest champion and can die very quickly.
+
+Remember to use Ghostwater Dive when moving around the map because you will be camouflaged.
+
+Pyke has a very different playstyle from other supports you might have played before. If you love being the playmaker for your team and going in for the kills, then Pyke is the perfect champion for you to try!
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

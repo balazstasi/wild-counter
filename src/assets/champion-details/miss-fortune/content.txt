@@ -1,0 +1,96 @@
+Title: Miss Fortune :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Miss Fortune in League of Legends: Wild Rift. Our build guide will teach you how to play Miss Fortune in the current meta.
+
+Headings:
+- Level 1 Miss Fortune Stats
+- Miss Fortune's Abilities
+- Miss Fortune  Build Guide for Wild Rift
+- Miss Fortune's Item Build
+- Miss Fortune's Spells & Runes
+- Miss Fortune's Situational Items
+- Miss Fortune's Situational Runes
+- Miss Fortune's Skill Order
+- How to play Miss Fortune
+- Miss Fortune's Abilities
+- Love Tap (Passive)
+- Double Up (1)
+- Strut (2)
+- Make it Rain (3)
+- Bullet Time (Ultimate)
+- Miss Fortune Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Applies Love Tap when attack enemy champions or epic monsters. At 3 stacks, increases Miss Fortune's damage to the target by 7.6% ( +0.4x per level).
+
+Deals 50% damage to minions and monsters.
+
+Fires a shot that ricochets behind the first enemy hit, dealing 60 / 95 / 130 / 165 (+ 120% / 125% / 130% / 135% AD +35% AP) physical damage. The second hit will Critically Strike for 130% / 140% / 150% / 160% damage and apply Love Tap.
+
+On-hits are applied to both targets.
+
+Passive: After 4 seconds of not taking damage, gain 30 / 35 / 40 / 45 Movement Speed. After another 3 seconds, this bonus increases to 80 / 90 / 100 / 110.
+
+Active: Fully activates Strut's Movement Speed and grants 45% / 60% / 75% / 90% Attack Speed for 4 seconds. Attacking targets with full stacks of Love Tap reduces the remaining cooldown of Strut by 2 seconds.
+
+Channels a 3 seconds barrage of bullets, with 12 / 14 / 16 waves that each deal 39 (85% AD +20% AP) physical damage. Each wave can Crit for 130% damage.
+
+Re-activate: Cancel the barrage.
+
+Miss Fortune is an aggressive dragon lane champion who focuses on dealing damage and being the main carry for her team. She's a great early game champion and does a lot of damage in comparison to other Marksman. Her Double Up can be bounced off of minions to hit enemy champions and also fully stacks her passive, Love Tap. This allows Miss Fortune to walk forward and win the trade every time with the % damage bonus.
+
+Miss Fortune applies a stack of Love Tap when attacking or when an ability hits an enemy champion. At three stacks, Miss Fortune's damage to that target is increased.
+
+A well-placed Make It Rain can fully stack Love Tap, making it essential to hit her abilities and use them in the right place to get to three stacks as soon as possible.
+
+Miss Fortune fires a shot that ricochets behind the first enemy, dealing physical damage to all enemies hit. The second hit will always Critically Strike, dealing more damage and instantly applying three stacks of Love Tap.
+
+Miss Fortune can use Double Up on minions to ricochet the ability to hit an enemy champion. This can be used effectively during the laning phase, allowing Miss Fortune to win early-game trades. This also makes her one of the most annoying Marksman to play against during the laning phase.
+
+Passive: After a few seconds of not taking damage, Miss Fortune gains Movement Speed. After a few seconds, this bonus will be increased. This will help Miss Fortune get onto the map quicker and help her rotate around the map to help her team.
+
+Active: Miss Fortune instantly gains the increased Movement Speed and grants Attack Speed for a few seconds. This is one of the main reasons we don't need to build Attack Speed Items. Also, hitting targets that have three stacks of Love Tap will reduce the cooldown of Strut, allowing you to use this ability multiple times during a teamfight.
+
+Miss Fortune Rains down bullets on an area for a few seconds, dealing magic damage, slowing enemies and applying stacks of Love Tap. This ability isn't used for its damage; it's used primarily to help her survive during teamfights.
+
+Putting Make it Rain between yourself and a champion looking to attack you will help Miss Fortune keep her distance, allowing her to keep auto-attacking and using other abilities.
+
+Miss Fortune channels a barrage of bullets, each wave dealing physical damage and can crit dealing more damage. Be careful when using Bullet Time, as Miss Fortune cannot move or use other abilities when channelling Bullet Time. Position yourself over a wall or in the back line so you won't get put in danger when channelling.
+
+Miss Fortune does well when building a lot of attack damage, because her Strut gives her bonus attack speed, meaning you don't need to build any extra attack speed. Duskblade of Draktharr is a core item for Miss Fortune. The passive synergizes with Miss Fortune's Double Up, giving you a lot more damage. Essence Reaver is another core item that helps with Miss Fortune's mana problems and gives her abilities more damage.
+
+Onto the runes, we have:
+
+Not only will Miss Fortune be auto attacking a lot but her abilities will help her stack Conqueror so she can deal more damage.
+
+Miss Fortune is one of the strongest early-game champions, and with Brutal, that becomes even stronger. Brutal also works with Double Up.
+
+When enemy champions are low on health, Miss Fortune can deal bonus damage. This will help Miss Fortune kill enemies faster. Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+The healing from Bloodline will be more beneficial for Miss Fortune for its sustain and survivability than Alacrity's attack speed. Miss Fortune also has a lot of attack speed from her boots and items. Legend: Tenacity is another excellent option when playing against champions that have Crowd Control.
+
+As a marksman, Miss Fortune will always be the main focus for the enemy team to try and take down. However, Bone Plating will help Miss Fortune take reduced damage from the first three instances of damage which can save her life.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get you out of a bad situation or allows you to flash into the team to get that killing blow! The go-to 2nd spell is Exhaust. Since Miss Fortune doesn't have a lot of mobility, she can get jumped on by assassins and bruisers very easily. Exhaust will help you take reduced damage and help you win fights against a lot of bruisers and assassins.
+
+As Miss Fortune, you want to be aggressive early game. You have one of the highest damage outputs of any AD carry. Use your Double Up on a ranged minion at the back and try to aim it so the enemy champion is just behind the minion. This will make the ability bounce from the range minion to the champion and deal a lot of damage. You can also use Make It Rain to poke enemy champions making it difficult for them to stay in the lane.
+
+Miss Fortune has one of the best team fight ultimate's out of all the AD carries. But be very careful because you won't be able to move when using the ability. It's always best as an AD Carry to stay grouped with your team. You want to stay as far back from the enemies as possible and allow your front line to go in front of you to tank all the damage. Most of the time you are the main damage output, so if you are caught by yourself and die then your team is in really big trouble, so make sure you stay safe at all times.
+
+Miss Fortune has a very aggressive playstyle that might suit some people. If you want to take advantage of the early game and snowball into the mid and late-game then Miss Fortune is the right champion for you.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

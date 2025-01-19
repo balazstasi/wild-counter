@@ -1,0 +1,118 @@
+Title: Kayle :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Kayle in League of Legends: Wild Rift. Our build guide will teach you how to play Kayle in the current meta.
+
+Headings:
+- Level 1 Kayle Stats
+- Kayle's Abilities
+- Kayle  Build Guide for Wild Rift
+- Kayle's Item Build
+- Kayle's Spells & Runes
+- Kayle's Situational Items
+- Kayle's Situational Runes
+- Kayle's Skill Order
+- Kayle's Item Build
+- Kayle's Spells & Runes
+- Kayle's Situational Items
+- Kayle's Situational Runes
+- Kayle's Skill Order
+- Kayle's Item Build
+- Kayle's Spells & Runes
+- Kayle's Situational Items
+- Kayle's Situational Runes
+- Kayle's Skill Order
+- How to play Kayle
+- Kayle's Abilities
+- Divine Ascent (Passive)
+- Radiant Blast (1)
+- Celestial Blessing (2)
+- Starfire Spellblade (3)
+- Divine Judgment (Ultimate)
+- Kayle Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Kayle ascends as she gains levels.Level 1: Attacks grant 4% (+1% AP) Attack Speed for 5 seconds, stacking up to 5 times. Gains 8% Movement Speed at max stacks.
+
+Level 5: Attack range is increased to 525.
+
+Level 9: Attacks fire waves of flame at max stacks, dealing the passive damage of Starfire SpellBlade.
+
+Level 13: Attack range is increased to 575. The bonus from reaching max stacks becomes permanent.
+
+Passive: Attacks deal bonus 12 / 15 / 18 / 21 (+10% AD +15% AP) magic damage.
+
+Active: Empowers her next attack to become ranged and deal bonus9% / 10% / 11% / 12% (+0.02% AP) magic damage of the targets missing health.
+
+When Kayle reaches level 10, Starfire Spellblade affects all nearby enemies.
+
+Deal 60% damage to monsters.
+
+Grants invulnerability to an allied champion for 2.5 seconds.
+
+Blades rain down around the target, dealing 150 / 275 / 400 (+100% bonus AD +80% AP) magic damage.
+
+Kayle is one of the strongest late-game champions in the game. Her passive, Divine Ascent, allows Kayle to evolve at levels 5, 10 and 15. At level 15, she can deal massive AOE damage with her auto attacks. However, this does come at a cost. Before Kayle reaches level 5, she is only a melee champion who struggles early on. It would be best if you played safe and scaled so she could carry and win games solo.
+
+Kayle can also be played in the mid-lane and jungle; check the alternative build at the top of the page! As Kayle jungle, you want to farm as much of your jungle as possible. Everytime a jungle camp comes up, go and clear it so you can get to level 13 as soon as possible.
+
+Kayle ascends as she gains levels:Level 1: Kayle starts as a melee fighter; attacks grant Attack Speed for a few seconds, stacking up to 5 times. Once you reach maximum stacks, Kayle also gains bonus Movement Speed. This is Kayle's weakest form. In the laning phase, you need to stay back and play passive until you reach Level 5.
+
+Level 5: Attack range is increased. You will still be relatively weak at this stage of the game, but you can farm a lot safer because your auto attacks will become ranged.
+
+Level 9: Attacks fire waves of flame at max stacks, dealing the passive damage of Starfire Spellblade (3rd Ability). It's important to stack your auto attacks before you get into a teamfight. This can be done on minions or monsters in the jungle.
+
+Level 13: This is Kayle's final form! Her attack range increases and the bonus of reaching max stacks becomes permanent. This means that every auto-attack does AOE damage. At this point in the game, Kayle can kill anyone who gets in her way.
+
+Kayle launches a celestial sword, dealing magic damage. Enemies hit are slowed for a few seconds, and their armour and magic resistance are reduced. It's essential to make sure you use Radiant Blast before starting a teamfight. The reduced armour and magic resistance make a significant difference and help Kayle deal way more damage.
+
+Kayle heals herself and an allied champion, granting them bonus movement speed for a few seconds. This helps Kayle in the early game if you take too much damage. In the late game, it's essential to keep your eyes peeled if your teammates are low on health, or you can speed up an ally to help them get on top of the enemy.
+
+This Ability has a passive, which gives Kayle's attacks bonus magic damage. The active empowers her next attack to become ranged and deal bonus magic damage equal to a percentage of the target's missing health.
+
+In the early game, you can use this Ability to last hit minions and poke the enemy champion since you start the game in melee form. As you get into the late game, Starfire Spellblade is used to deal a lot more damage and allows your auto attacks to deal AOE damage.
+
+Kayle grants invulnerability to an allied champion or herself for a few seconds. When Kayle activates her ultimate, she cannot auto-attack or use any other abilities, so keep that in mind when using your ultimate.
+
+Once the duration is over, blades rain down around the target, dealing magic damage. Most of the time, it's better to use this Ability on a front-line tank so they can run into the enemy team and deal plenty of damage. However, it's best to use it on yourself if you feel like you're the carry.
+
+Kayle does well when building ability power items with some attack speed since her primary damage comes from her auto attacks. Nashor's Tooth is a strong item that gives Kayle ability power and attack speed, and Kayle's auto attacks deal bonus magic damage. Another great item is Riftmaker. Since Kayle is auto-attacking a lot, you can stack Riftmaker so she can deal bonus true damage and gain a lot of healing.
+
+Onto the runes, we have:
+
+Kayle's main source of damage is her auto attacks, with all the damage coming from her items. Lethal Tempo can help Kayle attack even faster to deal more damage.
+
+Gathering Storm is one of the best options with Brutal. Kayle can scale and do so much damage with the amount of AP she can get from Gathering Storm; however, Brutal can be good since Kayle auto attacks a lot.
+
+When enemy champions are low on health, Kayle can deal bonus damage. Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+Kayle loves attack speed, especially when she evolves after reaching Level 10 and Level 15, making her auto attack even more powerful. With Alacrity, the extra attack speed means she can do more damage.
+
+As a squishy hyper-carry, Kayle will always be the main focus for the enemy team to try and take down. However, Bone Plating will help Kayle take reduced damage from the first three instances of damage, which can save her life.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a sticky situation or if you're trying to go in for the killing blow! The go-to second spell is Exhaust. Exhaust helps protect Kayle in the early game if she gets into trouble, and when Kayle gets into the mid and late game, Exhaust can help her solo carry.
+
+Kayle struggles in the early game because she starts the game as a melee fighter. Her main goal in the early game is to play safe, not die, and farm as many minions as possible so you can scale and get your items as soon as possible. If this means you need to stay under the tower and miss a few minions.
+
+Make sure you use Starfire Spellblade to make your next auto attack ranged so you can farm minions a bit easier, and in the worst-case scenario, you can also use Radiant Blast.
+
+Once you reach the late game, have your core items, and get Level 10+, Kayle can start dealing a lot of damage and being that late-game hyper carry that you want to be. Not only that, but she is really difficult to kill because you will have a lot of vamp to heal you up, and your ultimate makes you invulnerable.
+
+It's always best as a Carry to stay grouped with your team. You want to stay as far back from the enemies as possible and allow your front line to go in front of you to tank all the damage. Most of the time, you are the main damage output, so if you are caught by yourself and die, then your team is in really big trouble. Make sure you stay safe at all times!
+
+Overall Kayle is incredibly fun to play and makes up for her weak early game with an incredibly powerful late game. When playing Kayle, make sure you never give up; you can always turn the game around.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

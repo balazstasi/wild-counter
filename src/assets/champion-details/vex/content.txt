@@ -1,0 +1,107 @@
+Title: Vex :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Vex in League of Legends: Wild Rift. Our build guide will teach you how to play Vex in the current meta.
+
+Headings:
+- Level 1 Vex Stats
+- Vex's Abilities
+- Vex  Build Guide for Wild Rift
+- Vex's Item Build
+- Vex's Spells & Runes
+- Vex's Situational Runes
+- Vex's Skill Order
+- How to play Vex
+- Vex's Abilities
+- Doom n' Gloom (Passive)
+- Mistral Bolt (1)
+- Personal Space (2)
+- Looming Darkness (3)
+- Shadow Surge (Ultimate)
+- Vex Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Every 22 seconds Vex become afflicted with Doom, causing her next basic Ability to interrupt dashes and Fear enemies for 0.75 seconds.
+
+Whenever a nearby enemy dashes or blinks, Vex marks them with Gloom for 6 seconds, Vex's next Attack against a Gloomed enemy deals an additional 24 (+20% AP) magic damage and reduces this Ability's Cooldown by 25%.
+
+Non-champion targets take 40% damage and refund 10% of this Ability's Cooldown.
+
+Vex Launches a wave of mist that deals 50 / 110 / 170 / 230 (+65% AP)magic damage. After a delay, the wave becomes smaller and faster.
+
+Consumes Gloom on enemies hit.
+
+Vex gains a 50 / 85 / 120 / 155 (+70% AP) shield for 2.5 seconds and emits a shockwave that deals 65 / 120 / 175 / 230 (+30% AP) magic damage.
+
+Consumes Gloom on enemies hit.
+
+Vex commands Shadow to fly to a location. Upon arriving, it deals 50 / 80 / 110 / 140 (+40% / 45% / 50% / 55% AP) magic damage and Slows by 30% / 35% / 40% / 45% for 2 seconds.
+
+Applies Gloom to enemies hit.
+
+Enemies Feared by this Ability move away from the center rather than from Vex. The size of the affected area increases the further Vex casts this from herself.
+
+Shadow excitedly surges forward, dealing 75 / 125 / 175 (+20% AP) magic damage and marking the first enemy champion hit for 4 seconds.
+
+Recast: Dash to the marked champion, dealing 150 / 250 / 350 (+50% AP) magic damage on arrival.
+
+If the marked champion dies within 6 seconds of taking damage from this Ability, its cooldown is temporarily reset.
+
+Vex is an AP control mage that can turn into an assassin when hitting her ultimate Shadow Surge. She is a mid-lane champion that uses her abilities to fear, wave clear, and burst the enemies. Vex excels at dealing single-target damage with her abilities, especially when fearing enemy champions with Doom n' Gloom. Vex is an excellent counter to assassins; when you have your fear up, and enemies look to jump in, use your Personal Space to gain a shield and fear enemies around you.
+
+Every few seconds, Vex becomes afflicted with Doom, causing her next basic ability to interrupt dashes and Fear enemies for under a second. You can see when your fear is up and available by looking under your mana bar; a red bar will fill up over time.
+
+Also, whenever a nearby enemy dashes or blinks, Vex marks them with Gloom for a few seconds. Vex's next attack against a Gloomed enemy deals additional magic damage and reduces the cooldown of this ability. Shadow Surge is the only ability that does not fear.
+
+Vex launches a wave of mist that deals magic damage. After a delay, the wave becomes smaller and faster. This ability also consumes Gloom on enemies hit, dealing additional damage if the enemies are marked. You can also use Mistral Bolt with Flash to extend the range and surprise the enemy.
+
+Vex gains a shield for a few seconds and emits a shockwave that deals magic damage. This ability also consumes Gloom on enemies hit, dealing additional damage if the enemies are marked.
+
+Personal Space is your primary ability when wave clearing mid and killing minions at range when playing safe.
+
+Vex commands Shadow to fly to a location. Upon arriving, it deals magic damage and slows for a few seconds. This ability applies Gloom to enemies; this is one of the main reasons why you want to use this ability to poke enemy champions in the landing phase so you can auto-attack afterwards to deal additional magic damage.
+
+Enemies feared by this ability move away from the centre rather than from Vex, so when using this ability, make sure the centre of the ability is behind the enemy, so they get feared towards you, which makes it easier to auto attack and land other abilities.
+
+When using Looming Darkness, the size of the affected area increases the further vex casts this from herself but the longer the cast time will be.
+
+Vex launches her Shadow, dealing magic damage and marking the first enemy champion hit for a few seconds. This ability will go through minions, towers and major objectives (Dragon and Baron). Vex can recast the ability to dash to the marked champion dealing more magic damage on arrival.
+
+If the marked champion dies within a few seconds of taking damage from Shadow Surge, its cooldown is temporarily reset. The best ability to use with Shadow Surge is Personal Space. When you arrive at the enemy, you can get a massive area of effect fear.
+
+Vex does excellent with most ability power items. as her primary source of damage is from all her abilities. Awakened Soulstealer is a perfect item for Vex. Her reset mechanic with Shadow Surge helps with bursting enemy champions meaning you can proc Soulstealer's passive so she can use her other basic abilities sooner. After building Soulstealer, Vex can build more items that give her ability power, like Infinity Orb and Rabadon's Deathcap since she has multiple abilities to keep her safe.
+
+With runes, we have the following:
+
+Electrocute is an excellent way for Vex to deal extra damage when hitting her abilities, especially when you fear the enemy champion you can quickly auto-attack after.
+
+Gathering Storm is the best rune in this tree. This will give Vex a lot of additional ability power in the mid/late game to help with her burst damage.
+
+When using Vex's Ultimate, she wants to burst that target as quickly as possible so she can use it again. If her Ultimate hits a tank, she can struggle to kill the target quickly, so Giant Slayer is here to help deal more damage to tanks.
+
+With Vex's Ultimate, she will be diving into the enemy team, meaning she will sometimes get caught. With the Magical Vamp from Bloodline, this can be useful to help him heal back up.
+
+Ability Power mages like Vex love to build as much Ability Haste as possible so she can use her abilities more often. This is especially good for Vex since she can deal more damage.
+
+For summoner spells, Flash is a must on Vex. It's an excellent spell for getting out of tricky situations and when you're trying to kill enemies. You can also combo Flash with Mistral Bolt to increase the distance and surprise the enemies! Ignite is also a powerful spell for Vex since she can use it when she hits an ability and fears an enemy to deal a bit extra damage.
+
+In the early game, Vex does well at clearing minion waves with her Mistral Bolt, especially after you get Luden's Echo. When she has cleared the minion wave, and her minions are pushed under the enemy tower, she can use this free time to roam around the map to try and get an advantage elsewhere on the map. In the laning phase, you always want to keep an eye on your fear bar. When it is full, look to use your Looming Darkness to fear the enemy towards you and then you can auto-attack and use other abilities to deal a lot of burst damage.
+
+Vex is a very versatile champion in the late game because she can fill multiple roles. She can sit in bushes and catch enemies off guard with her fear and combo that with other abilities to deal a lot of damage, or she can group with her team and look to use her ultimate to jump onto the enemy backline and one-shot the enemy carries.
+
+Overall Vex is a champion that relies a lot on timing your abilities at the right time. Whether it's using the right ability when her fear is up, or finding the right target with her ultimate Shadow Surge.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

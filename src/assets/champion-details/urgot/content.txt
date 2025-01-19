@@ -1,0 +1,98 @@
+Title: Urgot :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Urgot in League of Legends: Wild Rift. Our build guide will teach you how to play Urgot in the current meta.
+
+Headings:
+- Level 1 Urgot Stats
+- Urgot's Abilities
+- Urgot  Build Guide for Wild Rift
+- Urgot's Item Build
+- Urgot's Spells & Runes
+- Urgot's Situational Items
+- Urgot's Situational Runes
+- Urgot's Skill Order
+- How to play Urgot
+- Urgot's Abilities
+- Echoing Flame (Passive)
+- Corrosive Charge (1)
+- Purge (2)
+- Disdain (3)
+- Fear Beyond Death (Ultimate)
+- Urgot Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Urgot's attacks and Purge periodically trigger blasts from his leg cannons, dealing 31 (50% / 65% / 80% / 95% AD) + 2% / 3.% / 4% / 5% of the target's max health as physical damage. (15 / 8 / 4 / 2 second cooldown per leg)
+
+Deals 120 max damage against monsters.
+
+Shoots the nearest enemy rapidly for 4 seconds, dealing 6 (+20% / 25% / 30% / 35% AD) physical damage and applying on-hits at 70% effectiveness. During this time Urgot's Movement Speed is reduced by 125 / 110 / 95 / 80 and he gains 40% Slow Resist.
+
+Re-cast: End Purge.
+
+Dealing a minimum of 50 damage to minions and monsters, prioritizes the champion hit most recently by Urgot's abilities.
+
+At max rank, Purge gains infinite duration.
+
+Fires a chem-drill that deals 100 / 225 / 350 (+70% AD) physical damage to the first champion hit and impales them for 4 seconds, slowing them by up to 75% based on their missing health.
+
+Re-cast: If the impaled target falls below 25% Health, Urgot channels for 1.5 seconds while he reels in and executes them. Upon an execution, nearby enemies are feared for 1.5 seconds.
+
+Fear Beyond Death is automatically re-cast if the enemy is below the threshold at the end of the duration.
+
+Urgot is a Baron Lane fighter. He is very unique and different from other Baron Lane fighters because he is a ranged juggernaut meaning he can deal a lot of damage whilst also tanking high amounts of damage at the same time. Urgot can be pretty strong in the laning phase, especially against melee champions, thanks to his ranged damage and burst abilities with Kraken Slayer. Once Urgot joins team fights, he becomes one of the strongest Baron Laner teamfighters due to his huge AOE damage from his passive and can single handily win a team fight when focusing the main carries and fearing multiple enemies with his ultimate, Fear Beyond Death.
+
+Urgot's attacks and Purge periodically trigger blasts from his leg cannons, dealing physical damage. Each leg has a cooldown to when Urgot can trigger the blast again. Urgot has six legs in all different directions. You will see green marks on the floor next to each leg; this indicates that the blast can be triggered when attacking in that direction.
+
+When the blast is on cooldown, the green indicator will disappear and will reappear when available again. It's vital with Urgot that you always look to circle around enemies to trigger each blast as quickly as possible to deal the most amount of damage.
+
+Urgot fires an explosive charge that deals physical damage and slows enemies for over a second. Corrosive Charge can be used to poke the enemy champion during the laning phase when the enemy champion looks to walk up to last hit minions. When the enemy is slowed, Urgot can then follow up easily with Disdain and Purge, which will be easier to hit.
+
+Urgot shoots the nearest enemy rapidly for a few seconds, dealing physical damage and applying on-hits. This means that Kraken Slayer will work when shooting with Purge. During the time in Purge, Urgot's Movement Speed is reduced, but he gains slow resistance.
+
+Urgot can recast this ability to end Purge whenever he wants. When you reach Level 7 and have unlimited access to casting and recasting Purge, you can combo auto attacks in between using Purge for a few seconds. This will give you the highest single-target damage output.
+
+Urgot gains a shield that absorbs damage for a few seconds and charges forward, flinging the first enemy champion over him and knocking non-champions aside, dealing physical damage and stunning the first champion for a few seconds.
+
+Disdain can be combined with Flash for a surprise engagement on an enemy champion. Another excellent combo you can do is auto-attack an enemy champion, use Disdain and then auto-attack straight after. This will trigger two blasts from your legs in quick succession.
+
+Urgot fires a chem-drill that deals physical damage to the first champion hit and impales them for a few seconds, slowing them for a few seconds. Urgot can recast Fear Beyond Death when an enemy drops below 25% health.
+
+Urgot channels for a few seconds while he reels in and executes them. Upon execution, nearby enemies are feared for a few seconds. While Urgot is channelling and reeling an enemy champion, he can flash in any direction. This can create a massive fear on multiple enemy champions and change a team fight instantly.
+
+Urgot builds items that give him a mixture of both damage and tank stats, allowing him to deal a lot of damage while also surviving a long time during team fights. Black Cleaver is a perfect first item for Urgot. It gives him all the stats he needs, and both passives work great with his kit. He can quickly reduce enemies armour with Purge, and Urgot loves extra movement speed, so he can stick to enemy champions and deal a lot of damage. After Black Cleaver you want to build Heartsteel so you can start stacking Health throughout the game which will boost the damage of Titanic Hydra and make you unkillable.
+
+For runes, we have the following:
+
+Urgot can easily stack Press the Attack with his Purge mixed with Auto Attacks. This will allow Urgot to make the enemy vulnerable to he can deal more damage.
+
+Nullifying Orb is the best option in this tree. This will help Urgot with survivability when he drops low on health.
+
+Urgot will generally be in the front line during team fights, meaning he will take a lot of damage. Bone plating will help Urgot take reduced damage from the first three instances of damage which will help him survive longer.
+
+Overgrowth allows Urgot to gain permanent health throughout the game when nearby minions or monsters are killed. So the more Urgot farms, pushes the lane and kills minions, the more Maximum Health he will get.
+
+On top of the early game power that Urgot already has with his abilities and Kraken Slayer. Brutal will also help with his early burst damage and help you get an advantage early.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for that killing blow. Urgot can also combo Flash with Disdain to surprise enemy champions. For the 2nd spell, it's best to go for Ignite. This helps Urgot to get an early advantage in the laning phase and helps him deal extra damage.
+
+Urgot is relatively strong in the early game, especially vs melee champions. Always take full advantage of Urgot's passive legs to help trade against enemy champions or when looking to push in the minion wave. Urgot can use Disdain (and Flash to surprise enemies) when possible to gain a shield and dash in, and with the slow from Corrosive Charge, you can deal bonus damage with your legs with Purge when circling enemies.
+
+Urgot is one of the strongest team fight Baron Lane fighters in the game due to his excellent area damage and being able to survive a lot of damage for an extended amount of time. You generally don't want to split push as Hullbreaker is not a viable item, and you will lose one vs one battles in the later stages of the games, so always look to group with your team. When grouped, always look to dash onto the backline and try to kill the enemies main carries, or if you kill a front-line tank, you can Flash in whilst reeling in an enemy to fear the entire enemy team.
+
+Urgot is a beefy champion that scales well and can have a lot of impact at all stages of the game. If you are looking for a champion that can do it all, then you should consider giving him a try,
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

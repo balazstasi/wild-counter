@@ -1,0 +1,94 @@
+Title: Alistar :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Alistar in League of Legends: Wild Rift. Our build guide will teach you how to play Alistar in the current meta.
+
+Headings:
+- Level 1 Alistar Stats
+- Alistar's Abilities
+- Alistar  Build Guide for Wild Rift
+- Alistar's Item Build
+- Alistar's Spells & Runes
+- Alistar's Situational Items
+- Alistar's Situational Runes
+- Alistar's Skill Order
+- How to play Alistar
+- Alistar's Abilities
+- Triumphant Roar (Passive)
+- Pulverize (1)
+- Headbutt (2)
+- Trample (3)
+- Unbreakable Will (Ultimate)
+- Alistar Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+When Alistar takes damage, he heals himself for 27 and nearby allied champions for 54. Knocking up or stunning champions with Alistar's abilities reduces the cooldown by 10 seconds.
+
+Alistar is a tank who can play in the Duo Lane as a support. Alistar is great at team fighting and locking down targets. Unlike hook champions, Alistar can engage and hit all 5 enemy champions when positioned correctly. This leads to a great setup for your team to win a teamfight. With Alistar's engage he has one very important combo that you need to learn. This combo is called Headbutt + Pulverize. This combines his 2nd and 1st ability so you can knock up enemy champions. Go into practice mode and practice pressing Alistar's 2nd ability. Then, as soon as Alistar is about to headbutt the enemy away, press his 1st ability. This will perform a massive knockup on the enemy.
+
+When Alistar takes damage, he heals himself and nearby allied champions. Triumphant Roar has a very long cooldown, but it can be reduced every time Alistar uses his abilities to knock up or stun enemy champions.
+
+Triumphant Roar is helpful during the laning phase to sustain against poke champions or regenerate after an all-in combo.
+
+Alistar smashes the ground, dealing damage and knocking up nearby enemies for a second.
+
+Pulverize has a reasonably large area, allowing Alistar to hit multiple enemies with one cast. It can be used whilst casting Headbutt to interrupt the knockback effect of Headbutt. Make sure to use Pulverize when the Headbutt animation is ongoing, not before or after. If you miss the timing of the combo, you might Pulverize the floor or Headbutt the enemy away to safety. You can also use Flash with Pulverize to surprise enemy champions. This allows Alistar to use his Headbutt to knock an enemy into your team or turret because you didn't use it for the initial engage.
+
+Alistar dashes towards an enemy, dealing damage and knocking them back.
+
+The animation of can be pretty fast, and it can be hard for the enemy to react to a Headbutt + Pulverize combo. Headbutt can also be used on turrets to deal damage and close the gap between you and the enemy champions. Headbutt is also a strong peeling tool to keep your team alive. If an enemy champion jumps into your team, you can use Headbutt to create distance between your carry and an enemy threat.
+
+Alistar tramples the ground, dealing damage to nearby enemies for a few seconds. Each time this damages at least one enemy champion, he generates a stack of Trample. At 5 stacks, Alistar's next attack against an enemy champion is empowered to deal bonus damage and stun the target for a second.
+
+When Alistar uses Trample, enemies will be forced to back away since they will be taking damage and have the threat of being stunned if they stay near Alistar. There are multiple scenarios where using Trample will be helpful. You can use it just after you hit a Headbutt + Pulverize combo since you would have already knocked up the enemy, so they will be forced to dash or Flash away, or you can hit an easy stun. Another good scenario is using Trample at the start of the teamfight, stacking it on the enemy front line. Then, when you have max stacks, you can use Headbutt + Pulverize on a vulnerable carry and instantly stun them afterwards.
+
+When activating Unbreakable Will, Alistar removes all crowd control effects, meaning if you are stunned or rooted, you can use this ability to cleanse it. Alistar also reduces incoming damage for a short duration.
+
+This ability is excellent when you're about to dive in on the enemy team or under towers because you reduce a lot of damage. The cleansing effect will help you peel your carry and become a meatshield, blocking any crowd control that might come their way.
+
+Zeke's Convergence is one of Alistar's best items. When engaging with Alistar's combo, you will use his Ultimate to take reduced damage. This will use Zeke's passive to slow and deal damage to nearby enemies.
+
+Warmog's Armor is a solid item as it allows Alistar to stay out on the map longer due to the passive health regen. This item is cheap and will usually be your first purchase for most games.
+
+Force of Nature gives Alistar a lot of movement speed to help him get into range to use his combo's
+
+For runes we have the following:
+
+Phase Rush works incredibly well with Alistar's aggressive playstyle. Alistar's Headbutt + Pulverize already procs 2 out of the 3 needed to gain the movement speed. The extra movement speed can help Alistar stick to the enemy.
+
+All of Alistar's basic abilities can immobilize enemies, giving him a shield to help him take more damage when going all-in.
+
+This row depends on your lane matchup. Bone Plating is a solid rune in a melee matchup that can do a lot of burst damage.
+
+Second Wind is excellent in poke lanes, which is good for Alistar as he suffers in these matchups.
+
+Overgrowth's extra health will help Alistar survive longer, which is important when playing as a front-line tank for your team.
+
+When vs Crowd Control Perseverance works great with Alistar, giving him more tank stats to survive.
+
+Hexflash gives Alistar a surprise element to his game when outside of vision. He can use Hexflash in bushes or behind a wall to get close to enemies and use his Headbutt + Pulverize combo.
+
+You must take Flash in all your games, as you can use it to engage and surprise the enemy or use it to escape bad situations. Also, you need Flash to use Hexflash.Ignite helps Alistar with his all-in threat throughout the game. It's also good to use in early fights when vs some healing supports to reduce healing.
+
+Alistar's early game can be tricky to play. When the enemy has a ranged poke lane, your objective is to survive and try to help your ADC farm as much as possible. Once you hit level 3, if an enemy oversteps, you can punish them by using Alistar's Headbutt + Pulverize combo. Remember that bushes can be used to your advantage to surprise enemies if they overstep.
+
+When there is nothing to do in the lane, Alistar can look to roam because of his amazing and simple combo. Going to the mid-lane to help your midlaner can give them an advantage.
+
+As Alistar, you want to find engages or picks by roaming around the map and looking for flanks. In teamfights, Alistar is one of the best engage champions in the game; however, managing his engage and picking the right target is crucial the later the game goes. The best combo is to use Flash with Pulverize into a high-value enemy to knock them up and use Headbutt to knock them into your team. However, engaging is not always the best option. Sometimes, you want to use Headbutt to knock enemies away to protect your ADC.
+
+Overall, Alistar is an excellent tank support with a simple combo that can turn the game around. Practising his combo is the most important mechanic to learn, and when mastered, it can make a huge difference.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

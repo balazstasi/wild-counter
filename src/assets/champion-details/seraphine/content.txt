@@ -1,0 +1,83 @@
+Title: Seraphine :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Seraphine in League of Legends: Wild Rift. Our build guide will teach you how to play Seraphine in the current meta.
+
+Headings:
+- Level 1 Seraphine Stats
+- Seraphine's Abilities
+- Seraphine  Build Guide for Wild Rift
+- Seraphine's Item Build
+- Seraphine's Spells & Runes
+- Seraphine's Situational Items
+- Seraphine's Situational Runes
+- Seraphine's Skill Order
+- Seraphine's Item Build
+- Seraphine's Spells & Runes
+- Seraphine's Situational Items
+- Seraphine's Situational Runes
+- Seraphine's Skill Order
+- How to play Seraphine
+- Seraphine Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Echo: Every third basic ability cast will echo, casting it again.
+
+Harmony: Casting an ability grants a Note to nearby allies for 5 seconds. For each Note, Seraphine's next attack gains 30Attack Range and deals an additional 4 (+40% AP) magic damage.
+
+Deals 60 / 75 / 90 / 105 (+40% AP) magic damage in target area, increased by 0% - 50% based on the enemies' missing Health.
+
+Reaches maximum damage when the target is below 25% Health.
+
+Shields all nearby ally champions for 60 / 90 / 120 / 150 (+35% AP) damage for 2.5 seconds and grants them 20% / 22.5% / 25% / 27.5% Movement Speed for 2.5 seconds.
+
+If Seraphine is already shielded, nearby allies are healed for 5% of their missing Health (+0.01% AP), increased by 50% for each ally.
+
+Deals 60 / 95 / 130 / 165 (+40% AP) magic damage to enemies and slows them by 99% for 1 second.
+
+If the enemy is already slowed, they are rooted instead. If they are rooted, they are stunned.
+
+Deals 150 / 250 / 350 (+70% AP) magic damage to enemies and charms and slows them by 40% for 1 / 1.25 / 1.5 seconds.
+
+Ability extends when it touches an ally or enemy champion.
+
+Seraphine is an enchanter Support champion. She excels at shielding and healing your team to keep them alive and has a lot of poke and crowd control to carry team fights. She has a pretty strong laning phase with her poke and crowd control, you just need to be careful if the enemy bot lane engages onto you because you do not have a lot of health and can die quickly. The later the game goes, the better Seraphine gets. Her shields, crowd control, and damage become even stronger and you can do a lot more to keep your team alive.
+
+Seraphine can also be played in the mid lane, make sure to check the alternative build at the top of the page! With Seraphine mid, you want to build towards more damage so you can be impactful in team fights and you don't need to worry about protecting your ad carry.
+
+Seraphine does best with support items that give her shields more power. Winter's Approach is a unique item for Seraphine. It gives her the mana she needs to use her abilities a lot. Also, when it gets upgraded to Fimbulwinter, every time Seraphine lands crowd control she gains a shield, which means her Surround Sound will have additional healing. Another strong item is Harmonic Echo. Since Seraphine's shield is on a low cooldown, she can use Harmonic Echo to heal her team up even more than before.
+
+With runes, we have the following:
+
+When playing Support Seraphine, Glacial Augment is the best rune for the crowd control it supplies to her abilities.
+
+Seraphine has multiple abilities that she can use at long range to poke enemy champions. If one of your allies follows up on your abilities, you will both get a bit of healing.
+
+At times, you can be caught off guard while playing Seraphine. Bone plating will help you take less damage in these scenarios.
+
+Seraphine's main focus during the game is using her healing and shielding from Surround Sound to help keep her allies alive. Revitalize will help increase her healing and shielding throughout the game.
+
+Ability Power mages/enchanters like Seraphine love to build as much Ability Haste as possible so she can use her abilities more often. This is especially good for Seraphine since she can use her abilities to stack her passive to empower her next ability.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get you out of a bad situation or allows you to flash and save your ally or even maybe get a kill. Heal works great as the 2nd summoner spell choice if your AD Carry takes Barrier, however, if your bot lane partner also takes Heal, it is really bad for you to also go Heal because you don't get the full effect. If this happens, then change Heal to Ignite to help kill the enemies.
+
+Seraphine does ok in the early game, you can poke the enemy with High Note and Beat Drop and if you can time your Surround Sound shield, you can win trades vs the enemy bot lane. Keep track of your passive Stage Presence as every 3rd ability will Echo casting it again. This can work well especially with your Beat Drop to get an easy root on the enemy. You have to be very careful when stepping forward with Seraphine, as if you get caught out and engaged on, you can die very quickly. The best thing to do is let your AD Carry last hit minions and try to stay back so you don't get caught but walk up when necessary to help out.
+
+The later the game goes, the stronger Seraphine gets as her shields and heals get stronger with more items. It is really important as a support champion that you stay with your team and help them during team fights. Prioritize staying back and keeping your carries alive, protecting them against the enemy team using everything possible to keep them alive. The AD Carry in your team is one of the main damage sources and keeping he/her alive is really important!
+
+Seraphine is a very underrated and super fun champion to play! She is one of of the only enchanter supports that have a game-changing ultimate that can carry the game whilst also giving your whole team an area of effect shield and movement speed.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

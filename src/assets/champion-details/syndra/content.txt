@@ -1,0 +1,110 @@
+Title: Syndra :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Syndra in League of Legends: Wild Rift. Our build guide will teach you how to play Syndra in the current meta.
+
+Headings:
+- Level 1 Syndra Stats
+- Syndra's Abilities
+- Syndra  Build Guide for Wild Rift
+- Syndra's Item Build
+- Syndra's Spells & Runes
+- Syndra's Situational Items
+- Syndra's Situational Runes
+- Syndra's Skill Order
+- How to Play Syndra
+- Syndra's Abilities
+- Transcendent (Passive)
+- Dark Sphere (1)
+- Force of Will (2)
+- Scatter the Weak (3)
+- Unleashed Power (Ultimate)
+- Syndra Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Every instance of ability damage dealt to an enemy champion grants 1 Splinter of Wrath and restores 13 mana. Syndra gains 4 Splinters of Wrath every time she levels up an ability. Up to 120 Splinters can be collected.
+
+Transcendent: Empowers a basic ability after collecting 40,60 and 80 Splinters of Wrath.Empowers Unleashed Power after collection 100 Splinters of Wrath.
+
+Transcendence: Gains 12% AP after collecting 120 Splinters of Wrath.
+
+Conjures a Dark Sphere, dealing 70 / 115 / 160 / 205 (+65% AP) magic damage. The Sphere remains for 6 seconds and can be manipulated by Syndra's other abilities.
+
+Transcendent: Stores a charge of Dark Sphere every 7 seconds, up to a maximum of 2. This ability can be cast wile moving.
+
+Grabs the nearest Dark Sphere and hurls it at a target location, dealing 60 / 100 / 140 / 180 (+45% AP) magic damage to enemies within the area and slowing them by 20% / 25% / 30% / 35% for 1.5 seconds.
+
+If there isn't any Dark Sphere nearby, Syndra generates one and hurls it at the target location. Damage from the Sphere is reduced to 80%.
+
+Transcendent: This ability deals an additional 12% (+2% AP) true damage.
+
+Projects a wave of force in a cone, knocking back enemies and Dark Spheres and dealing 70 / 110 / 150 / 190 (+35% AP) magic damage.
+
+Dark Spheres that are knocked back stun and knock back enemies hit along the way for 1.25 seconds, dealing 70 / 110 / 150 / 190 (+35% AP) magic damage.
+
+Transcendent: Increases the angle of the wave of force's cone by 50% and its radius to 720. Enemies can only take damage and be knocked back from this ability once per cast.
+
+Manipulates the 3 Dark Spheres orbiting her plus up to 4 more nearby, launching them at an enemy champion. Each Sphere deals 60 / 110 / 165 (+15% AP) magic damage.
+
+Transcendent: Increases cast range by 100. This ability executes enemies below 10% Health. If this ability kills an enemy champion, the Dark Spheres will detonate where they were killed and deal 60 / 110 / 160 (+15% AP) magic damage to nearby enemy champions.
+
+Syndra is a long-range mage who plays in the mid-lane. She focuses on creating and controlling her Dark Spheres to damage and crowd control enemy champions. This does, however, make her very skill-shot reliant, and since she is very squishy, positioning when playing her is key to winning the game. Syndra's passive, Transcendent, allows her to upgrade her abilities once she gets a certain number of Splinters of Wrath.
+
+The abilities to upgrade first are:
+
+Every instance of ability damage health to an enemy champions grants a Splinter of Wrath and restores mana. Since Syndra has a lot of range with her Dark Spheres, she can poke a lot during the laning phase to get stacks quicker.
+
+Syndra also gains 2 Splinters every time she levels up. Once Syndra reaches 40, 60 and 80 Splinters, she can upgrade a basic ability. The order you should upgrade her abilities is Dark Sphere, Force of Will and then Scatter the Weak.
+
+Syndra casts a Dark Sphere, dealing magic damage to enemies. The Sphere remains on the ground for 6 seconds and can be used with other abilities.
+
+The Transcendent version of this ability stores an extra charge of Dark Sphere allowing Syndra to cast Dark Sphere twice in quick succession.
+
+Syndra grabs the nearest Dark Sphere and hurls it at a target location dealing magic damage to enemies and slowing them. It's important that Syndra uses Dark Sphere before Force of Will because if she doesn't Syndra will generate a new Sphere but will deal 20% reduced damage.
+
+The Transcendent version gives Force of Will additional true damage.
+
+Syndra projects a wave of force in a cone knocking back enemies and Dark Spheres dealing magic damage. Dark Spheres that are knocked back stun enemies. Most of the time Syndra wants to save this ability to try and stun enemies with Dark Sphere's however if she is jumped on by assassins she can push them away giving her space to escape.
+
+The Transcendent version increases the angle of the waves cone and radius giving Syndra more opportunities to stun enemies.
+
+Syndra uses the 3 Dark Spheres orbiting her plus up to 4 more nearby, launching them all at an enemy. For each Dark Sphere, Syndra deals more magic damage. You always want to make sure you have as many Dark Spheres on the floor as possible before using Unleased Power to increase her damage.
+
+The Transcendent version increases the cast range and the ability executes enemies low on health.
+
+Syndra does great with most ability power items. Her main source of damage is from all her abilities. Infinity Orb is a core item. Syndra's goal throughout the game is to use her abilities to isolate enemies and try to one-shot them to get an advantage for your team. With Infinity Orb, Syndra's abilities can critically strike when enemies are low on health, making it easier to secure kills. Rabadon's Deathcap is another item that increases Syndra's overall Ability Power, giving her a lot of damage.
+
+With runes, we have the following:
+
+Since Syndra's abilities are long-ranged, she can stack up some extra gold in the early game and be able to deal true damage with her abilities.
+
+Scorch allows Syndra to deal more damage when poking in the laning phase her Dark Spheres.
+
+Syndra has many ways to impair the movement of enemy champions which will allow her to deal extra true damage with her combo.
+
+Eyeball Collector is great since it gives Syndra more Ability Power every time she gets a takedown.
+
+Ability Power mages like Syndra love to build as much Ability Haste as possible so she can use her abilities more often. This is especially good for Syndra since she can use her abilities to unleash more Dark Sphere's.
+
+For summoner spells, Flash is a must on Syndra. It's a great spell for getting out of tough situations and when you're trying to kill the enemies. Ignite is also a great spell for Syndra since she can use it most of the time when she hits her Scatter the Weak on an enemy to deal a little bit of extra damage.
+
+In the early game, Syndra does really well at clearing minion waves with her Dark Spheres. She can also use her Spheres to poke enemy champions early on giving her an early advantage in the lane. In the laning phase, you always want to look to try and use her Scatter the Weak with Dark Spheres on the enemies to stun them and follow it up with her other abilities, if you can hit this simple combo you can proc First Strike and deal extra damage.
+
+Syndra is a very versatile champion in the late game because she can fill multiple roles. She can sit in bushes and catch enemies off guard with her Scatter the Weak and combo that with other abilities to deal a lot of damage, or she can group with her team and start a teamfight. When Syndra is grouped with her team, it's best to stay at the back where she can use her abilities to do damage to the enemies and protect her allies however you can look to try and stun an enemy with Scatter the Weak to get an advantage for your team.
+
+Overall Syndra is a very fun and versatile champion that has the potential to one shot enemy carries. However she is very squishy and positioning with her is very important to make sure you don't get caught out.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

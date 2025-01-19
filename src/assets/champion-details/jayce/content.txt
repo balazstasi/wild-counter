@@ -1,0 +1,140 @@
+Title: Jayce :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Jayce in League of Legends: Wild Rift. Our build guide will teach you how to play Jayce in the current meta.
+
+Headings:
+- Level 1 Jayce Stats
+- Jayce's Abilities
+- Jayce  Build Guide for Wild Rift
+- Jayce's Item Build
+- Jayce's Spells & Runes
+- Jayce's Situational Items
+- Jayce's Situational Runes
+- Jayce's Skill Order
+- Jayce's Item Build
+- Jayce's Spells & Runes
+- Jayce's Situational Items
+- Jayce's Situational Runes
+- Jayce's Skill Order
+- Jayce's Item Build
+- Jayce's Spells & Runes
+- Jayce's Situational Items
+- Jayce's Situational Runes
+- Jayce's Skill Order
+- How to play Jayce
+- Jayce's Abilities
+- Hextech Capacitor (Passive)
+- To The Skies! (1)
+- Shock Blast (1)
+- Lightning Field (2)
+- Hyper Charge (2)
+- Thundering Blow (3)
+- Acceleration Gate (3)
+- Mercury Cannon (Ultimate)
+- Mercury Hammer (Ultimate)
+- Jayce Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+To the Skies!: Leaps to an enemy dealing 70 / 120 / 170 / 220 / 270 (+140% AD) physical damage and slowing nearby enemies by 35% / 40% / 45% / 50% / 55% for 2 seconds.
+
+Shock Blast fires an orb of electricity that detonates on hitting an enemy or reaching the end of its path, dealing 65 / 130 / 195 / 260 / 325 (+140% AD physical damage. Orbs fired through an Acceleration Gate travel farther and faster, increasing their damage by 40%.
+
+Deals 50% damage to monsters.
+
+Lightning Field:
+
+Passive: Attacks with the Mercury Hammer restore 8 / 11 / 14 / 17 / 20 Mana.
+
+Active: Releases an electrifying aura, dealing 100 / 180 / 260 / 340 / 420 (+100% AP) magic damage over 4 seconds to nearby enemies.
+
+Hyper Charge: Gains a burst of energy, increasing Attack Speed to maximum for 3 attacks within 4 seconds. These attacks deal (70% / 80% / 90% / 100% / 110% AD) physical damage.
+
+Cooldown: 13 / 11 / 9 / 7 / 5
+
+Thundering Blow: Knocks a target and enemies near them backwards, dealing 10% / 12.5% / 15% / 17.5% / 20% (+100% AD) magic damage of their maximum health.
+
+Acceleration Gate: Deploys an Acceleration Gate that grants 35% / 40% / 45% / 50% / 55% decaying Movement Speed for 2.5 / 3 / 3.5 / 4 / 4.5 seconds to ally champions that pass through it. Shock Blasts fired through the gate travel farther and faster, increasing their damage by 40%.
+
+Cooldown: 14
+
+Mercury Cannon: Transforms the Mercury Hammer into the Mercury Cannon, gaining new abilities and ranged attacks.
+
+The next attack with the Mercury Cannon is empowered to deal an additional 13 (+10% AD) magic damage and reduce the target's Armor and Magic Resist by 11% for 5 seconds.
+
+Mercury Hammer: Transforms the Mercury Cannon into the Mercury Hammer, gaining new abilities, 16% Attack Speed and 5 (+9% bonus AD) Armor and Magic Resist.
+
+The next attack with the Mercury Hammer is empowered to deal an additional 28 (+25% bonus AD) magic damage.
+
+Jayce is a versatile fighter. He has two forms that he can swap between with his Ultimate as early as Level 1. Mercury Cannon is his ranged form, and Mercury Hammer is his melee form. Each form has three separate abilities, meaning he has six abilities available to him at level 3! The raw amount of damage and tools at his disposal can make him extremely strong and difficult to play against.
+
+Jayce can also be played in the mid-lane and jungle; check the alternative build at the top of the page! The build with Jayce mid lane and jungle is the same as Solo lane, and there is not much else that is different in terms of play styles and build.
+
+Transforming between the Mercury Hammer and Mercury Cannon grants bonus movement speed for just over a second. The cooldown when switching forms can be pretty long at early levels, so make sure you use the correct form at the right time.
+
+Jayce leaps to an enemy, dealing physical damage and slowing nearby enemies for a few seconds. This is Jayce's gap-closing ability that allows him to jump on the backline easily.
+
+However, this puts you in a pretty dangerous spot, and you can be focused and take a lot of damage, so make sure you are wary of your surroundings before jumping in.
+
+Jayce fires an orb that detonates on hitting an enemy or reaching the end of its path, dealing physical damage. This is Jayce's main poke ability that can be used to great effect in the laning phase and can be combo'd with Acceleration Gate (3rd Ability) so the orb can travel farther and faster, dealing increased damage.
+
+This Ability has two parts. A passive and an active. The passive is when Jayce is in Melee Form (Mercury Hammer); his attacks restore mana—the active releases an electrifying aura, dealing magic damage over a few seconds to nearby enemies.
+
+This Ability is best used just after To The Skies (1st Ability) as you will be on top of the enemy when you leap towards them so you can make the most out of the damage that Lighting Field brings.
+
+Jayce gains a burst of energy, increasing Attack Speed for three attacks within a few seconds. This is best used when trying to poke enemy champions as it does a lot of damage in such a short duration, but be careful as it doesn't have the biggest range, so you can get caught out.
+
+You can also change form to get the attack speed in melee form instead, which can be beneficial when jumping in with To The Skies.
+
+Jayce knocks a target and enemies near them backwards, dealing magic damage. Most of the time, you want to save this Ability and only use it to knock enemies away when you are in danger. However, you can also use this Ability in combo with Flash to knock the enemy towards your team.
+
+This is effective when the enemy is out of position; you can use To The Skies (1st Ability) to jump on top of the enemy and then use the Flash + Thundering Blow combo to knock the enemy into your team.
+
+Jayce deploys an Acceleration Gate that grants decaying movement speed for a few seconds to yourself and ally champions that pass through it. This is very effective when you and the team are ready to engage.
+
+You will all get a massive burst of movement speed that will help you and the rest of your team. You can combo Acceleration Gate with Shock Blast (1st Ability), dealing more damage and allowing Shock Blasts to travel farther and faster.
+
+This is Jayce's ranged form. When transformed, the next attack with the Mercury Cannon is empowered to deal additional magic damage and reduce the target's Armor and Magic Resist for a few seconds.
+
+For most of the game, you want to stay in Ranged Form as long as possible because you can do a lot of poke damage in the laning phase and in team fights.
+
+This is Jayce's Melee form. When transformed Jayce gains Attack Speed, Armor and Magic Resist. When transformed, the next attack with the Mercury Hammer is empowered to deal additional magic damage.
+
+Only use Mercury Hammer when you want to jump in and deal a lot of burst damage to the enemy champion.
+
+Jayce best uses damage and armor penetration items that allow him to deal a lot of damage with his auto attack and abilities. Youmuu's Ghostblade is an excellent item for Jayce. Not only is it a very cheap first-item choice, but the base stats and passive work great with Jayce's kit and give him a huge damage spike early in the game. Edge of Night gives Jayce a good mix of damage and tank stats. Edge's of Nights passive will also help Jayce block the first ability coming his way, which can help with his survival.
+
+For runes we have the following:
+
+With Jayce's Shock Blast and Acceleration Gate combo, he will always be able to damage enemy champions before they can damage you. Jayce can then change form and jump in with Melee Form to deal a lot of damage.
+
+With Jayce's early game power having access to so many abilities and being able to turn into a ranged champion, the extra damage from Brutal can help Jayce get a huge advantage in the early game.
+
+When enemy champions are low on health, Jayce can deal bonus damage. This will help Jayce kill enemies when using his combos.
+
+Alacrity gives Jayce Attack Speed which will provide him with some early-game power and allow him to play more aggressively in one vs one scenarios. Legend: Tenacity is another excellent option when playing against champions that have Crowd Control.
+
+With Jayce in Melee form, you can become quite vulnerable to a lot of damage. Bone plating will help Jayce take reduced damage from the first three instances of damage which will help him survive longer.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a sticky situation or if you're trying to go in for the killing blow! For the 2nd spell, it's best to go for Ignite. This helps Jayce to get an early advantage in the laning phase and helps him deal extra damage.
+
+Jayce is one of the best Early game champions in the Baron Lane. You want to play as aggressively as possible using both his Ranged and Melee forms to full effect. At level 3 you have 6 abilities available to you. When in ranged form, use Acceleration Gate and Shock Blast to poke down the enemy champion and when they get low enough, you can change to Melee form and use To The Skies to jump on top and deal the killing blow.
+
+Once you get to the late game and Jayce has his core items, this is where you can become unstoppable with his poke and insane burst damage. When you are grouped with your team and about to have a teamfight, the best thing you want to do is poke down and jump onto the enemy backline where you can kill the main enemy carries. Always look at opportunities where you can change to your Melee form to jump in and burst the enemies to get an advantage for your team.
+
+Overall Jayce is a very flexible and versatile champion that can be played in many different ways. It can be hard to play Jayce at first when there are so many abilities available but with a bit of practice you can pick him up and dominate your opponents.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

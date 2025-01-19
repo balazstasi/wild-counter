@@ -1,0 +1,71 @@
+Title: Orianna :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Orianna in League of Legends: Wild Rift. Our build guide will teach you how to play Orianna in the current meta.
+
+Headings:
+- Level 1 Orianna Stats
+- Orianna's Abilities
+- Orianna  Build Guide for Wild Rift
+- Orianna's Item Build
+- Orianna's Spells & Runes
+- Orianna's Situational Items
+- Orianna's Skill Order
+- How to play Orianna
+- Orianna Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Orianna's Ball acts as a focal point for her abilities. It automatically returns to her if she is too far away from it.
+
+Attacks deal 10 + 3 per level (+15% AP) bonus magic damage. Subsequent attacks against the same target within 4 seconds deal an additional 3 (+3% AP) magic damage. Stacks up to 2 times.
+
+Commands the Ball to fire toward a target location, dealing 60 / 105 / 150 / 195 (+45% AP) magic damage to targets along the way.
+
+The damage decreases by 10% for each unit it hits ( Minimum 50%).
+
+The Ball remains at the target location afterward.
+
+Commands the Ball to release an electric pulse, dealing60 / 100 / 140 / 180 (+70% AP) magic damage to nearby enemies.
+
+The pulse leaves behind an energy field for 3 seconds, slowing enemies by 20% / 25% / 30% / 35% and speeding allies up by 20% / 25% / 30% / 35% for 2 seconds. The effect diminishes over time.
+
+Passive: The Ball grants 10 / 15 / 20 / 25 Armor and Magic Resist to the champion it is attached to.
+
+Active: Commands the Ball to attach to an allied champion, granting a shield that absorbs 60 / 110 / 160 / 210 (+40% AP) damage for 4 seconds, dealing 50 / 90 / 130 / 170 (+30% AP) magic damage to enemies it passes through.
+
+Orianna is a control mage champion. She is a mid-laner that uses her abilities to control a team fight, wave clear, and burst down the enemies. She excels in team fights in the mid and late game, using her ball to control the enemies and get a huge Shockwave to deal a lot of damage. She doesn't do too well in the early game as she doesn't have a lot of mobility to escape, and you need time to scale and get your core items.
+
+Orianna does excellent with most ability power items. Her main source of damage is from all her abilities. Archangel's Staff is a core item for Orianna since she'll be using her ball to Attack, Dissonance and Protect a lot during the game. This means the extra mana you get from Archangels will help Orianna throughout the game. Luden's Echo is a great item that gives Orianna a lot of Ability Power and Ability Haste and some Maximum Mana to help Orianna stay in fights longer.
+
+With runes, we have the following:
+
+Orianna can hit enemy champions from a distance with Command Attack and slow them with Command Dissonance, this will help stack Conqueror giving Orianna more damage.
+
+Sweet Tooth helps Orianna gain more health and mana from Honey Fruit. This will help Orianna stay in lane longer and trade more aggressively.
+
+Ability Power mages like Orianna love to build as much Ability Haste as possible so she can use her abilities more often.
+
+Nimbus Cloak is very effective on Orianna; when she uses Flash, she will gain Movement Speed to get into range to use her abilities and combos
+
+As a Mage, Orianna will be one of the main focuses for the enemy team to try to take down. However, Bone Plating will help Orianna take reduced damage from the first three instances of damage, which can save her life.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get you out of a bad situation or allows you to flash and save your ally or even maybe get a kill. The go-to 2nd spell is Barrier. With Orianna you want to stay back and barrier helps you stay alive when being jumped on by the enemy team. The most important thing to note with this summoner spell is that it does not last a long time so you need to make sure you use it when you are about to take damage.
+
+Orianna is a champion that needs time to get her core items and get levels to scale up into the late game. During the laning phase, the best thing you can do is stack your Archangel's Staff as fast as possible. This means using your abilities to clear the wave and poke down the enemy. Pushing the wave also benefits Orianna because this means that the enemy mid-lane doesn't have an opportunity to engage.
+
+The later the game goes, the stronger Orianna becomes. You want to stay with your team at all times and try not to get caught out by yourself. You don't do well at all in a 1 vs 1 situation. You can use your Dissonance to speed up your allies or slow down enemies. You can also use Protect to shield your allies and get your ball in a better position so you can get a huge Shockwave to change a team fight.
+
+If you want a champion that uses her abilities to control team fights and can farm and push waves pretty safely in the mid lane then Orianna is a perfect champion for you.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

@@ -1,0 +1,74 @@
+Title: Ziggs :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Ziggs in League of Legends: Wild Rift. Our build guide will teach you how to play Ziggs in the current meta.
+
+Headings:
+- Level 1 Ziggs Stats
+- Ziggs's Abilities
+- Ziggs  Build Guide for Wild Rift
+- Ziggs' Item Build
+- Ziggs' Spells & Runes
+- Ziggs' Situational Items
+- Ziggs' Situational Runes
+- Ziggs' Skill Order
+- How to play Ziggs
+- Ziggs Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Passive: all of Ziggs' abilities can deal 24% damage to turrets.
+
+Empower Bouncing Bomb to deal 17 + 3 per level (+20% AP) additional magic damage and 32% damage to turrets.
+
+Short Fuse's cooldown is reduced by 4 seconds when Ziggs casts an ability.
+
+Flings an explosive charge that can be detonated within 4 seconds to deal 70 / 115 / 160 / 205 (+50% AP) magic dmage to enemies and knock them away. Ziggs is also knocked away without taking damage.
+
+Damages turrets and demolishes them if they are below10% / 15% / 20% / 25% Health.
+
+The charge can be detonated while in the air.
+
+Scatters proximity mines that deal 50 / 105 / 160 / 215 (+35% AP) magic damage on contact and slow by 35% / 40% / 45% / 50% for 2 seconds.
+
+Enemies detonating multiple mines take 40% damage from subsequent mines. Mines last 5 seconds.
+
+Ziggs is a control mage champion. He is a mid-lane champion that uses his abilities to control a team fight, wave clear, and burst down the enemies. He also excels in team fights, using his bombs to control the enemies and get a huge Mega Inferno Bomb to change a team fight in an instant. He doesn't do too well in the early game as he doesn't have a lot of mobility to escape situations and you need time to scale and get your core items.
+
+Ziggs can also be played in the Duo lane, make sure to check the alternative build at the top of the page! When playing Ziggs in the Duo Lane the build is the same as mid lane, there is not really much else that is different in terms of playstyles, build etc. The only thing to keep in mind is matchups.
+
+Ziggs does great with most ability power items. His main source of damage is from all his abilities. Luden's Echo is a very unique item for Ziggs. With Ziggs you will be moving a lot throwing your bombs and doing a lot of poke damage. Ludens' passive grants stacks when moving and casting abilities, and at 100 stack your next ability deals bonus magic damage. This allows you to stay back, keep throwing bombs and doing a lot of damage. Infinity Orb and Rabadon's Deathcap are 2 great Ability Power items to build after Luden's Echo that gives Ziggs a lot of damage.
+
+With runes, we have the following:
+
+With Ziggs, you can use all your abilities from far away to poke down enemies. Arcane Comet will help Ziggs to more damage, which scales depending on how many champions you've hit throughout the game.
+
+Gathering Storm is the best rune in this tree. This will give Ziggs a lot of additional ability power in the mid/late game to help with his burst damage.
+
+Ziggs's bombs can do a lot of damage from range. However, sometimes, he struggles to break through tanks. Giant Slayer will help Ziggs deal more damage to tanks.
+
+Due to Ziggs's lack of mobility, he sometimes gets caught off guard. With the Magical Vamp from Bloodline, this can be useful to help him heal back up.
+
+Ability Power mages like Ziggs love to build as much Ability Haste as possible so he can use his abilities more often. This is especially good on Ziggs since he can throw out more bombs and deal more damage.
+
+For Summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for the killing blow. The go-to 2nd spell is Barrier as it helps if you get jumped on, especially in the early game. The most important thing to note with this summoner spell is that it does not last a long time so you need to make sure you use it when you are about to take damage.
+
+Ziggs is a champion that needs time to get his core items and get levels to scale into the late game. During the laning phase, the best thing you can do is to use your abilities to clear the wave and poke down your enemy. Pushing the wave also benefits Ziggs because this means that the enemy mid-lane doesn't have an opportunity to engage. You can use your Satchel Charge underneath yourself and use it to jump and escape enemies if they are jumping onto you.
+
+The later the game goes, the stronger Ziggs becomes! You want to stay with your team at all times, making sure you are right at the back so you can keep using your spells and not worry about any enemies jumping onto you. Make sure you do not get caught out by yourself, you don't do well at all in a 1 vs 1 situations and you die very fast. You can use your Hexplosive Minefield to slow down enemies and zone them away from your team.
+
+If you want a champion that can stay back, use his abilities to control team fights and can farm and push waves pretty safely in the mid lane then Ziggs is a perfect champion for you.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

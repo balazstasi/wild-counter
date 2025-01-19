@@ -1,0 +1,98 @@
+Title: Lissandra :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Lissandra in League of Legends: Wild Rift. Our build guide will teach you how to play Lissandra in the current meta.
+
+Headings:
+- Level 1 Lissandra Stats
+- Lissandra's Abilities
+- Lissandra  Build Guide for Wild Rift
+- Lissandra's Item Build
+- Lissandra's Spells & Runes
+- Lissandra's Situational Items
+- Lissandra's Situational Runes
+- Lissandra's Skill Order
+- How to play Lissandra
+- Lissandra's Abilities
+- Iceborn Subjugation (Passive)
+- Ice Shard (1)
+- Ring of Frost (2)
+- Glacial Path (3)
+- Frozen Tomb (Ultimate)
+- Lissandra's Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+When an enemy champion dies near Lissandra, they become a Frozen Thrall that seeks out living enemies.
+
+Frozen Thralls slow nearby enemies by 25% and shatter after 4 seconds, dealing 110 (+40% AP) magic damage.
+
+First Cast: Casts forth an ice claw that deals 50 / 95 / 140 / 185 (+40% AP) magic damage when it hits enemies in its path. Can be recast while the ice claw is moving.
+
+Recast: Lissandra teleports to the ice claw, which then disappears.
+
+Summons dark ice on an enemy champion or herself. Dark ice emanates from the target for 3 seconds, dealing 150 / 250 / 350 (+75% AP) magic damage and slowing enemies it touches by 30% / 45% / 60%.
+
+Cast on enemies: Encases an enemy champion in dark ice, stunning them for 1.5 seconds.
+
+Self-Cast: Encases herself in dark ice, entering stasis for 2.5 seconds and restoring 100 / 150 / 200 (+40% AP) Health, increased by 0% - 100% based on her missing Health. Maximum healing is granted when her Health drops to 30% or lower.
+
+When auto-aiming, self-casts Frozen Tomb automatically.
+
+Lissandra is a versatile Mid Lane Mage. She can engage with her incredible lockdown from Ring of Frost and Frozen Tomb, which can also be used defensively to help keep her team alive.
+
+Some of her abilities can be used to quickly clear minion waves so she can roam around the map and go over walls with Glacial Path to surprise gank the enemies. During the early levels, Lissandra can be pretty weak as she doesn't have a range of abilities as long as other mages. However, she can farm safely during the early game and escape ganks until her items are completed.
+
+When an enemy dies near Lissandra, a copy of the champion will chase enemy champions. These copies slow nearby enemies and shatter after a few seconds, dealing magic damage.
+
+This passive makes Lissandra one of the best teamfight champions in the game. All you need is one kill on an enemy, and then the rest of the enemy team can be slowed, making it extremely difficult for them to escape.
+
+Lissandra throws a spear of ice that shatters when it hits an enemy, dealing magic damage and slowing the target. Ice Shard also deals damage to enemies behind the first enemy hit, they take the same damage and are also slowed.
+
+This ability is one of the main sources for helping Lissandra win early trades and helps her push the minion wave so we can roam around to help her team.
+
+Lissandra creates an ice field around her, rooting enemies within and dealing magic damage. The area of Ring of Frost is pretty tiny so using Glacial Path or Flash to reduce the distance between you and an enemy is crucial to landing this ability. This can then be followed up by Frozen Tomb to lockdown an enemy for a long time.
+
+Lissandra cast forth an ice claw dealing magic damage when it hit enemies in its path. Lissandra can recast Glacial Path while the ice claw is moving. Lissandra will teleport to the ice claw, and the claw will disappear. This ability can be used over walls to get into advanced positions to engage or to escape the enemy carry. When engaging ensure to use Ring of Frost as soon as you teleport to the iceclaw to root the enemy.
+
+Lissandra can decide whether to cast Frozen Tomb on an enemy or herself. Frozen Tomb emanates from the target for a few seconds, dealing magic damage and slowing enemies around it.
+
+Casting on an enemy stuns the target. This can be combo'd with Ring of Frost to chain the lockdown, making it extremely difficult for enemies to escape. When cast on herself, Lissandra enters Stasis for a few seconds, restoring her health.
+
+When auto-aiming, Frozen Tomb will always self-cast, so if you are looking to use it on an enemy, make sure to aim at the enemy.
+
+Lissandra does excellent with most Ability Power items. Her primary source of damage comes from all her abilities. Lissandra doesn't need the mana in the early game which means you can build Awakened Soulstealer for incredible amounts of burst damage to help you win duels. Rabadon's Deathcap is another item that gives Lissandra a lot of extra Ability Power to help her deal more damage.
+
+With runes, we have the following:
+
+Electrocute is a great way for Lissandra to deal some extra burst damage when engaging with Glacial Path and dealing damage with Ring of Frost and Ice Shard.
+
+Helps Lissandra deal more damage when poking in the laning phase with Ice Shard.
+
+With Lissandra's incredible lockdown from Ring of Frost and Frozen Tomb, she can deal True Damage with Cheap Shot.
+
+Gives Lissandra Ability Power every time she gets a takedown. Zombie Ward can also be a good choice if you often roam and look to kill wards.
+
+Ability Power mages like Lissandra love to build as much Ability Haste as possible so she can use her abilities more often. This is especially good for Lissandra since she can use her Glacial Path more often.
+
+For summoner spells, Flash is a must on Lissandra. It's a great spell for getting out of tough situations and when you're trying to kill enemies. Ignite is also a great spell for Lissandra since she can use it most of the time when she hits her Ring of Frost on an enemy to deal a little bit of extra damage.
+
+In the early game, Lissandra does well at clearing minion waves with her Ice Shard. When she has cleared the minion wave and her minions are pushed under the enemy tower, she can use this free time to roam around the map to try and get an advantage elsewhere on the map. In the laning phase, you always want to look to try and use her Glacial Path towards the enemy and follow it up with Ring of Frost and Ice Shard to proc Electrocute. This works exceptionally well when you have your jungler there to help you.
+
+Lissandra is a very versatile champion in the late game. She can sit in bushes and catch enemies off guard with her Frozen Tomb or group with her team and start a teamfight. Sometimes, using Frozen Tomb on herself is best when engaging with Glacial Path. This is especially effective when there are multiple enemies around you. You could die very quickly if you decide to use Frozen Tomb on an enemy instead.
+
+Overall, Lissandra is a great champion to learn. She is one of the best champions to play when facing melee champions as they will struggle to engage onto you thanks to your incredible lockdown. This lockdown can also be the difference maker in a teamfight in the late game.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

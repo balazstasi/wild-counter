@@ -1,0 +1,111 @@
+Title: Dr. Mundo :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Dr. Mundo in League of Legends: Wild Rift. Our build guide will teach you how to play Dr. Mundo in the current meta.
+
+Headings:
+- Level 1 Dr. Mundo Stats
+- Dr. Mundo's Abilities
+- Dr. Mundo  Build Guide for Wild Rift
+- Dr. Mundo's Item Build
+- Dr. Mundo's Spells & Runes
+- Dr. Mundo's Situational Items
+- Dr. Mundo's Skill Order
+- How to play Dr Mundo
+- Dr Mundo's Abilities
+- Goes Where He Pleases (Passive)
+- Infected Bonesaw (1)
+- Heart Zapper (2)
+- Blunt Force Trauma (3)
+- Maximum Dosage (Ultimate)
+- Dr Mundo Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Throws his bonesaw, dealing magic damage equal to 20% / 23% / 26% / 29% of the target's current Health ( min: 90 / 160 / 230 / 300) and slowing them by 40% for 2 seconds.
+
+Hitting and enemy heals Dr. Mundo for 25, or 50 on hitting a champion or monster.
+
+Deals up to 250 / 350 / 450 / 550 damage against monsters.
+
+Charges a defibrillator for 4 seconds, dealing 20 magic damage per second to nearby enemies.
+
+Re-cast: Detonates the defibrillator, dealing 20 / 40 / 60 / 80 (+5% bonus HP) magic damage to nearby enemies.
+
+If the detonation damaged an enemy, Dr. Mundo heals for 15% of the damage taken during Heart Zapper's duration.
+
+If it damaged a champion or monster he heals 30%  / 35% / 40% / 45% instead.
+
+Passive: Dr. Mundo gains 15 / 20 / 25 / 30, plus up to 30 / 45 / 50 / 60 Attack Damage based on his missing health.
+
+Active: Empowers his next attack to deal an addition 5 / 20 / 35 / 50 (+5% HP) physical damage, increased by up to 60% based on Dr. Mundo's missing heath.
+
+Dr. Mundo swats the target away if it was killed or was a small monster, dealing the same damage to enemies.
+
+Dr Mundo is a tank who can play in the Solo Lane. He's one of the hardest champions to kill while also dealing the most damage on your team. While his laning phase is very weak, he can still come out on top if you play the matchup correctly. If you can go even or come out on top against your counterpart, Dr Mundo becomes one of the best Tanks in the game. His only downfall is his lack of lockdown with his Crowd Control. He only has Infected Bonesaw to slow enemies, which can be blocked to stop Dr Mundo from getting to the backline carries.
+
+Dr Mundo resists the first immobilizing effect, losing some current health instead and dropping a Chemical Canister nearby. Retrieving the Canister reduces the cooldown and heals Dr Mundo for a percentage of his Maximum Health. If an enemy champion walks over the Canister before you reach it, they will destroy it instead. Dr Mundo also regenerates a percentage of his maximum Health every few seconds throughout the game.
+
+Goes Where He Pleases makes it difficult to lock down Dr Mundo. You can walk forward confidently when his passive is available knowing that you can't be hit by any Crowd Control.
+
+Dr Mundo throws his Bonesaw, dealing magic damage and slowing the target for a few seconds. Hitting an enemy heals Dr Mundo.
+
+Since Infected Bonesaw costs Health instead of Mana, you can spam this Ability in the late game. However, you need to be careful in the early game. You will be using Bonesaw to safely last-hit minions or poke enemy champions. In the late game, it becomes a reliable poking tool and a chasing tool to help stick to enemy champions.
+
+Dr Mundo charges a defibrillator for a few seconds, dealing magic damage to nearby enemies. When you recast the Ability, Dr Mundo detonates the defibrillator and deals magic damage to nearby enemies. If the detonation damaged an enemy, Dr Mundo heals a percentage of the damage taken during Heart Zapper's duration.
+
+You want to use this Ability whilst you are in the middle of a teamfight or farming minions because you do damage over time to nearby enemies, and a percentage of damage taken will be healed back, so you don't have to worry about taking a lot of damage.
+
+Passive: Dr Mundo gains Attack Damage base on his missing Health.
+
+Active: Empowers his next attack to deal additional Physical Damage, increasing based on Dr Mundo's missing Health
+
+If Dr Mundo kills the target, he swats the target away, dealing the same damage to enemies. This can work well as a poking tool in the laning phase. You can line up a minion and hit the enemy champion behind it, doing the same damage.
+
+Blunt Force Trauma sometimes gives Dr Mundo more attack damage than your marksman. So not only is he one of the biggest tanks, but he is also one of the biggest damage dealers in the game.
+
+Dr Mundo's base Health is increased by a percentage of his missing Health. He also gains Attack Damage and Movement Speed and heals a percentage of his maximum Health over the duration.
+
+It's always best to wait until you are low on Health before using Maximum Dosage since you gain more Health depending on how much missing Health you have. A little trick is keeping Heart Zapper turned on with a massive amount of grey Health, then using Maximum Dosage while low, and then immediately reactivating Heart Zapper to survive a ton of damage.
+
+Heartsteel has incredible synergy with Dr Mundo. The infinite scaling Health and the bonus damage when you proc Heartsteel helps with Dr Mundo's carry potential.
+
+Sunfire Aegis provides a small AOE burn around Dr Mundo to help when clearing minions or fighting enemy champions.
+
+Titanic Hydra is the best damage item for Dr Mundo. With the infinite health you'll be getting from Dr Mundo's build, you'll be able to deal a lot of aoe damage with Titanic Hydra.
+
+For runes we have:
+
+Grasp of the Undying gives Dr Mundo even more maximum health, heals him and gives him more damage.
+
+Nullifying Orb is the best option for this row, giving Dr Mundo a shield when he's low on health.
+
+Second Wind helps Dr Mundo heal a lot of health when out of combat. This gives him a much easier time during the laning phase, which is the part of the game he struggles with the most.
+
+Overgrowth allows Dr Mundo to gain more permanent Health throughout the game when nearby minions or monsters are killed, which synergizes well with Dr Mundo's kit and build.
+
+Last Stand is a unique rune that works well with Dr Mundo. Since you'll be building a lot of Maximum Health, even if you are below 60% Health, you can still survive a long amount of time and deal increased damage.
+
+Flash is a very important Summoner Spell for Dr Mundo. It can help him survive lethal damage and chase enemy champions since he has no lockdown with his Crowd Control.
+
+Ignite gives Dr Mundo more opportunities with his damage to win early-game duels and help him kill high-value targets in the late game.
+
+In the early game, Dr Mundo is pretty weak. You won't have the items or levels to win early-game trades vs. most champions. Use Infected Bonesaw at range to farm minions or poke enemy champions. Remember, there is no downside to hitting enemy champions with Bonesaw since you'll be able to restore all the health you lost by using the ability. If you want to push the lane as quickly as possible, use Blunt Force Trauma to damage all minions and help your clear speed.
+
+In the late game, Dr Mundo becomes one of the strongest tanks while also dealing a lot of damage with his kit and build. In teamfights, the enemy is forced to focus you first since you'll always be at the front line, threatening the enemy with your insane damage. Make sure to pick the right moment to go all-in on the enemy's high-value targets since you have no real way of disengaging outside of his healing, which can be shut down quickly with Grievous Wounds.
+
+Overall, Dr. Mundo is an excellent tank with the potential to carry a fight alone. His kit is very easy to understand, and there are no combos to learn, making him easy to master.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

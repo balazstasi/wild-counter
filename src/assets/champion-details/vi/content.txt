@@ -1,0 +1,84 @@
+Title: Vi :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Vi in League of Legends: Wild Rift. Our build guide will teach you how to play Vi in the current meta.
+
+Headings:
+- Level 1 Vi Stats
+- Vi's Abilities
+- Vi  Build Guide for Wild Rift
+- Vi's Item Build
+- Vi's Spells & Runes
+- Vi's Situational Items
+- Vi's Situational Runes
+- Vi's Skill Order
+- How to play Vi
+- Vi Build Breakdown
+- Jungle Path
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Every 3rd attack on the same enemy deals 4% + 0.3 x per level (+0.03% AD) bonus physical damage of their max Health, reduces their Armor by 20%, and grants Vi 27% Attack Speed for 4 seconds.
+
+Deals 300 max damage vs. monsters.
+
+Hold: Charges up a powerful punch, slowing Movement Speed by 15% while increasing the punch's damage and dash distance.
+
+Cast: Dashes forward dealing 55 / 90 / 125 / 160 (+80% AD) to 110 / 180 / 250 / 320 (+160% AD) physical damage and applying Denting Blows to all enemies hit. Colliding with an enemy champion stops the punch and knocks them back.
+
+Deals 75% damage to minions and monsters.
+
+Passive: Hitting an enemy with an attack or ability grants a stack of Blast Shield, up to 5 stacks.
+
+Active: Generates a shield that aborbs 60 / 85 / 110 / 135 damage for 3 seconds. Each stack consumed adds 10 (1.5% / 2% / 2.5% / 3% max HP) to the shield. At max stacks also grants a burst of 47% Movement Speed.
+
+Blast Shield stacks fall off one at a time and a max of 1 stack is added per attack or ability.
+
+Empowers Vi's next attack to deal 20 / 45 / 70 / 95 (+15% AD +70% AP) bonus physical damage to the target and enemies behind it.
+
+Vi stores a new charge every 14 / 12 / 10 / 8 seconds and can hold 2 charges at once.
+
+Chases down an enemy champion, knocking them up for 1.25 second and dealing 150 / 300 / 450 (+140% AD) physical damage.
+
+Vi Reveals her target and cannot be stopped while chasing it down.Enemies in the way are knocked aside and take 75% of the damage.
+
+Vi is a fighter jungler. She's an all-around good champion at all stages of the game. She can gank early with her Vault Breaker and she does well in the late game being a tank and using Assault and Battery to lock down the main target on the enemy team. When farming the jungle, it's best to get level 5 as soon as possible so you have your ultimate available to gank lanes.
+
+Vi uses a mixture of both AD and tank items that allow her to deal damage and survive. Sundered Sky is a core item for Vi. When she uses her Assault and Battery or Vault Breaker, she can auto attack afterwards, which will deal more damage and heal her thanks to this item. Sterak's Gage is an excellent example of a tank item that works well with Vi. It gives her more health and when she is low on health, she gets a shield to keep her alive longer.
+
+For runes, we have the following:
+
+Vi is a fighter, so she wants to get in the enemy's face and attack constantly. This allows her to get the six stacks pretty fast, which means she can deal more damage and get a lot of omnivamp when fully stacked.
+
+Vi will be in many team fights using Assault and Battery to get onto the backline to try and kill the enemy carries. Most of the time, Vi's ultimate followed up with her team's damage is enough to get a takedown, so the healing will be useful.
+
+When enemy champions are low on health, Vi can deal bonus damage. This will help Vi when dashing in trying to kill low-heath enemies.
+
+Alacrity gives Vi Attack Speed, which will help Vi clear jungle camps quicker and stack up to help her attack more often during team fights. Legend: Tenacity is another excellent option when playing against champions that have Crowd Control.
+
+Overgrowth allows Vi to gain permanent health throughout the game when nearby minions or monsters are killed. So the more Vi farms in the jungle, the more Maximum Health she will get.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for the killing blow. Smite is a must for when you are playing jungle. Helps you out a lot when clearing the jungle and securing the epic monsters.
+
+With Vi, she has a pretty fast early jungle clear. This means that you can work your way around the jungle really fast and get close to level 5 as soon as possible. Most of the time you want to go for a full clear in the jungle. It is best to start at Red Brambleback as you don't have any mana problems early and you have a shield that can keep you healthy throughout the jungle clear.
+
+This is what the jungle patch would look like:
+
+Below is a beginner's guide for jungle in Wild Rift. It goes in-depth about every jungle camp, epic monsters and more!
+
+Vi is a great team fight champion in the late game. You can use her ultimate on the enemy team and lock down the main enemy target. Vi does a lot of damage whilst also staying alive for a long time for your team to follow up and help you out. You want to stay with your team at all times and try not to get caught out by yourself. As a jungler, your main objective is to keep track of when Dragons, Rift Herald, and Baron spawn. Taking these epic monsters will give you and your team an advantage in the game. When a team fight happens, you want to make sure you are at the front protecting your team.
+
+Vi is one of the starter champions in Wild Rift and I'd definitely recommend giving her a try if you want to play jungle. She has pretty simple but effective abilities that can win you the game.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

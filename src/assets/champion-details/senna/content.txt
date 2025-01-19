@@ -1,0 +1,102 @@
+Title: Senna :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Senna in League of Legends: Wild Rift. Our build guide will teach you how to play Senna in the current meta.
+
+Headings:
+- Level 1 Senna Stats
+- Senna's Abilities
+- Senna  Build Guide for Wild Rift
+- Senna's Item Build
+- Senna's Spells & Runes
+- Senna's Situational Items
+- Senna's Situational Runes
+- Senna's Skill Order
+- How to play Senna
+- Senna's Abilities
+- Absolution (Passive)
+- Piercing Darkness (1)
+- Last Embrace (2)
+- Curse of the Black Mist (3)
+- Dawning Shadow (Ultimate)
+- Senna Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Each stack of Mist grants 1 Attack Damage. Every 20 stacks of Mist grant 15 Attack Range and 15% Critical Chance.
+
+Shoots a bolt of piercing shadow through any object, dealing 50 / 90 / 130 / 170 (+50% AD) physical damage to enemies, slowing enemies by 15% (+0.1 AD +0.06 AP) for 0.75 / 1 / 1.25 / 1.5 seconds and restoring 40 / 70 / 100 / 130 (+40% AD +25% AP) Health to ally champions.
+
+Attacks reduces Piercing Darkness's cooldown by 1 seconds.
+
+This Ability's cast range matches Senna's attack range and its cast time is improved with Attack Speed. It applies on-hit effects to enemy champions.
+
+Dissolves into a cloud of mist for a few seconds, becoming a Wraith. Allied champions who enters the mist are Camouflaged and become Wraiths when they leave. Wraiths gain 20% Movement Speed, are Unselectable, and hide their identities as long as no enemy champions are nearby.
+
+Camouflaged: These units are hidden from view. They are revealed by nearby enemi champions, turrets, and True Sight.
+
+Senna is a marksman support. She excels at staying in the backline, dealing damage and healing/shielding her team to win fights. She's a scaling support which means she is not the strongest in the early game, but the later the game goes on, the stronger she becomes. This is mainly thanks to her passive, Absolution, as she gains bonus attack range, damage and critical strike chance the more souls you collect. It's important to roam around and pick up as many souls as possible. These spawn and drop on the floor from dead enemies. You can also get more souls from attacking the enemy champions twice.
+
+Senna can also be played in the duo lane (ADC), make sure to check the alternative build at the top of the page! Senna in the role of ADC works  similarly to support Senna, meaning that she is not that strong in the early game but once you get a few souls and items, she can deal high amounts of damage. The build is very different, though. You focus more on attack damage and armor penetration rather than a tank build like Support Senna. This allows you to deal more damage and be that carry that your team needs.
+
+Senna can absorb Mist by attacking souls that spawn from dead enemies. She can also take Mist from enemy champions she hits twice within a few seconds. As Senna, you want to make sure you are collecting every soul and attacking enemies whenever you can. The more souls you get, the stronger she becomes!
+
+Each stack of Mist grants attack damage. Every 20 stacks of Mist grants attack range and critical strike chance. A percentage of excess critical strike chance is converted into physical vamp. You can look at the bottom of the screen to see how many stacks of Mist you have. Try to only fight when you reach 20/40/60/80/100 stacks so you get the extra range and critical strike chance that can turn the odds in your favor.
+
+Senna's Relic Cannon takes extra time to fire, dealing bonus physical damage and briefly granting Senna a percentage of the target's movement speed. Keep this in mind when you are looking to fight and auto-attack champions.
+
+Senna shoots a bolt of piercing shadow through any object, dealing physical damage to enemies and restoring health to ally champions. It's important to note that Senna also gets healed from this ability so you can use it if you are low to try and keep yourself alive. Hitting an enemy with Piercing Darkness counts as an attack towards collecting mist for your passive, Absolution. A nice simple combo is Q > AA to get a quick passive Mist stack.
+
+Piercing Darkness' cast range matches Senna's attack range and its cast time is improved with Attack Speed. This means the more souls you get to increase your attack range will also improve this ability! It also applies on-hit effects to enemy champions so that's why items like Frozen Mallet and Black Cleaver are really strong.
+
+Senna sends forth a wave of Black Mist, dealing physical damage to the first enemy hit. After a second delay, the target and other nearby enemies are rooted for just over a second.
+
+This ability is Senna's main crowd control ability and can sometimes be clutch if you hit multiple enemies at once. It moves really fast as well so you can catch out someone that is not concentrating to get an easy passive stack or maybe even kill.
+
+Senna dissolves into a cloud of mist for a few seconds, becoming a Wraith. Allied champions who enter the mist are Camouflaged and become Wraiths when they leave. Wraiths gain movement speed, are undetectable and hide their identities as long as no enemy champions are nearby.
+
+This ability can be used in multiple ways. It's a great movement speed spell if you are looking to try and escape enemies or move away from a teamfight, or you can use this ability as a sneaky engage tool just before your team engages so they become invisible and the enemies don't know they are nearby.
+
+Fires a global wave that shields allies for a few seconds, while dealing physical damage and applies Mist to enemies caught in the centre.
+
+This ultimate is a global ultimate meaning that it goes from one side of the map to the other. It's important to always keep your eye on the minimap to see if there are any fights happening in other lanes so you can use your ultimate to impact that fight in your team's favor.
+
+When using Dawning Shadow and playing Senna, in general, it's always important to stay at the backline and have all your teammates in front so you can shield and protect them.
+
+Senna does well with attack damage and tank items that allow her to deal damage from afar. Heartsteel is a great item that gives Senna health throughout the game. Since Senna is a ranged champion, she'll be able to proc Heartsteel from range, giving her more damage from Titanic Hydra. Iceborn Gauntlet is a unique item for Senna that gives her a lot of utility with the slows it provides making it difficult for enemies to escape.
+
+For runes we have the following:
+
+There's not a lot of options for Senna with which runes to choose from. Grasp allows Senna to deal more damage and gain Health which can help her live longer.
+
+Nullifying Orb is the best option here for this row, as the other two don't have much benefit.
+
+As a marksman, Senna will be one of the main focus for the enemy team to try and take down. However, Bone Plating will help her take reduced damage from the first three instances of damage which can save her life.
+
+Overgrowth allows Senna to gain permanent health throughout the game when nearby minions or monsters are killed. This will increase the damage from items like Titanic Hydra.
+
+Ingenious Hunter reduces the cooldown of Senna's items. This is insane for items like Heartsteel and Titanic Hydra so you can deal more damage and gain more health throughout the game.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get you out of a bad situation or allows you to Flash and save your ally or even maybe get a kill. The 2nd spell is Heal, as it works really well if your AD Carry takes Barrier. However, if your bot lane duo (AD Carry) also takes Heal, it's not worth picking as you don't get the full effect. If this happens, then switch Heal with Exhaust.
+
+Senna is about average in the early game and the laning phase. She doesn't offer much but she can poke down enemies early on and heal herself and her carry to stay alive and healthy. It's important to always look for ways to attack the enemy champions twice so you can get your souls and stacks quicker.
+
+Also, remember to always attack the souls that drop on the floor when your AD Carry last hits minions. This can happen quite often so make sure you pick them all up. When looking for engages or looking to drop back, Last Embrace is a great tool to root multiple enemies if they are standing close to each other and you can use Curse of the Black Mist to gain movement speed and become camouflaged.
+
+This is where the fun begins! Once you have reached the late game with Senna, you should roughly have about 60/80ish stacks depending on how well you did during the early game at collecting souls. This on top of getting the core items you can now sit back auto-attack and use your Piercing Darkness from really far away to apply slows, heal and damage the enemy team. The AD Carry in your team is one of the main damage sources and keeping him/her alive is really important!
+
+Senna is a great carry support! She is not your traditional support that wants to sit back and peel for your team. She wants to be active, roam around the map and deal lots of damage. If this sounds like the sort of carrying playstyle that you want from a support then I defiantly recommended buying her and giving her a try!
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

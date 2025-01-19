@@ -1,0 +1,111 @@
+Title: Swain :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Swain in League of Legends: Wild Rift. Our build guide will teach you how to play Swain in the current meta.
+
+Headings:
+- Level 1 Swain Stats
+- Swain's Abilities
+- Swain  Build Guide for Wild Rift
+- Swain's Item Build
+- Swain's Spells & Runes
+- Swain's Situational Items
+- Swain's Situational Runes
+- Swain's Skill Order
+- Swain's Item Build
+- Swain's Spells & Runes
+- Swain's Situational Items
+- Swain's Situational Runes
+- Swain's Skill Order
+- How to play Swain
+- Swain's Abilities
+- Ravenous Flock (Passive)
+- Death's Hand (1)
+- Vision of Empire (2)
+- Nevermove (3)
+- Demonic Ascension (Ultimate)
+- Swain Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Swain collects Soul Fragments when Visions of Empire and Nevermore hit enemy champions, and also when they die.
+
+Soul Fragments heal for 3% health and provide 16 maximum health.
+
+Swain extends his demonic arm to launch eldritch bolts at enemies, dealing 55 / 85 / 115 / 145 (+42% AP) magic damage to enemies within range.
+
+Each bolt after the first deals 10 / 20 / 30 / 40 (+12% AP) magic damage (up to 110 damage).
+
+Swain summons a demonic eye that explodes after a short delay, dealing 80 / 130 / 180 / 230 (+55% AP) magic damage slowing by 30% / 40% / 50% / 60% for 2.5 seconds and revealing targets hit for 4 seconds. If Vision of Empire damages an immobilized champion it will critically strike for 50% damage.
+
+Champions hit will give 1 soul fragment.
+
+Swain launches a demonic wave that deals 35 / 85 / 135 / 185 (+25% AP) magic damage to enemies along the way, then turns back after reaching the furthest distance, dealing 35 / 50 / 6+5 / 80 (+25% AP) magic daamge to the area and rooting enemies withing the area for 1.5 seconds.
+
+Recast: Swain pulls the rooted champions to himself and collets 1 Soul Fragment from targets.
+
+Swain frees the demon, dealing 15 / 35 / 55 (+20% AP)magic damage per second to enemies within his range and restoring 15 / 25 / 35 (+20% AP) health to himself.
+
+Recast: Can be cast again after 2 seconds of Demonic Ascension, dealing damage and slowing enemies.
+
+Non-champions units will restore 10% health.Demon Ascension is controlled by Demon Energy, which depletes over time, and can be recharged indefinitely by draining enemy Champions. Champion takedowns fully restore Demon Energy.
+
+Swain is a tanky AP mage that is primarily played in the mid-lane. He is versatile and can be built as a full-damage burst mage or an off-tank. Swain's passive, Ravenous Flock, enables him to gain free health and tanky stats throughout the game, so even when not building tank items, he will still be challenging to kill. Swain is excellent in team fights, thanks to his insane AOE damage with his ultimate, Demonic Ascension, and crowd control from Nevermove.
+
+Swain collects Soul Fragments when Vision of Empire and Nevermove hit enemy champions and also when they die. Soul Fragments heal Swain and give him maximum health.
+
+These souls will make Swain naturally tanky throughout the game, making him an excellent scaling champion that is difficult to kill.
+
+Swain extends his demonic arm to launch bolts at enemies dealing magic damage to enemies within range. The most efficient way to use this ability is to get close up on an enemy so multiple bolts can hit one enemy.
+
+Each bolt after the first also deals magic damage. Death's Hand will be your primary tool to wave clear early on and poke champions.
+
+Swain summons a demonic eye that explodes after a short delay, dealing magic damage, slowing and revealing targets hit for a few seconds.
+
+If Vision of Empire damages an immobilized champion from Nevermove or any allied crowd control spell, the ability will critically strike and deal more damage.
+
+This ability alone is quite hard to land as most players can walk out, so try to time it with crowd control to guarantee the hit.
+
+Swain launches a demonic wave that deals magic damage to enemies along the way, then turns back after reaching the furthest distance, dealing more magic damage to the area and rooting enemies within the area for over a second.
+
+Swain can recast this ability to pull the rooted champions to himself. Landing Nevermore means you can follow up with all your other abilities to guarantee they will land. Make sure to practice Nevermore > Vision of Empire as much as possible!
+
+Swain frees the demon, dealing magic damage per second to enemies within his range and restoring health to himself. Swain can recast this ability after a few seconds, dealing burst damage and slowing enemies in the area.
+
+Demonic Ascension does amazing AOE so use it when enemies are bunched up before or during a team fight. Demonic Ascension can also restore health from minions but not as much as champions.
+
+Swain does excellent with most ability power items. His primary source of damage is from all his abilities. On top of building ability power items, Swain also likes to build off-tank items so he can be tanky when using Demonic Ascension during team fights. Rod of Ages is the perfect first item for Swain. This item gives him both damage and tank stats which scale and gives him more stats as the game goes on. Another great item is Riftmaker, another item that gives him both damage and tank stats, but the great thing about Riftmaker is the passive, which enables Swain to deal true damage and heal a lot when in combat for a long time.
+
+With runes, we have the following:
+
+Conqueror synergies well with Swain's kit, giving him increased damage the longer you're in combat, especially as you can use Death's Hand multiple times and even auto attack to activate maximum Conqueror stacks.
+
+Great for when Swain drops low on health when he goes in to try and kill the enemy. It can save you and bait the enemy into thinking you are already dead.
+
+Since Swain needs to get close to enemies to deal damage with Demonic Ascension he will get focused quite a lot by enemies, with Bone Plating Swain will take reduced damage.
+
+When Swain is farming, he'll be able to gain free health throughout the game, making him difficult to kill
+
+Ability Power mages like Swain love to build as much Ability Haste as possible so he can use his abilities more often.
+
+For summoner spells, Flash is a must on Swain. It's an excellent spell for getting out of tricky situations and when you're trying to kill enemies. Ignite is also a great spell for Swain since he can use it most of the time when he hits Nevermove on an enemy to deal some extra damage. Ignite also increases your kill potential to kill your laner.
+
+In the early game, Swain has the opportunity to pick up a lot of Soul Fragments to increase his maximum health by landing Nevermove and Visions of Empire. However, be wary, as mana can be an issue if you start spamming these abilities a lot without landing. Once you're level 6 and have your Ultimate, you can begin to push the minion wave and look to roam around the map. Swain loves skirmishes in the river since enemies can be grouped up, and you can use Swain's insane AOE damage to win every time.
+
+This is Swain's time to dominate. Once you reach your core items, you will have the opportunity to burst most squishes and even shred tanks, thanks to Giant Slayer. Always look for picks with Nevermove and Visions of Empire, as a single pick can change an entire team fight and ultimately win you the game. When Swain is grouped with his team, you can be at the front line tanking a lot of damage and dealing AOE damage to everyone on the enemy team. With the healing from your Ultimate and Riftmaker, this is enough for you to stay alive and deal a lot of damage.
+
+Overall Swain is very different to other AP mages played in the mid-lane. He is a much safer and tankier option, and when you start to learn and master how to use his abilities and combo them well, you can easily look to carry every game.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

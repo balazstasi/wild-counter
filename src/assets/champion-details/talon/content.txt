@@ -1,0 +1,120 @@
+Title: Talon :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Talon in League of Legends: Wild Rift. Our build guide will teach you how to play Talon in the current meta.
+
+Headings:
+- Level 1 Talon Stats
+- Talon's Abilities
+- Talon  Build Guide for Wild Rift
+- Talon's Item Build
+- Talon's Spells & Runes
+- Talon's Situational Items
+- Talon's Skill Order
+- Talon's Item Build
+- Talon's Spells & Runes
+- Talon's Situational Items
+- Talon's Situational Runes
+- Talon's Skill Order
+- How to Play Talon
+- Talon's Abilities
+- Blade's End (Passive)
+- Noxian Diplomacy (1)
+- Rake (2)
+- Assassin's Path (3)
+- Shadow Assault (Ultimate)
+- Talon Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Talon's abilities apply a stack of Wound to enemy champions and large monsters hit for 6 seconds, stacking up to 3 times. Damaging the same target again resets Wound duration.
+
+When Talon attacks a target with 3 stacks of Wound, all Wound stacks are consumed to send the target into a bleeding state, dealing 80 - 280 (+210% bonus AD) physical damage over 2 seconds.
+
+Monsters are dealt 90% of this damage
+
+The target will not gain Wound stacks during this period.
+
+If an enemy champion is killed while bleeding, Talon gains bonus Movement Speed that decays over 2 seconds.
+
+Long-range cast: Dashes toward an enemy champion, dealing 75 / 100 / 125 / 150 (+100% bonus AD) physical damage.
+
+Close-range cast: Stabs the target, dealing 98 / 135 / 173 / 210 (+150% bonus AD) physical damage.
+
+If this ability kills the target, Talon restores 35 - 70 Health, and the ability's cooldown is reduced by 50%. The high Armor Pen is, the faster the dash and cast speed of this ability will be.
+
+Damage from close-range casts scales with Critical Strike Damage.
+
+Tosses daggers in a cone a the target area , dealing 35 / 45 / 55 / 65 (+45% bonus AD) physical damage to enemies hit.
+
+Upon reaching maximum range, the daggers linger for 0.75 seconds before returning, dealing 60 / 100 / 140 / 180 (+90% bonus AD) physical damage to enemies hit along the way and slowing them by 40% for 1 second.
+
+Deals 70% damage to monsters.
+
+Vaults over the terrain or structure closest to him.
+
+Talon cannot vault over the same terrain within 135 / 110 / 85 / 60 seconds of his last vault over it (cooldown per terrain decreases with Ability Haste).
+
+Increase Talon's speed off vaulting over terrains and turrets by 10%
+
+First Cast: Flings out a ring of blades around himself, dealing 80 / 120 / 160 (+90% bonus AD) physical damage to nearby enemies and gaining invisibility and 40% / 55% / 70% bonus Movement Speed for up to 2.5 seconds.
+
+How to recast: Tap the ability 1 second after the first cast to recast. The ability will automatically be cast again when invisibility expires or is disabled.
+
+Recast: Exits invisibility and recalls the blades, dealing 80 / 120 / 160 (+90% bonus AD) physical damage again to enemies hit along the way.
+
+Using attacks or Noxian Diplomacy to exit invisibility causes the blades to converge toward the target enemy instead.
+
+Talon is an AD Assassin that can be played in the Mid Lane or Jungle. Talon's strength comes from his roaming capabilities, especially with Assassin's Path. Being able to jump over walls is one of the craziest but strongest abilities in the game. This allows him to get to places and escape like no one else can. However, Talon can struggle in the early game as a melee champion. Making sure you play safe and farm minions until level 5 will be crucial to your success.
+
+Talon can also be played in the Jungle; make sure to check the alternative build at the top of the page. The build with Talon in the jungle is the same. Just make sure you take Smite. As for the playstyle, playing Talon in the jungle eliminates that weak early game that Talon has and gives him the free reign to roam anywhere on the map.
+
+Talon's abilities apply a stack of Wound to enemy champions and large monsters hit for a few seconds, stacking up to 3 times. Using Talon's combo above means you can fully stack Wound on enemy champions within a few seconds.
+
+When Talon attacks a target with three stacks of Wound, all Wound stacks are consumed and cause the enemy to bleed, taking damage over time. If an enemy is killed while bleeding, Talon gains bonus Movement Speed, so it's essential to try and deal as much burst damage as possible quickly.
+
+Talon either dashes or stabs (depending on range) a target, dealing Physical Damage. If this ability kills the target, Talon restores health and the ability cooldown is reduced. This can be used to last-hit minions.
+
+The biggest part about Noxian Diplomacy is the higher Talon's Armor Pen is, the faster the dash and cast speed will be. This is another reason we want to build Youmuu's Ghostblade and Duskblade of Draktharr.
+
+Talon tosses daggers in a cone at the target area, dealing Physical Damage to enemies hit. When Rake reaches max range, the daggers return to Talon, dealing more Physical Damage and slowing enemies hit.
+
+When starting a fight with Talon, if within range, you always want to begin with Rake so you can deal both instances of damage and slow enemy champions. If you struggle to walk up to minions during the laning phase, use Rake to last hit minions at range.
+
+Assassin's Path allows Talon to vault over terrain or a structure close to him. This opens up many possibilities for Talon to get into positions no other champion can. Assassin's Path is excellent whether he's looking to escape danger or get access to the backline.
+
+Shadow Assault's first cast throws out a ring of blades around Talon, dealing damage to nearby enemies and gaining invisibility.
+
+Talon's ultimate can be recast by tapping the ability again one second after the first cast, or if nothing else is tapped after the first cast, the ultimate will automatically cast again after the invisibility expires. However, the best way to 'recast' Shadow Assault is by using attacks or Noxian Diplomacy on an enemy target since all the blades will converge onto that target, doing a lot of damage.
+
+Talon's abilities all scale with Attack Damage; we also want to build Armor Penetration to increase the dash speed of Noxian Diplomacy. Youmuu's Ghostblade is an excellent item for Talon. This item gives him the Attack Damage and Armor Penetration he needs, and the passive gives him more movement speed so Talon can get in range to dash onto enemy champions. Trinity Force is another vital item for Talon. Trinity gives the best base stats in the game, and the passives help with Talon's mobility and burst damage.
+
+For runes, we have the following:
+
+With Talon's combo, it's easy to proc electrocute, dealing that extra bit of damage that can make a big difference. First Strike is also a viable option if you feel confident in dealing the first instance of damage.
+
+Talon has two ways to dash or jump: Noxian Diplomacy and Assassin's Path. When using any of these two abilities, Talon gains Armor Penetration, giving him more damage.
+
+Empowered Attack becomes extremely powerful when you start a teamfight with Talon's ultimate, making it easy to jump and auto-attack enemy champions, dealing more damage.
+
+Eyeball Collector is great, giving Talon more Attack Damage every time he gets a takedown.
+
+Since Talon will be jumping in a lot, he will be one of the main targets for the enemy team. Bone Plating will help Talon take reduced damage from the first three instances of damage, allowing him to survive longer.
+
+For Summoner Spells, Flash is a must on Talon, especially when looking to dive into team fights or looking to jump away to safety. Ignite gives Talon more kill pressure throughout the game, giving him extra damage.
+
+Talon has a pretty weak early game. With his low base health and being a melee champion, he can be bullied off of last-hitting minions in the early game. Try to use Rake at range to last hit minions and get as much farm as possible. Once Talon reaches Level 5, he can use his ultimate Shadow Assault. This gives him much more potential to try and roam around the map or try and get a solo kill in mid-lane.
+
+When Talon reaches the Late Game and gets a few items, this is where he can use his mobility and assassinate enemy carries with ease. When he is grouped with his team and about to have a teamfight, the best thing to do is to get onto the enemy backline. Talon's Shadow Assault allows him to turn invisible. This will allow him to access the backline and one-shot enemies quickly with his combo.
+
+Overall, Talon is a more straightforward champion to play than other assassins. Being able to jump over terrain freely is one of the most satisfying things you'll do in Wild Rift. Once you get a feel for Talon's abilities and combos, he'll feel amazing.Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

@@ -1,0 +1,116 @@
+Title: Yone :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Yone in League of Legends: Wild Rift. Our build guide will teach you how to play Yone in the current meta.
+
+Headings:
+- Level 1 Yone Stats
+- Yone's Abilities
+- Yone  Build Guide for Wild Rift
+- Yone's Item Build
+- Yone's Spells & Runes
+- Yone's Situational Items
+- Yone's Situational Runes
+- Yone's Skill Order
+- Yone's Item Build
+- Yone's Spells & Runes
+- Yone's Situational Items
+- Yone's Situational Runes
+- Yone's Skill Order
+- Yone's Item Build
+- Yone's Spells & Runes
+- Yone's Situational Items
+- Yone's Situational Runes
+- Yone's Skill Order
+- How to play Yone
+- Yone's Abilities
+- Way of the Hunter (Passive)
+- Mortal Steel (1)
+- Spirit Cleave (2)
+- Soul Unbound (3)
+- Fate Sealed (Ultimate)
+- Yone Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Steel and Spirit: Every other attack deals 50% of the attack's damage as magic damage instead.
+
+Intent: Yone's Critical Rate is doubled, but his Critical Strikes deal 20% less damage.
+
+Yone converts Critical Rate above 100% into Attack Damage at a rate of 0.4 Attack Damage per 1% Critical Rate.
+
+Thrusts forward, dealing 30 / 50 / 70 / 90 (+100% AD) physical damage. Grants a stack of Gathering Storm if the thrust damages an enemy. At 2 stacks, Mortal Steel dashes Yone forward and launches a whirlwind that knocks enemies Airborne.
+
+Mortal Steel is treated as an attack: it can Critically Strike for bonus damage and applies on-hit effects to all units hit. Cooldown and cast time are reduced by Attack Speed.
+
+Deal 70% damage to monsters.
+
+Cleaves in a cone, dealing 25 / 35 / 45 / 55 plus 12% / 13% / 14% / 15% of the target's maximum Health as physical and magic damage.
+
+Gains a shield that absorbs 50 (+85% bonus AD) damage for 1.5 seconds if Spirit Cleave hits an enemy, increased by 100% on hitting a champion and 40% on subsequent champion hits.
+
+Deals 60 minimum damage against minions.
+
+Deals 30 maximum damage against monsters.
+
+Cooldown aand cast time are reduced by Attack Speed.
+
+Dashes forward, entering Spirit Form and leaving his body behind for 5 seconds. During Spirit Form, Yone gains 10% Movement Speed that increases over the duration and marks champions damaged with his attacks or abilities.
+
+When Soul Unbound ends, Yone returns to his body and marked enemies take 24% / 28% / 32% / 36% of the damage Yone dealt to them as true damage.
+
+Re-cast: End Soul Unbound early.
+
+Yone is a mid-lane AD assassin. He is a melee champion and can struggle in the early game when trying to walk up to farm minions. However, you can look to stack Mortal Steel until you get the knockup and can use this to get away to safety when needed. Using your Soul Unbound to trade in the lane and look for kills is essential. Soul Unbound allows you to trade freely and potentially kill enemies and then you can go back to your shadow and escape any possible threat of dying.Yone can also be played in the jungle, make sure to check the alternative build at the top of the page! The build is very similar to the mid-lane build. Make sure you swap your summoner spell to Smite.
+
+Yone's Critical Rate is doubled, but his Critical Strikes deal 20% less damage. This means Yone only needs to build 2 Critical Strike items to get 100% Critical Strike rate. For this instance, Solari Chargeblade and Infinity Edge are the two best Critical Strike items to go for Yone.
+
+Also, Yone's every other attack deals 50% of the attack's damage as magic damage instead. On top of the magic, damage from Solari Chargeblade makes it challenging to build defense items vs Yone.
+
+Yone thrusts forward, dealing physical damage. Grants a stack of Gathering Storm (not to be mistaken by the rune) if the thrust damages an enemy. At two stacks, Mortal Steel dashes Yone forward and launches a whirlwind that knocks enemies airborne. This dash can go over multiple walls on the map.
+
+Mortal Steel is treated as an attack meaning it can Critically Strike for bonus damage and apply on-hit effects. Attack Speed reduces the cooldown and cast time.
+
+Yone Cleaves in a cone, dealing physical and magic damage. Yone also gains a shield that absorbs damage for over a second if Spirt Cleave hits an enemy. This is increased by 100% on hitting a champion, and Yone can get a bigger shield if Spirit Cleave hits multiple champions. At the start of the game, Spirit Cleave is mainly used for farming minions and trading easily vs the enemy champion.
+
+Yone dashes forward, entering Spirit Form and leaving his body behind for 5 seconds. During Spirit Form, Yone gains movement speed that increases over the duration and marks champions damaged with his attacks and abilities. When Soul Unbound ends, Yone returns to his body and marked enemies take a % of the damage Yone dealt to them as true damage.
+
+Yone can also recast Soul Unbound to return to his body anytime. Stacking Mortal Steel before using Soul Unbound is essential to guarantee that you can knockup the enemy champion to deal more damage.
+
+Yone strikes all enemies along a path dealing Physical and Magic Damage, teleporting behind the last champion hit and knocking them towards Yone. This is an easy way to group enemies together at the end of Fate Sealed, so your team can follow up and deal a lot of damage. Fate Sealed can also be used right near the end of Soul Unbound to prolong the duration.
+
+Yone does well when building attack damage items. He also benefits a lot from critical strike chance as this stat gets doubled from Way of The Hunter. Blade of the Ruined King is a great item on Yone. The item gives you a lot of attack speed to lower the cooldown of Mortal Steel and the passives make it a lot easier to win 1 vs 1 battles. Bloodthirster is another core item on Yone. The item gives Yone Physical Vamp to help him survive the early game and a lot of Attack Damage and some Attack speed when he is high on Health.
+
+For runes, we have the following:
+
+Yone loves attack speed. Not only does this allow Yone to attack faster and deal more damage but it also decreases the cooldown of his 1st ability Mortal Steel
+
+Brutal gives Yone's auto attacks and Mortal Steel more damage giving him a lot of power in the early game to try and get an advantage to carry her team.
+
+When enemy champions are low on health, Yone can deal bonus damage. This will help Yone kill enemies faster.
+
+Alacrity gives Yone attack speed. Yone benefits a lot from attack speed. Not only does it allow him to attack faster, but it also reduces the cooldown of Mortal Steel.
+
+Since Yone will be dashing in a lot trying to deal damage, he will be a main target for the enemy. Bone plating will help Yone take reduced damage from the first three instances of damage which will help him survive longer.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for the killing blow. For the 2nd spell, it's best to go for Ignite. This helps Yasuo to get an early advantage in the laning phase and helps him deal extra damage.
+
+Yone struggles a bit in the early game as a melee champion. You often want to stay back and wait for the enemy champion to push the minion wave under your tower. When you reach level 3, you can walk up to minions early on to stack Mortal Steel and look to try and trade vs the enemy champion with Soul Unbound. Once you hit level 5, this is where you can potentially look for the all-in and try and kill the enemy mid-lane. If you can't find the opportunity in the mid-lane, you can try to roam around the map and use your ultimate in the side lanes.
+
+When you reach the mid and late game and get a few items, this is where Yone can start to become useful since you have quite a lot of mobility and crowd control. When you are grouped with your team and about to have a team fight, the best thing you want to do is get to their backline, where you can kill the enemy carries. Always keep an eye out for isolated enemies away from their team. When you find an enemy isolated, you can look to go in with Soul Unbound and look to burst them down with all your damage.
+
+Overall, Yone is a very fun and mobile champion to play with the ability to outplay the enemy team and win the fight with his insane combos and knock-ups. At times it might be challenging to play Yone as he has a high skill gap, but once you practice him a few times, you can carry.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

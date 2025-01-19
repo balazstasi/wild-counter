@@ -1,0 +1,118 @@
+Title: Warwick :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Warwick in League of Legends: Wild Rift. Our build guide will teach you how to play Warwick in the current meta.
+
+Headings:
+- Level 1 Warwick Stats
+- Warwick's Abilities
+- Warwick  Build Guide for Wild Rift
+- Warwick's Item Build
+- Warwick's Spells & Runes
+- Warwick's Situational Items
+- Warwick's Situational Runes
+- Warwick's Skill Order
+- Warwick's Item Build
+- Warwick's Spells & Runes
+- Warwick's Situational Runes
+- Warwick's Skill Order
+- How to play Warwick
+- Warwick's Abilities
+- Eternal Hunger (Passive)
+- Jaws of the Beast (1)
+- Blood Hunt (2)
+- Primal Howl (3)
+- Infinite Duress (Ultimate)
+- Warwick Build Breakdown
+- Jungle Path
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Attacks deal an additional 12 - 46 (+20% bonus AD +10% AP) magic damage on hit.
+
+While below 50% health, heal for 100% of the damage dealt.
+
+Lunges forward and bites the target enemy, dealing 70 (130% AD + 90% AP) magic damage + 6% / 7% / 8% / 9% of the target's max health and healing for 42.5% / 55% / 67.5% / 80% of damage dealt.
+
+Drag: Warwick leaps behind targets and follows their movement.
+
+The bonus damage is capped at 100 / 125 / 150 / 175 against monsters.
+
+Deal 50% extra damage to minions and restores 50% of cooldown when killing minions.
+
+Passive: Marks enemy champions below 50% health, gaining 40% / 45% / 50% / 55% Movement Speed towards them and gaining 60% / 70% / 80% / 90% Attack Speed against any enemy below 50% health. These bonuses are enhanced to 150% of their value against targets below 35% health.
+
+Active: Briefly senses all enemies and marks the closest champion for 8 seconds. Can not be used while in combat with champions. Casting increases Warwick's vision range, which ignores terrain (up to 1300).
+
+Warwick can only passively sense enemies who were brought below 50% Health by allies.
+
+Increase sease range of active casting.
+
+Warwick gains 35% / 40% / 45% / 50% damage reduction for 2.5 seconds. After it ends, Warwick howls, fearing nearby enemies and causing them to flee from him for 1 second, during which they are slowed by 90%.
+
+Recast: End the ability early.
+
+Recasting Primal Howl within 1s does not trigger fear effect, and 45% cooldown is returned; if fear is triggered, then no cooldown reduction.
+
+Warwick is a fighter that is played in the jungle. He is one of the best beginner-friendly champions in the game, especially if you want to learn how to play in the jungle. Warwick is a very balanced champion who is good at all game stages. He has a decent early game with his jungle clear and can gank early with his vast amount of movement speed and being able to jump on enemies to fear them. Warwick is also great in the late game with his ultimate, Infinite Duress, being able to catch anyone off guard and suppress them for a long time.
+
+Warwick's attacks deal additional magic damage on hit. When Warwick is below 50% health, he heals for 100% of the damage dealt. Usually, when you are below 50% health, you will start to think that you need to back away from the enemy champions, but with Warwick, this is the perfect time to fight.
+
+With the healing from Eternal Hunger, attack speed from Blood Hunt, and items such as Divine Sunderer and Blade of the Ruined King, Warwick will survive a long time when low on Health.
+
+Warwick lunges forward and bites the target enemy, dealing magic damage plus a percentage of the target's max health and healing for a portion of the damage dealt.
+
+When tapping the ability, Warwick will bite the enemy in front of him; however, if you hold the ability, Warwick also clamps on the target, leaping behind them and following their movement.
+
+This ability works as an auto-attack reset. Also, this ability can dodge any crowd control coming Warwick's way when timed correctly.
+
+Warwick marks enemies champions below 50% health, gaining movement speed towards them and gaining attack speed against them. These bonuses are enhanced against targets below 35% health. When enemies are below 50% health, Warwick can passively sense them, leaving a trail so Warwick can see their path.
+
+Warwick can also activate Blood Hunt, which marks the closest champion for a few seconds; this means that Warwick can gain movement speed and attack speed against the closest ally even if they are not below 50% health which is enormous for one vs one fights in the jungle. However, this cannot be used in combat, so make sure to use this ability before combat starts.
+
+Warwick gains damage reduction for a few seconds. After it ends, Warwick howls, fearing nearby enemies and causing them to flee from him for a second, during which they are slowed. Warwick can also recast the ability to end it early so the fear can happen faster.
+
+When using this ability, you want to wait until you are close to your enemies, so you don't waste the timing and damage reduction on the Ability. This also means that you can get into range of using Flash or Jaws of the Beast to combo and fear enemies into your team.
+
+Warwick leaps a huge distance that scales with his Movement Speed. Suppressing the first champion he collides with while he channels for a few seconds.
+
+Be careful when trying to aim Infinite Duress, as the hitbox is big and can be missed or hit a different champion quite easily, putting you in a bad position. He attacks the Suppressed champion, dealing magic damage. Warwick restores 100% of all damage dealt during the channel as health.
+
+Warwick uses a mixture of both AD and tank items that allow him to deal damage and survive. Trinity Force is an excellent item for Warwick that gives him damage and tank stats. Also, Trinity Force's passive gives Warwick some extra damage with his next auto attack after using an ability. Blade of the Ruined King is another great damage item for Warwick. It also gives him a lot of attack speed and can steal movement speed away from enemy champions to make it easier to stay on top of them and auto-attack them.
+
+For runes, we have the following:
+
+Warwick can stack Press the Attack very well with his auto attacks and abilities, making the enemy vulnerable and allowing Warwick to deal more damage.
+
+Warwick will be in many team fights, running and jumping into the backline to try and kill the enemy carries. Most of the time, Warwick's damage is enough to get a takedown, so the healing will be helpful to keep him alive.
+
+When enemy champions are low on health, Warwick can deal bonus damage. This will help Warwick kill enemies faster.
+
+Alacrity gives Warwick Attack Speed, which will help him clear jungle camps quicker and stack up to help him attack more often during team fights. Legend: Tenacity is another excellent option when playing against champions that have Crowd Control.
+
+Overgrowth allows Warwick to gain permanent health throughout the game when nearby minions or monsters are killed. So the more Warwick farms in the jungle, the more Maximum Health he will get.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for the killing blow. Smite is a must for when you are playing jungle. It helps you a lot when clearing the jungle and securing the epic monsters.
+
+With Warwick, he has a very fast early jungle clear. This means you can work your way around the jungle and get to Level 5 as fast as possible. It is best to start at Red Brambleback, as you don't need to worry too much about early mana, and you will be healthy enough to get through your jungle without taking too much damage.
+
+This is what the jungle patch would look like:
+
+Below is a beginner's guide for the jungle in Wild Rift. It goes in-depth about every jungle camp, epic monsters and more!
+
+Warwick can struggle in the late game when caught out of position. Your best way to go about the late game is trying to get onto the backline in a team fight and trying to fear then enemy carries into your team with Primal Howl. Your main objective as a jungler is to keep track of when Dragons, Rift Herald and Baron spawn. Taking these epic monsters will give you and your team an advantage in the game. When in a team fight, try your best not to get caught out and try to keep auto-attacking the main enemy carries and using your abilities on them to deal a lot of damage.
+
+Warwick is the best beginner-friendly champion when wanting to learn how to play the jungle. Warwick's abilities teach you a lot about when it is best to farm in the jungle or when it's time to leave your jungle camps and look to go for a gank when enemies are low on health.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

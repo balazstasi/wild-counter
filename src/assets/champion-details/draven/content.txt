@@ -1,0 +1,102 @@
+Title: Draven :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Draven in League of Legends: Wild Rift. Our build guide will teach you how to play Draven in the current meta.
+
+Headings:
+- Level 1 Draven Stats
+- Draven's Abilities
+- Draven  Build Guide for Wild Rift
+- Draven's Item Build
+- Draven's Spells & Runes
+- Draven's Situational Items
+- Draven's Situational Runes
+- Draven's Skill Order
+- How to play Draven
+- Draven's Abilities
+- League of Draven (Passive)
+- Spinning Axe (1)
+- Blood Rush (2)
+- Stand Aside (3)
+- Whirling Death (Ultimate)
+- Draven Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Killing a unit or catching a Spinning Axe grants a stack of Adoration.
+
+Killing champions consume all Adoration stacks and grant 80 bonus gold + 4 per stack of Adoration.
+
+When Draven dies, half of Adoration stacks are lost.
+
+Gains a Spinning Axe, causing his next attack within 6 seconds to deal an additional 45 / 50 / 55 / 60 (+90% / 100% / 110% / 120% bonus AD ) physical damage.
+
+The Spinning Axe bounces off the target, allowing Draven to catch and regain it.
+
+Draven can hold two Spinning Axes at once.
+
+Gains 20% / 25% / 30% / 35% Attack Speed for 3 seconds and 50% / 55% / 60% / 65% Movement Speed for 1.5 seconds.
+
+Catching a Spinning Axe refreshes Blood Rush's cooldown.
+
+Hurls two massive axes, dealing 200 / 300 / 400 (+130% AD) physical damage. The axe return to Draven when they reach the edge of the map, hit a champion or upon reactivation.
+
+Deals 8% less damage as it damages targets, minimum 60%. Upon reversal, the reduction is reset do deal full damage.
+
+Draven is an attack damage dragon lane champion. He does the most damage early game compared to any other dragon lane champion in the game and can use that to get an early game advantage during the landing phase to make his mid and late game better. Draven's main damage comes from his Spinning Axe, however it comes at a cost. When you use the ability every time you auto-attack you have to make sure you pick up the axe and at times this can be hard. Every time you pick up an axe or kill a minion/monster you get a stack of Adoration for your passive League of Draven. When you get a kill on an enemy champion you will consume all Adoration stacks and get a lot of bonus gold, but if you die then you lose half the stacks.
+
+Killing a unit or catching a Spinning Axe grants a stack of Adoration. This is really important and the most important part of Draven's kit. You want to get as many stacks as possible and try to secure kills before you die.
+
+Killing champions consume all Adoration stacks and grant bonus gold depending on how many Adoration stacks you have. However, when Draven dies, half of the Adoration stacks are lost.
+
+Gains a Spinning Axe, causing his next attack to deal additional physical damage. This is Draven's main ability that allows him to deal a lot of damage. The Spinning Axe bounces off the target, allowing Draven to catch and regain it.
+
+This grants you stacks of Adoration and helps you deal more damage. Additionally, Draven can hold two Spinning Axes at once.
+
+Grants attack speed for a few seconds and decaying movement speed for just over a second. This helps Draven move around a lot more during team fights to help him stay alive.
+
+Catching a Spinning Axe refreshes Blood Rush's cooldown. When playing Draven it's important to use this ability multiple times during a fight to keep the movement speed and attack speed going.
+
+This is Draven's only CC ability and it's very important to hit to chase down/escape enemies. Draven throws his axes, dealing physical damage and knocking enemies aside, slowing them for a few seconds.
+
+The only thing you need to be careful of is if your team is looking to hit a combo on the enemies. You don't want to hit Stand Aside as it might knock the enemies away from each other and could affect your team's combos.
+
+This is a global ultimate meaning it can go from one side of the map to the other! Draven hurls two massive axes, dealing physical damage. The axes return to Draven when they reach the edge of the map, hit a champion or upon reactivation.
+
+You can get into situations where you can hit enemies with both parts of the ultimate and that can deal a high burst of damage. Make sure you look around the map using your minimap to see if there are any low enemies that you can snipe with the ultimate.
+
+Draven does well when building attack damage items. This build has little attack speed because Blood Rush gives you attack and movement speed. Catching an axe refreshes the cooldown of Blood Rush, so keep an eye out for that. Bloodthirster is a core item for Draven. The item gives him a lot of great stats and is one of the highest AD items in the game. On top of that, the Physical Vamp is vital for Draven to keep him alive. Infinity Edge is another excellent item for Draven because it increases the Critical Strike Damage Draven deals with each auto attack.
+
+Onto the runes, we have:
+
+Conqueror gives Draven sustain and more damage to help him get the early game lead he needs to snowball the game.
+
+Brutal gives Draven a lot of extra early-game damage to try and get an advantage in the laning phase so he can snowball into the mid and late game.
+
+When enemy champions are low on health, Draven can deal bonus damage. This will help Draven kill enemies to get more gold from his passive League of Draven. Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+The healing from Bloodline will be more beneficial for Draven for the sustain and survivability compared to attack speed from Alacrity, especially since we have Lethal Tempo.
+
+As a marksman, Draven will always be the main focus for the enemy team to try and take down. However, Bone Plating will help Draven take reduced damage from the first three instances of damage which can save his life.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get you out of a bad situation or allows you to flash into the team to get that killing blow! The go-to 2nd spell is Exhaust. Since Draven doesn't have the longest attack range and your axes will put you in awkward positions, Exhaust can help you win many battles.
+
+As Draven, you want to be really aggressive early game. You have the most damage against any other dragon lane carries in the game. Use your Spinning Axe to last hit minions and make sure you catch your axes to get stacks of Adoration for his passive, League of Draven. Then when you have an opportunity you need to try and get some early kills to get the extra gold from your passive. The reason for this is that the later the game goes the harder it will be to survive vs the enemy when your axes will be dropping in awkward positions.
+
+Draven can really struggle in the late game. His damage falls off and he can easily be locked down by the enemies. It's always best as an AD Carry to stay grouped with your team. You want to stay as far back from the enemies as possible and allow your front line to go in front of you to tank all the damage. Most of the time you are the main damage output, so if you are caught by yourself and die then your team is in trouble, so make sure you stay safe at all times. Make sure you are always keeping an eye on your axes and pick them up where possible.
+
+Draven has a very aggressive playstyle that will suit some people. If you want to take advantage of the early game and snowball into the mid and late-game then Draven is the right champion for you. I recommended going into practice and learning the dropping axes before jumping into a game.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

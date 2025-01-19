@@ -1,0 +1,98 @@
+Title: Jax :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Jax in League of Legends: Wild Rift. Our build guide will teach you how to play Jax in the current meta.
+
+Headings:
+- Level 1 Jax Stats
+- Jax's Abilities
+- Jax  Build Guide for Wild Rift
+- Jax's Item Build
+- Jax's Spells & Runes
+- Jax's Situational Items
+- Jax's Situational Runes
+- Jax's Skill Order
+- How to play Jax
+- Jax's Abilities
+- Relentless Assault (Passive)
+- Leap Strike (1)
+- Empower (2)
+- Counter Strike (3)
+- Grandmaster's Might (Ultimate)
+- Jax Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Leaps to a target unit, dealing 70 / 125 / 180 / 235 (+100% AD ) physical damage if it is an enemy.
+
+Empowers the next attack or Leap Strike to deal an additional 55 / 100 / 145 / 190 (+60% AP) magic damage.
+
+Deals 125% damage to monsters.
+
+Enters a defensive stance, dodging all incoming attacks and taking 25% reduced damage from champions for 2 seconds. After this duration, nearby enemies are stunned for 1 second and take 35 / 75 / 115 / 155 (+3% max target HP + 70% AP) magic damage. Each attack dodged increases this damage by 20% (up to 100%).
+
+Re-cast: Ends the defensive stance early to damage and stun nearby enemies immediately.
+
+Passive: Deals an additional 60 / 110 / 160 (+70% AP) magic damage with every 3 consecutive attacks he haunches within 3 seconds.
+
+Active: Swings his stave, dealing 150 / 250 / 350 (+100% AP) magic damage to nearby enemies and gaining Armor and Magic Resist based on the number of champions hit. If he hits a champion, he gains 30 / 50 / 70 (+40% bonus AD) Armor and 18 / 30 / 42 (+24% bonus AD) Magic Resist. If he hits more than one champion, he gains 15 / 20 / 25 (+10% bonus AD) Armor and 9 / 12 / 15 (+6% bonus AD) Magic Resist for 8 seconds per additional champion hit. During this time, his size increases by 10%, and he deals additional magic damage with every 2 attacks instead.
+
+Deals 110% damage to monsters.
+
+Jax is an excellent duelist that is played in the Baron Lane. One of the great things about Jax is he gets naturally tanky thanks to his Ultimate Grandmaster's Might, whilst also being one of the best fighters in the game. Jax is also great at split pushing since he wins most 1vs1 duels in the late game, allowing him to create pressure on the opposite side of the map. If he ever gets in trouble, he can always use Leap Strike to an ally minion or plant to escape to safety.
+
+Jax's attacks against champions and minions (not monsters) grants Attack Speed for a few seconds (stacking up a few times).You can tell how many stacks you have of Jax's passive by looking at the yellow dashes underneath his mana bar. The most marks you have, the more attack speed you will get.In the laning phase, you can auto-attack minions to gain stacks before you jump in onto the enemy champion to be able to deal more damage.
+
+Jax leaps to a target unit, dealing physical damage if it is an enemy. This is Jax's main mobility tool. He can use this to engage or disengage by targeting enemies, allies, minions, jungle monsters or even plants like the honey fruit. Leap Strike works well with his other abilities, especially Counter Strike (3rd Ability).
+
+Use Counter Strike and then Leap Strike so when you jump onto an enemy, you can stun them instantly with Counter Strike before they can even react.
+
+Empowers the next attack or Leap Strike to deal additional magic damage. This is an auto-attack reset meaning that the next attack is immediately available after casting the Ability, which means you can do three attacks quickly.
+
+You can use Empower on towers to take them down quicker, and it's much easier to use Empower to secure the last hits on minions in the early game if you don't feel too comfortable.
+
+Jax enters a defensive stance, dodging all incoming attacks and taking reduced damage from champions for a few seconds. After this duration, nearby enemies are stunned for a second and take physical damage.
+
+Jax can re-cast this Ability at any time, which ends the defensive stance early to damage and stun nearby enemies immediately.
+
+You can still attack and use Leap Strike (1st Ability) whilst in Counter Strike to do more damage or reposition before Counter Strike ends.
+
+This ultimate has two parts. The passive: Every third consecutive attack deals additional magic damage. It's always good to count in your head how many attacks you have done on an enemy, as this can be the difference between killing an enemy or not. You can also use Empower to Auto Attack reset and get to the 3rd attack quicker to deal more damage.
+
+The active: Jax swings his stave dealing magic damage to nearby enemies. When hitting one or more enemy champions Jax also gains Armor and Magic Resist depending on how many champions he hits.When combo'd with Counterstrike Jax's ultimate can deal a lot of damage and help Jax with his survivability.
+
+Jax loves items that give him a mixture of both damage and tankiness, so he can do a lot of damage and take a lot of damage simultaneously. Trinity Force is the perfect item and a must-buy on Jax. This item gives him some damage and tank stats that he needs. Trinity's passive effect also works well with Jax and his abilities. Spellblade can be easily proc by using Jax's Empower. Riftmaker is another powerful item on Jax. Since he's in combat for a long time he can start to deal true damage and get a lot of omnivamp to stay alive when Leaping in.
+
+For runes, we have the following:
+
+Since Jax can walk up to enemies and win trades in the early game with Counter-Strike, Fleet Footwork can benefit you by restoring health and mana and dealing more damage. The extra attack speed also helps Jax deal bonus damage with his Ultimate Grandmaster At Arms by getting stacks quicker.
+
+Brutal gives Jax's auto attacks more damage giving him a lot of power in the early game but also in the late game when looking to split push or join team fights.
+
+When enemy champions are low on health, Jax can deal bonus damage. This will help Jax when he jumps in to kill enemy champions. Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+Since Jax scales a lot with attack speed, the attack speed from Legend: Alacrity is an excellent choice. This helps him attack faster to try and look for early-game advantages or split pushing to deal more damage to champions and towers in the late game. Legend: Tenacity is another excellent option when playing against champions that have Crowd Control.
+
+Jax can take a lot of damage from fighting early game or taking poke damage from ranged champions. Second Wind helps Jax heal when out of combat, helping him stay in lane longer. However, you can also take Bone Plating when vs combo champions to reduce damage taken.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for the killing blow. For the 2nd spell, it's best to go for Ignite. This helps Jax to get an early advantage in the laning phase and helps him deal extra damage.
+
+Jax struggles a bit in the early game. You need to play passive in the early game and farm until you at least get your core items unless you have a great opportunity to use Leap Strike to jump onto the enemy when you have full stacks of your passive and can proc Grasp of the Undying. In the laning phase, use Counter Strike when last hitting minions; this ability dodges all incoming attacks from the enemy to keep you safe. Remember, you can always use Leap Strike to jump to any minions or even the honey fruit to get away to safety.
+
+Jax becomes strong once you get to the late game and have your core items. At this stage of the game, the best thing you can do is split-push; this means going to one of the side lanes (top or bottom) and pushing the minions. Jax's one vs one potential is excellent because of his kit and he pushes towers fast. Ensure you keep an eye on your team and rotate to the team if needed. In a team fight, your main goal is to get on top of the enemy backline! Use your combination of Counter Strike and Leap Strike to stun the backline and deal a lot of damage.
+
+Overall Jax is a pretty simple champion to play. Nothing too flashy and crazy. He's better at later stages of the game and if you like split pushing and being able to jump on the enemy back line to kill the enemies the Jax is a great champion for you.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

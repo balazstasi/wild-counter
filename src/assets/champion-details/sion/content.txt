@@ -1,0 +1,108 @@
+Title: Sion :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Sion in League of Legends: Wild Rift. Our build guide will teach you how to play Sion in the current meta.
+
+Headings:
+- Level 1 Sion Stats
+- Sion's Abilities
+- Sion  Build Guide for Wild Rift
+- Sion's Item Build
+- Sion's Spells & Runes
+- Sion's Situational Items
+- Sion's Situational Runes
+- Sion's Skill Order
+- How to Play Sion
+- Sion's Abilities
+- Glory In Death (Passive)
+- Decimating Smash (1)
+- Soul Furnace (2)
+- Roar of The Slayer (3)
+- Unstoppable Onslaught (Ultimate)
+- Sion Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Sion permanently gains 5 bonus health whenever he kills a unit, increased to  20 against large units, and champion takedowns.
+
+Upon taking fatal damage, Sion will reanimate himself Fearing those around him for 1 second, while slowing their Movement Speed by 90%. After reanimating, Sion can move and Attack, but his health rapidly decays while he is reanimated. Sion reanimates with 100% health, attacks at 1.75 attacks per second, gains 100% Physical Vamp, his attacks deal an additional 8% max Health magic damage, capped at 75 bonus damage against monsters and deal 50% damage to structures.
+
+All of Sion's abilities are replaced with Death Surge, which grants him 67% Movement Speed decaying over 2.38 seconds.
+
+Sion charges a heavy blow for up to 1.75 seconds.
+
+Recast: Sion slams his axe down, briefly Slowing enemies hit by 50% for 0.25 seconds and dealing between 50 / 75 / 100 / 125 (+45% / 55% / 65% / 75% AD) and 100 / 185 / 270 / 355 (+135% / 165% / 195% / 225% AD) physical damage based on charge time. If Sion charged for at least 0.75 seconds, enemies are Knocked Up and Stunned for between 1 and 2 seconds based on charge time.
+
+Minions take 60% damage, while Monsters take 120% damage.
+
+Sion gains a shield that absorbs 75 / 100 /125 / 150 (+40% AP +10% / 11% / 12% / 13% HP) damage for 6 seconds. After 2 seconds if the shield still holds, Sion can Recast to detonate the shield to deal 60 / 90 /120 / 150 (+40% AP) + 10% / 11% / 12% / 13% of their Max Health to all nearby enemies.
+
+Bonus damage is capped at 400 against monsters. The shield will automatically detonate after 6 seconds.
+
+Sion fires a shockwave, dealing  75 / 120 / 165 / 210 (+55% AP) magic damage and Slowing enemies hit by 50% / 55% / 60% / 65% for 2.5 seconds and removing 20% Armor for 4 seconds. Non-champions hit are Knocked Back.
+
+Enemies hit by a  Knocked Back unit take the same damage and effects.
+
+Sion charges Unstoppably in a direction, turning with player input. Sion stops when colliding with an enemy champion, structure, terrain, or when recasting the ability.
+
+When this happens, Sion will slam the ground with earth shattering force, dealing between 150 / 300 / 450 (+80% bonus AD) and 400 / 800 / 1200 (+80% bonus AD) physical damage while Stunning and Knocking Up enemies for 0.5 - 1.5 seconds based on charge time.
+
+Deals 50% damage to structures.
+
+Sion is a Baron Lane tank. He's one of the most versatile tanks in Wild Rift. He can adapt his build and playstyle to each game and can be played as a full tank, tanky bruiser, split pusher, and sometimes you can even build Sion as an AD assassin or bruiser. In general, Sion will always be a great tank who can fill the role needed for his team.
+
+Sion permanently gains bonus health whenever he kills a unit. This is increased against large units and champion takedowns. This makes Sion tanky as the game goes on. When playing in the Baron Lane, walk back and take the Krugs in your jungle. These Krugs will give you a lot of stacks and you'll gain more bonus health.
+
+When Sion takes fatal damage, he will reanimate himself, fearing those around him for a second while slowing their movement speed. After reanimating, Sion can move and attack, but his health rapidly decays while he is reanimated. All of Sion's abilities are replaced with Death Surge, which grants him movement speed decaying over time. This passive will catch a lot of enemies off guard. So make sure you stay near enemies even when you are about to die because you can come back to life and still get a few more kills.
+
+Sion charges a heavy blow for up to 2 seconds. Whilst the ability is charging, Sion can recast. When recast, Sion slams his mace down, briefly slowing enemies hit, dealing physical damage. If Sion charges long enough, enemies are knocked up and stunned instead based on charge time.
+
+Knowing how long you need to charge Decimating Smash to guarantee the knock-up is the most important thing you will need to learn and master. If Sion uses Decimating Smash in a bush with no vision, the ability will be hidden. You can use this as a sneak attack on the enemies.
+
+Sion gains a shield that absorbs damage for a few seconds. After a few seconds, if the shield still holds, Sion can recast to detonate the shield to deal damage to all nearby enemies.
+
+If you want to deal damage with Soul Furnace, using the ability while using other abilities is crucial. For example, when casting Decimating Smash, use Soul Furnace; then, by the time Decimating Smash knocks up and stuns the enemy, you can walk up and recast Soul Furnace to deal damage.
+
+Sion fires a shockwave, dealing magic damage, slowing them for over 2 seconds and removing 20% armour for a few seconds. Non-champion's hit are knocked back.
+
+Enemies hit by a Knocked Back unit take the same damage and effects. When in the laning phase, you want to use Roar of the Slayer on minions to try and hit the enemy champion. You can then combo this with Decimating Smash when they are slowed and take more damage.
+
+Sion charges unstoppably (meaning he cannot be cancelled by anything) in a direction, turning with player input. Sion stops when colliding with an enemy champion, structure, terrain or when recasting this ability. When this happens, Sion will slam the ground with earth-shattering force, dealing damage while stunning and knocking up enemies based on charge time.
+
+There is no time limit on how long Unstoppable Onslaught can go on. So if you want to, you can go around the Wild Rift map multiple times, clearing minion waves!
+
+Sion is a solo front-line tank that can survive loads of damage. Heartsteel is a core item for Sion. He gains stacking health throughout the game and damage based on how much bonus health he is building (which is a lot). Titanic Hydra is a great item that scales exceptionally well with all the health Sion builds and gets from items and runes. The more bonus health Sion gets, the more Attack Damage he'll get, meaning he can deal more damage.
+
+For runes, we have:
+
+You can walk up to enemy champions easily using Soul Furnace for the shield to auto-attack enemy champions and start stacking the extra health that can help a lot in the mid and late-game.
+
+Sion has multiple abilities that allow him to immobilize enemies. With Courage of the Colossus, Sion will gain a shield making him even more difficult to kill as a tank.
+
+Second Wind greatly helps Sion during the laning phase. It allows him to heal up so he can stay in the lane longer, and the effect is doubled for melee champions like him.
+
+Overgrowth allows Sion to gain permanent health throughout the game when nearby minions or monsters are killed. So the more Sion farms, pushes the lane and kills minions, the more Maximum Health he will get.
+
+Demolish works well with champions that can split push and build Hullbreaker like Sion. It helps you push and destroy towers quickly, giving you and your team a considerable advantage. Sion's passive allows him to gain bonus health throughout the game, increasing the damage from Hullbreaker.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for the killing blow. For the 2nd spell, it's best to go for Ignite. This can help get the final bit of damage you need to get a kill on an enemy champion.
+
+Sion does ok in the early game. He has plenty of ways to deal damage and clear the minion wave (if needed) and a lot of defenses with Soul Furnace, which allows you to walk up and start stacking Grasp of the Undying. You can use Sion's combo as early as level 3, so much sure you make full use of dealing as much damage as possible to win the early game trades in the lane.
+
+Sion is a great team fight champion in the late game. You can look to stay with your team during objective fights or go into a side lane to push with Hullbreaker. When a team fight happens, you want to make sure you are at the front protecting your team. You are a tank with a lot of health and resistance to survive a long time against the enemy team. Make sure you always go towards the biggest threat on the enemy team and try to kill them.
+
+Overall Sion is very easy to learn but also has a lot of potential for skill expression, making him an excellent champion for new players and masters alike.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

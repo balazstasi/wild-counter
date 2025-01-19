@@ -1,0 +1,106 @@
+Title: Milio :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Milio in League of Legends: Wild Rift. Our build guide will teach you how to play Milio in the current meta.
+
+Headings:
+- Level 1 Milio Stats
+- Milio's Abilities
+- Milio  Build Guide for Wild Rift
+- Milio's Item Build
+- Milio's Spells & Runes
+- Milio's Situational Items
+- Milio's Situational Runes
+- Milio's Skill Order
+- How to play Milio
+- Milio's Abilities
+- Fired Up! (Passive)
+- Ultra Mega Fire Kick (1)
+- Cozy Campfire (2)
+- Warm Hugs (3)
+- Breath of Life (Ultimate)
+- Milio Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+When Milio's abilities touch allied champions, their next attack deals additional magic damage equal to 10% of their Attack Damage, plus 13 + 2 (+20% AP) magic damage over 1.5 seconds.
+
+Burn damage does not stack with repeated hits.
+
+Kicks a fireball, knocking back the first enemy hit. The fireball then bounces past the target and explodes, dealing 80 / 160 / 240 / 320 (+80% AP) magic damage to nearby enemies and slowing them by 40% / 45% / 50% / 55% (+5% AP) for 1.5 seconds.
+
+The fireball knocks minions and monsters farther back. Explosions caused by minions and monsters also detonate in a larger area.
+
+Ignites a buffing Soothing Fire for himself or an allied champion for 6 seconds. While Soothing Fire is burning, Milio casts Fired Up! every 3 seconds.
+
+Self-cast: Grants 9% / 11% / 13% / 15% attack range and restores 80 / 100 / 120 / 140 (+15% AP) Health over time to himself and nearby allied champions.
+
+Cast on allied champions: Forms a tether between himself and the target, granting 9.5% / 13% / 16.5% / 20% attack range and restoring 80 / 100 / 120 / 140 (+15% AP) Health over time to both champions. When Warm Hugs or Breath of Life is cast, Milio shares all ability effects with the target.
+
+Recast: Selects a new ally (inherits the remaining duration of the first cast). The tether between Milio and the allied champion has no range limit.
+
+Wraps himself or an allied champion in protective flames, absorbing 60 / 100 / 140 / 180 (+30% AP) damage and granting 10% / 13% / 16% / 19% bonus Movement Speed for 2.5 seconds. The shield and bonus Movement Speed are stackable.
+
+Gains a charge every 16 / 15 / 14 / 13 seconds, storing up to 2 charges.
+
+Unleashes a wave of Soothing Fire around himself, removing disables and immobilizing effects from allied champions nearby, healing them for 150 / 250 / 350 (+50% AP) Health, and granting them 65% Tenacity for 3 seconds.
+
+Breath of Life does not remove knockback, knockup, and Airborne effects. Disables on Milio will also be removed.
+
+Milio is an enchanter Support. He excels at buffing his allies, giving them heals and shields, and even buffing their attack range so they can stay safe from enemy threats. Milio is a champion who doesn't do too much to carry by himself. He doesn't deal any damage, and most of his abilities will rely on someone on your team to help carry the game. This also means that during the laning phase, you won't be offering too much, so it's best to stay safe and let your carry farm, healing and shielding them when possible.
+
+When Milio's abilities touch allied champions, their next attacks deal additional magic damage, giving him an inbuilt Ardent Censer. This makes timing and targeting the right ally with your heals and shields crucial so your team can fully use the extra damage they'll be getting.
+
+Milio kicks a fireball, knocking back the first enemy hit. The fireball then bounces past the target and explodes, dealing magic damage.
+
+Milio can use this ability to knock enemies away from your carry and defend them from any danger. Milio can also use this ability on minions during the laning phase to knock the fireball into enemy champions.
+
+Milio ignites a buff for himself or an allied champion for a few seconds. There are two ways in which you can use this ability:
+
+Self-Cast: Milio will place a Campfire around him, granting attack range and restoring health over time to himself and nearby allied champions
+
+Cast on Allied Champions: Milio forms a tether between himself and the target, granting attack range and restoring health over time. Whilst tethered with an allied champion, Milio can use Warm Hugs and Breath of Life to share the ability with the target
+
+You will want to cast this ability and tether your AD Carry for most of the game. When tethering, it has unlimited range and will make it easier for you to use your other abilities to help keep them alive.
+
+Milio shields himself or an allied champion, absorbing damage and granting movement speed. This ability has two charges, and the shield and movement speed can stack.
+
+Remember, when using Cozy Campfire to tether to an ally, Milio can tap Warm Hugs to shield the tethered ally, making it easy to keep them alive by granting shielding and movement speed.
+
+Milio unleashes a wave of fire around himself, removing disables and immobilizing effects from allied champions nearby, as well as healing them and giving them Tenacity.
+
+Breath of Life doesn't have the biggest area around Milio, so ensure you stand close to your allies so when they get hit by any crowd control, you can save them with this ultimate.
+
+Milio does best with support items that help enhance the healing and shielding that his abilities provide. With that in mind, Ardent Censer is the perfect first item. Every time Milio uses his heals and shields, he buffs his allies, giving them attack speed and allowing them to deal more damage. Redemption is another excellent item. Since Milio needs to stand close to ally champions to buff them with Cozy Campfire and help cleanse them with his ultimate, redemption will be healing every few seconds to help keep your team alive.
+
+With runes, we have the following:
+
+Aery will help Milio with more shielding when healing or shielding an ally. Aery can also be used to deal a bit of extra poke damage with Ultra Mega Fire Kick.
+
+Milio can get extra attack range that he can also be given to his ally; this can give you an advantage during the laning phase and proc Font of Life to help heal up and sustain.
+
+At times, Milio will want to stand as close as the front line to help buff his team. This means that he can be exposed to some damage from enemy champions. Bone Plating will help Milio survive longer during these scenarios.
+
+Revitalize gives Milio's heals and shields more power, which is one of the main win conditions for this champion.
+
+Enchanter Supports like Milio loves to build as much Ability Haste as possible so he can use his abilities more often to heal, shield and give his allies attack range
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get you out of a bad situation and it enable you to Flash and save your ally or even get a kill. Heal works well as a 2nd summoner spell choice to help keep your AD Carry alive. However, if you want to play more aggressively, you can take Ignite to help kill the enemies.
+
+Milio doesn't offer too much during the early game. You can surprise enemy champions using Ultra Mega Fire Kick on minions to poke them during the laning phase. You have to be very careful when stepping forward; if you get caught out, you can die quickly. Your main goal is to get out of the laning phase without being behind and scale into the late game, where you can start buffing your AD Carry to allow them to carry the game.
+
+The later the game goes on, the more you can scale, and the stronger Milio will get. He's one of the best champions at giving your AD Carry buffs that they need to carry the game. It would be best to stay with your AD Carry at all costs to help keep them alive. The AD Carry in your team is one of the primary damage sources, and keeping them alive is extremely important.
+
+Milio is an easy and safe champion to play. He works great when playing in Duo Queue with friends where you can buff them to help them do as much damage as possible.Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

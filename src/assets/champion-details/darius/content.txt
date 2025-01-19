@@ -1,0 +1,119 @@
+Title: Darius :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Darius in League of Legends: Wild Rift. Our build guide will teach you how to play Darius in the current meta.
+
+Headings:
+- Level 1 Darius Stats
+- Darius's Abilities
+- Darius  Build Guide for Wild Rift
+- Darius' Item Build
+- Darius' Spells & Runes
+- Darius' Situational Items
+- Darius' Situational Runes
+- Darius' Skill Order
+- Darius' Item Build
+- Darius' Spells & Runes
+- Darius' Situational Items
+- Darius' Situational Runes
+- Darius' Skill Order
+- How to play Darius
+- Darius's Abilities
+- Hemorrhage (Passive)
+- Decimate (1)
+- Crippling Strike (2)
+- Apprehend (3)
+- Noxian Guillotine (Ultimate)
+- Darius Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Attacks cause enemies to bleed, dealing 13 + 2 x (based on level) (+40% bonus AD) physical damage over 5 seconds. Can stack up to 5 times. Upon reaching full stacks, Darius gains Noxian Might for 5 seconds, gaining 22 Attack Damage and applying full stacks of Hemorrhage instead of 1.
+
+Deals 150% damage to monsters.
+
+Swings his axe after a delay, dealing 18 / 32 / 46 / 60 (+35% / 40% / 45% / 50% AD) physical damage.
+
+Hitting enemies with the blade of the axe deals 50 / 90 / 130 / 170 (+100% / 115% / 130% / 145% AD), heals himself for 15% of his missing Health for each champion or large monster hit (max 45%) and applies Hemorrhage.
+
+Passive: Gains 15% / 22% / 29% / 36% Armor Penetration.
+
+Active: Pulls in enemies in front of him, slowing them by 40% for 1.5 seconds.
+
+Leaps to execute a champion. Deals 125 / 250 / 375 (+75% AD) true damage, increased by 20% per Hemorrhage stack, and applies Hemorrhage.
+
+Killing the target with Noxian Guillotine refreshes its cooldown, mana cost, and grants Noxian Might for 5 seconds and causes nearby minions and monsters to flee for 1.5 seconds.
+
+When casting Noxian Guillotine and the target dies, moves out of range, becomes untargetable, or activates Zhonya's Hurglass or Guardian Angel, the mana cost will be refunded and go on a 5 second cooldown.
+
+Darius is a Fighter who can play in the Solo Lane or Jungle. Darius has incredible carry power; a single reset with his Ultimate Noxian Guillotine has the potential to ace the entire enemy team. Darius is also super flexible when it comes to his build, depending on the matchup. When playing Darius, it is essential that you understand how to play around his passive Hemorrhage. When Darius damages an enemy, they take 1 stack of bleed, once you reach 5 stacks you gain Noxian Might for a few seconds which gives Darius bonus damage.
+
+Make sure to check the alternative build at the top of the page for playing Darius in the jungle.
+
+Attacks cause enemies to bleed, dealing physical damage over a few seconds and can be stacked up to 5 times. Upon reaching full stacks, Darius gains Noxian Might for a few seconds, gaining bonus attack damage and applying full stacks of Hemorrhage instead of 1.
+
+Hemorrhage is the most essential part of Darius's kit. The bonus AD you can get by reaching 5 stacks in 1vs1 or teamfights can swing the fight in your favour. Every decision you make during a game has to be around Hemorrhage and how to get 5 stacks and benefit from the bonus damage.
+
+Darius swings his axe around him after a delay dealing physical damage. Hitting enemies with the outer part of Decimate deals bonus physical damage and, heals himself for each champion hit, and applies Hemorrhage.
+
+Decimate is an important ability to master. There's a huge difference between hitting enemies on the inner and outer part of Decimate. To help you hit Decimate on the outer edge, make sure the enemy has used all their dashing abilities and use Apprehend & Flash to guarantee you hit enemies on the outer edge.
+
+Empowers Darius's next attack for a few seconds to deal additional physical damage and slow enemies for a second.
+
+This ability is an auto-attack reset to get Noxian Might quicker during a combo. It's slow will help keep you in range for other auto attacks and abilities.
+
+Passive: Gain 15% Armor Penetration
+
+Active: Darius pulls in enemies in front of him, slowing them for a few seconds.
+
+Apprehend is essential when engaging in teamfights as you can hook multiple people and it allows you to quickly stack Hemorrhage to deal bonus damage. You can combo Apprehend with Flash or Protobelt to surprise the enemy and increase the range of the pull.
+
+Darius leaps to execute a champion, dealing true damage increased by 20% per Hemorrhage (Passive) stack. Killing the target with Noxian Guillotine refreshes its cooldown and grants Noxian Might for a few seconds.
+
+This is Darius' signature move. The damage on this Ultimate is massive, and can ignore all armor with the incredible amount of true damage. It's important to be patient when using Noxian Guillotine, as getting a kill and reset gives you the potential to carry in teamfights.
+
+Trinity Force gives Darius incredible carry potential. The Spellblade passive can be used with his abilities to help him deal more damage to win in early duels or teamfights.
+
+Sterak's Gage gives Darius a shield, which is great for his survivability and ensures he doesn't get burst down, and he gets a lot of AD from it because he has very high base AD numbers.
+
+Death's Dance gives Darius more damage and survivability against multiple attack damage sources. The bleed effect especially allows you to tank up a lot more damage, and if you can get a single takedown, the heal is great.
+
+For runes, we have the following:
+
+Conqueror stacks up nicely alongside his passive Hemorrhage. You only need 1 extra auto attack to get it to full, giving Darius more damage and healing.
+
+Nullifying Orb helps Darius gain a shield when he is low on health, giving him more time to survive tough situations.
+
+Bone Plating helps Darius take reduced damage from melee champions who want to fully engage and have a lot of combos.
+
+Second Wind is a great choice when playing against poke damage.
+
+Overgrowth gives Darius permanent health throughout the game, making him more difficult to kill.
+
+Perseverance is another excellent choice against Crowd Control.
+
+Nimbus Cloak gives Darius movement speed when using a Summoner Spell to get into range to use his abilities. Without Nimbus Cloak, getting close to enemy champions can be challenging.
+
+Flash is a must for Darius since he has no mobility outside of Protobelt. He can get kited extremely easily and can be used to surprise enemies with his abilities.
+
+Ignite gives Darius incredible kill pressure on top of the bleed from Hemorrhage. Ghost can be another alternative option to help with movement speed during teamfights.
+
+In the early game, Darius can be a massive lane bully into a lot of melee matchups. With the bleed damage from Hemorrhage and the extra ad he gains, he can win a lot of early 1vs1s. Darius's Apprehend and Decimate are the most critical abilities early on to help you secure kills. Using these abilities at the right time and hitting enemies in the right place allows Darius to deal a crazy amount of damage. However, be careful against champions with a lot of dashes, as if your abilities get dodged, his power worsens.
+
+In the Late Game, Darius can struggle to make an impact during teamfights. He also gets outscaled by most Solo Lane champions that want to split push. However, you can still catch enemies off guard with your Flash and Apprehend. Look to focus high priority targets and squishy champions. Always keep track of the enemy's Flash timers so that when you look for an engage, it doesn't get wasted. If you can get one reset with Noxian Guillotine, the next champion you auto-attack will instantly apply 5 bleed stacks, increasing the duration of Noxian Might and giving Darius the potential to kill everyone and get an ace.
+
+Overall, Darius is a champion who has incredible carry potential with his reset mechanic on his ultimate. However, with his low mobility, it can be hard to understand his limits, and knowing when to use what ability will be extremely important.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

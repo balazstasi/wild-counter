@@ -1,0 +1,108 @@
+Title: Samira :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Samira in League of Legends: Wild Rift. Our build guide will teach you how to play Samira in the current meta.
+
+Headings:
+- Level 1 Samira Stats
+- Samira's Abilities
+- Samira  Build Guide for Wild Rift
+- Samira's Item Build
+- Samira's Spells & Runes
+- Samira's Situational Items
+- Samira's Situational Runes
+- Samira's Skill Order
+- How to play Samira
+- Samira's Abilities
+- Daredevil Impulse (Passive)
+- Flair (1)
+- Blade Whirl (2)
+- Wild Rush (3)
+- Inferno Trigger (Ultimate)
+- Samira Build Breakdown
+- Early Game
+- Late Game
+- Samira
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Samira builds a combo by dealing damage with attacks or abilities against enemy champions unique from the previous one. Each one increases her Style from "E" to "S".
+
+Samira fires a shot, dealing 15 / 20 / 25 / 30 (+90% / 105% / 120% / 135% AD) physical damage to the first enemy hit.
+
+If this ability is cast towards an enemy in melee range, Samira will slash with her blade in a cone instead, dealing the same damage to all enemies within.
+
+Either hit can critically strike for 25% bonus damage.
+
+If cast during Wild Rush Samira will strike all enemies in her path upon completion.
+
+Samira dashes through an enemy (including structures) slashing enemies she passes through, dealing 45 / 60 / 75 / 90 (+20% AD) magic damage and gaining 25% / 30% / 35% / 40% attack speed for 3 seconds.
+
+If Samira scores a takedown, Wild Rush's cooldown is reset.
+
+Tapping this ability mid-dash will cast Flair.
+
+Samira can only use this ability if her current Style rating is "S".
+
+Samira unleashes a torrent of shots from her weapons, reducing her Movement Speed by 30% while wildly shooting up to 5 enemies around her 10 times over 2.23 seconds, each shot dealing 5 / 20 / 35 (+ 60% AD) physical damage. Each shot can critically strike.
+
+Deals 25% damage to minions.
+
+Samira is an attack damage Marksman that is played in the Dragon Lane. She's a bit different from your traditional AD Carry that likes to just auto attack, as she is a very combo-reliant champion with mixing in abilities and auto-attacks to stack her passive, Daredevil Impulse, so she can use her ultimate, Inferno Trigger.
+
+Samira is a champion that doesn't mind dashing forward and being in melee because she has a melee form when she auto attacks or uses Flair in melee range.
+
+Samira builds a combo by dealing damage with attacks or abilities against enemy champions unique from the previous one. Each one increases her Style from E to S (E, D, C, B, A, S). The combo above is the fastest way to get from E to S. However, you can stay at range and use Flair + auto attack to get stacks since Flair has a low cooldown. Samira also gains movement speed per grade.
+
+Samira's attacks and abilities in melee range deal additional magic damage; this damage is increased based on the target's missing health. This means when the time is right, Samira wants to dash in to use her combos to deal a lot of damage.
+
+Most of the time, Samira is better when paired with a support with a lot of crowd control. This is because Samira's attacks against enemies affected by immobilizing effects will dash her to her attack range. If the enemy is knocked up, she also keeps them knocked up for a little bit longer.
+
+Samira fires a shot, dealing physical damage to the first enemy hit. Minions and monsters can block this ability, so when you want to stack her passive, it's crucial to make sure nothing is blocking the way between you and an enemy champion.
+
+If Flair is used towards an enemy in melee range, Samira will instead slash with her blade in a cone. This damage will deal additional magic damage because of her passive.
+
+Samira slashes around her, damaging enemies twice, dealing physical damage. It's important to note when the two instances of damage happen, which will help you a lot when stacking her passive. The two damage cases happen at the start of Blade Whirl and the end.
+
+Blade Whirl also destroys any enemy missiles that enter the area. This includes crowd control like Lux's Light Binding and Morgana's Dark Binding. Your reaction time will be crucial to know when to use Blade Whirl to both black enemy abilities and use both damage instances to stack her passive quicker.
+
+Samira dashes through a target slashing enemies she passes through, dealing magic damage and gaining attack speed for a few seconds. Samira can also use Wild Rush when Blade Whirl or Inferno Trigger is active.
+
+If Samira scores a takedown, Wild Rush's cooldown is reset, meaning she can dash to multiple enemies in a single team fight. Whilst in mid-dash, you can click on the ability against to cast Flair. This will give you two easy stacks of Samira's passive and saves you from moving your thumb.
+
+Samira's ultimate has a very low cooldown. However, Samira can only use this ability if her current Style rating is S.
+
+When using Inferno Trigger, Samira unleashes a torrent of shots from her weapons, reducing her movement speed while widely shooting up to 5 enemies around her ten times for just over 2 seconds, each shot dealing physical damage. Shots can critically strike.
+
+Samira does well when building attack damage items. As you can see, there are not a lot of attack speed items in the build. This is because Samira relies more on dashing forward and using her combos and damage from abilities. Bloodthirster is the strongest item for Samira. You get a huge amount of attack damage, especially when you have not lost a lot of health. Even when you lose health, the Physical Vamp from Bloodthirster can help you heal from minions or monsters. Infinity Edge is another excellent item for Samira. It helps her auto attacks and abilities deal even more Critical Strike Damage.
+
+Onto the runes, we have:
+
+Samira will be attacking and using her abilities and combos to deal damage. This means you can get six stacks quickly, so she can deal extra damage and gain Physical Vamp.
+
+Since Samira auto-attacks a lot. Brutal is a great choice that helps Samira's auto-attacks deal more damage at all stages of the game.
+
+When enemy champions are low on health, Samira can deal bonus damage. This will help her when looking to dash in to stack up her passive and kill enemies with her ultimate.
+
+The healing from Bloodline will be more beneficial for Samira for the sustain and survivability compared to attack speed from Alacrity. Legend: Tenacity is another excellent option when playing against champions that have Crowd Control.
+
+When using Samira's 3rd ability, Wild Rush, she will gain Armor Penetration to deal more damage. This will help her when dashing in with her combo.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get you out of a bad situation or allows you to Flash into the team to get the killing blow! The go-to 2nd spell is Exhaust. Exhaust is perfect because Samira wants to go into melee range to deal extra damage and use her combos so she can use her ultimate.
+
+Samira is not the best champion in the early game. You can use Samira's Flair from range to last hit minions or poke down the enemy champions since it has a low cooldown and doesn't cost that much mana. You have the best opportunity to go in for a fight when your support engages. This is why champions like Nautilus and Thresh work amazingly with Samira because she can follow up with her passive to start dealing a lot of damage.
+
+Once you reach the mid to late game and have your core items, this is where Samira can look to dash in when she can and start using her combos to get her ultimate and deal a lot of damage. It's always best as a Marksman to stay grouped with your team. However, you want to keep an eye out for any engage from your team and look to follow up immediately instead of staying in the back line. Most of the time, you are the main damage output, so if you are caught by yourself and die, then your team is in big trouble, so make sure you stay safe at all times.
+
+Samira is a very fun champion to play. She is different from any other Duo Lane Marksman that you will play, she focuses more on dashing in using her combos and outplay potential to carry the game.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

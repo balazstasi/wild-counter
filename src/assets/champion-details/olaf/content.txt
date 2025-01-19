@@ -1,0 +1,87 @@
+Title: Olaf :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Olaf in League of Legends: Wild Rift. Our build guide will teach you how to play Olaf in the current meta.
+
+Headings:
+- Level 1 Olaf Stats
+- Olaf's Abilities
+- Olaf  Build Guide for Wild Rift
+- Olaf's Item Build
+- Olaf's Spells & Runes
+- Olaf's Situational Items
+- Olaf's Situational Runes
+- Olaf's Skill Order
+- Olaf's Item Build
+- Olaf's Spells & Runes
+- Olaf's Situational Items
+- Olaf's Situational Runes
+- Olaf's Skill Order
+- How to play Olaf
+- Olaf Build Breakdown
+- Jungle Path
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Throws an axe, dealing 50 / 110 / 110 / 230 (+100% AD) physical damage and slowing by 20% / 25% / 30% / 35% for 2 seconds.
+
+Picking up the axe reduces Undertow's cooldown by 4.5 seconds.
+
+Inflict  20% armor reduction for 4 seconds on enemy champions.
+
+Dash to an enemy and deal 55 / 115 / 175 / 235 (+50% AD) true damage. If the enemy does not die, Olaf takes 28 (+15% AD) true damage.
+
+Attacks lower the cooldown of Reckless Swing by 1 second.
+
+Deals 80% damage to monsters.
+
+Passive: Gain 25 / 35 / 45 Armor and Magic Resist.
+
+Active: Becomes immune to crowd control and gains 5 / 15 / 25 (+20% AD) Attack Damage for 4 seconds. Also gains 20% Movement Speed when moving toward enemy champions for 1 second upon cast.
+
+Ragnarok's duration is increased by 2.5 seconds for each basic attack or cast of Reckless Swing against an enemy champion.
+
+Ragnarok can be cast while under the effects of crowd control.
+
+Olaf is a fighter jungler. He has one of the best early games in terms of clearing and 1 vs 1 potential vs the enemy jungler. He can also be strong in the mid and late-game which makes him an all-around good pick. Once Olaf reaches level 5 and gets Ragnarok, he can run into any lane and get an advantage. Ragnarok allows Olaf to ignore all crowd control, so you can just run towards the enemy really easily and start to do a bunch of damage.
+
+Olaf can also be played in the Baron lane, make sure to check the alternative build at the top of the page! The build with Olaf Baron Lane is very similar to the jungle build with just a few changes to make him tankier, there is not really much else that is different in terms of playstyles.
+
+Olaf uses a mixture of both AD and tank items that allow him to deal a lot of damage and survive. Trinity Force is an excellent first item for Olaf that gives him stats to allow him to carry his team. He also gains extra movement speed and damage from the passives. Sterak's Gage is a great example of a tank item that works well with Olaf. It gives him some health and when he is low on health he gets a shield to keep him alive longer.
+
+For runes, we have the following:
+
+Olaf is a fighter, so he wants to get in the enemies' faces and attack constantly. This allows him to get the six stacks pretty fast, which means he can deal more damage and get a lot of physical vamp when fully stacked.
+
+Olaf will be in many team fights running onto the backline and trying to kill the enemy carries, so restoring health every time he gets a takedown can come in really clutch and allow him to carry on fighting.
+
+Last Stand helps Olaf deal more damage when he drops low on health. Since Olaf is a bruiser and he builds some Health in his build, falling low on health is not too much of a problem.
+
+Alacrity gives Olaf Attack Speed, which will help him clear jungle camps quicker and stack up to help him attack more often during team fights.
+
+Overgrowth allows Olaf to gain permanent health throughout the game when nearby minions or monsters are killed. So the more Olaf farms in the jungle, the more Maximum Health he will get. This will make Olaf super tanky whilst also dealing a lot of damage.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for the killing blow. Smite is a must for when you are playing jungle. Helps you out a lot when clearing the jungle and securing the epic monsters.
+
+Olaf has a very fast early jungle clear. This means that you can work your way around the jungle really quick and be aggressive when contesting the scuttle crabs in the rivers. It is important to start at Blue Sentinal as Olaf can struggle on mana a lot so it will help him out when working your way through the jungle.
+
+This is what the jungle patch would look like:
+
+Below is a beginner's guide for jungle in Wild Rift. It goes in-depth about every jungle camp, epic monsters and more!
+
+Olaf does pretty well in the late game. You can team up and run down the enemies with your ultimate. When in a team fight, your main goal is to get on top of the enemy backline and try your best to kill them. Your main job as a jungler is to keep track of when Dragons, Rift Herald, and Baron spawn. Taking these epic monsters will give you and your team an advantage in the game. When in a team fight, try your best not to get caught out and try to keep auto-attacking and using your abilities to deal damage.
+
+Overall Olaf is a good all-around jungler. Great for people that have just started playing Wild Rift and want to give the jungle a try. Olaf is really good at running down enemies and dealing a lot of damage to carry the game.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

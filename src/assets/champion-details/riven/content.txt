@@ -1,0 +1,115 @@
+Title: Riven :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Riven in League of Legends: Wild Rift. Our build guide will teach you how to play Riven in the current meta.
+
+Headings:
+- Level 1 Riven Stats
+- Riven's Abilities
+- Riven  Build Guide for Wild Rift
+- Riven's Item Build
+- Riven's Spells & Runes
+- Riven's Situational Items
+- Riven's Situational Runes
+- Riven's Skill Order
+- Riven's Item Build
+- Riven's Spells & Runes
+- Riven's Situational Items
+- Riven's Situational Runes
+- Riven's Skill Order
+- How to play Riven
+- Riven's Abilities
+- Runic Blade (Passive)
+- Broken Wings (1)
+- Ki Burst (2)
+- Valor (3)
+- Blade of the Exile (Ultimate)
+- Riven Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Abilities charge Riven's blade up to 3 times.
+
+Attacks expend charges to deal 21 bonus physical damage (32% AD)
+
+Bonus damage to monsters and structures is reduced to 50%.
+
+Slash in a direction up to 3 times. Each slash deals 20 / 45 / 70 / 95 (+55% / 60% / 65% / 70% AD) physical damage to nearby enemies.
+
+The third slash crosses terrain and knocks up nearby enemies for 0.5 seconds.
+
+Tap-casting prioritizes champions and large monsters within slash range.
+
+Dash in a direction and gain a shield absorbing 75 / 110 / 145 / 180 (+90% AD) damage for 2 seconds.
+
+Valor cannot cross terrain.
+
+Expand Riven's blade for 12 seconds, granting 25% bonus Attack Damage, increasing the range of her attacks and damaging abilities, and granting a single cast of Wind Slash.
+
+Wind Slash: Launches a shockwave, dealing 100 / 150 / 200(+60% AD) to 300 / 450 / 600 (+180% AD) physical damage based upon enemies' missing health.
+
+During Blade of the Exile, every takedown of a target resets the number of Wind Slash casts she has and extends this ability's duration for 3 seconds more, up to 12 seconds.
+
+Riven is a top lane fighter. She does ok in the early game and can do well in the laning phase thanks to all her mobility from Broken Wings and Valor . Once you get to level 5 and have access to Blade of the Exile, you can get a lot more burst damage off and try to kill the enemies. Riven also has insane 1 vs 1 potential and is great if you can split push in a side lane.
+
+Riven can also be played in the jungle and mid lane, make sure to check the alternative build at the top of the page! With Riven in the jungle, the build and playstyle are the same. The only difference is that you will need to make sure you change to the Smite summoner spell and the runes are slightly different. In the mid lane, the build and play style are the same.
+
+When Riven uses an ability, it charges her blade up to 3 times. Attacks expend charges to deal additional physical damage.
+
+The blade can only be stacked up to 3 times so it's important to auto-attack in between using all of your abilities to get the most potential from the extra damage granted by the passive.
+
+Riven slashes in a direction up to 3 times. Each slash deals physical damage to nearby enemies.
+
+The third slash crosses terrain so you can jump over pretty much every wall to either escape or get closer to the enemies. Also, it knocks up nearby enemies for just under a second.
+
+Most of the time you want to charge up your Broken Wings twice so you can get a quick knock up into a stun from Ki Burst.
+
+Riven stuns nearby enemies for just under a second, dealing physical damage. Ki Burst has a really small radius so it's important to make sure that you are on top of enemies to guarantee the stun hits.
+
+Make sure to use Broken Wings and Valor to help you with that. Ki Burst also has a really fast cast time so you can stun as soon as you press the ability.
+
+Riven dashes in a direction and gains a shield absorbing damage for just over a second. It's important to note that with Valor you cannot cross terrain like the 3rd attack of Broken Wings.
+
+It's important to use this spell when you are about to take damage as the shield does not stay on Riven for long. You can also use Valor to get that extra distance to land the knock up from Broken Wings or stun from Ki Burst.
+
+Riven expands her blade for a few seconds, granting attack damage, increasing the range of her attacks and damaging abilities, and granting a single cast of Wind Slash.Evert takedown of a target resets the number of Wind Slash and extends the ability duration.
+
+Make sure you use Blade of the Exile at the start of every fight even if it turns into a short trade because its important to get that extra damage and can turn into a kill.
+
+Wind Slash launches a shockwave dealing physical damage based on the enemies' missing health. This means that you need to make sure you use it at the end of the fight when enemies are low on health as you will deal more damage.
+
+Riven uses a mixture of both damage and tank items that work well to help with her damage and keep her alive for longer. Eclipse synergies well with Riven's kit. Since she has low cooldowns and can spam her abilities she'll be able to proc Eclipse and gain a shield to win trades throughout the game. Black Cleaver is a core item for Riven. It gives her much-needed health, attack damage and, most importantly, ability haste so she can use her abilities more often, and it helps her reduce the armour of enemy champions.
+
+For runes, we have the following:
+
+Riven is a fighter, so she wants to get in the enemy's face and attack constantly. This allows her to get the six stacks pretty fast, which means she can deal more damage and get a lot of physical vamp when fully stacked.
+
+With Riven's passive, she'll always be auto-attacking in between using her abilities. With Brutal, these auto attacks will do more damage, helping Riven deal more damage.
+
+When enemy champions are low on health, Riven can deal bonus damage. This will help Riven when she is dashing into the enemy backline. Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+Alacrity gives Riven Attack Speed, which will help her feel smoother when auto attacks between her abilities to get full benefit from her passive, Runic Blade. Legend: Tenacity is another excellent option when playing against champions that have Crowd Control.
+
+Since Riven is generally at the front during team fights dashing around, she will take a lot of damage. Bone plating will help Riven take reduced damage from the first three instances of damage which will help her survive longer.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for the killing blow. For the 2nd spell, it's best to go for Ignite. This helps Riven try and take advantage of her early game mobility to trade against the enemy and get early kills.
+
+Riven does fairly well in the early game with all of her mobility. Make sure to auto-attack in between using abilities to make the most out of her passive, Runic Blade. It's best to play passive in the early game unless you have a great opportunity to go in if the enemy makes a mistake. Once you get level 5, you can try and look for an engage onto the enemy top lane when you have an opportunity to kill.
+
+Once you get to the late game and Riven has her core items, this is where you can become unstoppable. At this stage of the game, the best thing you can do is to group with the team and try and get a pick on the enemy carries. When a team fight happens, you want to make sure you are at the front protecting your team. Make sure you always go towards the biggest threat on the enemy team and try to take them down.
+
+Overall Riven is such a fun champion to play and you can make so many cool outplays with all her mobility and high damage output. She is really strong right now and you should definitely give her a try!
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

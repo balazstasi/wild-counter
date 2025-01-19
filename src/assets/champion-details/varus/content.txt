@@ -1,0 +1,74 @@
+Title: Varus :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Varus in League of Legends: Wild Rift. Our build guide will teach you how to play Varus in the current meta.
+
+Headings:
+- Level 1 Varus Stats
+- Varus's Abilities
+- Varus  Build Guide for Wild Rift
+- Varus' Item Build
+- Varus' Spells & Runes
+- Varus' Situational Items
+- Varus' Situational Runes
+- Varus' Skill Order
+- How to play Varus
+- Varus Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Hold: Draws the bow, gradually increasing the range and damage for the next shot. Movement Speed is slowed by 20% while preparing to shoot.
+
+Release: Fires an arrow, dealing 20 / 70 / 120 / 170 (+125% AD) to 30 / 105 / 180 / 255 (+187.5% AD) physical damage, reduced by 15% per enemy hit ( minimum 33%).
+
+Piercing Arrow's cooldown is reduced by 4 seconds if the arrow detonates Blight stacks on at least one enemy champion. Piercing Arrow fails if not released after 4 seconds, but will refund 50% of its Mana cost.
+
+Passive: Attacks deal 12 / 16 / 20 / 24 (+20% AP) magic damage and apply Blight for 6 seconds ( stacks 3 times). Varus' other abilities detonate Blight, dealing 5% / 5.5% / 6% / 6.5% (+1% AP) magic damage of the target's max Health per stack.
+
+Active: Doubles the bonus on hit damage from Blighted Quiver's passive for 6 seconds. The next Piercing Arrow deals bonus magic damage equal to 8% to 16% of the target's missing Health, increased by 0% - 100% (based on Piercing Arrow's charge time).
+
+Fires a hail of arrows that deal 70 / 115 / 160 / 205 (+90% AD) physical damage and desecrates the ground for 4 seconds. Desecrated ground slows enemies by 25% and applies 40% Grievous Wounds.
+
+Grievous Wounds reduces the effectiveness of Healing and Regeneration effects.
+
+Flings out a tendril of corruption that deals 150 / 250 / 350 (+85% AP) magic damage and roots the first enemy champion hit for 2 seconds.
+
+The corruption then spreads toward nearby enemy champions, also immobilizing them on contact. Immobilized units gain 3 Blight stacks over the next 3 seconds.
+
+Varus is a dragon lane champion. He uses a mix of attack damage with auto-attacks and magic damage with his poke against the enemies to kill them. He also has great crowd control to help the team. He is not the best in the early game because he doesn't do a lot of damage and has very short range. The later the game goes and the more items he gets, the stronger he becomes. This is because of his really fast attack speed, great poke from Piercing Arrow, and crowd control potential from Chain of Corruption.
+
+Varus does really well when building attack damage and lethality items to deal a lot of damage with his poke from his Piercing Arrow. Essence Reaver is a great first item. The item gives Varus a lot of attack damage and the passive means Varus will be hurting a lot when using his abilities, especially Piercing Arrow. Trinity Force is another excellent item for Varus. Trinity gives Varus all the stats he needs as well as the passives which increase his movement speed and damage.
+
+Onto the runes, we have:
+
+Varus uses multiple abilities and auto attacks when in fights, making it easy to proc Phase Rush. This gives him movement speed, which is crucial for a marksman with no mobility, and instant ability haste so he can use his abilities multiple times in a teamfight.
+
+Brutal gives Varus's auto attacks more damage giving him a lot of power in the early game to try and get an advantage to carry his team.
+
+When enemy champions are low on health, Varus can deal bonus damage. This will help Varus kill enemies faster with his auto attack and abilities. Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+Alacrity gives Varus attack speed which helps him stack his Blighted Quiver stacks faster to do more damage. Legend: Tenacity is another excellent option when playing against champions that have Crowd Control.
+
+As a marksman, Varus will always be the main focus for the enemy team to try and take down. However, Bone Plating will help Varus take reduced damage from the first three instances of damage which can save his life.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get you out of a bad situation or allows you to flash into the team to get the killing blow. The go-to 2nd spell is Exhaust. Varus doesn't have a lot of mobility so when enemy champions step too close you can use Exhaust to help win fights.
+
+Varus is not the best champion in the early game. You can use your Piercing Arrow at distance to help clear minions and/or use it to poke down the enemy. You want to stay back and play as passive as you can to try not to die so you can farm up to get your core items. Once you reach level 5 and have access to Chain of Corruption, you can look for an opportunity to engage and try to get a kill.
+
+Once you reach the late game and have your core items, this is where Varus can use his poke to kill the whole team. It's always best as an AD Carry to stay grouped with your team. You want to stay as far back from the enemies as possible and allow your front line to go in front of you to tank all the damage. Most of the time you are the main damage output, so if you are caught by yourself and die then your team is in really big trouble, so make sure you stay safe at all times.
+
+Varus is a great starter champion if you want to give Dragon Lane a try! His abilities are really simple and he has a great play style for beginners that are just starting to play Wild Rift. If you're looking for a champion that can stay back and use abilities to poke down the enemies and an ultimate to crowd control and win the game then Varus is the right champion for you.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

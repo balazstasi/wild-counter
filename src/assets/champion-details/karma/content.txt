@@ -1,0 +1,108 @@
+Title: Karma :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Karma in League of Legends: Wild Rift. Our build guide will teach you how to play Karma in the current meta.
+
+Headings:
+- Level 1 Karma Stats
+- Karma's Abilities
+- Karma  Build Guide for Wild Rift
+- Karma's Item Build
+- Karma's Spells & Runes
+- Karma's Situational Items
+- Karma's Skill Order
+- Karma's Item Build
+- Karma's Spells & Runes
+- Karma's Situational Items
+- Karma's Situational Runes
+- Karma's Skill Order
+- How to play Karma
+- Karma's Abilities
+- Mantra (Passive)
+- Inner Flame (1)
+- Focused Resolve (2)
+- Inspire (3)
+- Transcendent Embrace (Ultimate)
+- Karma Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Fires a blast of energy, dealing 60 / 100 / 140 / 180 (+40% AP) magic damage to the first target hit and surrounding enemies, and slowing them by 35% for 1.5 seconds.
+
+Mantra: Increases the destructive power of the blast, dealing 65 / 140 / 215 / 290 (+50% AP) magic damage to the first target hit and surrounding enemies. The blast leaves a field for 1.5 seconds, slowing targets by 42.5% / 45% / 47.5% / 50%, after which it explodes and deals 40 / 80 / 120 / 160 (+50% AP) magic damage.
+
+Tethers up to two nearby enemy champions, dealing 35 / 60 / 85 / 110 (+40% AP) magic damage and revealing them for 1.75 seconds. If targets fail to break the tether, they take 40 / 70 / 100 / 130 (+45% AP) magic damage and are rooted for 1 / 1.25 / 1.5 / 1.75 seconds.
+
+Mantra: A new tether will be fromed between tethered targets. If there is only one tethered target, the new tether will spread toward an additional nearby enemy champion. If targets fail to break all the tethers, they take 40 / 70 / 100 /130 (+45% AP) magic damage and are rooted for an improved 1.5 / 1.75 / 2 / 2.25 seconds.
+
+Grants an allied champion 70 / 100 / 130 / 160 (+ 65% AP) shield for 3 seconds and 30% movement speed for 1.5 seconds.
+
+Mantra: Karma focuses her power, granting a 140 / 200 / 260 / 320 (+65% AP) shield that decays over 4 seconds and 60% movement speed that decays to 20% over the same duration.
+
+An additional ring is generated around the shielded target, and the first ally champion who enters the ring will be granted the same shield and movement speed.
+
+Immediately enters Mantra state.
+
+Forms a ring of spirit energy at the taget location. After 1 second, it detonates, dealing 170 / 280 / 390 (+80% AP) magic damage to all enemies inside the circle and slowing them by 35% for 1 second. If enemies are hit by the outer ring, they will be knocked back toward the center.
+
+Karma is a very versatile chjampion that can be played in multiple different roles. Wherever she is played on the Rift she offers a lot of utility with all her shields and crowd control from Focused Resolve and Inspire. Karma is also one of the biggest bullies in the game with her crazy damage from Inner Flame that can help her snowball the early game and get advantages for her team.
+
+Karma can also be played in the Mid Lane, make sure to check the alternative build at the top of the page! The build with Karma Mid lane is very similar to the support build. There is not much else that is different in terms of play styles.
+
+Every spell, Karma casts grants her a stack of Mantra. At 3 stacks, she enters a Mantra State, enhancing her next basic ability (not including ultimate).
+
+You can tell how many stacks you have of Mantra by the marks underneath Karma's mana bar. When the 3rd mark turns purple and the abilities glow you know you are in Mantra State.
+
+When coming from base (whether you just died or recalled) it's always worth it to use abilities to get 3 stacks so when you get to the next fight you will be in Mantra State straight away.
+
+Karma fires a blast of energy, dealing magic damage to the first target hit and surrounding enemies, and slowing them for just over a second. This ability is really strong when used for poke during the laning phase.
+
+Mantra Version - Increases the destructive power of Inner Flame's blast, dealing magic damage to the first target hit and surrounding enemies. The blast leaves a field for just over a second, slowing targets by 50% after which it explodes and deals more magic damage.
+
+Karma tethers up to two nearby enemy champions, dealing magic damage and revealing them for over a second. If targets fail to break the tether (by walking away from Karma), they take magic damage and are rooted for a second. Focused Resolve is a great combo with Inspire because the extra movement speed makes it much harder for the enemies to escape the tether.
+
+Mantra Version - When you active Focused Resolve, a new tether will be formed between the tethered targets. If there is only one tethered target, the new tether will spread toward an additional nearby enemy champion. If targets fail to break all the tethers, they take magic damage and are rooted.
+
+Karma grants an allied champion or herself a shield and movement speed for a few seconds.
+
+Mantra Version - Karma focuses her power, granting a stronger shield and more movement speed that decays over time for a few seconds. An additional ring is generated around the shielded target, and the first ally champion who enters the ring will be granted the same shield.
+
+When Karma uses her ultimate, she will immediately enter Mantra state, meaning her next ability after her ultimate will be enhanced. Most of the time before using your ultimate you want to make sure you use one of the Mantra enhanced abilities so you can use 2 enhanced abilities in a short period of time.
+
+Karma's ultimate forms a ring of spirit energy at the target location. After a second, it detonates dealing magic damage to all enemies inside the circle and slowing them for a second. If enemies are hit by the outer ring, they will be knocked back toward the centre.
+
+Karma does best with Ability Power items that enhance her abilities to deal more damage and get more shielding. With that in mind, Luden's Echo is a great first item for Karma. It's not a 'Support' item, but the stats and passive benefit her a lot when trying to carry your team. Crown of the Shattered Queen is another great item for Karma. Not only does the item give her great stats to do more damage but the spell shield will help protect her from any incoming damage.
+
+With runes, we have the following:
+
+Karma has an incredible amount of poke damage with her abilities that can be combo'd together. Arcane Comet will help Karma deal extra damage when poking enemy champions.
+
+Scorch gives Karma a lot of poking power in the early game with the empowered version of Inner Flame with Mantra passive. This can help you win trades early on.
+
+Karma has many abilities that can impaire the movement of enemy champions which means Karma will deal true damage.
+
+Eyeball Collector is great since it gives Karma more Ability Power every time she gets a takedown. Zombie Ward can also be a good choice if you often roam and look to kill wards.
+
+Ability Power mages/enchanters like Karma love to build as much Ability Haste as possible so she can use her abilities more often. This is especially good for Karma since she can use her abilities to stack her passive to empower her next ability.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get you out of a bad situation or allows you to Flash and save your ally or even maybe get a kill. Ignite is a great 2nd summoner spell for Karma as you want to look to take aggressive trades in the early game because of your high damage output.
+
+Karma does extremely well in the early game, you can poke the enemies with Inner Flame and catch enemies off guard with Focused Resolve. If you can time your Inspire's shield, you can win trades vs the enemy bot lane. You do have to be careful at times when stepping forward with Karma, as if you get caught out and engaged you can die very fast since you are a very squishy champion and don't have a lot of health.
+
+The later the game goes, the stronger Karma gets as her damage gets crazy with all her damage items and First Strike. It is really important as a support that you stay with your team and help them during team fights. Prioritize staying back and keeping your carries alive protecting them against the enemy team using everything possible to keep them alive. Most of the time your AD Carry will be the main carry so protecting them will be a priority however you can also deal a lot of damage so bare that it mind and make sure you keep yourself alive.
+
+Karma is a very fun and safe champion to play! She is great at keeping your team alive and can pressure a lot in the laning phase to give your Dragon Lane partner a lot of breathing room.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

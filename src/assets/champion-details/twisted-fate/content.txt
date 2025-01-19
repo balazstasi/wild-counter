@@ -1,0 +1,74 @@
+Title: Twisted Fate :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Twisted Fate in League of Legends: Wild Rift. Our build guide will teach you how to play Twisted Fate in the current meta.
+
+Headings:
+- Level 1 Twisted Fate Stats
+- Twisted Fate's Abilities
+- Twisted Fate  Build Guide for Wild Rift
+- Twisted Fate's Item Build
+- Twisted Fate's Spells & Runes
+- Twisted Fate's Situational Items
+- Twisted Fate's Situational Runes
+- Twisted Fate's Skill Order
+- How to play Twisted Fate
+- Twisted Fate Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+First Cast: Start Shuffling Twisted Fate's Deck.
+
+Second Cast: Pick a card to empower his next attack.
+
+Red Cards deal 30 / 50 / 70 / 90 (+60% AP +100% AD) magic damage in an area and slow by 35% / 40% / 45% / 50% for 3 seconds.
+
+Blue Cards deal 40 / 65 / 90 / 115 (+75% AP +100% AD) magic damage and restore 60 / 90 / 120 / 150 Mana.
+
+Gold Cards deal 15 / 25 / 35 / 45 (+50% AP +100% AD) magic damage and stun for 1.25 / 1.5 / 1.75 / 2 seconds.
+
+Passive: Gains 15% / 20% / 25% / 30% Attack Speed. Every 4th attack deals 50 / 80 / 110 / 140 (+45% AP) magic damage.
+
+Active: Gain 30% / 35% / 40% / 45% Attack Speed for 3 seconds. During this time, attacking enemy champions rolls Loaded Dice.
+
+First cast: Reveals all enemy champions for 6 / 7 / 8  seconds.
+
+Second Cast: Channel for 1.5 seconds to teleport to target location.
+
+Twisted Fate is a mage. He is a mid-lane champion that uses his abilities to crowd control, wave clear, and burst the enemies. He excels in single target damage with his Yellow Card from Pick a Card and using his other spells to deal a lot of damage. When playing Twisted Fate, it's best to play safe before you hit level 5, this is when you unlock Destiny. Twisted Fate's Ultimate is a semi-global Ultimate that you can use across the whole map, this allows you to quickly teleport to the side lanes and get your team an advantage.
+
+Twisted Fate does great with most ability power items. His main source of damage is from all his abilities. It's important to get Luden's Echo first for the extra mana, ability haste, and ability power. Luden's Echo also works well when clearing minion waves because of its passive. Lich Bane is another great item that helps with Twisted Fate's single target damage. Every time you activate Pick a Card you activate the passive Spellblade so your next attack will have increased damage.
+
+With runes, we have the following:
+
+A great way to deal extra damage with your combo (Pick a Card Stun + Wild Cards + Auto-Attack).
+
+When using Twisted Fate's Pick a Card to stun an enemy champion, you can easily hit Wild Cards afterwards, dealing additional damage.
+
+Twisted Fate can impair the movement of enemy champions by hitting her Gold Card with Pick a Card, dealing True Damage, which ignores all magic resist the enemy champions build.
+
+Eyeball Collector is great since it gives Twisted Fate more Ability Power every time he gets a takedown. Zombie Ward can also be a good choice if you often roam and look to kill wards.
+
+When playing Twisted Fate, sometimes you might use Destiny in very awkward spots and take a lot of damage. Bone Plating will help you take reduced damage.
+
+For Summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for the killing blow. For the 2nd spell, it's best to go for Barrier. This helps Twisted Fate survive especially in the early game where he is not that strong. The most important thing to note with this summoner spell is that it does not last a long time so you need to make sure you use it when you are about to take damage.
+
+Twisted Fate struggles a bit in the early game. Most of the time you want to stay back and use your Wild Cards to last hit minions and poke down the enemy. Once you hit level 5 and get access to Destiny, this is your time to shine. Look at the top and bottom lanes and see if you get an opportunity to roam and get kills. This is your best opportunity to get you and your team ahead. Make sure when using Destiny that you have your Gold Card (from Wild Cards) ready to stun the enemies when you arrive.
+
+When you reach the mid and late game and have a few items, this is where Twisted Fate can be very useful. When you are grouped with your team and about to have a team fight, the best thing you want to do is get onto their backline where you can kill the enemy carries. You have a lot of opportunities to lock down the enemy carries and can do a lot of burst damage with your Pick a Card and Wild Cards.
+
+Overall Twisted Fate has a lot of potential to roam around and get your team ahead. He doesn't have the best 1 vs 1 potential but if you like to roam around and help your team then he is the go-to champion for you.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

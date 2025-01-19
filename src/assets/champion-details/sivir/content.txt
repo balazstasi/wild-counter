@@ -1,0 +1,100 @@
+Title: Sivir :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Sivir in League of Legends: Wild Rift. Our build guide will teach you how to play Sivir in the current meta.
+
+Headings:
+- Level 1 Sivir Stats
+- Sivir's Abilities
+- Sivir  Build Guide for Wild Rift
+- Sivir's Item Build
+- Sivir's Spells & Runes
+- Sivir's Situational Items
+- Sivir's Situational Runes
+- Sivir's Skill Order
+- How to play Sivir
+- Sivir's Abilities
+- Fleet of Foot (Passive)
+- Boomerang Blade (1)
+- Ricochet (2)
+- Spell Shield (3)
+- On The Hunt (Ultimate)
+- Sivir Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Sivir hurls her crossblade, dealing 10 / 30 / 50 / 70 (+70% 75% / 80% / 85% AD + 60% AP) physical damage to all enemies it cuts through. For every 1% Critical Rate, damage is increased by 0.5%. The higher the Attack Speed, the shorter the cast time.
+
+Deals 80% damage against non-champion enemies.
+
+Gains 25% / 30% / 35% / 40% Attack Speed for 4 seconds. Her attacks bounce to nearby enemies, dealing 8 / 10 / 12 / 14 (+17% / 20% / 23% / 26% AD) physical damage. If the first attack critically strikes, so will the bounces.
+
+Deals 75% damage to minions. Each enemy can be hit by a maximum of 2 bounces.
+
+Gains a spell shield for 2 seconds. Heals herself for 38 ( 65% / 70% / 75% / 80% AD + 50% AP) Health and gains Fleet of Foot when she blocks an ability.
+
+If the block fails, 50% of the ability's cooldown is refunded.
+
+Grants 15% bonus Movement Speed to nearby allied champions for 10 / 11 / 12 seconds. During this period, her basic ability cooldowns are reduced by 20% / 25% / 30%.
+
+Unyielding Valor: While the Hunt is active, gains 1 stack of Morale every time an attack or ability deals damage to an enemy champion, and 2 stacks of Morale after a champion takedown.
+
+Each stack of Morale grants 2 / 3 / 4 AD. At 8 stacks, grants an additional 25% bonus Movement Speed to nearby allied champions and refreshes On the Hunt's duration.
+
+Sivir is a Dragon Lane champion who focuses on building attack damage to deal a lot of damage with her auto attacks and abilities. She's not the strongest of early-game champions and struggles to compete against other attack damage carries because of her low range and damage. However, she has some of the best tools in the game to wave clear minions so she can roam around and impact the map. Once Sivir reaches the Mid/Late Game with a few items and levels under her belt, she becomes one of the best teamfight champions with insane AOE damage and gives her whole team movement speed with her ultimate, On The Hunt.
+
+Sivir gains Movement Speed for over a second after damaging an enemy champion with an attack or ability. With Sivir's low range, this passive will be your best friend, being able to kite around teamfights.
+
+An interesting tip: when you don't have a ward and want to know if someone is in a bush. Throw your boomerang, and if your passive procs, you know someone is in the bush.
+
+Sivir throws her boomerang, dealing Physical Damage to all enemies it cuts through. For every Critical Rate, the damage is increased, and the higher the Attack Speed, the shorter the cast time.
+
+You can use Boomerang Blade to poke enemy champions and deal damage to minions at the same time during the laning phase. This will help you survive the early game, where Sivir can be weak.
+
+Sivir gains Attack Speed for a few seconds. Her attacks bounce to nearby enemies, dealing physical damage. If the first attack Critically Strikes, so will the bounces. This makes building Critical Strike Chance on Sivir essential to get the best value out of Ricochet.
+
+Ricochet is also an auto-attack reset. AA + Ricochet + AA will give you the quickest damage output to champions and even towers.
+
+Sivir gains a Spell Shield for a few seconds. When she blocks any ability with her Spell Shield, she heals herself and gains her passive Fleet of Foot.
+
+Sivir's Spell Shield will save you from many situations. However, the timing is critical. It can cancel any spell, stopping any engagement that might come your way.
+
+Sivir grants Movement Speed to nearby allied champions for a few seconds. During this period, her basic ability cooldowns are reduced. This gives your whole team Glory boots enchant for free, which can be highly impactful.
+
+While the Hunt is active, Sivir gains one stack of Morale every time an attack or ability deals damage and two stacks after a champion takedown—each stack of Morale grants 2 AD. At eight stacks, you grant additional Movement Speed to nearby allies.
+
+Sivir does well when building Attack Damage items. She doesn't need that much attack speed in her build since she gets attack speed from her abilities. Bloodthirster is the strongest item for Sivir. You get a huge amount of attack damage allowing Sivir to deal a lot of damage with her auto attacks and abilities. Bloodthirster also gives a bit of attack speed when Sivir is above 50% health, which will be the case throughout most of the game. Navori Quickblades is another powerful item for Sivir. The passive helps Sivir use her abilities more often to deal with a lot more damage.
+
+Onto the runes, we have:
+
+With Sivir, you will be attacking a lot as you are one of the primary sources of damage on the team. This means Sivir can stack Lethal Tempo reasonably quickly, and when Lethal Tempo is fully stacked, Sivir gets a massive burst of attack speed.
+
+Since Sivir auto-attacks a lot and gets attack speed from her abilities, Brutal is a great choice that helps Sivir's auto-attacks deal more damage at all stages of the game.
+
+When enemy champions are low on health, Sivir can deal bonus damage. This will help Sivir kill enemies faster. Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+Since Sivir will already have a lot of omnivamp from her items, the attack speed from Alacrity will be more beneficial. Legend: Tenacity is another excellent option when playing against champions with a lot of Crowd Control.
+
+As a marksman, Sivir will always be the main focus for the enemy team to try to take down. However, Bone Plating will help Sivir take reduced damage from the first three instances of damage, which can save her life.
+
+For Summoner Spells, Flash is a must on most champions. It's a great spell to get out of a sticky situation or if you're trying to go in for the killing blow. The best 2nd spell is Ghost. With Ghost, Sivir can get a massive burst of movement speed to help her escape from enemies or chase them down to get into auto-attack range.
+
+Sivir can struggle in the early game. She has a very low attack range and doesn't have much damage compared to other carries. You want to stay as passive as possible and try not to die so you can farm up to get your core items and scale into the Mid/Late game. Don't walk up and risk dying just to try and get the last hit on a minion because your life is more important. Remember to use Boomerang Blade and Ricochet to clear minion waves so you can stay back and play passively.
+
+Once Sivir reaches the late game and gets a few levels and items, this is where her scaling comes into effect, and she can be strong in teamfights thanks to her ultimate On The Hunt. As an AD Carry, staying grouped with your team is always the best. You want to stay as far back from the enemies as possible and allow your front line to go in front of you to take all the damage. Most of the time, you are the team's main damage output, so if you are caught by yourself and die, then your team is in big trouble.
+
+Sivir is a very beginner-friendly champion that is not too complicated to master. The big learning curve will be knowing when to use Spell Shield, which can be the difference between living and dying in a teamfight.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

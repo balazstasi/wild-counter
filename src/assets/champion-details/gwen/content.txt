@@ -1,0 +1,117 @@
+Title: Gwen :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Gwen in League of Legends: Wild Rift. Our build guide will teach you how to play Gwen in the current meta.
+
+Headings:
+- Level 1 Gwen Stats
+- Gwen's Abilities
+- Gwen  Build Guide for Wild Rift
+- Gwen's Item Build
+- Gwen's Spells & Runes
+- Gwen's Situational Items
+- Gwen's Situational Runes
+- Gwen's Skill Order
+- Gwen's Item Build
+- Gwen's Spells & Runes
+- Gwen's Situational Items
+- Gwen's Situational Runes
+- Gwen's Skill Order
+- How to play Gwen
+- Gwen's Abilities
+- Thousand Cuts (Passive)
+- Snip Snip! (1)
+- Hallowed Mist (2)
+- Skip 'n Slash (3)
+- Needlework (Ultimate)
+- Gwen Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Attacks deal bonus 1% (+0.005% AP) magic damage of the target's max Health. Heals for 70% of the damage this ability deals to champions up to 12 (+7% AP).
+
+Deals a max of 2 (+3% AP) magic damage against monsters.
+
+Passive: Gains 1 stack per attack hit (max 4, lasts 6 seconds.
+
+Active: Snips her scissors twice, snipping an extra time for each stack consumed. Each snip deals 14 / 18 / 22 / 26 (+6% AP) magic damage with the final snip dealing 70 / 90 / 110 / 130 (+30% AP) magic damage instead.
+
+The center of each strike deals true damage instead and applies Thousand Cuts.
+
+Damage to monsters: 80%.
+
+Summons the Hallowed Mist for 4 seconds, making Gwen untargetable to enemies outside the zone while inside.
+
+Gwen gains 14 / 16 / 18 / 20 (+5% AP) Armor and Magic Resist inside the Mist.
+
+The Mist will move to Gwen the first time she attempts to leave.
+
+Dashes and enhances her attacks for 4 seconds. Enhanced attacks gain 20% / 40% / 60% / 80% Attack Speed, 10 (+15% AP) magic damage on-hit and 100 Range.
+
+The first enhanced attack to hit a champion or minion refunds 50% of this ability's coodown.
+
+First Cast: Hurl a needle that deals 30 / 45 / 60 (+8% AP) magic damage, slows by 30% / 35% / 40% for 1.5 seconds, and applies Thousand Cuts to all enemies hit. Needlework can be re-cast 2 additional times.
+
+Second Cast: Fires 3 needles, dealing a total of 90 / 135 / 180 (+24% AP) magic damage.
+
+Third Cast: Fires 5 needles, dealing a total of 150 / 225 / 300 (+40% AP) magic damage.
+
+Gwen is a versatile AP scaling champion that is primarily played in the Baron Lane but can also be played in the Jungle. Gwen's strength comes from her being a front-line bruiser for her team whilst also being able to deal a lot of damage and sustain against high-value targets. Gwen is a reasonably weak early-game champion that struggles a lot when trading vs bruisers and assassins. It's best to play safe, take short trades when you fully stack Snip Snip, and farm until you can get her core items. When Gwen gets her core items and has a few levels, she can either try to get a solo kill in the Baron lane and look to split push or group with her team around objectives and focus on the squishy targets in the backline.Gwen can also be played in the Jungle; check the alternative build at the top of the page! With Gwen Jungle, the build is similar to her Baron Lane build; you need to get Nashor's Tooth before Riftmaker so she can farm the Jungle quicker. There is not much difference in playstyles; she still wants to reach the late game with a few core items before looking to team fight.
+
+Gwen's attacks deal bonus magic damage equal to a % of the target's maximum health. She also heals for a % of the damage this passive deals to champions. This passive makes Gwen very strong when vs Tanks since she will do more damage, and the healing will help her sustain during the laning phase and team fights.
+
+Gwen's passive also allows her to deal some extra magic damage to monsters. This can make Gwen jungle viable and make her jungle clear a bit easier.
+
+Gwen snips her scissors twice, snipping an extra time for each stack consumed. Gwen gains one stack per attack hit, lasting a few seconds. Each snip deals magic damage, with the final one dealing more damage. When Gwen hits a unit with the centre of the cone Snip Snip deals true damage instead and applies her passive.
+
+It's essential to watch the purple marks underneath Gwen's mana bar. This shows you how many stacks you have.Gwen always wants to get the full four stacks before using this ability to deal the most damage possible.
+
+Gwen summons a Hallowed Mist around her, making Gwen untargetable to enemies outside the zone while inside. This also works for Major Objectives like Baron and Dragon, so Gwen can take aggro and not take any damage.
+
+The Mist will move to Gwen the first time she attempts to leave, but if she leaves a 2nd time, the Mist will disappear. Gwen also gains Armor and Magic Resist whilst inside the Mist, so even if someone goes inside of the Mist to deal damage to you, it will still be beneficial to use the ability so it will be harder for them to kill you.
+
+Gwen dashes and enhances her attacks for a few seconds. Enhanced attacks gives Gwen attack speed, extra auto attack range and deals additional magic damage on hit. The first enhanced attack to hit an enemy refunds a % of Skip 'n Slashes cooldown.
+
+Skip 'n Slash works as an auto-attack reset, meaning you can reduce the time between each auto attack when using this ability. You can also use this ability to dash over walks to get away to safety or to surprise your enemy.
+
+Gwen's ultimate has three casts, firing more needles each time, dealing more damage.
+
+First cast: Hurl a needle that deals magic damage, slows for just over a second, and applies a Thousand Cuts passive to all enemies hit. Gwen always wants to start a fight by using the first cast of her ultimate to slow the enemies and make it easier for Gwen to auto-attack and chase them down. Note that you do not need to auto-attack or hit the ability to recast Needlework.
+
+Second Cast: Fires three needles, dealing more magic damage.
+
+Third Cast: Firest 5 needles dealing even more magic damage.
+
+Gwen's primary source of damage comes from her abilities and auto attacks, which can deal extra magic damage. She also likes building maximum health to help her survive. Riftmaker is a great item that synergies well with how Gwen wants to play. Riftmaker's passive, Void Corruption, is easy to stack on Gwen because she loves dashing in and staying in combat, this allows her to deal True Damage when you have the passive fully stacked. Nashor's Tooth helps Gwen with her attack speed giving her more opportunities to use Snip Snip in fights.
+
+For runes we have:
+
+Conqueror synergizes well with Gwen's playstyle, mixing her auto attacks and abilities. It also allows Gwen to fight for an extended time.
+
+Nullifying Orb is the best option for this row, as it helps Gwen survive when she drops low on health. The other two don't have much benefit.
+
+Second Wind helps Gwen heal back her health during the laning phase when she takes poke damage. This value is doubled since she's a melee champion.
+
+Overgrowth gives Gwen permanent health when nearby minions or monsters are killed throughout the game. So the more Gwen farms pushes the lane and kills minions, the more Maximum Health she will get.
+
+Gwen is a champion who likes to auto-attack a lot, whether during the laning phase or teamfights. So, dealing some extra damage will help her at all stages of the game.
+
+For summoner spells, Ghost is a must on Gwen; she doesn't need Flash because she has her Skip 'n Slash dash that has a very low cooldown, and her Hallowed Mist can help you dodge abilities. For the other Summoner Spell, Ignite is the best option that allows you to play aggressively and try to get an early advantage.
+
+Gwen can be pretty weak in the early game. Before level 5, the best thing you can do is stay safe and farm up, at times you can look to stack your Snip Snip and dash forward to deal a little bit of poke damage to the enemy champion, but you should never look to try and fight early since you will lose the trade vs most champions. If you get into trouble early when playing Gwen, you can use Hallowed Mist to dodge abilities and Skip 'n Slash to dash and quickly get away to safety.
+
+When Gwen reaches the mid/late game and gets a few items, this is where she can become a strong champion. When she is grouped with her team and about to have a team fight, the best thing she wants to do is get onto the enemy backline, where she can kill the carries. With her abilities, Gwen has so much mobility and survivability, and stasis (boots upgrade) also helps with that. When playing Gwen, you also have excellent one vs one potential against most champions. This can give your team a significant advantage if you can get a kill before the team fight starts.
+
+Overall Gwen is a very fun and interesting champion in Wild Rift. Gwen has one of the best scaling potentials in the game with her Abilities and high Attack Speed. She is great vs squishy comps but also does really well vs tanky comps with her constant damage from her Ultimate and 1st Ability.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

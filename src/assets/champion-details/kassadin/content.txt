@@ -1,0 +1,83 @@
+Title: Kassadin :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Kassadin in League of Legends: Wild Rift. Our build guide will teach you how to play Kassadin in the current meta.
+
+Headings:
+- Level 1 Kassadin Stats
+- Kassadin's Abilities
+- Kassadin  Build Guide for Wild Rift
+- Kassadin's Item Build
+- Kassadin's Spells & Runes
+- Kassadin's Situational Runes
+- Kassadin's Skill Order
+- How to play Kassadin
+- Kassadin's Abilities
+- Void Stone (Passive)
+- Null Sphere (1)
+- Nether Blade (2)
+- Force Pulse (3)
+- Riftwalk (Ultimate)
+- Kassadin Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Enhances his next attack within 4 seconds to gain 250 range, deal an additional 50 / 80 / 110 / 140 (+50% AP) magic damage and restore 5% (15% vs. champions) of missing mana.
+
+If the attack killed the target Nether Blade's remaining cooldown is reduced by 50%.
+
+Deals 60 / 100 / 140 / 180 (+50% AP) magic damage to enemies and slows them by 30% for 1 second.
+
+Force Pulse is enhanced after 6 other abilities are cast nearby, dealing 40% increased damage and slowing for 90% instead.
+
+Kassadin is a mobile late-game assassin that is played in the Mid Lane. In the early game Kassadin is one of the weakest champions. This is until he reaches level 5 and has access to his ultimate, Riftwalk. Riftwalk allows Kassadin to roam around the map and make an impact in other lanes. Stacking Riftwalk before a fight will give him more damage but cost more mana, so you'll need to play it carefully.
+
+Kassadin gains a shield that absorbs magic damage for just under 2 seconds when casting a spell near a visible enemy champion. This makes Kassadin strong against a lot of ability power damage champions (especially during the laning phase). Whenever you are about to take damage, make sure you use an ability to get the shield to absorb it.
+
+Fires an orb that deals magic damage and silences the first enemy hit for a second. This is a skill shot and can be blocked by minions or monsters. Null Sphere is pretty unreliable when trying to hit enemies or last hit minions. You want to get close to the enemy before using Null Sphere so you guarantee to hit an enemy champion to silence them. Kassadin can use Riftwalk to get close enough to the enemy to hit Null Sphere.
+
+This ability enhances Kassadin's next attack within a few seconds to gain bonus range and magic damage, and restore a % of his missing mana. You will be surprised how much extra range you get when using Nether Blade, you can use this during the laning phase so you can play safe and last hit minions from afar. Nether Blade is also an auto-attack reset, meaning you can auto-attack and then use Nether Blade straight after for a quick burst of damage.
+
+Force Pulse deals magic damage to enemies in a cone and slows them for a second. Force Pulse can be enhanced after 6 spells are cast nearby (enemies abilities count towards the 6 casts), dealing increased damage and slow. There is a number underneath the ability icon, this shows how many spells have been used near you, and when it goes up to 6 the colour of the icon changes.
+
+Most of the time you want to wait until Force Pulse is stacked 6 times before casting it, because the increased damage and slow are huge.
+
+Kassadin blinks to a target location around him and deals magic damage to nearby enemies. Riftwalk stacks up when using it again within 12s, dealing increased damage but costing more mana (this is the main reason why you go Rod of Ages and Archangel Staff to get as much mana as possible so you can keep blinking around a team fight at maximum stacks). This can stack up to 3 times so you can deal a high amount of damage.
+
+Kassadin is excellent with most ability power items. His primary source of damage is from all his abilities. You also want to make sure you get as much mana as possible in your build so you can use his Riftwalk as much as possible when it is fully stacked. That is why you build Archangel Staff. This item gives Kassadin a lot of mana and ability power however this does make him weak during the early game until Archangel fully stacks. Rod of Ages is another scaling item that gives Kassadin extra mana to help him out.
+
+With runes, we have the following:
+
+As Kassadin you will be using Riftwalk to jump onto enemy champions to deal the first instance of damage. This means that his other abilities will be able to deal true damage.
+
+Gathering Storm gives Kassadin a lot of ability as the game gets into the mid/late game. It's not that useful during the early game, but when Kassadin shines during the late game, this will help.
+
+When enemy champions are low on health, Kassadin can deal bonus damage. This will help Kassadin when looking to assassinate backline carries.
+
+Bloodline gives Kassadin omnivamp, which includes magical vamp. This will work well with Kassadin's abilities, so he will be tough to kill. Legend: Tenacity is another good option in this row when playing against enemies with Crowd Control.
+
+Since Kassadin is a melee champion and dashes a lot to try and kill enemy champions, he gets pretty vulnerable to a lot of damage. Bone Plating will help Kassadin take reduced damage from the first three instances of damage which will help him survive longer.
+
+For summoner spells, Flash is a must on Kassadin. It's a great spell for getting out of tough situations and when you're trying to kill enemies. You can also combo Flash with Riftwalk and Force Pulse to increase the distance and surprise your enemies. Ignite is also a great spell for Kassadin since he can use it most of the time when he jumps onto enemy champions with Riftwalk.
+
+Kassadin struggles in the early game because he is a melee champion and doesn't have the best base stats to trade against enemy champions. Your main goal in the early game is to just play safe, don't die, and farm as many minions as possible so you can scale and get your items as soon as you can. If this means you need to stay under the tower and miss a few minions, that's fine.
+
+Make sure you use Nether Blade to make your next auto attack have more range so you can farm minions a bit easier.
+
+Once you reach the late game and have your core items fully stacked, this is when Kassadin can start dealing a lot of damage and being a very mobile and annoying late-game assassin. Not only that, but he is really difficult to kill because you will be blinking around the map a lot with your ultimate Riftwalk.
+
+When you're grouped with your team and about to have a team fight, the best thing to focus on is getting onto the enemy backline where Kassadin can kill the carries. He has so much mobility and survivability with his abilities and stasis (boots upgrade) also helps with that. In addition, he also has great 1 vs 1 potential against most champions. This can give your team a big advantage if you can get a kill before the team fight starts.
+
+Overall Kassadin is a very fun and beginner-friendly champion to play. As long as you understand that you will be weak during the early game and need to play safe, then once you have 2/3 items and reach around level 10 that's where the fun really begins!
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

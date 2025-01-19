@@ -1,0 +1,96 @@
+Title: Shen :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Shen in League of Legends: Wild Rift. Our build guide will teach you how to play Shen in the current meta.
+
+Headings:
+- Level 1 Shen Stats
+- Shen's Abilities
+- Shen  Build Guide for Wild Rift
+- Shen's Item Build
+- Shen's Spells & Runes
+- Shen's Situational Items
+- Shen's Situational Runes
+- Shen's Skill Order
+- How to play Shen
+- Shen Abilities
+- Ki Barrier (Passive)
+- Twilight Assault (1)
+- Spirit's Refuge (2)
+- Shadow Dash (3)
+- Stand United (Ultimate)
+- Shen Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Gains a shield that absorbs 51 (+14% HP) damage for 2.5 seconds after completing an ability. If the ability affected at least one champion, Ki Barrier's cooldown is reduced by 4 seconds.
+
+Gains 10 Energy when Shen's abbilties damage an enemy.
+
+Recalls the Spirit Blade, enhancing his next 3 attacks to deal an additional 12 + 2.5% / 3% / 3.5% / 4% (+1.5% AP) of the target's max Health as magic damage. If the Spirit Blade passed through an enemy champion, the damage bonus is increased to 12 + 5% / 5.5% / 6% / 6.5% (+2% AP) of the target's max Health as magic damage and Shen gains 50% Attack Speed.
+
+Enemy champions the Spirit Blade passes through are slowed by 15% / 20% / 25% / 30% for 2 seconds while moving away from Shen.
+
+Deals 150%
+
+Channels for 3 seconds, shielding an allied champion for 170 / 340 / 510 (+135% AP +15% HP) damage for 5 seconds, increased by 0% - 60% based on target's missing health.
+
+Upon completing the channel, Shen teleports to the target ally.
+
+Shen is a Baron Lane tank that can be really strong in the laning phase. He can use his early damage and crowd control from Twilight Assault and Shadow Dash to catch his enemies off guard. Shen's ultimate, Stand United, allows him to take a split push play style as he can ultimate away to anyone on the map and give them a huge shield.
+
+Shen can also be played in Jungle and Support, make sure to check the alternative builds at the top of the page! The build with Shen Support and Jungle is very similar to Baron Lane and there is not much else that is different in terms of playstyles. The one thing to keep in mind is you will be playing Aftershock, meaning you can play aggressively in the laning phase and when ganking.
+
+Shen gains a shield that absorbs damage for just over 2 seconds after completing an ability. If the ability affected at least one champion, Ki Barrier's cooldown is reduced by a few seconds.
+
+In addition, Shen gains energy when his abilities damage an enemy. This means that when Shen uses Twilight Assault, most of the time he wants the blade to go through enemies so he can reduce the cooldown of the shield and gain energy to use even more abilities.
+
+Shen recalls the Spirit Blade, enhancing his next 3 attacks to deal additional magic damage. If the Spirit Blade passed through an enemy champion, the damage bonus is increased and Shen gains attack speed.
+
+When using Twilight Assault, it's important to make sure you are within melee range so you can follow up with a few auto attacks with the enhanced attack speed. Enemy champions the Spirit Blade passes through are slowed for a few seconds while moving away from Shen.
+
+Sends the Spirit Blade to an allied champion or himself, creating a zone that blocks enemy attacks for just under 2 seconds. When active, the protective zone blocks all enemy basic attacks.
+
+This includes any on-hit effects or spells that count as basic attacks. It's really important to master the timing on when to use Spirit's Refuge and who to use it on.
+
+Shen dashes forward, dealing damage to enemy champions and monsters, taunting them for just over a second. Shen can combo his Shadow Dash with Flash to extend the range of the dash to catch enemies off guard.
+
+Most of the time, Shen will be using Shadow Dash to start a fight and then you can combo that with Twilight Assault so the Blade can go through the enemy to slow them and gain attack speed.
+
+Shen channels for a few seconds, shielding an allied champion in the process. The shield scales based on the target's missing health. Upon completing the channel, Shen teleports to the target ally. This ability is a global ultimate meaning that this can be used on any ally anywhere on the map.
+
+Shen is known for being a front line tank that can survive a lot of damage and that reflects in his build. Sunfire Aegis is a core item for Shen. Since he doesn't need to join fights because he has his ultimate, Stand United. Shen can use Sunfire Aegis to help him push in side lanes to try and take as many towers as possible. Divine Sunderer is another really strong item for him, it makes his trades in the laning phase a lot easier and it gives him healing and tank stats so he can survive for a longer time.
+
+For runes, we have the following:
+
+This rune works well with Divine Sunderer. Grasp gives Shen a lot of healing, stacking health, and can help deal a bit extra damage.
+
+When using Shen's Shadow Dash, he will Taunt enemy champions, meaning you will take some damage, but with Courage of the Colossus, the shield will negate this damage.
+
+Second Wind greatly helps Shen during the laning phase. It allows him to heal up so he can stay in the lane longer, and the effect is doubled for melee champions like Irelia.
+
+Overgrowth allows Shen to gain permanent health throughout the game when nearby minions or monsters are killed. So the more Shen farms, pushes the lane and kills minions, the more Maximum Health he will get.
+
+Demolish works well with champions that love to split-push like Shen. It helps you push and destroy towers quickly, giving you and your team a huge advantage.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for the killing blow. Flash is also a great way to extend the range of Shadow Dash. For the 2nd spell, it's best to go for Ignite. This helps Shen to get an early advantage in the laning phase.
+
+Shen does fairly well in the early game and can surprisingly do a lot of damage when he has all of his non-ultimate abilities available. In the laning phase, you want to look for opportunities to use Shadow Dash to engage on the enemies and then you can follow that up with Twilight Assault. However, you can play safe in the early game and keep Shadow Dash if you feel like you need to dash away to safety.
+
+At this stage of the game, the best thing you can do is split-push, this means going to one of the side lanes (top or bottom) and pushing the minions. Shen's 1 vs 1 potential is decent thanks to his kit, but the main reason is that when you have Shen's ultimate available, you can teleport to any ally on the map. When in a team fight with your team, your main goal is to get on top of the enemy backline! Use Shen's Shadow Dash and Flash combo to lock down one of the enemy carries so your team can follow up and help kill them quickly!
+
+Overall Shen is a fairly simple champion to understand but has a very high skill ceiling that can take a long time to master. The most important thing to practice is the Shadow Dash + Flash combo. Head into practice mode and if you can master this combo you can jump onto the rift and carry your team!
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

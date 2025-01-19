@@ -1,0 +1,122 @@
+Title: Rengar :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Rengar in League of Legends: Wild Rift. Our build guide will teach you how to play Rengar in the current meta.
+
+Headings:
+- Level 1 Rengar Stats
+- Rengar's Abilities
+- Rengar  Build Guide for Wild Rift
+- Rengar's Item Build
+- Rengar's Spells & Runes
+- Rengar's Situational Items
+- Rengar's Situational Runes
+- Rengar's Skill Order
+- How to play Rengar
+- Rengar's Abilities
+- Unseen Predator (Passive)
+- Savagery (1)
+- Battle Roar (2)
+- Bola Strike (3)
+- Thrill of the Hunt (Ultimate)
+- Rengar Build Breakdown
+- Jungle Path
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+If in brush of camouflaged, leaps to the target with his next attack.
+
+If Rengar's Ferocity is lower than 4 and he doesn't have any Ferocity gained from attacks during the attack, he gains 1 Ferocity.
+
+Bonetooth Necklace: Gain 4% - 20% Attack Damage for each unique champion takedown. Each enemy champion only provides this bonus once.
+
+- Gains 1 Ferocity upon casting a basic ability ( if casting Savagery, Rengar must hit a target with an empowered attack to gain this bonus).
+
+- Reaching 4 Ferocity empowers his next basic ability. Casting the empowered ability does not refresh the basic ability's cooldown.
+
+- Gains 30% - 50% Movement Speed (increases at level 1 / 6 / 11) for 1.5 seconds upon casting an empowered ability.
+
+All Ferocity is lost 8 seconds after leaving combat.
+
+The next 2 attacks within 3 seconds gain 40% Attack Speed. The first attack is empowered to deal an additional 40 / 80 / 120 / 160 (+5% / 10% / 15% / 20% AD) physical damage and will Critically Strike.
+
+Rengar's Critical Rate also increases the damage of the first attack by 0% - 55%, reaching maximum bonus damage gaines this way at 100% Critical Rate.
+
+Ferocity: Gains 45% Attack Speed for 3 seconds instead. The first attack deals an additional 40 / 80 / 120 / 160 (+40% AD) physical damage instead.
+
+Deals 60% damage to turrets.
+
+Roars, dealing 60 / 100 / 140 / 180 (+80% AP) magic damage, and healing for 60% of damage taken in the last 2 seconds.
+
+Ferocity: Deals 80 / 120 / 160 / 200 (+80% AP) magic damage instead. Also restores Health by 60% of damage taken in the last 2 seconds and removes all crowd control effects from himself.
+
+Damage from a monster restores Health by 100% of the damage taken instead.
+
+Throws a bola, dealing 70 / 130 / 190 / 250 (+70% bonus AD) physical damage and slowing the target struck by 30% / 50% / 70% / 90% for 1.75 seconds. The bola also reveals the surrounding area for 2 seconds.
+
+Ferocity: Deals 75 (+70% bonus AD) physical damage and roots the target for 1.75 seconds. Also reveals the target and surrounding area for 2 seconds.
+
+Bola Strike can be cast while Rengar is leaping.
+
+Rengar is an AD assassin jungler. He has a fairly strong early game, his early jungle clear is relatively fast and you can stay pretty healthy with your heal from 2nd Ability, Battle Roar. Once you get to level 5 and have access to Thrill of the Hunt, you can become invisible and gank any lane to get an advantage.
+
+The first part of the passive is if Rengar is in a brush or camouflaged (from his ultimate), he will leap to the target with his next attack and if Rengar has no Ferocity stacks, he gains 1 stack. This part of the passive is a crucial part of Rengar's kit. You can use this when clearing the jungle to get ferocity stacks faster, jump onto minions or onto champions to surprise them and get the upper edge.
+
+The 2nd part is Bonetooth Necklace. You gain attack damage for each unique champion takedown. So when thinking about who to jump on especially when your ultimate is up, take a look at your necklace (bottom of the screen) and see who you need to kill to get more attack damage.
+
+The final part of the passive is the Ferocity. You gain 1 Ferocity upon casting a basic ability and when you reach 4 Ferocity stacks, your next basic ability is enhanced, allowing it to be cast separately from the base version. Will go into more detail about the enhanced abilities with each one.
+
+Rengar's next 2 attacks within a few seconds gain attack speed. The first attack is empowered to deal additional physical damage. Ferocity (Enhanced Savagery) - Gains more attack speed for a longer time and the first attack deals more damage.
+
+This is one of Rengar's main damage sources and gives him a lot of attack speed. It is also an auto-attack reset, meaning you can auto-attack and activate the ability straight after to use it so you don't have to wait for the delay until you can auto-attack again.
+
+Rengar roars, dealing magic damage and healing for a percentage of damage taken in the last few seconds. Ferocity (Enhanced Battle Roar) - Rengar also gains movement speed for a few seconds and removes all crowd control effects from himself.
+
+This ability helps a lot when clearing the jungle and trying to stay as healthy as possible and helps greatly when trying to trade in early skirmishes vs the enemy jungle. Timing your Ferocity Battle Roar is crucial and is the difference between life and death.
+
+Throws a bola that deals physical damage and slows for a second. Ferocity (Enhanced Bola Strike) - Deals more physical damage and roots instead.
+
+This is Rengar's only crowd control in his whole kit so it's vital to use this at the right time, especially the enhanced version to root the enemy when you are chasing them down. You can also use this ability in mid-air when jumping with your passive or ultimate. This helps slow the enemies to catch up and use your abilities to gain Ferocity stacks.
+
+Rengar gains movement speed and reveals the nearest enemy champion for a few seconds. Rengar also becomes camouflaged after a second and his next attack shreds the target's armor for a few seconds. This is what makes Rengar unique!
+
+Once you reach level 5 you want to use your Ultimate as much as possible! You can easily gank lanes and it's quite fun when you use your Ultimate and the enemy team realizes so they start running away trying to escape. This ultimate also counters other champions that can go invisible like Evelynn and Kha'Zix, because when you use your ultimate, if they are the nearest enemy to Rengar they will be revealed.
+
+Rengar benefits the most from AD items that give him a lot of attack speed and critical strike chance. Trinity Force is the strongest first item on Rengar. This item gives him both damage and tank stats. Trinity Force's passive effect Spellblade also works excellent together with Rengar's abilities. Bloodthirster is another great item that gives Rengar a lot of Bonus Attack Damage and Attack Speed to help Rengar one-shot enemy carries.
+
+For runes, we have the following:
+
+As an Assassin that can go invisible and jump from bushes, it's pretty easy for Rengar to be the first person to damage the enemies, giving him true damage and a lot of extra gold.
+
+Even though Brutal doesn't work on jungle camps. The extra damage it gives Rengar when fighting enemy champions is way too valuable.
+
+When enemy champions are low on health, Rengar can deal bonus damage. This will help him kill enemies faster. Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+The healing that Bloodline provides is crucial for Rengar to help keep himself alive since he will be jumping into enemy territory most of the game and be focused a lot by enemy carries.
+
+Overgrowth allows Rengar to gain permanent health throughout the game when nearby minions or monsters are killed. So the more Rengar farms in the jungle, the more Maximum Health he will get. This will help Rengar survive damage when he is jumping in with his Ultimate.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for the killing blow. Smite is a must for when you are playing jungle. Helps you out a lot when clearing the jungle and securing the epic monsters.
+
+Rengar has a fairly fast early jungle clear. This means that you can work your way around the jungle quite fast and be aggressive when contesting the scuttle crabs in the rivers. It is best to start at Red Brambleback as you don't have mana and you don't lose a lot of health when jungle clearing. When clearing the jungle its best to try and use your 1st Ability (Savagery) when you have full Ferocity (Passive) stacks as this will give you more attack speed when clearing the jungle.
+
+This is what the jungle patch would look like:
+
+Below is a beginner's guide I did for jungle in Wild Rift. It goes in-depth about every jungle camp, epic monsters and more!
+
+With Rengar, you want to take advantage of your invisibility from your Ultimate, Thrill of the Hunt. Roam around the map solo without your team and try to get solo kills on the enemy carries. This will give your team a huge advantage when it comes to pushing or taking objectives. When playing jungle, your main job is to keep track of when Dragons, Rift Herald, and Baron spawn. Taking these epic monsters will give you and your team an advantage in the game.
+
+Rengar is a very fun and fairly easy champion to use. He has a great early game and can scale a lot into the late game by using his ultimate to go invisible and one-shot the enemy team.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

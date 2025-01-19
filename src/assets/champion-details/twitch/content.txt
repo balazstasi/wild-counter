@@ -1,0 +1,107 @@
+Title: Twitch :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Twitch in League of Legends: Wild Rift. Our build guide will teach you how to play Twitch in the current meta.
+
+Headings:
+- Level 1 Twitch Stats
+- Twitch's Abilities
+- Twitch  Build Guide for Wild Rift
+- Twitch's Item Build
+- Twitch's Spells & Runes
+- Twitch's Situational Runes
+- Twitch's Skill Order
+- How to play Twitch
+- Twitch's Abilities
+- Deadly Venom (Passive)
+- Ambush (1)
+- Venom Cask (2)
+- Contaminate (3)
+- Spray and Pray (Ultimate)
+- Twitch Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Attacks infect enemies with venom, dealing 1 (+2.5% AP) true damage over 5 seconds and stacking up to 5 times.
+
+When an enemy champion has full stacks of Deadly Venom, Twitch gains 10% attack speed for 5 seconds.
+
+Monsters take 130% increased damage from Deadly Venom.
+
+Become Camouflaged and hasted by 10% for 8 / 9 / 10 / 11 seconds, increasing to 20% when nearby enemy champions cannot see Twitch.
+
+After exiting Camouflage, Twitch's attacks will apply an additional stack of Deadly Venom for 3 seconds. Ambush resets when a champion dies while infected by Deadly Venom.
+
+Camouflage: Hide from champions by keeping them outside Twitch's detection radius. Attacks and offensive abilities end Camouflage early.
+
+Hurls a cask that applies stacks of Deadly Venom to enemies and slows them for 30% / 35% / 40% / 45% (+6% bonus) for 3 seconds.
+
+Cast time decreases with Twitch's attack speed.
+
+Deals 25 / 35 / 45 / 55 physical damage to all enemies affected by Deadly Venom, each stack deals 15 / 20 / 25 / 30 (+30% bonus AD +18% AP) damage to enemies.
+
+Enemies with maximum stacks will spread the damage to nearby targets and apply maximum stacks of Deadly Venom to them.
+
+Deals 130 physical damage at max stacks.
+
+Deals 80% increased damage to monsters.
+
+For 6 seconds gain 225 Attack Range and 20 / 35 / 50 bonus Attack Damage and transform attacks into piercing bolts that hit every enemy in a line.
+
+Subsequent targets take 15% less damage, down to a minimum of 40%.
+
+Twitch is a late-game Dragon Lane hyper-carry. He is also known as an assassin because of his Ambush which allows him to be camouflaged and move around the map without being seen. Twitch struggles in the early game because of his very short range and doesn't have the best damage output during the laning phase. However, once Twitch has a few levels and his core items, his late-game damage is incredible. His Spray and Pray is a great attack damage steroid that makes him a long-ranged powerhouse during its duration.
+
+Twitch's attacks infect enemies with Venom, dealing true damage over a few seconds, stacking up to 5 times. When an enemy champion has full stacks of Venom, Twitch gains attack speed for a few seconds, so it's essential to try and auto-attack the same target to stack as much Venom as possible.
+
+Items like Runaan's Hurricane with the Wind's Fury passive work with Venom, meaning there's the potential to stack Venom on three enemies simultaneously.
+
+Twitch becomes camouflaged and gains movement speed for a few seconds which is increased when nearby enemy champions. After exiting Camouflage, Twitch's attacks will apply an additional stack of his passive Deadly Venom for a few seconds.
+
+Ensure you use Ambush before a team fight starts to gain the extra attack speed and stack of Deadly Venom. Sometimes you can use Ambush to surprise an isolated enemy and burst them down before they can escape. Ambush resets when a champion dies while infected by Deadly Venom.
+
+Twitch hurls a cask that applies stacks of Deadly Venom to enemies and slows them for a few seconds. Twitch can use this ability when he is about to start auto-attacking out of Ambush. The extra slow can help Twitch keep up and auto-attack at range. Cast time decreases with Twitch's attack speed.
+
+This ability is Twitch's secondary damage output when his auto attacks are not enough to take an enemy down. Contaminate deals physical damage to all enemies affected by his passive Deadly Venom. Every stack on an enemy deals extra damage.
+
+It's essential to wait until you have five stacks of Deadly Venom on an enemy before using this ability so you can get the highest damage output possible.
+
+Enemies with maximum stacks (5) will spread the damage to nearby targets and apply maximum stacks of Deadly Venom to them.
+
+For a few seconds, Twitch gains an insane amount of attack range and bonus attack damage and transforms his attacks into piercing bolts that hit every enemy in a line. This ultimate ability is what makes Twitch a lane game powerhouse. He can stand at an incredibly far distance and still be able to auto-attack, stack his passive Deadly Venom and use Contaminate to deal a lot of damage.
+
+Twitch does well when building attack damage items and benefits significantly from attack speed, allowing him to stack his passive quicker. Blade of the Ruined King is an excellent item for Twitch. When turning invisible and surprising the enemy with his auto attacks, stealing movement speed from the enemy makes it easier for Twitch to auto attack more to kill the enemy. Runaan's Hurricane is another excellent item that helps Twitch spread his damage and his poison, allowing him to get stacks on multiple champions which makes him powerful during teamfights.
+
+Onto the runes, we have:
+
+With this build Twitch focuses on attacking fast to deal more damage with his on-hit items. Lethal Tempo helps Twitch can gain more attack speed
+
+Brutal gives Twitch's auto attacks more damage making it easier to lane with him and allowing him to deal more damage in the late game.
+
+When enemy champions are low on health, Twitch can deal bonus damage. This will help Twitch kill enemies faster. Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+Alacrity gives Twitch Attack Speed which will provide him with some early-game power and allow him to play more aggressively in one vs one scenarios. Legend: Tenacity is another great option when playing against champions that have Crowd Control.
+
+As a marksman, Twitch will always be the main focus for the enemy team to try and take down. However, Bone Plating will help Twitch take reduced damage from the first three instances of damage which can save his life.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a sticky situation or if you're trying to go in for the killing blow! The go-to 2nd spell for Twitch is Ghost. Since Twitch doesn't have any mobility in his kit, getting Ghost can help when kiting away for high-damage enemy champions.
+
+Twitch is a really weak champion in the early game. You want to stay as passive as you can and try not to die. Try to farm up to get your core items and do the best you can to scale into the late game. Don't walk up and risk dying just to try and get the last hit on a minion for gold because sometimes enemies will take advantage of that and kill you because of Twitch's short range.
+
+Once you reach the late game (and we are talking about the very late game) and have your core items plus more, this is where Twitch can use Camouflage and long-range from Spray and Pray to start dealing a lot of damage. It's always best to stay grouped with your team as an AD Carry. You want to stay as far back from the enemies as possible and allow your front line to go in front of you to tank all the damage. Most of the time, you are the main damage output, so if you are caught by yourself and die, your team is in huge trouble, so make sure you stay safe at all times.
+
+If you like the sound of a super late-game hyper-carry that can also roam around the map and become an assassin, then Twitch is the right champion for you. Just be careful not to fall too far behind in the early game
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

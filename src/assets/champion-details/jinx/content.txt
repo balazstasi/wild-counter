@@ -1,0 +1,96 @@
+Title: Jinx :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Jinx in League of Legends: Wild Rift. Our build guide will teach you how to play Jinx in the current meta.
+
+Headings:
+- Level 1 Jinx Stats
+- Jinx's Abilities
+- Jinx  Build Guide for Wild Rift
+- Jinx's Item Build
+- Jinx's Spells & Runes
+- Jinx's Situational Runes
+- Jinx's Skill Order
+- How to play Jinx
+- Jinx's Abilities
+- Get Excited! (Passive)
+- Switcheroo! (1)
+- Zap! (2)
+- Flame Chompers! (3)
+- Super Mega Death Rocket! (Ultimate)
+- Jinx Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Scoring a takedown on a champion or structure that Jinx has damaged within the last 3 seconds grants her 140% decaying Movement Speed and 12% Total Attack Speed for 6 seconds.
+
+While Excited, Jinx can exceed the Attack Speed cap.
+
+Swaps weapons-
+
+Fishbones, the Rocket Launcher: Attacks cost mana but gain 80 / 95 / 110 / 125 range and explode to deal 107% damage to the target and enemies around it.
+
+Pow-Pow, the Minigun: Attacks grant bonus Attack Speed for 2.5 seconds. This effect stacks up to 3 times for a total bonus of 35% / 60% / 85% / 110%.
+
+Pow-Pow's stacks fall off one at a time and will only benefit the first attakc fire from Fishbones.
+
+Tosses out three compes that arm after a brief delay. Chompers explode on contact with enemy champions, interrupting their dashes and rooting them for 1.45 / 1.55 / 1.65 / 1.75 seconds. Enemies hit by the explosion take 70 / 140 / 210 / 280 (+100% AP) magic damage.
+
+Chompers last for 5 seconds and will explode automatically if no champion triggers them.
+
+Fires a mega-rocket that gains damage and speed over the first second it travels. The rocket explodes on the first enemy champion hit, dealing 25 / 35 / 45 to 250 / 350 / 450 (+15% to 150% AD) physical damage +25% / 30% / 35% of their missing health. Nearby enemies take 80% damage.
+
+Deals a max of 500 damage to epic monsters.
+
+Jinx is a duo lane marksman who scales crazily well into the late game thanks to her insane attack range and attack speed. Jinx is known as a hyper-carry, meaning she's not the best regarding early-game damage. The later the game goes, the more items she gets, the stronger she becomes. Jinx's first ability Switcheroo! allows her to change weapons. Her Rocket Launcher gives her increased attack range and AOE damage, and her mini-gun gives her stacking attack speed. She also has one of the best passive's in the game, Get Excited. Every time she gets a takedown, she gains attack speed (exceeding the maximum attack speed limit) and a bunch of movement speed to chase down enemies and kill everyone.
+
+When Jinx gets a takedown on a champion, epic monster or structure that she has damaged within the last few seconds, she gets bonus movement and attack speed for a few seconds. While Excited, Jinx can exceed the Attack Speed Cap. This makes Jinx extremely strong and unstoppable in the late game; however, it's essential to know when to use the extra movement speed to chase down enemies or try and run away.
+
+This allows Jinx to swap her weapons, Fishbones the Rocket Launcher and Pow-Pow the Minigun.
+Fishbone's attacks cost mana but gain increased attack range and explode to damage the target and enemies around it. When using Fishbones, your mana goes down fast, so make sure you only use it when necessary, mainly in teamfights.
+
+Pow-Pow's attacks grant bonus attack speed for a few seconds. This effect stacks up to 3 times, gaining more attack speed each time. Pow-Pow has a shorter range than Fishbones but is excellent for single-target damage.
+
+Jinx fires a shock blast that damages the first enemy hit, granting vision and slowing the target for a few seconds. This ability is a long-range poke and is excellent during laning phases and to finish off an enemy at range. Zap is also great for checking bushes, dragons or barons to see where the enemy team is if you have no vision.
+
+Jinx tosses out three chompers that arm after a brief delay. Chompers explode on contact with enemy champions, interrupting their dashes and rooting them. Chompers last a few seconds and will explode automatically if no champion triggers them. This is Jinx's only crowd control and self-peel ability to help keep herself alive.
+
+It has a long cooldown, so it's best to know when to use them. Use this ability to block off the enemy's escape routes or in a choke point so the enemy can't go through. You can also use this ability as protection from melee champions. It's essential to manually aim the chompers since just tapping the ability will miss enemy champions.
+
+Jinx fires a mega-rocket that gains damage and speed over the first second it travels. The rocket explodes on the first enemy champion hit, dealing damage. This ultimate is global, meaning the ability can travel across the whole map. This ultimate is an outstanding execution tool as it does more damage the more missing health an enemy has.
+
+Jinx does well when building attack damage items and benefits from building attack speed. Bloodthirster is the strongest first item for Jinx. You get a huge amount of attack damage and a little bit of attack speed, especially when you have not lost a lot of health. Even when you lose health, the Physical Vamp from Bloodthirster can help you heal from minions or monsters. Runaan's Hurricane is the perfect item for Jinx. Since she will be auto attacking a lot the spread damage from Runaan's will help increase her damage and will sometimes help you get her passive since you only need to damage an enemy before they die.
+
+Onto the runes, we have:
+
+With Jinx, you will be attacking a lot at range, and she can stack Lethal Tempo very easily. When Lethal Tempo is fully stacked, you get a massive burst of attack speed that helps Jinx deal a lot of damage.
+
+Since Jinx auto attacks a lot and gets a lot of attack speed from her passive Get Excited. Brutal is a great choice to give Jinx more damage.
+
+When enemy champions are low on health, Jinx can deal bonus damage. This will help Jinx kill enemies faster to get her passive sooner. Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+Alacrity gives Jinx more attack speed to help her deal more damage during teamfights.
+
+As a marksman, Jinx will always be the main focus for the enemy team to try and take down. However, Bone Plating will help Jinx take reduced damage from the first three instances of damage, which can save her life.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get you out of a bad situation or allows you to flash into the team to get that killing blow! The go-to 2nd spell is Ghost. Since Jinx doesn't have much mobility, the extra movement speed you get when using a Summoner Spell can help her escape difficult situations or help her chase down an enemy champion for the killing blow.
+
+Jinx is a weak champion in the early game. The best thing you can do when playing Jinx is to play passively in the Laning Phase and farm until you have a few levels and items. Use Jinx's rockets from Switcheroo! to try and poke down enemy champions or farm minions at range, but be careful as every auto-attack will cost mana, so don't waste it all at once. You want to save Flame Chompers incase you get ganked, as this is the only way to survive.
+
+Once you reach the late game and have your core items, this is where Jinx can use her Rockets at range and kill the whole team. Make sure you slow down enemy champions with Zap! and when you are in trouble, use Flame Chompers! to trap the enemies and escape. It's always best to stay grouped with your team as an AD Carry. You want to stay as far back from the enemies as possible and allow your front line to go in front of you to tank all the damage. Most of the time, you are the main damage output, so if you are caught by yourself and die, your team is in trouble, so make sure you stay safe at all times.
+
+Jinx is a great starter champion if you want to try Dragon Lane. She has an easy-to-learn kit with straightforward combos and mechanics. If you're looking for a champion who is strong in the late game and has the potential to solo carry team fights with good positioning, then Jinx is the right champion for you!
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

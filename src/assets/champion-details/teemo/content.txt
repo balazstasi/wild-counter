@@ -1,0 +1,74 @@
+Title: Teemo :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Teemo in League of Legends: Wild Rift. Our build guide will teach you how to play Teemo in the current meta.
+
+Headings:
+- Level 1 Teemo Stats
+- Teemo's Abilities
+- Teemo  Build Guide for Wild Rift
+- Teemo's Item Build
+- Teemo's Spells & Runes
+- Teemo's Situational Items
+- Teemo's Situational Runes
+- Teemo's Skill Order
+- How to play Teemo
+- Teemo Build Breakdown
+- Early Game
+- Late game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Deals 70 / 120 / 170 / 220 (+60% AP) magic damage and blinds the target for 1.25 / 1.5 / 1.75 / 2 seconds.
+
+Attacks from blinded enemies will miss their target, dealing no damage and failing to apply on-hit effects.
+
+Passive: Grants 15% / 20% / 25% / 30% Movement Speed if an enemy champion or structure has not damaged Teemo within the last 5 seconds.
+
+Active: Rolls a short distance forward and sprints for 3 seconds. During this time, Move Quick's bonus is doubled and cannot be removed by damage.
+
+After a delay, become Camouflaged. Moving outside of brush for more than 3 / 3.5 / 4 / 4.5 seconds ends this effect.
+
+After exiting Camouflage, gain 30% / 40% / 50% / 60% Attack Speed for 3 / 4 / 5 / 6 seconds.
+
+Camouflage: Hide from champions by keeping them out of Teemo's detection radius. Enemy turrets reveal camouflaged units near them. Attacks and offensive abilities end Camouflage early.
+
+Places a mushroom trap that detonates when an enemy steps on it, dealing 225 / 350 / 475 (+60% AP) magic damage over 3 seconds and slowing by 30% / 40% / 50% for 3 seconds.
+
+Traps last for 2 minutes.
+
+Teemo is an ability power auto-attack focused top lane champion. The main goal when playing Teemo is to be aggressive in the early laning phase and use his range and poke to his advantage. He has a very unique playstyle, being able to turn invisible at times and putting invisible mushrooms on the floor that enemies can walk over, dealing a lot of damage. In the late game, Teemo is not that great so your best option is to place as many mushrooms as possible, around the major objectives and lure the enemy team to walk into them.
+
+Teemo uses a mixture of auto-attacks and ability power to do damage to the enemies. Riftmaker is a great item for Teemo. Teemo's poison counts as him being in combat so you can get to maximum stacks of the Riftmaker passive very easily, this means you can deal additional true damage. Liandry's Torment is another excellent item for Teemo. Teemo's damage over time from his passive Toxic Shot works with the damage from Liandry's passive making Teemo annoying to deal with.
+
+For runes we have the following:
+
+Since Teemo can sneak around invisible and put invisible shrooms across the map he can surprise enemies and do a lot of damage with First Strike.
+
+With Teemo being a ranked champion. Most of the time, he will be against a melee matchup which means he can auto-attack a lot and benefit from Brutal.
+
+When enemy champions are low on health, Teemo can deal bonus damage. This will help Teemo kill enemies faster.
+
+Alacrity gives Teemo Attack Speed, which grants him a lot of power in the early game to get an advantage with his insane burst damage.
+
+Since Teemo is a very squishy champion that tends to get focused, Bone Plating will help him take reduced damage from the first three instances of damage, which will help him survive against bursting.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for the killing blow. For the 2nd spell, it's best to go for Ignite. As a ranged Baron Lane champion, Teemo wants to get an early advantage and even try and kill the enemy Baron Laner. Ignite will help Teemo deal more damage and help him achieve this goal.
+
+As Teemo, you want to be really aggressive early game. You have really good 1 vs 1 potential against other top lane champions (especially vs melee champions) because of your range and poke. Make sure you use Blinding Dart when fighting vs the enemy so their next few attacks will deal no damage to you. Take advantage of Guerilla Warfare and go invisible whenever possible to gain extra attack speed and be a surprise factor for the enemy.
+
+Teemo really struggles when it gets to late game because he doesn't do the most damage. The best thing you can do at this point is using your Noxious Trap to get as many shrooms down as possible. This way when a fight happens, you can walk towards your mushrooms and hopefully be able to keep yourself alive. When in a team fight, your main goal is to use Blinding Dart on the enemy carries so they do no damage for a period of time, and try to auto-attack and do as much damage as possible. Don't get caught by yourself, as Teemo is not the best when it comes to a 1 vs 1 late game.
+
+Overall Teemo is one of them champions that might seem useless but when he gets ahead he can be very scary because of his invisibility and his invisible shrooms. Make sure you use them to your advantage and you can win every game.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

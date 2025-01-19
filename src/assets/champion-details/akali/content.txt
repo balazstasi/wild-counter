@@ -1,0 +1,107 @@
+Title: Akali :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Akali in League of Legends: Wild Rift. Our build guide will teach you how to play Akali in the current meta.
+
+Headings:
+- Level 1 Akali Stats
+- Akali's Abilities
+- Akali  Build Guide for Wild Rift
+- Akali's Item Build
+- Akali's Spells & Runes
+- Akali's Situational Items
+- Akali's Situational Runes
+- Akali's Skill Order
+- Akali's Item Build
+- Akali's Spells & Runes
+- Akali's Situational Items
+- Akali's Situational Runes
+- Akali's Skill Order
+- How to play Akali
+- Akali's Abilities
+- Assassin's Mark (Passive)
+- Five Point Strike (1)
+- Twilight Shroud (2)
+- Shuriken Flip (3)
+- Perfect Execution (Ultimate)
+- Akali Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Dealing active ability damage to a champion reveals a ring for 4 seconds.
+
+Crossing the ring empowers Akali's next attack to gain 100 range, deal 25 + 10 per level (+60% bonus AD +55% AP) bonus magic damage.
+
+Gains 30% Movement Speed while moving toward the ring. Upon crossing the ring, she gains 30% Movement Speed while moving toward enemy champions for 2 seconds.
+
+Akali dashes through an enemy champion, dealing 80 / 200 / 320 (+50% bonus AD +30% AP) magic damage. Can be cast again after 2.5 seconds.
+
+Recast: Dashes in target direction, dealing 70 to 210 (+30% AP to +90% AP)  magic damage based upon enemies' missing Health.
+
+Deals max damage to enemies below 35% health.
+
+Akali is an AP Assassin who can play in the Solo Lane or Mid Lane. She has a pretty weak early game before hitting level 5, as her Perfect Execution is her primary source of damage. After surviving the early levels and getting into the mid-game, this is where she can shine with her aggressive playstyle. As an assassin, Akali can one-shot vulnerable high-value targets in the enemy backline thanks to her incredible burst damage.
+
+Make sure to check the alternative build at the top of the page for playing Akali in the Mid Lane.
+
+When Akali hits one of her active abilities (Five Point Strike, Shuriken Flip or Perfect Execution) on a champion, it reveals a ring for a few seconds. Stepping outside the ring grants Akali an empowered attack, granting bonus attack range, damage and movement speed when walking towards the ring.
+
+The best way to utilize Akali's passive is when your lane opponent walks up to kill a minion. Look to hit the enemy champion with Five Point Strike to put them under pressure and try to deny them last hitting a minion. Assassin's Mark is also very useful when chasing vulnerable targets in the late game to finish them off.
+
+Akali throws kunais, dealing magic damage. Enemies struck at the maximum range are slowed, making it easier to hit Shuriken Flip and the rest of her combo.
+
+Five Point Strike has a very low cooldown, allowing you to use this ability to last-hit minions, harass your lane opponent, and activate your passive. Practice hitting enemies at maximum range with Five Point Strike, as if you do, you can instantly proc your Assassin Mark as you will be outside the circle range.
+
+Akali creates a smoke cloud that expands over time and grants energy. When inside the smoke cloud, Akali is invisible and gains movement speed.
+
+Twilight Shroud is one of Akali's main abilities for escaping and repositioning. You can hide in your Twilight Shroud whilst invisible to dodge abilities and incoming damage. Using Twilight Shroud in a teamfight helps you create pressure since you can reposition yourself and choose the right target to jump on without the enemies seeing you.
+
+Akali throws a shuriken, dealing damage and marking the target. If the shuriken hits, you can press the ability again, dashing to the marked target and dealing damage.
+
+Hitting Shuriken Flip is crucial to landing Akali's full combo. Only use this ability when you're sure you'll not miss. If you are not confident about hitting a target with your shuriken, you can cast this ability backwards. This means that Akali will flip towards the enemy and you can use Five Point Strike or Perfect Execution to engage on the enemy. Shuriken Flip is a great way to proc your Assassin Mark. When you hit an enemy champion, you will already be outside the circle, so you can dash in and do extra damage. But be careful when using your second part of Shuriken Flip because you might travel into a dangerous zone and fall very quickly.
+
+First Cast: Akali dashes through an enemy, ending up behind them and dealing magic damage.
+
+Second Cast: Akali dashes in a direction dealing more damage based on the enemy's missing health.
+
+Since the second cast's damage is based on the enemy's missing health, you only want to use it at the end of your combo or just before the timer ends. However, since the second cast can be used in any direction, it can also be used as an escape mechanic after killing an enemy.
+
+Riftmaker helps Akali during longer teamfights; the more you're in a fight, the more damage you will deal. Riftmaker also offers a ton of sustain thanks to its omnivamp.
+
+Rabadon's Deathcap gives Akali a massive boost of Ability Power which scales incredibly well into the mid/late game. It's essential to have in your build to increase Akali's burst damage.
+
+Infinity Orb helps Akali deal bonus damage to enemies that are low on health. This item combos incredibly well with Akali's second cast on her ultimate, giving her crazy execute damage to low health enemies.
+
+For runes we have:
+
+Conqueror gives Akali a massive amount of healing and damage during teamfights. It's excellent against bruisers and tanks.Electrocute is an excellent option against a squishy team because it provides a quick burst of damage when performing Akali's combo.
+
+Gathering Storm gives Akali a lot of ability in the mid and late game. It's not helpful in the early game, but this will help Akali shine brighter in the late game.
+
+Coup de Grace will help Akali deal more damage to low-health enemy champions.
+
+Giant Slayer is another excellent option when playing against bruisers and tanks.
+
+Bloodline gives Akali omnivamp throughout the game, giving her more sustain and healing to help her during teamfights.
+
+Sudden Impact has a relatively low cooldown and can be easily proc'd thanks to Akali's multiple dashes and the chance to go stealth from her abilities.Bone Plating is another great option when vs champions that want to play aggressively and have quick combos with their auto attacks and abilities.
+
+Flash is a must on Akali. Whether you want to engage onto the enemy backline or dodge a skillshot and escape, you will always need this Summoner Spell.Ignite gives Akali a bit of extra damage and is always useful to secure kills when dashing in with Akali's combo.
+
+Akali can be pretty weak in the early game before reaching level 5. Before this point, you want to farm as many minions as possible to help you get your items sooner. When possible, try to hit Five Point Strike on your lane opponent; this will activate Assassin Mark to help with trading. If you get into trouble early, remember to use Twilight Shroud and Shuriken Flip to get some distance between you and the enemies.
+
+Akali is among the best AP Assasins in the mid and late game. When grouping for a teamfight, try to get a flanking position behind the enemy to access vulnerable backline carries. If that's not possible, follow your teammates and engage, and with Akali's insane mobility, she can still get into the backline. Be sure that you are not the first person to engage. It would be best to wait for your team to engage first and be there for the cleanup.
+
+Overall, Akali has a very aggressive playstyle. She has a very high skill gap, which means it might take a few games to understand how to play her, but if you can master Akali, you can climb the ranks and reach the very top.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

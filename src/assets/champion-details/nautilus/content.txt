@@ -1,0 +1,107 @@
+Title: Nautilus :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Nautilus in League of Legends: Wild Rift. Our build guide will teach you how to play Nautilus in the current meta.
+
+Headings:
+- Level 1 Nautilus Stats
+- Nautilus's Abilities
+- Nautilus  Build Guide for Wild Rift
+- Nautilus' Item Build
+- Nautilus' Spells & Runes
+- Nautilus' Situational Items
+- Nautilus' Situational Runes
+- Nautilus' Skill Order
+- Nautilus' Item Build
+- Nautilus' Spells & Runes
+- Nautilus' Situational Items
+- Nautilus' Situational Runes
+- Nautilus' Skill Order
+- How to play Nautilus
+- Nautilus's Abilities
+- Staggering Blow (Passive)
+- Dredge Line (1)
+- Titan's Wrath (2)
+- Riptide (3)
+- Depth Charge (Ultimate)
+- Nautilus Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Attacks deal an additional 13 physical damage and root the target for 1 second.
+
+6 seconds cooldown on the same target.
+
+Hurls his anchor forward, dealing 70 / 130 / 190 / 250 (+75% AP) magic damage to the first target hit and pulling them and Nautilus together.
+
+If the anchor hits terrain, Nautilus pulls himself to the terrain and 50% of Dredge Line's cooldown and mana cost are refunded.
+
+Gains a shield that absorbs 65 / 75 / 85 / 95 (+13% / 14% / 15% / 16% max HP) damage for 6 seconds.
+
+While the shield holds, Nautilus' attacks are empowered to deal an additional 50 / 60 / 70 / 80 (+40% AP) magic damage around the target.
+
+Deals 200% damage against monsters.
+
+Sends waves emanating outward that deal 60 / 100 / 140 / 180 (+50% AP) magic damage and slow by 35% / 40% / 45% / 50% decaying over 1.5 seconds.
+
+Enemies hit by subsequent waves take 50% damage.Deals 175% damage against monsters.
+
+Nautilus is one of the best engage supports in the game. He has 4 different forms of crowd control in his kit and he is also a great front-line tank for his team. Nautilus is an easy champion to play and master since his kit is not that complicated and he is a strong champion at all stages of the game.
+
+Every first auto attack deals additional physical damage and roots the target for just under a second. This passive does have quite a long cooldown on the same target so auto attacks after the first one will just be normal.
+
+It's very important to use Staggering Blow on top of all your other crowd control effects. Try to proc it on every enemy champion in range every time it is off cooldown.
+
+Nautilus throws his anchor forward, dealing magic damage to the first target hit and pulling them and Nautilus together. This is your main form of engage. Be careful when aiming near minions as the hook can easily be blocked by them.
+
+If the anchor hits the terrain, Nautilus pulls himself to the terrain and half of the cooldown and mana cost is refunded. This is a great way of escaping.
+
+Nautilus gains a shield that absorbs damage for a few seconds. While the shield is active, Nautilus attacks are empowered and deal additional magic damage around the target.
+
+This ability is an auto-attack reset which means you can reduce the time between auto-attacks when you use it.
+
+Nautilus sends waves emanating outward 3 times that deal magic damage and slow each time.
+
+This ability can be used quite effectively to clear minion waves and help zone enemies during big team fights. Enemies hit by subsequent waves take less damage.
+
+Nautilus fires a depth charge towards an enemy champion dealing magic damage, knocking them up and stunning them for a second. Other enemies can be hit whilst the depth charge is travelling to the target. They will also be knocked up and sunned and take magic damage.
+
+This is a point-and-tap ability that enemies cannot dodge unless you have Statis or a spell shield of some kind. This is what makes Nautilus' lockdown so strong and annoying.
+
+Nautilus does amazing with tank items that can help him survive longer when going onto the enemies with his heavy crowd control. Warmog's Armor is an excellent item for Nautilus. As a tank Nautilus loves Maximum Health to make him more difficult to kill. The passive also means Nautilus will be able to heal when out of combat after going in for a fight. Zeke's Convergence is another great item for Nautilus. This item will slow and deal damage to nearby enemies when you use his ultimate giving you more carry potential.
+
+For runes we have the following:
+
+Glacial Augment is a great Keystone for Nautilus. Nautilus has plenty of ways to immobilize enemy champions with his abilities and even his auto attacks, meaning he can slow and reduce the damage of enemy champions, which will greatly help him and his team.
+
+Nautilus has multiple abilities that allow him to immobilize enemies. With Courage of the Colossus, Nautilus will gain a shield making him even more difficult to kill as a tank.
+
+Since Nautilus loves to engage and is generally at the front during team fights, he will take a lot of damage. Bone plating will help Nautilus take reduced damage from the first three instances of damage.
+
+Overgrowth allows Nautilus to gain permanent health throughout the game when nearby minions or monsters are killed, meaning you don't even need to kill the minions or monsters to gain stacks.
+
+Hexflash gives Nautilus more opportunities to make plays throughout the game when Flash is on cooldown. Use hex flash in a bush or behind a wall to surprise your opponent and engage with Nautilus's combo.
+
+For summoner spells, Flash is a must on Nautilus as it works well with his abilities. You can Flash onto the enemies and use his passive auto-attack Staggering Blow to stun a target in place, which means you can follow up with his other abilities to lock an enemy in place. Ignite is a nice way to get a little bit of damage with Nautilus when he is jumping in onto the enemies to try and 'secure' the kill.
+
+Nautilus has one of the best laning phases in the game. He has a lot of lane presence because of his pick potential so make sure you are always threatening to engage in the lane. His Level 2 power spike combo with Dredge Line and Titan's Wrath is one of the strongest in the game. You get insane crowd control and you get a really strong early shield.
+
+Nautilus is also really good at roaming around the map and getting picks on enemy champions. You have options to help teammates get kills, help them away from danger, whilst also helping the jungler secure objectives.
+
+As Nautilus, it's really important as a support to stay with your team! Your job is to try and get your team to group for a team fight, as this is where you can make a big difference. If you can land a huge combo on the enemy team or an important target, you can win the entire match! If this is not possible, the best option you have is to stick by your AD carry (Dragon Lane Champion). The AD Carry in your team is one of the main damage sources and keeping them alive is really important!
+
+Overall Nautilus is a super fun champion to play! If you like being at the forefront of engages and being a big front line tank then he is the right champion for you! Nautilus can survive for a long time and use his crowd control to control a teamfight and win the game.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

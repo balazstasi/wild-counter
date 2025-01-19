@@ -1,0 +1,93 @@
+Title: Tryndamere :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Tryndamere in League of Legends: Wild Rift. Our build guide will teach you how to play Tryndamere in the current meta.
+
+Headings:
+- Level 1 Tryndamere Stats
+- Tryndamere's Abilities
+- Tryndamere  Build Guide for Wild Rift
+- Tryndamere's Item Build
+- Tryndamere's Spells & Runes
+- Tryndamere's Situational Items
+- Tryndamere's Situational Runes
+- Tryndamere's Skill Order
+- Tryndamere's Item Build
+- Tryndamere's Spells & Runes
+- Tryndamere's Situational Items
+- Tryndamere's Situational Runes
+- Tryndamere's Skill Order
+- How to play Tryndamere
+- Tryndamere Build Breakdown
+- Jungle Path
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Gains 0.32% Critical Rate for each point of Fury.
+
+Attacking a champion grants 35% Attack Speed for 5 seconds. (6 second cooldown)
+
+Gains 5 Fury with every attack, 10 from critical strikes and 15 from kills.Loses 5 Fury per second after Tryndamere has been out of combat for 8 seconds.Battle Fury's Attack Speed bonus increases with Undying Rage's ability rank.
+
+Tryndamere converts Critical Rate above 100% into Attack Damage at a rate of 0.8 Attack Damage per 1% Critical Rate.
+
+Passive: Gains 7 / 12 / 17 / 22 Attack Damage plus an additional 0.25 / 0.3 / 0.35 / 0.4 Attack Damage per 1% of missing Health.
+
+Active: Consumes all Fury to heal for 55 / 65 / 75 / 85 (+30% AP) plus 1.5 / 2.1 / 2.7 / 3.3 (+1.2% AP) per point of Fury consumed.
+
+Reduces nearby enemy champions' Attack Damage by 35% for 3 seconds.
+
+If target is moving away from Tryndamere, they will be slowed by 25% / 30% / 35% / 40%.
+
+Dashes, dealing 80 / 120 / 160 / 200 (+135% AD +100% AP) physical damage.
+
+Critical Strikes against minions reduce the cooldown of Spinning Slash by 1 second, doubled against champions.
+
+Gains 2 Fury for each enemy hit.
+
+Passive: Increases Battle Fury's bonus Attack Speed to45% / 55% / 65%.
+
+Active: Becomes unkillable for 5 seconds and gains 50 / 75 /100 Fury.
+
+Can be cast while crowd controlled.
+
+Tryndamere is a fighter jungler. Tryndamere can also be played in the top lane but in this guide we will focus on the jungle role. He is really weak in the early game, not having the best damage or mobility. When you farm the jungle and reach level 5 and get access to Undying Rage, this is when you can start to help your team. With your ultimate you are unable to die for a short period of time. This is great for ganking and tower diving. If Tryndamere doesn't get behind in the early game and can survive to the late game, you can do great in team fights and split pushing.Tryndamere can also be played in the top lane, make sure to check the alternative build at the top of the page! The build is very similar to the jungle build as all the items work well with Tryndamere's abilities. With Tryndamere top, you do well at split pushing meaning you want to try and push the minions in the top or bottom lane to try and get some towers and maybe even end the game!
+
+Tryndamere uses a mixture of both attack damage and attack speed that works well with his kit. His ultimate makes him unkillable, you don't need to buy tank items and you can go full damage to run in and deal a lot of damage. Blade of the Ruined King is a great item that gives Tryndamere a lot of attack damage and attack speed. The item also helps Tryndamere chase down enemy champions because of the passive. After Blade you want to build items that give Tryndamere Critical Strike Chance so his auto attacks can deal a lot of damage.
+
+For runes, we have the following:
+
+Tryndamere's primary source of damage comes from his auto attacks and being able to critical strike a lot. With Lethal Tempo, you can get a massive burst of attack speed to help Tryndamere do more damage.
+
+Brutal is the best option on this row. Even though this rune doesn't benefit him when clearing through the jungle, being able to deal more damage to champions is always beneficial.
+
+Last Stand helps Tryndamere deal more damage when he drops low on health. This synergizes well with his ultimate Undying Rage because you will be 1HP and staying on that health the whole time whilst auto-attacking and dealing damage.
+
+Alacrity gives Tryndamere Attack Speed, which will help him clear jungle camps quicker and stacks up to help him attack more often during team fights.
+
+Overgrowth allows Tryndamere to gain permanent health throughout the game when nearby minions or monsters are killed. So the more Tryndamere farms in the jungle, the more Maximum Health he will get. This will help Tryndamere survive longer when dashing in to kill enemies.
+
+For summoner spells, Ghost in ideal for Tryndamere. He wants to be in the face of the enemy auto-attacking throughout a fight since this is where most of his damage will come from. As the 2nd summoner spell, Smite is a must for when you are playing jungle. Helps you out a lot when clearing the jungle and securing the epic monsters.
+
+Tryndamere has a decent early jungle clear. This means that you can work your way around the jungle and get close to level 5 as soon as possible. He doesn't have the best 1 vs 1 potential vs other junglers. This means that most of the time you want to go for a full clear in the jungle. It is best to start at Red Brambleback as you don't have mana and you don't lose a lot of health when jungle clearing.
+
+This is what the jungle patch would look like:
+
+Below is a beginner's guide for the jungle in Wild Rift. It goes in-depth about every jungle camp, epic monsters and more!
+
+If you're able to get to the late game with Tryndamere, and you have your core items and a few levels, you can use this opportunity to split push where possible. This means going to one of the side lanes (top or bottom) and pushing the minions. However as a jungler, your main objective is to keep track of when Dragons, Rift Herald and Baron spawn. Taking these epic monsters will give you and your team an advantage in the game. When a team fight happens you want to make sure you are at the front protecting your team.
+
+Tryndamere is a very niche pick and has a unique play style. If you like running towards the enemy team dealing no damage and staying alive on 1HP with his ultimate then Tryndamere is the perfect champion for you.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

@@ -1,0 +1,66 @@
+Title: Tristana :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Tristana in League of Legends: Wild Rift. Our build guide will teach you how to play Tristana in the current meta.
+
+Headings:
+- Level 1 Tristana Stats
+- Tristana's Abilities
+- Tristana  Build Guide for Wild Rift
+- Tristana's Item Build
+- Tristana's Spells & Runes
+- Tristana's Situational Items
+- Tristana's Situational Runes
+- Tristana's Skill Order
+- How to play Tristana
+- Tristana Build Breadown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Leap to a target location, dealing 85 /155 / 225 / 295 (+50% AP) magic damage and slowing nearby enemies by 60% for 1.5 / 2 / 2.5 / 3 seconds.
+
+Takedowns and fully stacked Explosive Charge detonations on champions reset Rocket Jump's cooldown.
+
+Passive: Enemies explode when killed by Tristana's attacks, dealing 55 / 85 / 115 / 145 (+25% AP) magic damage to nearby enemies.
+
+Active: Places a bomb on an enemy or turret, dealing 50 / 75 / 100 / 125 (+65% / 100% / 135% / 170% bonus AD +50% AP) physical damage to nearby enemies. Tristana's attacks and abilities charge the bomb's damage by 30% stacking 4 times.
+
+Bombs explode immediately at full stacks. Explosion radius is doubled for bombs placed on turrets.
+
+Tristana is a dragon lane champion that focuses on attack damage to kill the enemy team. She is not the best in the early game because her range is very short and she doesn't do a lot of damage. The later the game goes and the more items she gets, the stronger she becomes. This is thanks to her insane range from her passive Draw a Bead, which increases her auto attacks and abilities range when she levels up. She can also get a reset on the cooldown from her Rocket Jump that can help a lot especially in the late game you just need to make sure you can get a takedown (kill or assist).
+
+Tristana does well when building attack damage items with some attack speed and critical strike chance. Bloodthirster is the strongest first item for Tristana. You get a huge amount of attack damage, especially when you have not lost a lot of health. Even when you lose health, the Physical Vamp from Bloodthirster can help you heal from minions or monsters. Navori Quickblades is another excellent item for Tristana that allows Tristana to use her abilities more often when she crits, which is vital for Tristana's damage and mobility.
+
+Onto the runes, we have:
+
+With Tristana, you will be attacking a lot at range, and she can stack Lethal Tempo very easily. When Lethal Tempo is fully stacked, you get a massive burst of attack speed that helps Tristana deal a lot of damage.
+
+Brutal gives Tristana's auto attacks more damage giving her a lot of power in the early game to try and get an advantage to carry her team.
+
+When enemy champions are low on health, Tristana can deal bonus damage. This will help Tristana kill enemies faster. Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+Alacrity gives Tristana Attack Speed which will provide her with some early-game power and allow her to play more aggressively in one vs one scenarios. Legend: Tenacity is another great option when playing against champions that have Crowd Control.
+
+As a marksman, Tristana will always be the main focus for the enemy team to try and take down. However, Bone Plating will help Tristana.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get you out of a bad situation or allows you to flash into the team to get the killing blow. The go-to 2nd spell is Exhaust. With Tristana you will be jumping in a lot which means you'll be in range to use Exhaust to help you win fights.
+
+Tristana is not the best champion in the early game. You can use your Explosive Charge to help clear minion and/or use it on the enemy to keep them away as you're trying to last hit minions. You want to stay as passive as you can and try not to die so you can farm up and get your core items. Remember that at any point if you are in danger you can use Rocket Jump to jump away to stay safe.
+
+Once you reach the late game and have your core items, this is when Tristana can use her range from her passive Draw a Bead and kill the whole team. It's always best as an AD Carry to stay grouped with your team. You want to stay as far back from the enemies as possible and allow your front line to go in front of you to tank all the damage. Most of the time you are the main damage output, so if you are caught by yourself and die then your team is in really big trouble, so make sure you stay safe at all times.
+
+Tristana is a great starter champion if you want to give Dragon Lane a try! Her abilities are really simple and she has a great play style for beginners that are just starting to play Wild Rift. If you're looking for a champion that can be a powerhouse in the late game with her insane range and abilities then Tristana is the right champion for you.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

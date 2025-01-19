@@ -1,0 +1,70 @@
+Title: Xayah :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Xayah in League of Legends: Wild Rift. Our build guide will teach you how to play Xayah in the current meta.
+
+Headings:
+- Level 1 Xayah Stats
+- Xayah's Abilities
+- Xayah  Build Guide for Wild Rift
+- Xayah's Item Build
+- Xayah's Spells & Runes
+- Xayah's Situational Items
+- Xayah's Situational Runes
+- Xayah's Skill Order
+- How to Play Xayah
+- Xayah Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+After using an ability, Xayah's next 3 attacks will hit all enemies along their path and drop Feathers she can recall. Xayah can store up to 5 Feathers at a time.
+
+Lover's Leap - Xayah and Rakan can join each other's recall. Both will reach the Summoning Platform when the initiator's recall ends.
+
+Creates a storm of blades for 4 seconds that grants45% / 50% / 55% / 60% Attack Speed and causes attacks to deal 20% more damage.
+
+If Deadly Plumage strikes an enemy champion, gain25% / 30% / 35% / 40% Movement Speed for 1.5 seconds.
+
+If Rakan is nearby he will also gain the effects of this skill.
+
+Calls back all Feathers, dealing 60 / 70 / 80 / 90 (+90% bonus AD) physical damage to enemies they pass through. Hitting an enemy with 3 Feathers roots them for 1.25 seconds.
+
+Minions take 50% damage from Bladecaller.
+
+Xayah is a dragon lane champion that focuses on attack damage to kill the enemy team. Xayah is not the best in the early game but can cope pretty well in the laning phase. The later the game goes and the more items she gets, the stronger she becomes. This is because of her auto-attacks dealing a bunch of critical damage and if you can stack up enough feathers, your Bladecaller can do a lot of damage. When paired with Rakan in the bot lane, you both get some bonuses. You can recall with Rakan at any point and if you use your Deadly Plumage, you also give Rakan attack speed and movement speed when hitting enemies. This makes Xayah and Rakan a perfect bot lane combo.
+
+Xayah does well when building attack-damage items. Bloodthirster is the strongest first item for Xayah. You get a huge amount of attack damage, especially when you have not lost a lot of health. Even when you lose health, the Physical Vamp from Bloodthirster can help you heal from minions or monsters. Navori Quickblades is another excellent item for Xayah that allows her to use her abilities more often when you crit to deal more damage.
+
+Onto the runes, we have:
+
+Lethal Tempo gives Xayah some much-needed attack speed when going for a full Attack Damage build. The extra attack speed will help Xayah deal a lot more damage.
+
+Brutal gives Xayah's auto attacks more damage giving her a lot of power in the early game to try and get an advantage to carry her team.
+
+When enemy champions are low on health, Xayah can deal bonus damage. This will help Xayah kill enemies faster. Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+Alacrity gives Xayah Attack Speed which will provide her with some early-game power and allow her to play more aggressively in one vs one scenarios. Legend: Tenacity is another great option when playing against champions that have Crowd Control.
+
+As a marksman, Xayah will always be the main focus for the enemy team to try and take down. However, Bone Plating will help Xayah take reduced damage from the first three instances of damage which can save her life.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get you out of a bad situation or allows you to flash into the team to get the killing blow. The go-to 2nd spell is Exhaust. Xayah is really good at playing front-to-back fights meaning you can get in range to exhaust the front line to make it easier to auto-attack and get out more feathers.
+
+Xayah is a decent champion in the early game. You can use your Double Daggers to try and poke down the enemy and/or farm from range. You want to stay as passive as you can and try not to die so you can farm up to get your core items. A nice early game combo that you can use to root the enemies really quickly is Double Daggers + 1 auto-attack, this will give you 3 feathers to recall with Bladecaller and if all 3 feathers hit the enemy, they will be rooted so you can get some nice damage off.
+
+Once you reach the late game and have your core items, this is where Xayah can start to become strong and be able to deal a lot of damage. The best tip I can give you is, do not waste your Bladecaller, stack as many feathers as you can. Also, remember that Featherstorm can dodge all types of damage and crowd control to keep you alive. It's always best as an AD Carry to stay grouped with your team. You want to stay as far back from the enemies as possible and allow your front line to go in front of you to tank all the damage. Most of the time you are the main damage output, so if you are caught by yourself and die then your team is in really big trouble. Make sure you stay safe at all times.
+
+Xayah has a very high skill gap and can be very hard at times to understand how she works. She is one of my favourite champions! She is a super safe champion and can do a lot of damage in the late game.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

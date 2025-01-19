@@ -1,0 +1,111 @@
+Title: Ekko :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Ekko in League of Legends: Wild Rift. Our build guide will teach you how to play Ekko in the current meta.
+
+Headings:
+- Level 1 Ekko Stats
+- Ekko's Abilities
+- Ekko  Build Guide for Wild Rift
+- Ekko's Item Build
+- Ekko's Spells & Runes
+- Ekko's Situational Items
+- Ekko's Situational Runes
+- Ekko's Skill Order
+- Ekko's Item Build
+- Ekko's Spells & Runes
+- Ekko's Situational Items
+- Ekko's Situational Runes
+- Ekko's Skill Order
+- How to play Ekko
+- Ekko's Abilities
+- Z-Drive Resonance (Passive)
+- Timewinder (1)
+- Parallel Convergence (2)
+- Phase Dive (3)
+- Chronobreak (Ultimate)
+- Ekko Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Every third attack or damaging ability agains the same target deals an additional 30 (+70% AP) magic damage. If the target was a champion, Ekko gains 40% Movement Speed for 2.5 seconds.
+
+Deals 155% damage to monsters. Cannot affect the same target for 5 seconds.
+
+Throw a temporal device, dealing 90 / 110 / 130 / 150 (+30% AP) magic damage. On hitting a champion or the distance limit, it expands into a field that slows by 30% / 40% / 50% / 60%. The device then returns to Ekko, dealing 70 / 105 / 140 / 175 (+60% AP) magic damage.
+
+Deals 115% damage to monsters.
+
+Passive: Attacks gains Low Health targets deal an additional 3% (+0.02% AP) missing Health magic damage.
+
+Active: Lanches a chronosphere that lasts 1.5 seconds, slowing by 40%. If Ekko enters the sphere it detonates, stunning for 2.5 seconds and granting Ekko a shield that absorbs 70 / 100 / 130 / 160 (+150% AP) damage for 2 seconds.
+
+Becomes untargetable and returns to his position 3.5 seconds ago and heals for 150 / 200 / 250 (+50% AP) increased by 3% per 1% of health lost within 3.5 seconds.
+
+Upon arrival, Ekko deals 200 / 350 / 500 (+150% AP) magic damage to nearby enemies.
+
+Ekko is an AP assassin. Ekko is a very squishy melee champion that can struggle during the early game (vs ranged champions), especially during the lane phase. However, once you get your core items on Ekko he can look to jump onto the enemy carries and kill them with his combo. Once Ekko reaches level 5 and you have access to Chronobreak, you can look to dash in and engage knowing that you can use his ultimate to heal up and go back to safety.
+
+Ekko can also be played in the jungle, make sure to check the alternative build at the top of the page! The build is very similar to the mid-lane build. Make sure you swap your summoner spell to Smite.
+
+Ekko's every third attack or damaging ability from Timewinder, Phase Dive and Chronobreak against the same target deals additional magic damage. If the target is a champion, then Ekko also gains bonus movement speed for just over 2 seconds. This cannot affect the same target for the next few seconds.
+
+When doing Ekko's combo it's important to hit both parts of Ekko's Timewinder so it's easier to proc the passive.
+
+Ekko throws a projectile, dealing magic damage. On hitting a champion or the distance limit, it expands into a field that slows enemies. The device then returns to Ekko dealing magic damage.
+
+This ability is great for clearing minion waves and farming from a distance. Timewinder also deals a lot of damage to champions when close to them. If you get into a situation where you think the 2nd part of Timewinder won't hit, you can use Flash to reposition yourself so the projectile will go through the enemy.
+
+This ability has a passive and an active. For the passive, Ekko's attacks against low-health targets deal additional missing health as magic damage. This is the main reason why you start Parallel Convergence when playing Ekko jungle, not only do you get a shield to stay healthy, but you also deal more damage to the jungle camps.
+
+Parallel Convergence's active launches a chronosphere that lasts just over a second, slowing enemies. If Ekko enters the sphere it detonates, stunning enemies for just over 2 seconds and granting Ekko a shield that absorbs damage for a few seconds.
+
+Knowing when and where to place this ability is crucial. This ability also gives vision where it's placed, useful for scouting bushes and objectives if you have no vision.
+
+Ekko dashes in a target direction. His next attack within a few seconds gains range and causes Ekko to blink to his target and deal additional magic damage.
+
+This is Ekko's mobility and dodging tool. You can use Phase Dive to get over some walls on the rift and you can also blink to plants that can help you get away to safety.
+
+Ekko becomes untargetable and returns to his position from a few seconds ago and heals a part of his missing health back. Upon arrival, Ekko deals magic damage to nearby enemies.
+
+Ekko will have a shadow that follows him around when Chronobreak is available that everyone can see, this is where Ekko will end up when using his ultimate. Combining Parallel Convergence and Chronobreak can turn a fight really easily because of all the damage and crowd control it offers.
+
+Ekko builds ability power items to help with the damage from his abilities and combos. Infinity Orb is a great first item for Ekko. Being able to crit low health enemies to deal bonus damage will help when you want to dash in to one-shot enemy champions. Rabadon's Deathcap is another great item for Ekko that increases his overall ability power so he can become a huge carry for the team.
+
+For runes we have the following:
+
+Fleet Footwork's healing helps Ekko sustain during the laning phase. Also, getting 100% attack speed means when Ekko dashes in, he can proc his passive much quicker.
+
+Nullifying Orb helps Ekko gain a shield when he is low on health, giving him more time to secure a kill or escape from danger.
+
+Bone Plating helps Ekko take reduced damage from the first three instances of damage which will help Ekko when dashing in to try and kill high-value targets.
+
+Second Wind is a great choice when playing against poke damage.
+
+Overgrowth gives Ekko permanent health throughout the game when he kills minions or monsters making him more difficult to kill.
+
+Perseverance is another great choice against Crowd Control.
+
+Sudden Impact can be easily when Ekko is dashing in with Phase Dive giving Ekko more damage with his auto attacks and abilities.
+
+For summoner spells, Flash is a must on Ekko. It's a great spell for getting out of tough situations and when you're trying to kill the enemies. You can also use flash to help Ekko get closer to enemies so you can use Phase Dive! Ignite is also a great spell for Ekko since he can use it most of the time when going into team fights.
+
+Ekko struggles a lot in the early game as a melee champion. Most of the time you want to stay back and use Timewinder to last hit minions or poke down the enemy. Once you hit level 3, you will have access to all your non-ultimate abilities, and this is when you can start to look to fight the enemy mid laner when necessary. When using Parallel Convergence, remember there is a slight delay until you can step inside the sphere to stun the enemies and get the shield. Ekko can use Phase Dive to surprise the enemy and stun them by dashing into the sphere.
+
+When Ekko reaches the mid and late game and he gets a few items, this is when he can become a huge playmaker for his team. When you are grouped with your team and about to have a team fight, the best thing you want to do is get to the enemy backline where you can kill the enemy carries. You have a lot of mobility with Phase Dive to get onto the backline with ease. Always keep an eye out for Ekko's shadow from his ultimate because if you can find the right opportunity to deal a lot of damage, you should take it.
+
+Ekko is one of the best allround champions there is. He is a very mobile and safe assassin that does a massive amount of damage when he combos all of his abilities. Knowing when and where to use your abilities is the most important thing you'll need to learn. He is also a champion that doesn't have a lot of health so you always need to play with care and pick the right time to engage.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

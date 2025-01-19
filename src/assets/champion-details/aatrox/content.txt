@@ -1,0 +1,131 @@
+Title: Aatrox :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Aatrox in League of Legends: Wild Rift. Our build guide will teach you how to play Aatrox in the current meta.
+
+Headings:
+- Level 1 Aatrox Stats
+- Aatrox's Abilities
+- Aatrox  Build Guide for Wild Rift
+- Aatrox's Item Build
+- Aatrox's Spells & Runes
+- Aatrox's Situational Items
+- Aatrox's Situational Runes
+- Aatrox's Skill Order
+- Aatrox's Item Build
+- Aatrox's Spells & Runes
+- Aatrox's Situational Items
+- Aatrox's Situational Runes
+- Aatrox's Skill Order
+- How to play Aatrox
+- Aatrox's Abilities
+- Deathbringer Stance (Passive)
+- The Darkin Blade (1)
+- Infernal Chains (2)
+- Umbral Dash (3)
+- World Ender (Ultimate)
+- Aatrox Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Enhances his next attack every 24 seconds to deal bonus 5 - 15% physical damage of the target's maximum Health and heals himself for the same amount.
+
+Deathbringer Stance's cooldown is reduced by 3 seconds when Aatrox hits a Champion or large monster with an attack or ability.
+
+Max 50 damage against monsters.
+
+Healing reduced to 60% against minions.
+
+Swings his giant blade, dealing 15 / 45 / 75 / 105 (+70% / 75% / 70% / 85% AD) physical damage. This ability can be cast 2 more times, with each cast dealing 25% more damage.
+
+Enemies hit on the sweetspot will be knockd airborne for 0.25 seconds and dealt 50% bonus damage.
+
+Deals 65% damage to minions.Deals 70% damage to monsters.
+
+Sends a chain dealing 25 / 40 / 55 / 70 (+40% AD) physical damage to the first enemy hit and slowing them by 25% for 1.5 seconds.
+
+If a champion or large monster remains within the imapct area after 1.5 seconds, they will be dragged back to the center and take the same damage again.
+
+Deals double damage to minions.
+
+Passive: Aatrox gains 19% / 21% / 23% / 25% physical vamp against enemy champions.
+
+Active: Dashes forward. This resets Aatrox's normal attack. Usable whie casting other abilities.
+
+Unleashes his demonic form for 10 seconds, gaining 30% / 40% / 50% Attack Damage, 25% / 35% / 45% increased healing and 60% / 80% / 100% decaying Movement Speed. During this time, Umbral Dash's Physical Vamp is increased by 50%.
+
+World Ender's duration is extended by 5 seconds with a takedown, up to 10 extra seconds.
+
+Nearby minions and monsters are feared for 3 seconds on activation.
+
+Aatrox is a fighter who can play in the Solo Lane or Jungle. Aatrox's playstyle mainly revolves around his healing and combos. At first glance, Aatrox might not seem like the most challenging champion. However, he has a high skill ceiling when it comes to his combos to deal the most damage possible. Aatrox excels in duels and teamfights thanks to his mobility, which gives him backline access.Make sure to check the alternative build at the top of the page for playing Aatrox in the jungle.
+
+Enhances Aatrox's next auto attack to deal bonus physical damage and heals him.
+
+The cooldown is reduced by a few seconds when Aatrox hits a champion or large monster with an attack or ability. Aatrox's passive will be available when the yellow bar underneath his health bar is full. Try using Aatrox's passive on a champion rather than minions because you heal much more. Only trade with an enemy champion when Aatrox's passive is up since the enhanced auto attack does a lot of damage.
+
+Aatrox swings his blade, dealing physical damage. Enemies hit on the edge (sweetspot) will be knocked up and dealt bonus damage. This ability can be recast two more times, with each cast dealing more damage.
+
+This ability has three forms. A straight line, a horizontal line and a circle. The sweetspot for the lines is on the very tip. However, for the circle, the sweetspot is in the centre.
+
+Aatrox can use Flash and Umbral Dash to change the position of this ability and help him hit the sweetspots. You should always aim to hit enemies in the sweet spot since it will deal substantially more damage.
+
+Aatrox sends a chain, slowing the first enemy hit and dealing physical damage. If a champion remains within the area after a short time, they will be dragged back to the centre and damaged again.
+
+Aatrox can combo Umbral Dash alongside this ability for an easier hit. Enemies will often try to run outside the area, so try to hit Aatrox's Darkin Blade to knockup enemies while they're escaping. This will end up with Aatrox winning the trade.
+
+Passive: Aatrox gains Physical Vamp against enemy champions, which is increased during his World Ender.
+
+Active: Aatrox dashes. He can use this ability while winding up his other abilities.
+
+Umbral Dash resets Aatrox's auto-attack animation. This will help him auto-attack twice in a short amount of time. Aatrox's Umbral Dash is all of his mobility. He'll mainly use this to catch enemies with Darkin Blade or when you need to disengage a fight.
+
+Aatrox unleashes his demonic form, gaining Attack Damage, increased Healing and Movement Speed. Champion takedowns extend the duration of World Ender's effect.
+
+Before entering a team fight, it's essential to use World Ender. This is where Aatrox's damage gets boosted and makes catching enemies much easier.
+
+Eclipse boosts Aatrox's potential by giving him extra damage when hitting champions with combos. This allows him to take more damage and gain a shield for a short time.
+
+Sundered Sky synergizes great with Aatrox's passive Deathbringer Stance. When both passives are available Aatrox's next auto attack will deal a lot of damage.
+
+Sterak's Gage is an excellent choice as a tank item. The shield from the passive will help Aatrox turn fights around.
+
+For runes, we have the following:
+
+Conqueror allows Aatrox to fight for an extended time, and the increased damage helps as an extra source of healing for Aatrox's abilities.
+
+Courage of the Colossus is great when feeling confident that you will hit enemies in the sweet spot.
+
+Alternatively, you can pick Nullifying Orb as a more reliable rune when you are not so confident.
+
+Bone Plating helps Aatrox take reduced damage from melee champions that want to fully engage.
+
+Second Wind is a great choice when playing against poke damage.
+
+Overgrowth gives Aatrox permanent health throughout the game, making him more difficult to kill.
+
+Perseverance is another great choice against Crowd Control.
+
+Sudden Impact increases Aatrox's damage when dashing with Umbral Dash, increasing the damage from his auto attacks and abilities.Giant Slayer is another great option when playing vs Bruisers and Tanks that build a lot of Health.
+
+Flash is a very important Summoner Spell that helps with Aatrox's combos. Use it with The Darkin Blade to hit enemies in the sweet spot. Alternatively, Aatrox can use flash to disengage or dodge enemies. Ignite gives Aatrox more kill pressure during the laning phase. Using Ignite when engaging will help him win trades and secure kills to extend the timer of his World Ender.
+
+Aatrox does well during the early game. Hitting enemies in the sweetspot from The Darkin Blade helps Aatrox when farming and trading against enemy champions. Aatrox cooldowns in the early game can be a problem, so try not to waste your abilities and use them only when necessary. When you need to play safe, you can use Umbral Dash to get away to safety from a gank or dodge any abilities coming your way.
+
+In the late game, Aatrox's main goal is to peel your carries and focus on locking down the enemy carry. The best thing you can do is to group with your team and focus on the objectives. During teamfights, World Ender's movement speed and extra damage make a huge difference, so try only to fight when your ultimate is available.
+
+Overall, Aatrox is a strong champion to play in the Solo Lane or Jungle. Practice hitting enemies in the sweet spot, and you'll be able to win every trade and fight easily.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

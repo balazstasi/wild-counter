@@ -1,0 +1,116 @@
+Title: Kai'Sa :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Kai'Sa in League of Legends: Wild Rift. Our build guide will teach you how to play Kai'Sa in the current meta.
+
+Headings:
+- Level 1 Kai'Sa Stats
+- Kai'Sa's Abilities
+- Kai'Sa  Build Guide for Wild Rift
+- Kai'Sa's Item Build
+- Kai'Sa's Spells & Runes
+- Kai'Sa's Situational Items
+- Kai'Sa's Situational Runes
+- Kai'Sa's Skill Order
+- How to play Kai'Sa
+- Kai'Sa Abilities
+- Second Skin (Passive)
+- Icathian Rain (1)
+- Void Seeker (2)
+- Supercharge (3)
+- Killer Instinct (Ultimate)
+- Kai'Sa Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Living Weapon: Kai'sa's abilities evolve based upon the permanent stats she gains from advanced equipment.
+
+Caustic Wounds: Kai'sa's attacks stack Plasma for 4 seconds and deal 5 (+15% AP) bonus magic damage. Plasma detonates at 5 stacks, dealing 15% (+0.025% AP) bonus magic damage of their missing Health.Nearby allies apply 1 stack to champions they Immobilize.
+
+Plasma detonations deal a max of 400 damage to monsters.
+
+Launches 6 missiles that split evenly among nearby enemies, each dealing 40 / 60 / 80 / 100 (+50% AD +30% AP) physical damage. Additional hits on champions or monsters deal 25% damage.
+
+Living Weapon: 70 Attack Damage - Fires 12 missiles.
+
+Minions below 35% Health take 150% damage. Damage factor to Monsters: 50%.
+
+Fires a blast that reveals the first enemy hit, adds 2 Plasma stacks, and deals 30 / 60 / 90 / 120 (+110% AD +60% AP) magic damage.
+
+Living Weapon: 80 Ability Power - Adds 3 stacks and refunds 70% Cooldown on champion hits.
+
+Charges up for 1 second, gaining 50% / 55% / 60% / 65% (+80% Attack Speed) Movement Speed. For 4 seconds after charging, gain 40% / 50% / 60% / 70% Attack Speed.
+
+Living Weapon: 65% Attack Speed - Grants invisibility during the charge up.
+
+Attacks reduce Supercharge's Cooldown by 0.5 seconds.Charge time and Movement Speed scale with Attack Speed.
+
+Kai'sa is a versatile carry that can be built in many ways. This allows her to deal mixed damage, making it hard to itemize against her. Kai'sa comes online in the mid/late game when she has evolved her abilities. This can be done by completing tier 3 items. This helps her do insane burst damage and gives her great self-peel.
+
+Every time you buy a Tier 3 item, you can evolve one of your abilities:
+
+Kai'sa can also be played in the mid lane; check the alternative build at the top of the page! When playing mid lane Kai'sa, it's much more beneficial to go AP Kai'sa as this will help with her 1 vs 1 potential.
+
+Kai'Sa has two parts to her passive Second Skin. The first part is Living Weapon, which allows Kai'sa to evolve her basic abilities every time she completes a tier 3 item. The most important evolution to go for is Icathain Rain, which gives Kai'sa insane early and scaling damage.
+
+The second passive is Caustic Wounds. Kai'Sa's attacks, her 2nd ability Void Seeker and her allies' immobilizing effects stack Plasma on the enemy. This makes any support with crowd control great with Kai'Sa, as the support can help you stack the passive. The number of stacks on the target can be seen just below the champion/minion. Once you get four stacks on an enemy, the 5th attack deals bonus magic damage equal to a percentage of their missing health.
+
+Launches six missiles that split evenly among nearby enemies, each dealing physical damage. When Kai'Sa isolates an enemy, all the missiles go onto that enemy and do a lot of burst damage. Icathian Rain is also an excellent tool during the laning phase. This ability can poke down enemy champions and hit minions simultaneously. Make sure the enemy champions and minions are in range of your ability, and the missiles will spread to all targets.
+
+Living Weapon: Instead of launching six missiles, you will launch 12. That's double the number of missiles and you guessed it, double the amount of damage! When completing your first tier 3 item, you can get this upgrade at around 4/5 minutes, which will be a huge power spike of damage you can deal.
+
+Kai'sa fires a blast that reveals the first enemy hit, adds two Plasma (Passive) stacks, and deals magic damage. There are two ways you can use this ability to its full potential.
+
+The first is to increase the speed at which you get your stacks for your passive. Hitting enemies with Void Seeker adds two stacks. Using this ability between your attacks is a great way to get to 5 stacks as quickly as possible to deal more damage quickly.
+
+The second is to use Void Seeker to mark enemies from far away so you can use your Ultimate (Killer Instinct) on the target to surprise them. This is mainly useful in the mid/late game; if you can catch someone out by themselves, you can quickly get a kill and an advantage for your team.
+
+Living Weapon: Now your Void Seeker will add three stacks of your passive and lower the cooldown when it hits an enemy champion. When playing AD Kai'sa, you don't want to focus too much on this upgrade, however if you're playing AP Kai'sa, you want to get this evolved 2nd.
+
+When activated, the ability charges up, gaining movement speed. After the charge is finished, Kai'Sa gains attack speed. This adds mobility to Kai'Sa's kit and gives her more attack speed. However, when you are charging, you cannot attack, you can only use Icathian Rain. In the early game, the best time to use this ability is at the start when you know you are about to go into a teamfight.
+
+Living Weapon: When you activate Supercharge, you will become invisible during the charge-up. This makes this ability strong in the mid/late game. Use the ability to throw off your enemies and move to a different location when you are invisible, surprising them with your vast amount of damage.
+
+Allows Kai'Sa to dash to a location near an enemy champion marked by Plasma (Passive), gaining a shield that absorbs damage for a few seconds. This is your primary ability to outplay the enemy and get an advantage for your team.
+
+When you are in a duel at close range, you can use Killer Instinct to avoid enemy damage, skill shots and crowd control or use it to gain a shield when duelling vs an enemy champion. This allows you to reposition and get a shield to help you survive.
+
+Another way you can use Killer Instinct is to jump onto the enemy backline to assassinate them. Be careful when doing this; if you get caught, you will die very quickly.
+
+Kai'Sa does well when building attack damage items and benefits a lot from attack speed. Terminus is a strong first item for Kai'sa that gives her Physical and Magical Penetration. Since Kai'Sa does a lot of mixed damage, Terminus will greatly benefit her. Nashor's Tooth is another great on-hit item that will help Kai'sa deal more damage when auto-attacking. This item gives Kai'Sa Attack Damage in the early game, however when Riftmaker is bought, it changes to Ability Power which scales better into the late game.
+
+Onto the runes, we have:
+
+With Kai'sa, you will be attacking a lot trying to deal damage with her Passive Second Skin, and she can stack Lethal Tempo very easily. When Lethal Tempo is fully stacked, you get a massive burst of attack speed that helps Kai'sa deal a lot of damage.
+
+Brutal gives Kai'sa's auto attacks more damage, giving her a lot of power in the early game to try and get an advantage to carry her team.
+
+When enemy champions are low on health, Kai'sa can deal bonus damage. This will help Kai'sa kill enemies faster. Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+The healing from Bloodline will be more beneficial for Kai'sa for the sustain and survivability compared to the attack speed from Alacrity since we already have a lot of attack speed in her build.
+
+As a marksman, Kai'sa will always be the main focus for the enemy team to try and take down. However, Bone Plating will help Kai'sa take reduced damage from the first three instances of damage, which can save her life.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get you out of a bad situation or allows you to flash into the team to get that killing blow! The go-to 2nd spell is Exhaust. Kai'sa doesn't have the longest attack range, which means most of the time, she will be in range to use Exhaust. This will also help a lot when she's dashing onto the enemy backline.
+
+Kai'Sa is not the best champion in the early laning game. She doesn't have much range and damage to contest with other AD carries. Once it gets to about 4-5 minutes, you should be able to buy your first item to get your Icathian Rain upgrade. This should help you when clearing minion waves and trading vs. enemy champions early on. Make sure you keep an eye on your passive Plasma stacks; once you have full stacks, the next basic attack you do on that enemy does a lot of damage. Allies' immobilizing effects help stack Plasma, making champions like Alistar and Leona great supports for Kai'Sa.
+
+As Kai'Sa, once you have all her abilities evolved and at least 3 or 4 items, she can become an unkillable assassin. You have so much mobility with her Killer Instinct and the ability to turn invisible with Supercharge. If you can use your ultimate and jump into the enemy backline, do it! Kai'Sa has a lot of damage and survivability.
+
+On the other hand, it's always best as an AD Carry to stay grouped with your team. You want to stay as far back from the enemies as possible and allow your front line to go in front of you to tank all the damage. Most of the time, you are the main damage output, so if you are caught by yourself and die, your team is in massive trouble, so make sure you stay safe at all times.
+
+Kai'Sa is a very unique and fun champion to play. Being able to evolve her abilities really brings something new to the Rift. She is a super mobile champion and has the opportunity to carry a team fight by jumping in onto the backline.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

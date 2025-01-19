@@ -1,0 +1,114 @@
+Title: Akshan :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Akshan in League of Legends: Wild Rift. Our build guide will teach you how to play Akshan in the current meta.
+
+Headings:
+- Level 1 Akshan Stats
+- Akshan's Abilities
+- Akshan  Build Guide for Wild Rift
+- Akshan's Item Build
+- Akshan's Spells & Runes
+- Akshan's Situational Items
+- Akshan's Situational Runes
+- Akshan's Skill Order
+- How to play Akshan
+- Akshan's Abilities
+- Dirty Fighting (Passive)
+- Avengerang (1)
+- Going Rogue (2)
+- Heroic Swing (3)
+- Comeuppance (Ultimate)
+- Akshan Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Akshan hurls a boomerang in the target direction, dealing 5 / 35 / 65 / 95 (+80% AD) physical damage to enemies it passes through and revealing them, granting sight of the area along its path, as well as extending its range every time it hits an enemy. If the boomerang hits an enemy champion, Akshan gains bonus movement speed decaying over time. Upon reaching maximum range, the boomerang returns to Akshan, applying the same effects to enemies hit along the way.
+
+Avengerang deals 55% / 70% / 85% / 100% damage to minions.
+
+Fires a hook to attach and swing around terrain, attacking the nearest enemy dealing 30 / 70 / 110 / 150 (+15% AD) physical damage. If Akshan collides with an enemy champion or terrain, he will jump off the rope.
+
+Re-cast: Jumps off the rope.
+
+Champion takedowns refresh this ability's cooldown.
+
+Prioritizing champions recently damaged by Akshan.
+
+On-hit effects deal 25% damage.
+
+Each shot can Critically Strike for 150% damage.
+
+Locks onto an enemy champion, charging multiple shots over a few seconds. Re-cast: Fires the shots, dealing 20 / 30 / 40 (+10% AD) physical damage to the first enemy or structure hit, increased up to 80 / 120 / 160 (+40% AD) physical damage based on target's missing Health.
+
+Each shot's damage is further increased by a percentage equal to 50% of Critical Rate. Shots also execute minions.
+
+Akshan is a marksman who can play in the Mid Lane. Akshan is a very mobile and aggressive champion, Going Rogue and Heroic Swing allows Akshan to roam and gain advantages for his team. When you find an opportunity you should look to attack and use his abilities to proc his passive, Dirty Fighting to gain a shield and win trades. Akshan has a unique revive mechanic. Whenever an enemy kills your ally, they become marked. If Akshan takedowns that enemy, the dead allies are immediately resurrected. With this passive, it's essential to always focus on the enemy that is marked.
+
+Every three hits from attacks and abilities deal additional damage. If the target is a champion, Akshan also gains a shield. There is a bar underneath Akshan's mana bar that shows when his passive is up and available.
+
+After each auto-attack, Akshan fires a weaker second shot. Akshan can cancel the second shot by moving, and when he does, he gains bonus movement speed that decays over a second.
+
+It's important to know when to double-shot and when to cancel it. The double shot is very powerful when taking small trades and helps you gain Akshan's passive shield. Cancelling the double shot is great when chasing down enemy champions.
+
+Akshan throws a boomerang that deals physical damage, extending the range each time it hits an enemy. Hits grant Akshan Movement Speed.
+
+Avengerang is a strong poke and trade ability as it applies Dirty Fighting 2 times. Landing an auto attack will proc Dirty Fighting and give Akshan a shield. This ability is Akshan's main poking and damage tool in the laning phase. Try to line up the ability, so Akshan can hit minions and the enemy champion so you can hit both parts of the boomerang's damage.
+
+Passive: Akshan marks enemy champions who have recently killed his teammates. Securing a takedown on a marked target revives all Akshan's teammates slain by the marked target. Make sure to prioritize enemies correctly.
+
+Active: Akshan becomes camouflaged, gaining movement speed when moving towards marked targets who have recently killed his teammates. The duration of the camouflage state is infinite, while Akshan is near terrain or in a bush.
+
+Akshan can use the camouflage to roam from the Mid Lane and gank either Baron Lane or Duo Lane to get an advantage elsewhere on the map. When you roam, you don't lose any minions in the Mid Lane, as you will start to fall behind on gold and experience.
+
+Akshan fires a hook to attach and swing around terrain, attacking the nearest enemy. He will jump off if Akshan collides with an enemy champion or terrain. You can also recast this ability to jump off before hitting a terrain.
+
+Heroic Swing is Akshan's main mobility ability. It works great for engaging and disengaging from ganks. However, you must be careful, as it can put you in a dangerous position if not used correctly. If Akshan gets a champion takedown whilst Heroic Swing is on cooldown, it will refresh the ability's cooldown.
+
+Akshan locks onto an enemy champion, charging shots over a few seconds. After a few seconds or upon recasting the ability, he unleashes all stored bullets, damaging the first enemy hit, including minions or structures; you must ensure you position yourself correctly to hit the right target.
+
+You can move whilst using Comeuppance and even use Heroic Swing to reposition to guarantee you land the ultimate.
+
+Akshan can also recast the ultimate early if needed. This will deal less damage, but it means you will get some quick damage to try to secure the kill.
+
+Stormrazor allows Akshan to slow enemy champions and gives him even more movement speed on top of his passive to help chase down enemies.
+
+Magnetic Blaster gives Akshan attack speed and increases his range every few seconds. The Energized passive magic damage from Stormrazor and Magnetic Blaster add together to provide Akshan with more damage.
+
+Infinity Edge gives Akshan a lot of attack damage and critical strike damage, amplifying his Comeuppance and Heroic Swing.
+
+Onto the runes, we have:
+
+Empowerment is the best Keystone for Akshan. Dirty Fighting allows Akshan to double-shot with every auto attack and Heroic Swing also applies one stack every shot.
+
+Brutal gives Akshan more auto attack damage and works with Heroic Swing, allowing him to play aggressively throughout the game.
+
+Coup de Grace provides additional damage that helps to burst down enemies quickly.
+
+Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+Alacrity gives Akshan attack speed, which synergizes well with Dirty Fighting's movement speed and Heroic Swing damage scaling.
+
+Bone Plating is a good choice for surviving all-ins from enemy champions, but it's worse against ranged champions who can easily proc it.If you want more carry potential, Sudden Impact works with both Going Rogue and Heroic Swing and does a surprising amount of damage.
+
+Flash is a must for Akshan to save your life and to secure kills. It can save you in a lot of situations when getting ganked.Ignite gives Akshan a good amount of bonus damage to help in fights, especially in the early game, to get little advantages.
+
+Akshan's early game is pretty good due to his passive and Empowerment, which enables him to deal a lot of burst damage. Your primary focus is to take short trades against the enemy and deny them taking minions. Be careful when using Heroic Swing aggressively, as it has a long cooldown, and you might get caught out in a bad spot without any way to escape. If you manage to push the wave to the enemy turret, consider roaming with Going Rogue.
+
+Late Game is the best stage of the game for Akshan as you will have a lot of damage by now, as you now have multiple crit items. You need to play around the objectives and play with your team. When in a teamfight, ensure you stay in the backline as you are one of the main damage sources for your team and if you are caught by yourself, you will fall quickly.
+
+Overall Akshan is a fun and challenging champion to play. You will have to practice a lot to work out how to use his Heroic Swing. However, once you get used to playing Akshan, he has a very aggressive and fun playstyle that you can benefit from to get advantages all across the map.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

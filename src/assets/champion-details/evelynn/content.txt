@@ -1,0 +1,105 @@
+Title: Evelynn :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Evelynn in League of Legends: Wild Rift. Our build guide will teach you how to play Evelynn in the current meta.
+
+Headings:
+- Level 1 Evelynn Stats
+- Evelynn's Abilities
+- Evelynn  Build Guide for Wild Rift
+- Evelynn's Item Build
+- Evelynn's Spells & Runes
+- Evelynn's Situational Runes
+- Evelynn's Skill Order
+- How to play Evelynn
+- Evelynn's Abilities
+- Demon Shade (Passive)
+- Hate Spike (1)
+- Allure (2)
+- Whiplash (3)
+- Last Caress (Ultimate)
+- Evelynn Build Breakdown
+- Jungle Path
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Enters Demon Shade after not attacking or casting for 4 seconds. Taking damage from enemy champions or turrets puts Demon Shade on a 1.5 seconds cooldown.
+
+In Demon Shade, Evelynn regenerates 17 Health (+7.5% AP) every second when she is below 320 Health.
+
+After lever 5, Demons Shade grants her Camouflage.
+
+Unleashes two lines of spikes, dealing 40 / 45 / 50 / 55 (+40% AP) magic damage, each to all enemies struck. Can re-cast within 4 seconds.
+
+Deals 35% / 40% / 45% / 50% damage to minions.
+
+Curses target champion or monster for 5 seconds. Evelynn's next attack or ability will expunge the Curse adn slow them by 65% for 1 / 1.25 / 1.5 / 1.75 seconds.
+
+If the Curse lasts at least 2.5 seconds, expungint it charms the target for 1 / 1.25 / 1.5 / 1.75 seconds, If the target is a champion, shreds their Magic Resist by 20% / 24% / 28% / 32% for 4 seconds. If the target is a monster, deal additional 300 / 350 / 400 / 450 (+60% AP) magic damge.
+
+Casting Allure does not remove Evelynn from Demon Shade.
+
+Whips a target with Lashers, applying on-hit effects and dealing 55 / 75 / 95 / 115 + 2% (+1% AP) magic damage of their max Health. Then gain 30% Movement Speed for 2 seconds.
+
+Entering Demon Shade enhances the next cast to pull Evelynn to her target, dealing 80 / 110 / 140 / 170 + 4% (+1.5% AP) increased magic damage of their max Health to all enemies in the way.
+
+Evelynn is an AP assassin that is played in the jungle. She uses her invisibility and abilities to move around the map and assassinate the enemies before they can even react. Once Evelynn fully clears the jungle, she will get Level 5, which means she will be invisible when out of combat, so she can sneak around the map and gank lanes to get your team an advantage. Evelynn is not the best in team fights, but you can still stick near your teammates, make sure you don't go too close to the enemies, or they will be able to see you.
+
+Once Evelynn reaches level 5, she enters Demon Shade (allowing her to become camouflaged) after not attacking or casting for a few seconds. This is Evelynn's core mechanic that will enable her to go around the whole map camouflaged and pretty much gank for free.
+
+In Demon Shade, Evelynn regenerates health every second when she is below a certain amount of HP. This helps her out because she can either go back into a team fight or back to her jungle to farm some minions before returning to base. When camouflaged, make sure you don't stand too close to enemies; if you do, you will be revealed!
+
+Evelynn unleashed two lines of spikes, dealing magic damage to all enemies struck. This is Evelynn's primary damage source when clearing the jungle and going in for champion kills.
+
+You can move and auto-attack whilst using Hate Spikes simultaneously and recast the ability within a few seconds to get two casts off before the cooldown starts. Make sure when clearing the jungle that you line up Hate Spikes, so it hits all the monsters for a much faster and more efficient clear.
+
+This is Evelynn's primary crowd control ability when used correctly. Evelynn curses a champion or monster for a few seconds. Evelynn's next attack or ability will expunge the Curse and slow them for just over a second. However, you usually want to wait for a few seconds after using Allure to get the full effect.
+
+If you wait a few seconds after using Allure, Evelynn will charm the target and deal more damage. This is the primary tool when trying to gank a lane. Also, the great thing about Allure is that it will not remove the camouflage from Demon Shade (Passive), so you can use this whenever possible to try and catch an enemy.
+
+Evelynn whips a target with Lasher, dealing magic damage and gaining movement speed for a few seconds. When camouflaged in Demon Shade (Passive), this ability is enhanced. It pulls Evelynn to her target, dealing increased magic damage.
+
+A great combo to master whilst in Demon Shade is using Allure (2nd Ability) and Whiplash to jump to the target. This will not only deal more magic damage but also charm the target with Allure.
+
+Evelynn briefly goes un-targetable and decimates the area in front of her before warping backwards a long distance. This ultimate is an execution ability, meaning that you will do more damage to the enemy if they are below a certain amount of health.
+
+You want to be patient and use the ultimate when you know you will kill the target. Not only is this useful for killing enemies, but it can also be used to escape bad situations and secure objectives like Dragons and Barons.
+
+Evelynn is known for doing a lot of magic damage from her abilities; this also reflects on the build. Lich Bane is a core item for Evelynn; she will always be within melee range of the enemies, so you will most likely be able to auto-attack after using an ability, especially after charming an enemy with Allure. Evelynn can one-shot enemies; this will be easier once you have Infinity Orb and Rabadon's Deathcap, as they greatly boost Evelynn's ability damage.
+
+For runes, we have the following:
+
+Evelynn's invisibility allows her to be the first one to deal damage and surprise enemies, giving her extra damage and money to help you scale and buy items sooner.
+
+With Evelynn, she will be in stealth for most of the game, roaming around trying to get kills around the map. With Sudden Impact, she'll deal more damage with her abilities whenever she comes out of stealth.
+
+When engaging with Evelynn's combo, you can sneak in an auto attack in-between using Hate Spike to deal more damage.
+
+Eyeball Collector is great since it gives Evelynn more Ability Power every time she gets a takedown. Zombie Ward can also be a good choice if you often roam and look to kill wards.
+
+Gathering Storm will give Evelynn Ability Power, which increases with game time. This will help with Evelynn's one-shot potential.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for that killing blow. Smite is a must for when you are playing jungle. Help's you out a lot when clearing the jungle and securing the epic monsters (Dragons and Baron).
+
+With Evelynn, she doesn't have the best one vs one potential vs other junglers early on. This means that you often want to go for a full clear in the jungle, which means you work your way through your jungle and kill every camp. When you finish killing every jungle camp, you will get close to Level 5 and be able to turn invisible as soon as possible.
+
+This is what the jungle path would look like:
+
+Below is a beginner's guide for the jungle in Wild Rift. It goes in-depth about every jungle camp. Epic monsters and more!:
+
+With Evelynn, you want to take advantage of your invisibility. Roam around the map solo without your team and try and get them solo kills on enemy champions. This will give your team a considerable advantage when pushing or taking objectives. When playing jungle, your main job is to keep track of when Dragon, Rift Herald, and Baron spawn. Taking these epic monsters will give you and your team an advantage in the game.
+
+Evelynn is a straightforward champion to understand with only one thing in mind. Evelynn wants to assassinate champions and get out quickly. When playing Evelynn, she is super fun, being able to run around the map knowing that no one can see you so you can surprise your enemy and get them cheeky kills.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

@@ -1,0 +1,74 @@
+Title: Lulu :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Lulu in League of Legends: Wild Rift. Our build guide will teach you how to play Lulu in the current meta.
+
+Headings:
+- Level 1 Lulu Stats
+- Lulu's Abilities
+- Lulu  Build Guide for Wild Rift
+- Lulu's Item Build
+- Lulu's Spells & Runes
+- Lulu's Situational Items
+- Lulu's Situational Runes
+- Lulu's Skill Order
+- How to play Lulu
+- Lulu Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Pix fires 3 bolts that deal a total of 6 (+6 per level +15% AP) magic damage when Lulu attacks an enemy unit. These bolts can be blocked by other units.
+
+Pix can attach to other champions by casting some of Lulu's abilities, revealing them if they are an enemy or aiding their attacks instead of Lulu's if they are an ally.
+
+Pix creates a faerie ring, attaching to the first champion that enters for 5 seconds and casting an additional effect on them.
+
+On Allies: Grants 20% (+5% AP) Movement Speed and 25% / 30% / 35% / 40% Attack Speed for 3.5 / 4 / 4.5 / 5 seconds.
+
+On Enemies: Polymorphs the enemy for 1 / 1.25 / 1.5 / 1.75 seconds, disabling them from attacking or casting abilities and reducing their Movement Speed by 60. Reveals them while attached.
+
+Pix's ring will prioritize polymorphing enemies over speeding up allies.
+
+Attaches Pix to target enemy or ally champion for 5 seconds.
+
+On Allies: Grants a shield that absorbs 60 / 100 / 140 / 180 (+60% AP) damage for 2.5 seconds.
+
+On Enemies: Deals 80 / 120 / 160 / 200 (+40% AP) magic damage and grants True Sight of them.
+
+Lulu is an enchanter Support Champion. She excels at shielding and healing to help out her team and keep them alive. She has a pretty strong laning phase you just need to be careful and make sure the enemy bot lane doesn't engage onto you because you do not have a lot of health and can die really fast. The later the game goes the better Lulu gets. Her shields and utility become even stronger and you can do a lot more to keep your team alive.
+
+Lulu does best with support items that give her shields more power. Ardent Censer is a must buy for Lulu. Not only do you get health and ability power, but the passive is the important part. When you shield or heal an ally, they gain bonus attack speed and deal more damage. This is great as Lulu's whole kit relies on shielding, healing, and buffing your team.
+
+With runes, we have the following:
+
+This gives Lulu more shield power and helps you deal extra damage, which is excellent for early-game trades in the laning phase.
+
+Lulu's Help, Pix and Glitterlance is easy to hit on enemy champions, especially during the laning phase. With Font of Life, you and your ally can heal and sustain more during the laning phase.
+
+Lulu can take a lot of damage and be focused down by enemy champions since she can heal and shield so much. However, Bone Plating will help protect Lulu, allowing her to take reduced damage.
+
+Revitalize gives Lulu's Heals and Shields from her abilities so much more power which is one of Lulu's main concepts in winning the game.
+
+Enchanter Supports like Lulu loves to build as much Ability Haste as possible so she can use her abilities more often. This means Lulu can shield allies more often and peel for her team.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get you out of a bad situation or allows you to flash and save your ally or even maybe get a kill. Heal works really well as a 2nd summoner spell choice if your AD Carry takes barrier however if your bot lane duo (AD Carry) also takes heal it is really bad for you to also go heal because you don't get the full effect. If this happens then change heal to Ignite to help kill the enemies.
+
+Lulu does ok in the early game. You can poke the enemy with Glitterlance and Help, Pix!. If you can time your Help, Pix shield as well, you can easily win trades vs the enemy bot lane. You have to be very careful when stepping forward with Lulu, as if you get caught out and engaged on you can die very quickly. The best thing to do is let your AD carry last hit minions and you can stay back so you don't get caught but walk up when necessary to help out.
+
+The later the game goes, the stronger Lulu gets as her shields and heals get stronger with more items. It is really important as a support that you stay with your team and help them during team fights. Prioritize staying back and keeping your carries alive protecting them against the enemy team using everything possible to keep them alive. The AD Carry in your team is one of the main damage sources and keeping he/her alive is really important!
+
+Lulu is a very easy, safe, and beginner-friendly champion to play! She is great at keeping your team alive and can pressure a lot in the laning phase to give your Dragon Lane partner a lot of breathing space.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

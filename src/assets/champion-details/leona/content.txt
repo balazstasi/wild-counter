@@ -1,0 +1,86 @@
+Title: Leona :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Leona in League of Legends: Wild Rift. Our build guide will teach you how to play Leona in the current meta.
+
+Headings:
+- Level 1 Leona Stats
+- Leona's Abilities
+- Leona  Build Guide for Wild Rift
+- Leona's Item Build
+- Leona's Spells & Runes
+- Leona's Situational Items
+- Leona's Situational Runes
+- Leona's Skill Order
+- How to play Leona
+- Leona's Abilities
+- Sunlight (Passive)
+- Shield of Daybreak (1)
+- Eclipse (2)
+- Zenith Blade (3)
+- Solar Flare (Ultimate)
+- Leona Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+For 3 seconds gain 35 / 50 / 65 / 80 (+20% bonus Armor) Armor and 35 / 50 / 65 / 80 (+20% bonus MR) Magic Resist.
+
+After the effect ends nearby enemies take 60 / 95 / 130 / 165  (+40% AP) magic damage. If an enemy is hit, Leona retains her defensive bonuses for 3 seconds.
+
+Deals 60 / 115 / 170 / 225 (+40% AP) magic damage to enemies in a line.
+
+Leona roots the last champion hit for 0.5 seconds and dashes to them.
+
+Leona is a strong tank support that excels at locking down enemy champions with her crowd control abilities. With all of her crowd control, she is one of the best teamfight supporters in the game. Her abilities can be combo'd together to crowd control an enemy for a long time. The most common combo is Zenith Blade to travel to the enemy. Once you have travelled to the enemy, you can use Shield of Daybreak to stun the enemy, and then, whilst the enemy is stunned, you can use Solar Flare. This can stun the enemy for 3 seconds allowing your team to follow up on your engage.
+
+Leona's abilities apply Sunlight for a few seconds. Other allied champions can damage the same target to consume the Sunlight, dealing bonus magic damage. This makes it vital that you ensure when engaging with Leona that you have your team behind you to follow up. If you go in alone, you won't be able to deal as much damage.
+
+Empowers Leona's next auto attack to sun for 1 second and deal bonus magic damage. Shield of Daybreak works as an auto attack reset, meaning she can use her auto attacks before and after using the ability to deal more damage.
+
+Leona gains Armor and Magic Resist for a few seconds when using Eclipse. After the effect ends, nearby enemies take magic damage. If an enemy is hit, Leona retains her defensive bonuses for a few seconds after.
+
+You want to ensure that you are close to enemy champions when using Eclipse to extend the duration of the damage reduction. This also makes you extremely tanky and difficult to kill.
+
+Leona releases her Zenith Blade, dealing damage to enemies in a line. Leona will root the last champion hit and dash to them. This can be an extremely predictable ability since it takes a long time before reaching an enemy champion.
+
+It's best to try to surprise enemies in a bush or use this when the enemy has no escapes.
+
+Leona calls down a beam of light, dealing magic damage and slowing for a few seconds. Enemies in the centre are stunned instead of slowed. To guarantee an enemy is hit in the center, it's best to use Shield of Daybreak before Solar Flare.
+
+While the enemy is stunned from Shield of Daybreak, it gives Solar Flare enough time to beam down and stun the enemy.
+
+Leona does amazing with tank items that can help her survive longer when engaging in team fights. Warmog's Armor is an excellent item for Leona. As a tank Leona loves Maximum Health to make her more difficult to kill. The passive also means Leona will be able to heal when out of combat after going in for a fight. Zeke's Convergence is another great item. This item will slow nearby enemies when you use her ultimate and deal damage to nearby enemies, giving you more carry potential.
+
+With runes, we have the following:
+
+Glacial Augment is a great Keystone for Leona. When hitting her Crowd Control abilities, she can slow the enemies and reduce their damage making it easier to stick on them and immobilize them more with more abilities.
+
+Leona has multiple abilities that allow her to immobilize enemies. With Courage of the Colossus, Leona will gain a shield, making her even more difficult to kill as a tank.
+
+Since Leona loves to engage and is generally at the front during team fights, she will take a lot of damage. Bone plating will help Leona take reduced damage from the first three instances of damage.
+
+Overgrowth allows Leona to gain permanent health throughout the game when nearby minions or monsters are killed, meaning you don't even need to kill the minions or monsters to gain stacks. This will turn Leona into a super tank.
+
+Hexflash gives Leona more opportunities to make plays throughout the game when Flash is on cooldown. Use hex flash in a bush or behind a wall to surprise your opponent and engage with Leona's combo.
+
+For summoner spells, Flash is a must on most champions. It also works well with Leona's abilities. You can flash into the enemy team and use your Shield Of Daybreak to crowd control the enemy and combo that with your Zenith Blade and Solar Flare to stun the enemy champion for a long time. Ignite is a nice way to get that extra little bit of damage with Leona when she is jumping in on the enemy team to try and 'secure' the kill!
+
+Leona can struggle against ranged champions early on, especially at level 1. The best thing to do at level 1 is to play safe; once you hit level 2, you can use your early combo on the enemies to try and get a good trade or maybe even get an early kill. Once you hit level 5 and have Solar Flare available, you can look for more engages on the enemies. You can use your ultimate from range and follow that up with your other crowd-control abilities. Make sure when you engage onto the enemy you use Eclipse which will give you a lot of resistance.
+
+It's really important as a support to stay with your team! Your job is to try and get your team grouped up for a big team fight, this where you thrive. If you can get a huge combo off on the enemy team or an important target that you need to kill and your team can follow up and kill everyone you can win the game! If this is not possible the best option you have is to stick by your AD carry (Dragon Lane Champion). The AD Carry in your team is one of the main damage sources and keeping he/her alive is really important! Use all your crowd control available to you on the enemy and do your best to stay in your of your AD to keep them safe.
+
+Overall, Leona is a fun and easy champion to play and master with her simple abilities. She is a very all-in champion who always wants to look for engages with her crowd control. But be careful, and don't go in alone!
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

@@ -1,0 +1,112 @@
+Title: Galio :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Galio in League of Legends: Wild Rift. Our build guide will teach you how to play Galio in the current meta.
+
+Headings:
+- Level 1 Galio Stats
+- Galio's Abilities
+- Galio  Build Guide for Wild Rift
+- Galio's Item Build
+- Galio's Spells & Runes
+- Galio's Situational Items
+- Galio's Skill Order
+- Galio's Item Build
+- Galio's Spells & Runes
+- Galio's Situational Items
+- Galio's Situational Runes
+- Galio's Skill Order
+- How to play Galio
+- Galio's Abilities
+- Colossal Smash (Passive)
+- Winds of War (1)
+- Shield Of Durand (2)
+- Justice Punch (3)
+- Hero's Entrance (Ultimate)
+- Galio Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Fires two windblasts that deal 70 / 115 / 160 / 205 (+75% AP) magic damage and converge into a tornado.
+
+The tornado deals 8% (+2% AP) magic damage of target's maximum Health over 1.5 seconds.
+
+Passive: Every 12 seconds, upon taking damage, Galio gains a shield that absorbs 46 (8% / 12% / 16% / 20% HP) magic damage for 3.5 seconds.
+
+Hold: Enters a defensive stance, slowing himself by 15% for up to 2 seconds. Takes 25% / 30% / 35% / 40% (+5% AP + 8% bonus MR) reduced magic damage and 12.5% / 15% / 17.5% / 20% (+2.5% AP + 4% bonus MR) reduced physical damage.
+
+Release: Deals 40 / 80 / 120 / 160 (+55% AP) magic damage to nearby enemies and  taunts them for 0.5 - 1.5 seconds, increased with hold time.
+
+Dashes forward until he hits an enemy champion or terrain, dealing 90 / 140 / 190 / 240 (+90% AP) magic damage to enemies and knocking them up for 0.75 seconds.
+
+Deals 50% damage to minions and monsters.
+
+Grants Shield of Durand's passive shield for 5 seconds to all allied champions near the target and designates the position as his landing spot.
+
+After 2.5 seconds Galio arrives at the location, dealing 150 / 250 / 350 (+70% AP) magic damage to nearby enemies and knocking them up for 0.75 seconds.
+
+Galio is a tanky anti-mage champion that can be played in the mid-lane or Support. Galio does very well against most champions that deal magic damage, thanks to his 2nd Ability Shield of Durand. When playing Galio mid, he has excellent wave clear with his passive and 1st Ability Winds of War, allowing him to roam around the map and make plays with his ultimate Hero's Entrance and Justice Punch.
+
+Galio can also be played in the support role; make sure to check the alternative build at the top of the page! As Galio support, you want to build items that give you more tank stats as you will be a front-line tank for your team, and you will need to peel for your AD Carry to keep them alive.
+
+Colossal Smash enhances Galio's next auto attack to deal Area of Effect magic damage. The damage from Colossal Smash scales with Attack Damage, Ability Power and bonus Magic Resist.
+
+Since Colossal Smash is an Area of Effect ability, you can damage multiple enemies simultaneously. This is especially good when looking to push the minion wave to try and roam around the map.
+
+Colossal Smash has a short cooldown; you will know when it's back up, when you hear a ding sound and Galio's body starts to glow.
+
+Winds of War is Galio's primary source of damage. It fires two windblasts that deal magic damage and converge into a tornado.
+
+Winds of War is a great way to efficiently kill minions and push the wave under the enemy tower. If you combo Winds of War and Colossal Smash, you should be able to clear the whole minion wave. This allows Galio to roam around the map to make plays with the rest of his team.
+
+Since the tornado part of Winds of War does damage over time, it is best to combo it with Shield of Durand and Justice Punch, so the enemy is crowd controlled and takes the full damage of the tornado.
+
+Shield of Durand is an excellent Area of Effect taunt that can change a team fight in seconds. Shield of Durand has three parts. It's passive; Upon taking magic damage, Galio gains a shield that absorbs magic damage. There is also a two-part active ability. The first part is when you hold the ability - you enter a defensive stance where you get slowed but take reduced magic and physical damage. After you release the ability, you deal magic damage and taunt all nearby enemies.
+
+When using Shield of Durand, the longer you hold the ability, the longer the taunt duration. Sometimes it's best to tap the ability quickly, and sometimes it's best to hold the ability to taunt for the full duration.
+
+When using Justice Punch, there is a charge where you will dash back before you dash forward. Whilst in the dash, you will be stopped if you hit any terrain or champion. If you hit an enemy champion, they will be damaged and knocked up.
+
+A cool trick you can do with Justice Punch is using the jump back at the start to your advantage to catch out the enemies. You can do this by aiming the ability away from the champion. The jump back will go far enough that you will dash and hit the enemy champion straight away.
+
+After using and hitting an enemy with Justice Punch, Galio will automatically auto-attack the enemy champion. If you want to combo Shield of Durand with Justice Punch, you will need to make sure you hold Shield of Durand whilst dashing so Galio will start taunting as soon as the dash has hit a champion.
+
+Hero's Entrance is a great ability for Galio that allows him to follow up on any engagement your team might do. When using the ability, all allied champions near the target you picked gain Shield of Durand's passive magic shield. After a short duration, Galio arrives at the location dealing magic damage to nearby enemies and knocking them up.
+
+Hero's Entrance is a semi-global ultimate and has a huge range. When you play mid-lane Galio, all you need to do is walk a bit towards the top or bottom river, and then you are within range to use it on an ally champion in the top or bottom lane.
+
+With Galio, you want to build items that give him a lot of ability power, mixed with some tanky items to help when Galio fights in melee range. Infinity Orb is a great first item for Galio. The extra damage Galio can deal when enemies are low on health will help him one-shot enemy champions. Rabadon's Deathcap is a perfect item for any champion who is looking to deal a lot of damage with its increased percentage of ability power throughout the game.
+
+For runes, we have the following:
+
+With Galio, it's easy to proc Electrocute when comboing his crowd control abilities, Shield of Durand and Justice Punch, then following it up with another ability or auto attack to deal damage.
+
+When starting an engage with Galio he always starts with his 3rd ability Justice Punch. With Sudden Impact this will give him more damage.
+
+Since Empowered Attack only works on champions, this will give Galio a lot of extra damage when auto-attacking with Colossal Smash.
+
+Eyeball Collector is great since it gives Galio more Ability Power every time he gets a takedown. Zombie Ward can also be a good choice if you often roam and look to kill wards.
+
+With Galio, you will be dashing towards enemy champions to try and land your combo, which means you will be vulnerable to taking a lot of damage. Bone Plating will help Galio take reduced damage from the first three instances of damage which will help him survive longer.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for the killing blow. Flash can also be combo'd with Justice Punch to extend the range so you can surprise enemies. For the 2nd spell, it's best to go for Ignite. This helps Galio deal extra damage when he goes in for his full combo.
+
+Galio can struggle in the early game as a melee champion. Most of the time, you want to stay back and use Galio's Winds of War to last hit minions or poke down the enemy. Once you hit level 3, you will get Justice Punch, allowing you to dash towards a target. This is when you can try and use your full combo and start to win duels vs the enemy mid-lane. Be careful not to dash too far forward; if you do, there is no way of escaping.
+
+When you reach the mid and late game and get a few items, Galio can start to do a lot of burst damage whilst also being a front-line tank for your team. At the start of a team fight, you want to sit back and wait for your teammates to go in so you can follow up with Hero's Entrance. This allows you to get to a team fight instantly and start to have an impact with your other abilities. When you are grouped with your team and about to have a team fight, the best thing you want to do is get to the enemy backline, where you can kill the carries.
+
+Galio has a very different playstyle from other mid-lane champions. You must learn to play safely in the early game and farm up until you have enough confidence to go in with your combos. If you like to do a lot of damage whilst also being able to survive for a long time then Galio is the champion for you.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

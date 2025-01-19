@@ -1,0 +1,90 @@
+Title: Braum :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Braum in League of Legends: Wild Rift. Our build guide will teach you how to play Braum in the current meta.
+
+Headings:
+- Level 1 Braum Stats
+- Braum's Abilities
+- Braum  Build Guide for Wild Rift
+- Braum's Item Build
+- Braum's Spells & Runes
+- Braum's Situational Items
+- Braum's Situational Runes
+- Braum's Skill Order
+- How to play Braum
+- Braum's Abilities
+- Concussive Blows (Passive)
+- Winter's Bite (1)
+- Stand Behind Me (2)
+- Unbreakable (3)
+- Glacial Fissure (Ultimate)
+- Braum Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Braum is a tank who can play in the Duo Lane as a Support. He's one of the best peeling supports in the game; with his abilities and passive, he's able to disengage from any enemy engagement. However, Braum also has the option to play aggressively, making him a flexible champion that fits multiple scenarios during a game. Unbreakable is a unique ability that allows Braum to block enemy auto attacks and abilities, making it a crucial ability when trying to protect your Marksman.
+
+Braum's attacks apply Concussive Blows for a few seconds. Once the first stack is applied, allied champions attacks also stack Concussive Blows. Upon reaching 4 stacks, the enemy is stunned for a second and takes magic damage.
+
+Concussive blows can be applied to multiple targets at once, so you always want to attack every enemy at least once so your team can benefit the most from his passive. Winter's Bite can also apply a stack of Concussive Blows.
+
+Braum launches ice that deals magic damage and slows enemies hit by 70% for a few seconds while applying a stack of Concussive Blows.
+
+Winter's Bite is Braum's way of starting a fight from a small distance. When hitting an enemy, it makes it easier for your allies to follow up with attacks and abilities that can also help stack Braum's passive. Be aware that Winter's Bite does not go through minions, so make sure nothing stands between yourself and the enemy.
+
+Braum leaps to an ally, granting himself and his ally armour and magic resist for a few seconds on arrival.
+
+Stand Behind Me helps Braum get to his allies to help peel for them. This will put Braum between his ally and the enemy champion, which is a great position to use Winter's Bite + Unbreakable. Stand Behind Me can also be used to jump to ally minions. This can be used aggressively during the laning phase to get an advantage.
+
+Braum raises his shield, intercepting projectiles for a few seconds, negating the first instance of damage from whichever direction he faces and taking reduced damage afterwards. Whilst Braum's shield is raised, he also gains movement speed.
+
+Unbreakable helps Braum protect his allies by blocking big AoE abilities and auto attacks. Unbreakable can also block enemies from attacking towers and minions — a neat little trick to tilt your enemies.
+
+Braum slams the ground and opens a fissure, dealing magic damage and knocking up enemies for a second. The Fissure slows enemies and lasts a few seconds.
+
+Glacial Fissure is an excellent ability during teamfights for the knockup, slows and zone control. It is also a good disengage tool to help peel against enemies that jump on top of you or your allies.
+
+Redemption has great synergy with Braum. Since Braum will always be close to ally champions using Stand Behind Me and Unbreakable, the healing will benefit your team, especially during teamfights.
+
+Protector's Vow also has incredible synergy with Braum, giving a shield to his closest ally when either you or them take any damage.
+
+Warmog's Armor allows Braum to stay out on the map longer due to the passive health regen. It's a cheap and affordable item for supports that don't get a lot of income.
+
+For runes we have:
+
+Braum doesn't have a lot of Keystone options. Glacial Augment is the best option to add slows on top of his crowd control and reduce the enemy's damage.
+
+Braum has a lot of ways to proc Font of Life, especially if you hit Winter's Bite. This can help Braum and his team heal over time.
+
+This row depends on your lane matchup. Bone Plating is a solid rune in a melee matchup that can do a lot of burst damage.
+
+Second Wind is excellent in poke lanes, which is good for Braum as he suffers in these matchups.
+
+Overgrowth's extra health will help Braum survive longer, which is important when playing as a front-line tank for your team.
+
+When vs Crowd Control Perseverance works great with Braum, giving him more tank stats to survive.
+
+Transcendence is one of the best Secondary Rune options for Braum. Having more ability haste means Braum can use his defensive abilities to help keep his team alive.
+
+Flash is a must to take on Braum. It can help you survive and be good when you need to keep your team alive using Flash with Stand Behind Me.Since Braum will always stand close to ally champions, Heal is another way to keep your allies alive.
+
+In the early game, you want to use Winter's Bite to poke enemy champions. When your ally is close enough, they can allow up with auto attacks to help stack Braum's Passive and proc Font of Line. Make sure you are always keeping your AD Carry safe. Use Unbreakable to block any incoming damage and abilities, and Stand Behind Me to jump to your AD Carry to give them armor and magic resistance.
+
+During the late game, you must stay with your team and help them during team fights. Prioritize keeping your allies alive and protecting them against the enemy team using everything you have available. Roaming around with your jungle can be a way for your team to get an advantage. Catching enemies with Winter's Bite + Glacial Fissure allows your team to follow up to finish the job.
+
+Braum is a very safe and beginner-friendly champion to play. If you want to prioritize a support that's great at keeping your marksman and allies alive, then Braum is the pick for you.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

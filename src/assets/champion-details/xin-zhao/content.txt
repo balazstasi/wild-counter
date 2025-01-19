@@ -1,0 +1,82 @@
+Title: Xin Zhao :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Xin Zhao in League of Legends: Wild Rift. Our build guide will teach you how to play Xin Zhao in the current meta.
+
+Headings:
+- Level 1 Xin Zhao Stats
+- Xin Zhao's Abilities
+- Xin Zhao  Build Guide for Wild Rift
+- Xin Zhao's Item Build
+- Xin Zhao's Spells & Runes
+- Xin Zhao's Situational Items
+- Xin Zhao's Situational Runes
+- Xin Zhao's Skill Order
+- How to play Xin Zhao
+- Xin Zhao Build Breakdown
+- Jungle Path
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Empowers the next three attacks to deal an additional20 / 28 / 36 / 44 (+40% bonus AD) physical damage and reduce the cooldown of other abilities by 1 second.
+
+The third attack knocks the target up for 0.75 seconds.
+
+Slashes his spear, dealing 40 / 50 / 60 / 70 (+50% AD) physical damage and slowing by 50% for 1.5 seconds. Xin Zhao then thrusts his spear, dealing 40 / 85 / 130 / 175 (+75% AD) physical damage and slowing by 50% for 1.5 seconds.
+
+The furthest enemy champion or large monster hit is Challenged for 3 seconds, increasing Audacious Charge's cast range at them.
+
+Attack Speed reduces cast time.
+
+Deals 50% damage to minions.
+
+Dashes to an enemy, dealing 50 / 85 / 120 / 155 (+80% AP) magic damage to all nearby enemies and slowing them by 30% for 0.5 seconds. Xin Zhao gains 40% / 47.5% / 55% / 62.5% Attack Speed for 5 seconds.
+
+This ability's cast range is increased against a Challenged target.
+
+Passive: The last champion hit by an attack or Audacious Charge is now Challenged.
+
+Active: Sweeps his spear, dealing 75 / 150 / 225 (+100% bonus AD +80% AP) physical damage + 15% of enemies maximum Health and knocking all enemies back except the Challenged one. For the next 5 seconds, Xin Zhao blocks damage from enemies far away.
+
+Deals 600 max damage against monsters.
+
+Xin Zhao is a fighter jungler. He has one of the best early games in terms of clearing the jungle camps, he has great 1 vs 1 potential vs the enemy jungler and has strong early game ganks that you can utilize to snowball your lanes. He does fall off a bit when you get to the late game because of how easy it is to kite vs Xin Zhao and he doesn't have a lot of ways to get to the backline of the enemies. This is why you need to try and get an early advantage to snowball your lead.
+
+Xin Zhao uses a mixture of both AD and tank items that allow him to deal damage and survive. Trinity Force is a great item for Xin Zhao and a core item that you must pick up early on. It gives him all the stats he needs and he works really well with the passives Spellblade and Rage. Sterak's Gage is a great example of a tank item that works well with Xin Zhao. It gives him more health and when he is low on health, he gets a shield to keep him alive longer.
+
+For runes, we have the following:
+
+Xin Zhao is a fighter, so he wants to get in the enemy's face and attack constantly whilst using his spells. This allows him to get the six stacks pretty fast, which means he can deal more damage and get a lot of physical vamp when fully stacked.
+
+Gathering Storm is the best option for the first selection, as the other 2 offer few benefits. The extra attack damage will help Xin Zhao become more of a carry.
+
+Xin Zhao can dash in to deal bonus damage when enemy champions are low on health. Giant Slayer is another good option when playing against Bruisers and Tanks, which build a lot of health.
+
+Bloodline's healing will help keep Xin Zhao alive during teamfights. Legend: Tenacity is another excellent option when playing against champions with a lot of Crowd Control.
+
+Overgrowth allows Xin Zhao to gain permanent health throughout the game when nearby minions or monsters are killed. So the more Xin Zhao farms in the jungle, the more Maximum Health he will get.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for the killing blow. Smite is a must for when you are playing jungle. Helps you out a lot when clearing the jungle and securing the epic monsters.
+
+With Xin Zhao, he has a very fast early jungle clear. This means that you can work your way around the jungle really fast and be aggressive when contesting the scuttle crabs in the rivers and getting early ganks off. It is best to start at Red Brambleback as you don't need to worry too much about early mana and you will be healthy enough to get through your jungle without taking too much damage.
+
+This is what the jungle patch would look like:
+
+Below is a beginner's guide for jungle in Wild Rift. It goes in-depth about every jungle camp, epic monsters and more!
+
+Xin Zhao can struggle a lot in the late game. Your best way to go about the late game is trying to get onto the backline in a team fight and trying to knock them up with Three Talon Strike and knocking all other enemies away with Crescent Guard. Your main objective as a jungler is to keep track of when Dragons, Rift Herald and Baron spawn. Taking these epic monsters will give you and your team an advantage in the game. When in a team fight, try your best not to get caught out and try to keep auto-attacking and using your abilities to deal damage.
+
+Xin Zhao is a very easy and beginner-friendly champion to play. He has a lot of damage early game where you can try to get some early ganks off to get an advantage so if you like that sort of playstyle then you will enjoy playing Xin Zhao
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

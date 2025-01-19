@@ -1,0 +1,64 @@
+Title: Soraka :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Soraka in League of Legends: Wild Rift. Our build guide will teach you how to play Soraka in the current meta.
+
+Headings:
+- Level 1 Soraka Stats
+- Soraka's Abilities
+- Soraka  Build Guide for Wild Rift
+- Soraka's Item Build
+- Soraka's Spells & Runes
+- Soraka's Situational Items
+- Soraka's Situational Runes
+- Soraka's Skill Order
+- How to play Soraka
+- Soraka Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Calls a star, dealing 60 / 110 / 160 / 210 (+40% AP) magic damage and slowing by 30% for 2 seconds. If an enemy champion is hit, Soraka gains Rejuvenation, healing for 60 /90 / 120 / 150 (+45% AP) over 2.5 seconds.
+
+After healing any ally champion 3 times, Starcall is empowered to deal 140% damage in a larger area.Cooldown is reduced when hitting enemy champions.
+
+Heals another allied champion for 50 / 85 / 120 / 155 (+55% AP) Health. Excess healing is converted into a shield with a maximum shield value of 70 / 110 / 150 / 190 (+70%AP).
+
+Create a zone that deals 70 / 120 / 170 / 220 (+40% AP) magic damage and silences enemies. The zone expires after 1.5 seconds, dealing 70 / 120 / 170 / 220 (+40% AP) magic damage and rooting for 1.25 / 1.5 / 1.75 / 2 seconds.
+
+Soraka is an enchanter Support champion. She excels at healing and keeping her team alive. Her laning phase is okay, you just need to be careful if the enemy bot lane engages onto you, because you do not have a lot of health and can die very quickly. The main thing to note is when you heal allies with Astral Infusion, you lose health. Hitting Starcall is super important because if you do hit the ability on an enemy champion, you heal a little bit. The later the game goes, the better Soraka gets. She basically becomes a heal bot and your job is to heal everyone to keep them alive.
+
+Soraka does best with support and mana items that give her heals more power and allow her to heal more often. Archangel's Staff is a unique item for Soraka when it comes to supports. Early on, Soraka can really struggle with mana so this helps out a lot when spamming your abilities and scales really well into the late game, giving her more mana so you won't have to worry about being low. Harmonic Echo is another great item that increases her healing even more when she gains stacks making it very difficult for the enemies to kill her and her team.
+
+With runes, we have the following:
+
+This gives Soraka more shield power and allows you to deal that little bit of extra damage, which is excellent for the early game when trying to hit your abilities.
+
+Soraka's Starcall is easy to hit on enemy champions, especially during the laning phase. With Font of Life, you and your ally can heal and sustain more during the laning phase.
+
+When playing Soraka, you will always be the main focus for the enemy team because they don't want you to heal all your allies. Bone Plating will protect you and allow you to take reduced damage.
+
+Soraka's healing from Astral Infusion and Wish is incredibly strong. With Revitalize, this becomes even stronger.
+
+Enchanter Supports like Soraka loves to build as much Ability Haste as possible so she can use her abilities more often. This means Sona can heal her allies more often.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get you out of a bad situation or allows you to flash and save your ally or even maybe get a kill. Heal works great as the 2nd summoner spell choice if your AD Carry takes Barrier, however, if your bot lane partner also takes Heal, it is really bad for you to also go Heal because you don't get the full effect. If this happens, then change Heal to Ignite to help kill the enemies.
+
+Soraka does ok in the early game, you can poke the enemy with Starcall and Equinox and you can heal your AD carry if they are low on health with Astral Infusion so you can survive and stay in lane longer. You have to be very careful when stepping forward with Soraka, as if you get caught out and engaged on you can die very quickly. The best thing to do is let your AD carry last hit minions and try to stay back so you don't get caught but walk up when necessary to help out.
+
+The later the game goes, the stronger Soraka gets thanks to her heals getting stronger with more items. As mentioned before, Soraka basically becomes a heal bot and your main purpose is to heal your allies to keep them alive. It is really important as a support that you stay with your team and help them during team fights. Prioritize staying back and keeping your carries alive, protecting them against the enemy team using everything possible to keep them alive. The AD Carry in your team is one of the main damage sources and keeping he/her alive is crucial!
+
+Soraka is a very easy and beginner-friendly champion to play! She is great at keeping your team alive and can pressure a lot in the laning phase to give your Dragon Lane partner a lot of breathing space. She has a lot of heals in her kit so if you like healing and keeping your team alive then Soraka is a great champion for you.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

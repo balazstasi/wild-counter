@@ -1,0 +1,82 @@
+Title: Lux :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Lux in League of Legends: Wild Rift. Our build guide will teach you how to play Lux in the current meta.
+
+Headings:
+- Level 1 Lux Stats
+- Lux's Abilities
+- Lux  Build Guide for Wild Rift
+- Lux's Item Build
+- Lux's Spells & Runes
+- Lux's Situational Items
+- Lux's Situational Runes
+- Lux's Skill Order
+- Lux's Item Build
+- Lux's Spells & Runes
+- Lux's Situational Items
+- Lux's Skill Order
+- How to play Lux
+- Lux Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Damaging abilities afflict enemies with Illumination for 5 seconds.
+
+Illumination empowers Lux's next attack against that target, dealing 25 + Level x 7 (+25% AP) magic damage.
+
+Casts out a ball of light that roots enemy champions and large monsters for 2 seconds and deals 70 / 130 / 190 / 250 (+70% AP) magic damage to them. Roots up to 2 enemies.
+
+Minions and small monsters hit by the ball of light will be dealt 90% damage, but they will not be marked by Illumination or become rooted.
+
+Throws Lux's wand in a direction, shielding allied champions it passes through from 30 / 55 / 80 / 105 (+15% AP) damage for 3 seconds.
+
+After reaching its apex it returns to Lux, shielding allied champions for an additional 48 / 88 / 128 / 168 (+24% AP) damage.
+
+Creates a zone of light that slows nearby enemies by 30% / 35% / 40% / 45%. After 5 seconds the zone detonates, dealing 65 / 130 / 195 / 260 (+55% AP) magic damage.
+
+Re-cast: Detonate the zone.
+
+Fires a beam of light dealing 300 / 400 / 500 (+75% AP) magic damage to all enemies in a line.
+
+Final Spark ignites and refreshes Illumination.
+
+In this guide, we will be taking a look at Lux Support. It's worth mentioning that you can also play Lux in the mid lane. Lux is an enchanter support champion. She excels at shielding and healing to help out your team and to help keep them alive. She has a pretty strong laning phase you just need to be careful if the enemy bot lane engages onto you because you do not have a lot of health and can die very quickly. The later the game goes the better Lux gets. Her shields and crowd control from Light Binding become even stronger and you can do a lot more to keep your team alive.
+
+Lux can also be played in the mid lane, make sure to check the alternative build at the top of the page! With Lux mid, you want to build towards more damage so you can be impactful in team fights and you don't need to worry about protecting your ad carry.
+
+Even though this is a support Lux build, she wants to build items that give her ability power to be a carry for her team. Infinity Orb is an excellent Lux item. When enemies are low on health Lux's abilities can crit and deal more damage. This helps her out a lot when trying to one-shot enemy champions with her combo. Rabadon's Deathcap is another item that will increase Lux's overall ability power to help her deal more damage.
+
+With runes, we have the following:
+
+Lux has an incredible amount of poke damage with her abilities that can be combo'd together. Arcane Comet will help Lux deal extra damage when poking enemy champions.
+
+Scorch gives Lux a lot of poking power in the early game. This can help you win trades early on.
+
+When Lux hits an ability, she will want to walk up to auto-attack to proc her passive illumination. With this on top of Empowered Attack, her auto attacks can do a lot of damage.
+
+Eyeball Collector is great since it gives Lux more Ability Power every time she gets a takedown. Zombie Ward can also be good if you often roam and look to kill wards.
+
+Ability Power mages like Lux love to build as much Ability taste as possible so they can use their abilities more often. This is especially good on Lux since she can use her combo more often.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get you out of a bad situation or allows you to flash and save your ally or even maybe get a kill. Ignite is a great 2nd summoner spell for Lux as you want to look to take aggressive trades in the early game because of your high damage output.
+
+Lux does well in the early game, you can poke the enemy with Lucent Singularity and if you can time your Prismatic Barrier shield you can win trades vs the enemy bot lane. The most important spell to hit during the laning phase is Light Binding. If you can land this ability in the laning phase the enemy will be rooted and you can win the trade vs the enemy every time. You have to be very careful when stepping forward with Lux as if you get caught out and engaged on you can die very quickly.
+
+The later the game goes the stronger Lux gets as her shields and heals get stronger with more items. Surprisingly Lux can still do a lot of damage as a support. If you land Light Binding on the enemy make sure you follow it up with Final Spark to deal a lot of damage. It is really important as a support that you stay with your team and help them during team fights. Prioritize staying back and keeping your carries alive protecting them against the enemy team using everything possible to keep them alive. The AD Carry in your team is one of the main damage sources and keeping he/her alive is really important!
+
+Overall Lux relies a lot on landing and hitting skill shots, I'd recommend going into practice mode to give her a try first to see what she does but when you get into the game you can stay back, use your shield, and damage to win the game.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

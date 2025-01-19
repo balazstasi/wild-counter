@@ -1,0 +1,122 @@
+Title: Nunu & Willump :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Nunu & Willump in League of Legends: Wild Rift. Our build guide will teach you how to play Nunu & Willump in the current meta.
+
+Headings:
+- Level 1 Nunu & Willump Stats
+- Nunu & Willump's Abilities
+- Nunu & Willump  Build Guide for Wild Rift
+- Nunu & Willump's Item Build
+- Nunu & Willump's Spells & Runes
+- Nunu & Willump's Situational Items
+- Nunu & Willump's Situational Runes
+- Nunu & Willump's Skill Order
+- How to play Nunu & Willump
+- Nunu & Willump's Abilities
+- Call of The Freljord (Passive)
+- Consume (1)
+- Biggest Snowball Ever! (2)
+- Snowball Barrage (3)
+- Absolute Zero (Ultimate)
+- Nunu & Willump Build Breakdown
+- Jungle Path
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Gains 40% Attack Speed and 15% Movement Speed for 4 seconds upon damaging an enemy champion, large monster or structure.
+
+A nearby allied champion with the fastest Attack Speed gains half this bonus.Cannot trigger on the same target for 8 seconds.
+
+Takes a bite out of the enemy, dealing 55 / 110 / 165 / 220 (+65% AP 5% HP) magic damage and healing for 80 / 115 / 150 / 185 (+70% AP +11% bonus HP). The healing is increased by 50% when Nunu and Willump are below 50% Maximum Health.
+
+Deals 350 / 500 / 650 / 800 true damage agains minions and monsters instead.
+
+Willump begins rolling a snowball that increases in size and speed over 12 seconds. The snowball explodes upon colliding with enemy champions, large monsters or terrain dealing 35 / 48 / 61 / 74 - 175 / 240 / 305 / 370 (30% AP - 150% AP) magic damage to enemies and knocking them airborne for 0.5 - 1.25 seconds, increasing with the size of the snowball.
+
+Re-cast: Releases the snowball, causing it to explode on the first enemy hit.
+
+Removes slows on cast and is immune to slows during rolling.
+
+Deals 33.33% damage to minions and small monsters.
+
+Channels for up to 2.5 seconds, throwing snowballs that deal  10 / 14 / 18 / 22 (+5% AP) magic damage and slow by 20% for 0.5 seconds.
+
+When the channel ends, Willump deals magic damage equal to 3% - 15% (+0.8 - 4% AP) of the enemies' max Health and roots them for 0.5 - 1.5 seconds. Damage and root duration scale with number of snowball hits on the target.
+
+Final explosion deals up to 150 / 200 / 250 / 300 damage vs. monsters.
+
+Deals 150% damage to monsters.
+
+Gains a shield that absorbs 65 / 75 / 85 (+180% AP +30% / 40% / 50% HP) damage and begins channeling for up to 3 seconds. Nearby enemies are slowed by 50%, increasing to 95% over the duration.
+
+When the channel ends, nearby enemies take 180 - 915 (+50% - 275% AP) magic damage, increased with channel duration.
+
+Nunu & Willump is an AP tank jungler who specializes in early ganks and team fighting with his heavy crowd control. With Biggest Snowball Ever , Nunu & Willump is able to get around the map and gank with ease. He can also use the movement speed from the Scuttle Crab and his items to make ganking and moving around the map even easier. Nunu & Willump likes to get in the front using his Snowball Barrage and Absolute Zero to crowd control and kill the enemies.
+
+Nunu & Willump gains bonus attack and movement speed for a few seconds upon damaging an enemy champion, large monster or structure. When the passive activates, a nearby allied champion with the fastest Attack Speed gains half the bonus, so when possible try and stand next to your AD Carry so they gain a little bit of extra attack speed.
+
+You can trigger this passive multiple times during a teamfight by attacking different champions, however just keep in mind that Nunu & Willump cannot trigger Call of the Freljord on the same target for 8 seconds.
+
+Nunu & Willump takes a bite out of the enemy, dealing magic damage and healing some health back. The healing is increased when Nunu & Willump are below 50% maximum health. This means you can wait until you are below half health to use consume so you gain more health back, but it's very risky because you can die quickly if you don't use Consume in time.
+
+When Nunu & Willump consumes minions and monsters, the damage is changed to true damage. This makes Nunu & Willump's jungle clear in the early game really fast compared to other junglers.
+
+This is Nunu & Willump's main ganking tool that enables them to get around the map and gank any lane you prefer. Willump begins rolling a snowball that increases in size and speed for just over 10 seconds. The snowball explodes upon colliding with enemy champions, large monsters or terrain, dealing magic damage to enemies and knocking them airborne, increasing with the size of the snowball.
+
+The best place to use this ability is in the river. Not only do you have a lot of space to move around so you don't accidentally crash into terrain, but you gain movement speed from the scuttle crab and Pathfinder rune.
+
+You can re-cast Biggest Snowball Ever which releases the snowball, causing it to explode on the first enemy hit. Also, when using Biggest Snowball Ever, it removes slows and Nunu & Willump are immune to slows during the rolling animation.
+
+Nunu & Willump channels for just over 2 seconds, throwing snowballs that deal magic damage and slow enemies. When the channel ends, Willump deals magic damage and roots targets. Damage and root duration scale with the number of snowballs that you hit on the target.
+
+There will be an arrow that shows you the direction you are throwing the snowballs, make sure this is always on the enemies so you can deal more damage and root them for longer.
+
+Nunu & Willump gains a shield that absorbs damage and begin channelling for up to 3 seconds. Nearby enemies are slowed and the slow is increased over the duration. When the channel ends, nearby enemies take magic damage, increased based on channel duration.
+
+It's important to use Absolute Zero when you are in the middle of the enemy team and standing on top of them. This makes it harder for them to escape the ultimate so you can deal way more damage.
+
+You can recast Absolute Zero at any point. You won't deal that much damage but it's a good idea when the enemy is about the escape the radius or you just quickly want to gain the shield to absorb some damage.
+
+Nunu & Willump is known as a tank that can survive a lot of damage, and that is reflected in his build. Searing Crown is an excellent first item for Nunu that surprisingly gives him a huge damage boost with his abilities and has all the tank stats he needs. Warmog's Armor is another strong tank item. When Nunu snowballs in and takes damage, he can walk out of combat, heal back up, and go in again and engage with his snowball.
+
+For runes, we have:
+
+Biggest Snowball Ever and Snowball Barrage are great abilities that all have the potential to immobilize, which means it's relatively easy to proc Glacial Augment to make it difficult for enemies to escape.
+
+Like Aftershock, Nunu can immobilize with his 2nd Ability and 3rd Ability. Courage of the Colossus will give Nunu shields, making him more difficult to kill.
+
+You will be engaging and snowballing a lot. With Bone Plating, after taking damage from a champion, the next few abilities or attacks deal less damage.
+
+Overgrowth allows Nunu to gain permanent health throughout the game when nearby minions or monsters are killed. So the more Nunu farms in the jungle, the more Maximum Health he will get.
+
+Nunu can use Smite on enemy champions to give him a burst of movement speed to get into range and use his abilities.
+
+For summoner spells, Flash is a must on most champions. It works really well with Nunu & Willump because if you see the whole team grouped, you can use your Flash with your Absolute Zero to get a huge team fight ultimate. Smite is a must for when you are playing jungle. Helps you out a lot when clearing the jungle and securing the epic monsters.
+
+Nunu & Willump is a very strong early game jungler. After his first clear of the jungle and taking the scuttle crab, he can go to any lane using Biggest Snowball Ever to create some early pressure and get an advantage for your team. It's important to start with Red Brambleback. You will not lose a lot of health thanks to Consume, as you are able to restore health back while you're clearing the jungle and you won't have mana struggles.
+
+This is what the jungle patch would look like:
+
+Below is a beginner's guide for jungle in Wild Rift. It goes in-depth about every jungle camp, epic monsters and more!
+
+In the late game, Nunu & Willump get really durable with a few items and is great during team fights. You'll want to stay a bit away from your team so you can use Biggest Snowball Ever when a team fight is about to happen so you can do a lot of damage and knock up the enemy team.
+
+As a jungler, your main objective is to keep track of when Dragons, Rift Herald, and Baron spawn. Taking these epic monsters will give you and your team an advantage in the game.
+
+When a team fight happens, Nunu & Willump is great at being in the front line protecting his team don't be afraid to go in with your snowball to do a bit of damage because you will survive a long time. Nunu & Willump is a tank that has a lot of crowd control and as mentioned before, has a great ultimate (Absolute Zero) that can change a team fight.
+
+Overall Nunu & Willump is a fun and speedy champion that has easy to learn abilities if you're looking for a big tank jungler to play. He has great jungle clear and early ganking potential that allows you to carry your teammates. He is very tanky and can survive a long time during teamfights and he has amazing crowd control abilities.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

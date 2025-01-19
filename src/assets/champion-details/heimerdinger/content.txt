@@ -1,0 +1,118 @@
+Title: Heimerdinger :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Heimerdinger in League of Legends: Wild Rift. Our build guide will teach you how to play Heimerdinger in the current meta.
+
+Headings:
+- Level 1 Heimerdinger Stats
+- Heimerdinger's Abilities
+- Heimerdinger  Build Guide for Wild Rift
+- Heimerdinger's Item Build
+- Heimerdinger's Spells & Runes
+- Heimerdinger's Situational Items
+- Heimerdinger's Situational Runes
+- Heimerdinger's Skill Order
+- How to play Heimerdinger
+- Heimerdinger's Abilities
+- Hextech Affinity (Passive)
+- H-28G Evolution Turret (1)
+- Hextech Micro-Rockets (2)
+- CH-2 Electron Storm Grenade (3)
+- UPGRADE!!! (Ultimate)
+- Heimerdinger Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Constructs a turret that slowly build up charge and attacks nearby enemies. The turret deals 5 / 10 / 15 / 20 (+25% AP) magic damage on hit. At max charge, it fires a beam that deals 25 / 45 / 65 / 85 (+45% AP) magic damage. Heimerdinger can have a 3 H-28G Evolution Turrets active at once. If Heimerdinger gets too far away, his turrets will become dormant.
+
+UPGRADE!!!: Technological enhancement upgrades this ability to H-28Q Apex Turret.
+
+H-28G Evolution Turret Stats:
+
+Base Health: 110 (+3% to 45% AP)
+
+Base Armor: 10
+
+Base Magic Resist: 25
+
+Unleashes a barrage of 5 rockets that deal 60 / 85 / 110 / 135 (+60% AP) magic damage to the first enemy hit. Nearby Turrets gain 20% charge for every rocket that hits a champion. Additional rocket hits after the first to the same champion or monster only deal 20% magic damage. This damage is increased to 60% for minions.
+
+UPGRADE!!!: Technological enhancement upgrades this ability to Hextech Rocket Swarm.
+
+Hurls a grenade that deals 70 / 120 / 170 / 220 (+60% AP) magic damage in a target area and slows by 35% for 2 seconds. Enemies in the center are also stunned for 1 second. Hitting a champion fully charges nearby turrets.
+
+UPGRADE!!!: Technological enhancement upgrades this ability to CH-3X Lightning Grenade.
+
+Active: Upgrades Heimerdinger's next basic ability.
+
+H-28Q Apex Turret: Places an upgraded turret for 10 seconds, dealing 80 / 100 / 120 (+35% AP) magic damage per shot, increased to 100 / 140 / 180 (+60% AP) magic damage at max charge. The turret slows for 1 second on hit.
+
+Hextech Rocket Swarm: Fires 4 waves of rockets. Each rocket deals 135 (+45% AP) magic damage to the first enemy hit. Additional rocket hits after the first to the same champion or monster only deal 25% magic damage per hit. Once the target is hit by five rockets, the damage decays further. Rockets deal full damage to minions. The rocket swarm deals a maximum of 524 (+175% AP) magic damage to each enemy champion or monster.
+
+CH-3X Lightning Grenade: Throws a bouncing grenade that discharges 3 times, each dealing 100 (+60% AP) magic damage. The stun and slow areas are larger, and the grenade now slows enemies by 40%.
+
+Recast: Cancels this ability.
+
+Heimerdinger is an AP control mage that can be played in multiple roles. Heimerdinger has an unique playstyle where he wants to play around his turrets. If he's not near any turrets, he becomes much weaker. Heimerdinger can be strong at all stages of the game. During the laning phase, you can place your turrets in a safe spot away from enemy damage. Getting level 5 means that Heimerdinger can upgrade his next basic ability. If you already have turrets down, Micro-Rockets or Storm Grenade are great for massive AOE burst damage. However, the Evolution Turret is excellent at the start of a fight since your Storm Grenade can lock enemies in place.
+
+Heimerdinger gains movement speed near allied turrets and turrets from Evolution Turret. This makes it essential to always play around your turrets and try to keep them alive.
+
+Be sure to place your Evolution Turrets in a safe enough space. If anyone walks forward to try and kill them, use your damage from Micro-Rockets and Storm Grenade to help keep your turrets alive.
+
+Heimerdinger places a turret that slowly builds up charge and attacks nearby enemies. Heimerdinger's turrets will focus on the closest enemy or the enemy you attack. Heimerdinger can have up to 3 turrets at once. If Heimerdinger gets too far away, his turrets become disabled but not destroyed.
+
+It's essential to keep your turrets alive and place them in a good enough place so they can deal damage. Heimerdinger's other abilities help his turret's charge to deal increased damage.
+
+Heimerdinger unleashes a barrage of rockets that deal magic damage to the first enemy hit. Additional rockets that hit after the first to the same enemy deal less magic damage.
+
+This ability has a cone effect, so it can hit multiple enemies when positioned correctly. Heimerdinger's turrets gain charge for every rocket that hits an enemy champion.
+
+Heimerdinger hurls a grenade that deals magic damage in a target area and slows enemies for a few seconds. Enemies hit in the centre are also stunned for a second. Hitting a champion fully charges nearby turrets.
+
+Since enemies are stunned when hit in the middle, this guarantees that the charged turret shot will hit as it prioritizes enemies who are hit first.
+
+There is a neat little trick where you can use Storm Grenade, and before it lands, place a turret so that the turret will be fully charged straight away.
+
+Upgrade: Heimerdinger upgrades his next basic ability.
+
+Turret: Places an upgraded turret for a few seconds, dealing more damage per shot and slowing enemies on hit. This is one of the best upgrades; however, placing the turret in the correct place is crucial, and making sure you hit enemies with Storm Grenade ensures the charged shot will deal massive damage.
+
+Rockets: Heimerdinger fires multiple waves of rockets instead of one. This upgrade can be challenging to use as the rockets will all be heading in the same direction, meaning enemies can dodge them using Flash or dashes. Only use this upgrade when you and your team can crowd-control an enemy for a long time.
+
+Grenade - Heimerdinger throws a bouncing grenade that bounces 3 times. The stun and slow area are increased, and enemies are slowed longer. This upgrade is excellent when enemies are grouped, as you can stun multiple enemies. This can be at the start of a teamfight near an objective that can help your team follow up and deal tons of damage.
+
+Heimerdinger does excellent with most ability power items. His primary source of damage comes from all his abilities. His turrets will be able to deal more damage the more ability power he has. Liandry's Torment and Rylai's Crystal Scepter are core items for Heimerdinger. The great thing about these items is the passives also work on Heimerdinger's turrets. So when the turrets hit enemy champions, the turrets can slow enemies and deal damage over time, thanks to these items. The slows from Rylai's also makes it easier for him to land his rockets and grenades.
+
+With runes, we have the following:
+
+Thanks to Heimerdinger's turrets, you can stack Arcane Comet when a turret hits an enemy champion, making this rune more reliable than the rest.
+
+Gathering Storm gives Heimerdinger scaling Ability Power throughout the game. So, the longer the game goes, the more damage Heimerdinger will do.
+
+Heimerdinger will deal bonus damage when enemy champions are low on health. This also works on his turrets, helping them deal more damage. Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+The healing you get from Bloodline will benefit Heimerdinger when dealing damage over time to enemies for sustain and survivability. Legend: Tenacity is another excellent option when playing against champions that have Crowd Control.
+
+Heimerdinger loves the Ability Haste from Transcendence. This helps his cooldowns on his abilities, including the charge time on his turrets, meaning he'll be able to place a turret down much sooner to help with his damage.
+
+For summoner spells, Flash is a must on Heimerdinger. It's a great spell to help him escape from enemy champions. Alternatively, he can use Flash aggressively towards enemies to hit his abilities and get a kill. Ignite is Heimerdinger's second spell choice. This will give Heimerdinger some kill pressure after stunning enemies with Storm Grenade. Barrier and Exhaust can be great alternatives to Ignite when playing against champions with kill pressure.
+
+Thanks to his turrets, Heimerdinger has a solid early game. At level 1, Heimerdinger can place all three available turrets in the lane, helping him kill the minions faster and giving him level 2 before the enemy. At level 2, Heimerdinger can use his grenade to stun the enemy, fully charging his nearby turrets so they can deal more damage, giving him kill pressure in the early game. Placing turrets in a safe enough space so enemies cannot kill them is essential. When no turrets are available, it's best to play safe under the tower until you can place them again.
+
+In the late game, Heimerdinger's turrets can be an excellent zoning tool for his team to scare enemies away. When a teamfight is about to start, try to predict where the enemies might move and place turrets around Heimerdinger to gain movement speed. At this moment, enemies will be cautious when engaging, knowing the turrets around can deal tons of damage. Make sure you stay grouped with your team at all times. Even though Heimerdinger deals tons of damage with his turrets, it can be difficult when caught alone.
+
+Overall, Heimerdinger is a fun and unique champion who feels like you are playing a tower defence game. His unique style can catch enemies off guard and make a big difference in teamfights.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

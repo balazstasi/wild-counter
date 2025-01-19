@@ -1,0 +1,95 @@
+Title: Annie :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Annie in League of Legends: Wild Rift. Our build guide will teach you how to play Annie in the current meta.
+
+Headings:
+- Level 1 Annie Stats
+- Annie's Abilities
+- Annie  Build Guide for Wild Rift
+- Annie's Item Build
+- Annie's Spells & Runes
+- Annie's Situational Items
+- Annie's Skill Order
+- How to play Annie
+- Annie's Abilities
+- Pyromania (Passive)
+- Disintegrate (1)
+- Incinerate (2)
+- Molten Shield (3)
+- Summon: Tibbers (Ultimate)
+- Annie Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Summons Tibbers, dealing 130 / 230 / 330 (+60% AP) magic damage, to nearby enemies. 2 seconds after casting Tibbers, Annie can activate this ability again, ordering Tibbers to pounce on a target, dealing 110 / 150 / 190 (+30% AP) magic damage, and also making the target airborne for 1 second.
+
+Tibbers Enrages (hasting him by 100% and granting 210% Attack Speed) when summoned, pounces on enemies or Annie dies.
+
+Re-activate: Order Tibbers around. Tibbers lasts for 20 seconds.
+
+Annie is a mage who can play in the Mid Lane with a fantastic burst potential. Her Pyromania allows her to stun up to 5 enemies at once with her Summon: Tibbers. Her ultimate can then be recast to enable Tibbers to pounce on a target, knocking the enemy airborne. Annie's Crowd Control allows her to almost always be useful. Flash and Protobelt are ways in which Annie can close the gap between herself and the enemy, making it easier to land her Crowd Control and give her a surprise factor during the game.
+
+After casting 4 abilities, the next ability (1st, 2nd or ultimate) stuns enemies hit.
+
+You can tell how many stacks you are on by looking underneath Annie's Mana Bar. Once the bar turns purple, your next ability will stun the enemy. Using Summon: Tibbers creates an area of effect stun that can hit all 5 enemy champions. During the laning phase, Pyromania's stun can help you set up ganks for your jungler by stunning your opponent.
+
+Disintegrate is a skillshot that hurls a fireball that explodes in a small area, dealing magic damage. Killing an enemy refunds Disintegrate's mana cost and halves its cooldown.
+
+Disintegrate will make your laning phase and farming feel much more comfortable. Last hitting a minion with Disintegrate will refund all the mana and reduce the cooldown, making it way easier than just auto-attacking. Since Disintegrate is a long-range ability, you can use this to poke your opponent and engage with Pyromania. However, since Disintegrate is a skillshot, minions and monsters can block it, so keep that in mind when looking to poke.
+
+Annie releases an area-of-effect cone of fire that deals magic damage to all enemies within it.
+
+Since Incinerate is an AOE spell, it's your main ability to help push your wave efficiently, giving you more time to roam. Incinerate's cast time is faster than Summon: Tibbers and Disintegrate but doesn't do as much damage. So, if you want to surprise an enemy with Flash and Pyromania, it's best to use Incinerate.
+
+Annie grants herself and Tibbers a shield that absorbs damage for a few seconds and gains movement speed.
+
+Molten Shield can be used as your final stack of Annie's Pyromania to surprise enemies with the full stacked stun. The movement speed is also helpful when engaging to land your stun or help you dodge skill shots.
+
+Annie summons Tibbers, dealing magic damage to nearby enemies. For the next 20 seconds, Tibbers stays alive, and his attacks deal magic damage.
+
+Summon: Tibbers can be recast to order Tibbers to pounce on a target, dealing magic damage and knocking the target Airborne.
+
+This ability is Annie's biggest threat, and enemies will always fear it. When combo'd with Flash and Pyromania stun, it can be a game changer in teamfights. Remember that players can easily predict what you are about to do since Tibbers has a cast time.
+
+Luden's Echo helps Annie wave clear better and faster and gives her a lot of Ability Power and Magic Penetration to help her on-shot potential in the early game.
+
+Rabadon's Deathcap will give you the most about of Ability Power compared to any other item and is a must-buy in every game when playing Annie. The more Ability Power you buy, the more benefit you will gain from Deathcap.
+
+Infinity Orb helps Annie tremendously when you are looking to one-shot someone with her combo. Having bonus damage on low-health enemies is a must when looking to kill someone in an instant.
+
+For runes we have the following:
+
+Annie can hide in bushes and proc First Strike to deal extra damage and the additional money can help you scale and buy items sooner.
+
+Hexflash works great with Annie's aggressive playstyle when she has her Pyromania available. It gives you more opportunities to make plays when Flash is down.
+
+Transcendence gives Annie more Ability Haste so she can use her abilities more often to get her Pyromania up more often.
+
+Nimbus Cloak is very effective on Annie when looking to surprise enemies. After using a Summoner Spell, the extra movement speed will help her engage quicker or allow her to dodge skillshots.
+
+Bone Plating is great vs most matchups. The one weakness Annie has is that she can be very exposed to being one-shot, but this will become much more difficult for the enemy when taking this rune.
+
+Flash is a must for Annie. In many scenarios, it helps you avoid death since Annie cannot dash and get away to safety. Also, when combo'd with Pyromania, it can be a game-changer when looking for an engage and can sometimes offer a free kill when you have backup from your team.Ignite gives you more kill pressure and can help impact the early game. When using Pyromania, you can easily ignite a stunned target.
+
+In the Early Game Annie can threaten enemies with Pyromania and Electrocute. This won't be enough to kill someone, but the early burst damage can help you get priority in the lane. Make sure to save Pyromania if your jungler is looking to gank. Annie is one of the best setup champions to play to allow your jungler to follow up. If the enemy doesn't give you an opportunity to poke them, just farm minions using Disintegrate
+ and get your core items to help you in the Mid/Late Game.
+
+Late Game is when you want to focus on grouping with your team and forcing fights. Every time Summon: Tibbers is available, you should always look at using Annie's AOE stun with her Pyromania
+. This is a game-changer in any teamfight. When playing Annie, you should never look to split push or stay on a side lane because she can easily be caught out. Sometimes, being patient in a bush is better than rushing damage on a tank. Finding high-value targets on the enemy team can be easy with Protobelt and Flash, and Annie can easily one-shot them with her combo.
+
+Overall, Annie is a great champion for beginners. Her ability kit is quite simple and is a perfect champion to start your Mid Lane journey. Her combo has amazing burst damage that can be a game-changer every time you step onto the rift.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

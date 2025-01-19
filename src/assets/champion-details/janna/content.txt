@@ -1,0 +1,80 @@
+Title: Janna :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Janna in League of Legends: Wild Rift. Our build guide will teach you how to play Janna in the current meta.
+
+Headings:
+- Level 1 Janna Stats
+- Janna's Abilities
+- Janna  Build Guide for Wild Rift
+- Janna's Item Build
+- Janna's Spells & Runes
+- Janna's Situational Items
+- Janna's Situational Runes
+- Janna's Skill Order
+- How to play Janna
+- Janna's Abilities
+- Tailwind (Passive)
+- Howling Gale (1)
+- Zephyr (2)
+- Eye of the Storm (3)
+- Monsoon (Ultimate)
+- Janna Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Janna is a enchanter Support. She excels at peeling and protecting her team against scary enemy threats, thanks to her insane crowd control. Janna also has strong shielding and healing that can help keep her teammates alive. She has a solid laning phase where she can use her abilities to poke to deal a lot of damage and shield herself from any damage coming her way. As Janna gets into the mid and late game, her shields and heals become even stronger, and you can do a lot more to keep your team alive.
+
+Janna passively gains Movement Speed. Nearby allied champions also gain this bonus. This allows Janna to roam around the map to try and get an advantage in the jungle and other lanes.
+
+Janna charges up for just under a second and summons a powerful tornado that deals magic damage and knocks up enemies in its path. The tornado will always reach its destination in a short time. Janna has the potential to stack 2 charges that are stored over time.
+
+The best way to hit Howling Gale is to cast it in the bushes or behind a wall. If you cast Howling Gale in a bush, the enemies can't see the tornado until it leaves the bush, meaning you can catch enemies off guard.
+
+Janna searches for the nearest 3 champions within range, granting movement speed to allies and/or dealing magic damage to enemies.
+
+Zephyr can be used to check bushes and objectives, however be careful since you will need to be in close range to use this ability.
+
+Janna can use Zephyr when no enemies are around to I've her allies movement speed to be able to roam around the map quicker since this ability has a low cooldown.
+
+Janna shields herself and the allied champion with the lowest HP with a shield that absorbs damage and grants attack damage while it holds for a few seconds. If there is a turret within range this will also be shielded.
+
+When using Eye of the Storm you cannot choose who you shield so positioning with Janna is very important to make sure the ally you want to shield is within range whilst the rest of her allies are outside the range.
+
+Janna calls forth mighty winds of salvation to knock back surrounding enemies and restore health to nearby allies each second for a few seconds, Janna can move and use all of her other abilities after casting Monsoon. Only use Monsoon to try and knock back enemy champions or as a last resort to heal allies.
+
+Janna does best with support items that give her shields and healing more power. She also works well with items that provide her Ability Power to help her deal more damage. Harmonic Echo and Ardent Censer are great support items for Janna since her shields and heals are on a low cooldown and Janna is very fast around the map so she can stack Harmonic Echo's passive very quickly and help heal up her team and giving them extra attack speed and damage from Ardent Censer
+
+With runes, we have the following:
+
+Glacial Augment gives Janna huge playmaking potential with her Howling Gale. If you can hit enemy champions with her tornado, you will get a massive advantage in the laning phase and team fights by slowing the enemies and reducing their damage.
+
+Janna's Zephyr is easy to hit on enemy champions, especially during the laning phase. With Font of Life, you and your ally can heal and sustain more during the laning phase.
+
+Janna can take a lot of damage and be focused down by enemy champions since she can heal and shield so much. However, Bone Plating will help protect Janna, allowing her to take reduced damage.
+
+Revitalize gives Janna's Heals and Shields from her abilities so much more power which is one of Janna's main concepts in winning the game.
+
+Enchanter Supports like Janna love to build as much Ability Haste as possible so she can use her abilities more often. This means Janna can shield allies more often and peel for her team.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get you out of a bad situation or allows you to flash and save your ally or even maybe get a kill. Heal works well as a 2nd summoner spell choice if your AD Carry takes barrier however, if your bot lane duo (AD Carry) also takes heal, it is terrible for you to go Heal because you don't get the full effect. If this happens, change heal to Ignite to help kill the enemies.
+
+Janna does well in the early game with poking from Zephyr and Howling Gale, and if you can time your Eye of the Storm shield, you can win trades vs the enemy bot lane every time. An important tip if you cast Howling Gale in a bush, the enemy team can't see the ability until it goes out of the bush, so it's an excellent way to catch out your enemy.
+
+Janna does well as you scale into the mid and late game because of her amazing abilities that can help keep your team alive. As a support, you must stay with your team and help them during team fights. Prioritize keeping your carries alive and protecting them against the enemy team using everything possible to keep them alive. The AD Carry in your team is one of the main damage sources and keeping he/her alive is important!
+
+Janna is a very safe and beginner-friendly champion to play! She is great at keeping your team alive so can pressure a lot in the laning phase to give your Dragon Lane partner a lot of breathing space.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

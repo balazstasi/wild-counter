@@ -1,0 +1,84 @@
+Title: Sona :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Sona in League of Legends: Wild Rift. Our build guide will teach you how to play Sona in the current meta.
+
+Headings:
+- Level 1 Sona Stats
+- Sona's Abilities
+- Sona  Build Guide for Wild Rift
+- Sona's Item Build
+- Sona's Spells & Runes
+- Sona's Situational Items
+- Sona's Situational Runes
+- Sona's Skill Order
+- How to play Sona
+- Sona Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+After casting three basic abilities for 3 times, Sona's next attack will be empowered dealing 20 - 160 (+15% AP) bonus magic damage, stunning the target for 0.5 seconds. Casting basic abilities creates a non-stacking buff aura for 3 seconds.
+
+Hymm of Valor-Staccato: Bonus damage increased to 8 (+6% AP) magic damage.
+
+Aria of Perseverance-Diminuendo: Reduces damage dealt by the target by 25% (+4% AP) for 3 seconds.
+
+Song of Celerity-Tempo: Slows by 40% (+4% AP) for 2 seconds.
+
+Cooldown of basic abilities will be reduced (level X 2% - 20%).
+
+Deals 50 / 90 / 130 / 170 (+40% AP) magic damage to two nearest enemies.
+
+Aura: Enhances allied champions' next attack to deal an additional 8 / 13 / 18 / 23 (+20% AP) magic damage.
+
+Heals herself and another allied champion for 25 / 40 / 55 / 70 (+20% AP).
+
+Aura: Grants allied champions a shield that absorbs 25 / 50 / 75 / 100 (+18% AP) damage for 3 seconds.
+
+Gains 10% / 11% / 12% / 13% (+3% AP) Movement Speed for 5 seconds.
+
+Aura: Gains an aura that lasts 5 seconds. Allied champions within the aura gain 10% / 11% / 12% / 13% (+3% AP) Movement Speed.
+
+The empowered aura grants 1.2 times the Movement Speed that the normal aura does.
+
+Passive: The aura will be reinforced for 20 seconds after casting the ability, providing a higher buff effect than usual.
+
+Active: Plays a chord that emits a soundwave ever 0.75 seconds as it travels to the target location. The soundwave deals 35 / 60 / 85 (+15% AP) magic damage and stuns enemies for 1 second. Enemies caught inside the chord are also slowed by 25% / 30% / 35%.
+
+Sona is an enchanter Support champion. She excels at healing and buffing your team to keep them alive as well as having a huge Ultimate that can stun the whole enemy team. Her early laning phase can be pretty rough because you will be spamming abilities a lot and will get quite low on mana, so make sure you keep an eye on that. You also need to be careful if the enemy bot lane engages, because you don't have a lot of health and can die really quickly. The later the game goes, the better Sona gets. Her heals become even stronger and you will have pretty much-unlimited mana to spam all your abilities.
+
+Sona does best with support items that give her heals and shields more power. Archangel's Staff is a unique item for Sona when it comes to supports. Early on, Sona can really struggle with mana so this helps out a lot when spamming your abilities and scales really well into the late game, giving her more mana so you won't have to worry about being low. Harmonic Echo is another great item that increases her healing even more when she gains stacks making it very difficult for the enemies to kill her and her team.
+
+With runes, we have the following:
+
+Sona's passive allows her to stun enemy champions when you have stacked up enough abilities. This will proc Glacial Augment, giving her a lot more playmaking potential.
+
+Sona's Hymn of Valor is easy to hit on enemy champions, especially during the laning phase. With Font of Life, you and your ally can heal and sustain more during the laning phase.
+
+Sona can take a lot of damage and be focused down by enemy champions since she can heal and shield so much. However, Bone Plating will help protect Sona, allowing her to take reduced damage.
+
+Revitalize gives Sona's Heals and Shields from her abilities so much more power which is one of Sona's main concepts in winning the game.
+
+Enchanter Supports like Sona loves to build as much Ability Haste as possible so she can use her abilities more often. This means Sona can heal and shield allies more often and deal a lot of poke damage.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get you out of a bad situation or allows you to flash and save your ally or even maybe get a kill. Heal works great as the 2nd summoner spell choice if your AD Carry takes Barrier, however, if your bot lane partner also takes Heal, it is really bad for you to also go Heal because you don't get the full effect. If this happens, then change Heal to Ignite to help kill the enemies.
+
+Sona does ok in the early game, you can poke the enemy with Hymn of Valor and you can heal your AD carry with Aria of Perseverance if they are low on HP so you can survive and stay in lane longer. Always keep an eye on your mana and make sure you don't waste your abilities so you run out. You have to be very careful when stepping forward as if you get caught out and engaged on you can die very quickly.
+
+The later the game goes, the stronger Sona gets as her shields and heals get better with more items. You can use your Crescendo to engage on the enemies, but make sure you always stay back and heal your team. It is really important as a support that you stay with your team and help them during team fights. Prioritize staying back and keeping your carries alive, protecting them against the enemy team using everything possible to keep them healthy. The AD Carry in your team is one of the main damage sources and keeping he/her alive is really important!
+
+Sona is quite an easy champion to play but does have an Ultimate that is a game-changer. She is great at keeping your team alive and can pressure a lot in the laning phase to give your Dragon Lane partner a lot of breathing space.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

@@ -1,0 +1,101 @@
+Title: Amumu :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Amumu in League of Legends: Wild Rift. Our build guide will teach you how to play Amumu in the current meta.
+
+Headings:
+- Level 1 Amumu Stats
+- Amumu's Abilities
+- Amumu  Build Guide for Wild Rift
+- Amumu's Item Build
+- Amumu's Spells & Runes
+- Amumu's Situational Items
+- Amumu's Skill Order
+- How to play Amumu
+- Amumu's Abilities
+- Cursed Touch (Passive)
+- Bandage Toss (1)
+- Despair (2)
+- Tantrum (3)
+- Curse of the Sad Mummy (Ultimate)
+- Amumu Build Breakdown
+- Jungle Path
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Passive: Bandage Toss charges are stored every 12 / 11.5 / 11 / 10.5 seconds, up to a maximum of 2 charges.
+
+Active: Launches a bandage that deals 70 / 105 / 140 / 175 (+70% AP) magic damage and stuns the target for 1 second, pulling himself to the target.
+
+Passive: Amumu takes 4 / 6 / 8 / 10 (+4% Armor +4% MR) reduced physical damage.
+
+Active: Deals 110 / 140 / 170 / 200 (+50% AP) magic damage to neaby enemies and slows them by 20% for 0.5 seconds.
+
+Tantrum's cooldown is reduced by 0.5 seconds when Amumu is hit by an attack.
+
+Amumu is an AP tank who can play in the Jungle. He has one of the fastest clears out of all champions in the game. With this in mind, he can reach level 5 extremely quickly and look to gank lanes with his Curse of the Sad Mummy. Speaking of his ultimate, Amumu excels thanks to his incredible Crowd Control and high damage over time from his abilities. Two charges on Bandage Toss and an AOE stun as an ultimate make for a great combo when it comes to late-game teamfights.
+
+Amumu's auto attacks and his ultimate Curse of the Sad Mummy are empowered to mark enemies with a curse for a few seconds, refreshing on subsequent applications. Cursed targets take 10% additional true damage from all incoming magic damage. This includes magic damage coming from your team.
+
+Cursed Touch works as a damage buff to Amumu and his teammates. You don't really have to pay too much attention to this passive.
+
+Amumu launches a bandage that deals magic damage and stuns the first target hit for a second, pulling himself to the target. This ability has 2 charges that are stored over time.
+
+In the jungle, Bandage Toss can be used to make clearing the jungle faster since Amumu can throw himself over walls allowing him to get to jungle camps quicker. Bandage Toss is also an effective way to gank enemies. Another use of Bandage Toss is as a surprise tool when sitting in bushes.
+
+Despair is a toggle that activates an AOE of Amumu's tears, which do percent health magic damage every second to nearby enemies.
+
+Despair is excellent at helping Amumu clear camps and objectives quickly. It also synergizes well with both Searing Crown and Sunfire Aegis, as Amumu needs to be close to enemies to deal damage with both the ability and items. Remember that Despair can be turned off when not being used to save mana, which is important during the early game.
+
+Passive: Amumu reduces Physical Damage Taken
+
+Active: Amumu does magic damage to nearby enemies and slows them in a circle around him. The cooldown is reduced whenever Amumu is hit by an attack from anyone, including monsters in the jungle.
+
+Tantrum is one of Amumu's main damaging abilities for both enemies and monsters. It's important to keep an eye on the cooldown of this ability, as it is usually up way more than you'd expect it to be.
+
+Amumu entangles nearby enemies in bandages, dealing magic damage and stunning all nearby enemies.
+
+Curse of the Sad Mummy is used to win 1vs1s against squishy targets, to whom Amumu can deal a lot of damage. In teamfights, Amumu can use Bandage Toss to throw himself at the enemy team and use Curse of the Sad Mummy on multiple targets.
+
+Searing Crown synergizes incredibly well with Amumu's abilities. Every time Amumu deals damage to an enemy with an ability, they will burn to take additional damage. Since Amumu wants to stick close to enemies to damage them, this makes for a great combo with Despair and Tantrum.
+
+Sunfire Aegis has a similar synergy to Searing Crown since Amumu will always be close to enemies wanting to deal damage with Despair, but he can also deal even more damage with Sunfire Aegis.
+
+Amaranth's Twinguard gives Amumu a lot of pressure in teamfights making him completely unkillable whilst also being able to deal a lot of damage.
+
+For runes we have:
+
+Aftershock gives Amumu some tankiness and extra damage when immobilizing an enemy. Bandage Toss has two charges; even if you miss them, Curse of the Sad Mummy can also guarantee the Crowd Control needed.
+
+Like Aftershock, Amumu can immobilize enemy champions with Bandage Toss and Curse of the Sad Mummy, giving him a shield to help with his all-ins.
+
+Bone Plating will help Amumu when engaging with his Bandage Toss. Since you will be the closest champion to the enemy, they will try to burst you down.
+
+Overgrowth's extra health will help Amumu survive longer, which is important when playing as a front-line tank for your team.
+
+Transcendence synergizes well with Bandage Toss, reducing the charge time and cooldown, so this can be used more often to clear through the jungle and in teamfights.
+
+Flash is needed on Amumu because it allows him to engage and disengage. There are some great combos when using Bandage Toss and Curse of the Sad Mummy with Flash that can be used to surprise enemies.As a jungler, you always want to take Smite. Smite will help you clear through the jungle quicker and secure major objectives.
+
+Amumu's early game focus is getting Level 5 as soon as possible so you can access Curse of the Sad Mummy. This will increase his pressure and kill potential when ganking. You should also be aware of early invades and duels near scuttle crabs. Amumu's 1v1 is not the best. However, when joined by his team for 2v2 or 3v3, he can set up his team for success.
+
+At the start of the game, Amumu always wants to start at Blue Sentinel. The extra mana regeneration will help him with his early mana problems, allowing him to keep Despair up at all times and help him use his other abilities more often.
+
+This is what the jungle path would look like:
+
+When it comes to the Late Game, Amumu becomes a powerful engage tool for his team. With Bandage Toss and Flash, Amumu can reach the backline and use Curse of the Sad Mummy on high-value targets. His two core items, Searing Crown and Sunfire Aegis, also surprisingly give him a lot of damage when standing close to enemies, and with the tank stats he gets, he'll be able to do this for long periods. As a jungler, it's important to always keep track of when Dragon, Herald and Baron spawn. Taking these epic monsters will give you and your team an advantage throughout the game.
+
+Overall, Amumu is an excellent starter champion if you want to learn how to play jungle. His abilities are easy to understand, and you can focus more on how to gank and get an advantage for your team.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

@@ -1,0 +1,131 @@
+Title: Ambessa :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Ambessa in League of Legends: Wild Rift. Our build guide will teach you how to play Ambessa in the current meta.
+
+Headings:
+- Level 1 Ambessa Stats
+- Ambessa's Abilities
+- Ambessa  Build Guide for Wild Rift
+- Ambessa's Item Build
+- Ambessa's Spells & Runes
+- Ambessa's Situational Items
+- Ambessa's Situational Runes
+- Ambessa's Skill Order
+- Ambessa's Item Build
+- Ambessa's Spells & Runes
+- Ambessa's Situational Items
+- Ambessa's Situational Runes
+- Ambessa's Skill Order
+- How to play Ambessa
+- Ambessa's Abilities
+- Drakehound’s Step (Passive)
+- Cunning Sweep / Sundering Slam (1)
+- Repudiation (2)
+- Lacerate (3)
+- Public Execution (Ultimate)
+- Ambessa Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Drakehoud's Step: Ambessa's next attack within 4 seconds of triggering Feint has increased range, attacks 50% faster, deals 21 (+3% +0.02% bonus AD) of the target's max Health as bonus physical damage, and restores 50 Energy (increases at level 1 / 6 / 11) to herself (stacks 3 times).
+
+Feint: Upon casting an ability, Ambessa dashes a short distance in the left joystick's direction.
+
+Cunning Sweep: Swings her Twin Drakehounds in a semi-circle in front of her, dealing 40 / 65 / 90 / 115 (+60% bonus AD) physical damage. Damage is increased to 70 / 105 / 140 / 175 (+90% bonus AD) for enemies hit at the outer edge.
+
+If Cunning Sweep hits its targets, after a brief delay, it transforms into Sundering Slam for 3.5 seconds.
+
+Sundering Slam: Ruthlessly cleaves enemies in a line, dealing 55 / 80 / 105 / 130 (+60% bonus AD) physical damage. The first target hit takes 80 / 120 / 160 / 200 (+100% bonus AD) to 95 / 160 / 225 / 290 (+20% bonus AD) increased physical damage based on their missing Health percent.
+
+Deals 120% damage to monsters.
+
+Girds herself for a showdown, gaining a shield that absorbs 97 (+125% bonus AD) damage for 1.5 seconds. Builds up Energy for 0.5 seconds before unleashing a shockwave, dealing 60 / 90 / 120 / 150 (+50% bonus AD) physical damage to nearby enemies.
+
+If the shield absorbs damage from enemy champions, large monsters, or enemy turrets, shockwave damage increases to 95 / 145 / 195 / 245 (+80% bonus AD) physical damage.
+
+Swings her Twin Drakehounds around herself, dealing 40 / 80 / 120 / 160 (+50% / 60% / 70% / 80% bonus AD) physical damage and slowing enemies hit by 99%. The slow effect decays over 1 second.
+
+Recast: When Drakehound's Step is triggered after casting Lacerate, Ambesa will cast Lacerate again at the end of the dash.
+
+Passive: Ambessa's champion takedowns within 3 seconds of damaging them restore her tu full Energy, heal fer for 50 / 75 / 100 (+50% bonus AD) to 150 / 225 / 300 (+100% bonus AD) Health based on her missing Health, and reset her basic ability cooldowns.
+
+Active: Seizes the enemy champion furthest away in the line in front of her and blinks to their location, suppressing them unstoppably for 1 second. She then slams the target into the ground, dealing physical damage equal to 200 / 300 / 400 plus 20% (+0.05% bonus AD +0.05% AP) of the target's missing Health and stunning them for 0.4 seconds.
+
+If Public Execution does not hit any enemy champion, 50% of its cooldown will be refunded.
+
+Ambessa is a fighter who can play in Solo Lane or the Jungle. She is a versatile champion with strong mobility and burst potential, thanks to her easy backline access. To maximize the potential that Ambessa can bring to the Rift, it's crucial to master her Drakehound’s Step. Auto-attacking in between each ability and knowing where to dash will make a huge difference when trying to carry.
+
+Make sure to check the alternative build at the top of the page for playing Ambessa in the jungle.
+
+Feint: After Ambessa casts an ability, she dashes a short distance in the left joystick's direction.
+
+Feint is primarily used to chase or run away from enemy champions. Since you can dash in any direction and do not need to lock onto anything, Feint is excellent at dodging skillshots. Ambessa can dash over particular walls.
+
+Drakehound's Step: Ambessa's next attack after triggering Feint's dash has increased range, attacks faster, deals bonus damage based on the target's max Health, and restores Energy. This passive can stack up to 3 times. You can tell how many stacks you have by looking underneath Ambessa's Energy bar.
+
+Cunning Sweep: Ambessa swings her Drakehounds in a semi-circle, dealing physical damage. Damage is increased to enemies on the outer edge. If Cunning Sweep hits a target, Ambessa can cast Sundering Slam for a few seconds.
+
+Cunning Sweep is an excellent way for Ambessa to dash to get closer to enemies. It can even be used on minions to get closer to an enemy with her Drakehound’s Step.
+
+Sundering Slam: Ambessa slams her Drakehound's in a line, dealing physical damage. The first target hit takes increased physical damage based on their missing Health.
+
+Sundering Slam is used as a killing tool for champions. Avoid using Sundering Slam when it becomes available; try to fit in other abilities and auto attacks to deal more damage based on the enemies' missing Health.
+
+Ambessa braces herself, gaining a shield that absorbs damage and smashes the ground in front of her, dealing physical damage. If the shield absorbs damage from enemies, Repudiation's damage is increased.
+
+Time Repudiation to block an enemy's key attack or ability as you look to engage. Timing this correctly will also allow you to deal more damage, making it a powerful tool in teamfights.
+
+Ambessa spins her Drakehounds around herself, dealing physical damage and slowing enemies for a short time. When Ambessa's Drakehound’s Step is triggered after casting Lacerate, Ambessa will cast Lacerate again at the end of the dash.
+
+Lacerate's slow is a great way to help Ambessa stick to targets and set up kills. Using Cunning Sweep before Lacerate helps Ambessa get close enough to use Lacerate and guarantee hitting her other abilities.
+
+Passive: Ambessa's champion takedowns restore her to full Energy, heal her based on her missing Health, and reset her basic ability cooldowns.
+
+Active: Ambessa prepares a strike in a line in a target direction, then blinks behind the farthest enemy champion, suppressing them unstoppably for a second. She then slams the target into the ground, dealing physical damage and stunning them. If Publix Execution does not hit any enemy champion, 50% of its cooldown will be refunded.
+
+Public Execution is used as a backline access tool to attack high-value targets and carries on the enemy team. After hitting Public Execution, Ambessa's slam will put the enemy at perfect range for Cunning Sweep's outer ring damage.
+
+Trinity Force synergizes great with Ambessa's Drakehound’s Step. When Spellblade's passive is available, Ambessa can dash to get her empowered auto attack to deal a lot of damage.
+
+Black Cleaver helps Ambessa deal more damage to enemy champions. All of Ambessa's damage is physical damage, so reducing the enemies armor will help Ambessa's kill potential.
+
+Sterak's Gage is an excellent choice as a tank item. The shield from the passive will help Ambessa stay in fights longer.
+
+For runes, we have the following:
+
+Conqueror allows Ambessa to fight for an extended time; the increased damage and healing are great with Ambessa's aggressive playstyle.
+
+Nullifying Orb helps Ambessa's clutch factor. The shield can bait enemies to engage too deep and allow you to turn the fight around.
+
+Bone Plating helps Ambessa take reduced damage from melee champions who want to engage.
+
+Second wind is another great choice when playing against poke damage.
+
+Overgrowth gives Ambessa permanent health throughout the game, boosting her survivability.
+
+Perseverance is another excellent choice against Crowd Control.
+
+Sudden Impact increases Ambessa's damage when dashing with Drakehound’s Step, increasing the damage of her auto attacks and abilities.
+
+Flash is a very important Summoner Spell that can help with Ambessa's combos. Sticking to enemies is essential to help Ambessa hit all her abilities. Alternatively, Ambessa can use Flash to run away and dodge abilities.Ignite gives Ambessa more kill pressure. Using Ingite when engaging will help her win trades and secure kills to reset Ambessa's basic abilities.
+
+Ambessa's early game is all about high risk, high reward. With so many dashes, Ambessa has the potential to dash in to get a short trade, then dash back out to safety, avoiding any damage from the enemy. Make sure to time Repudiation to block key attacks or spells from the enemy. If Ambessa gets ahead, she has the potential to carry the game, but if she falls too far behind, she becomes as useful as a Cannon Minion.
+
+Ambessa is a great late-game champion. She can do a lot to carry games on the rift with her high mobility, survivability and burst damage. In teamfights, target backline carries by diving in with her Public Execution, then combo with Cunning Sweep and Lacerate for maximum damage. The one weakness for Ambessa is Crowd Control. Remember to use Repudiation to dodge or block the crowd control coming her way.
+
+Overall, Ambessa is an easy-to-learn champion. However, she does have a high skill ceiling when it comes to her dashes and knowing when to use what ability at the right time.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

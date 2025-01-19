@@ -1,0 +1,100 @@
+Title: Zeri :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Zeri in League of Legends: Wild Rift. Our build guide will teach you how to play Zeri in the current meta.
+
+Headings:
+- Level 1 Zeri Stats
+- Zeri's Abilities
+- Zeri  Build Guide for Wild Rift
+- Zeri's Item Build
+- Zeri's Spells & Runes
+- Zeri's Situational Items
+- Zeri's Situational Runes
+- Zeri's Skill Order
+- How to play Zeri
+- Zeri's Abilities
+- Living Battery (Passive)
+- Electrocute! (1)
+- Ultrashock Laser (2)
+- Spark Surge (3)
+- Lightning Crash (Ultimate)
+- Zeri Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Passive: Zeri's attack fires a burst of 6 rounds in the target's direction, dealing 8 (+100% AD) physical damage to the first enemy hit. Zeri's attack speed has a maximum of 1.5 attacks per second. 50% of attack speed in excess of the cap is converted into bonus attack damage.
+
+Active: Zeri zaps target location, dealing 35 / 60 / 85 / 110 (+55% / 70% / 85% / 100% AD +30% / 35% / 40% / 45% AP) magical damage and slowing them by 14% / 18% / 22% / 26% for 2 seconds.
+
+Zeri fires out an electric puls that deals 30 / 70 / 110 / 150 (+80% AD +40% AP) magic damage tot he first unit hit, slowing it by 30% / 35% / 40% / 45% for 2 seconds.
+
+If the pulse hits a wall, it expands into a long rage laser, applying the effects in an area and crit champions and monster.
+
+Zeri dashes a short distance and loads up lightning rounds for 6 seconds, empowering the next 3 Attacks to pierce, dealing 50% / 65% / 80% / 95% damage to targets after the first. Hitting a champion with an attack reduces this ability cooldown by 1 second.
+
+If Zeri touches a wall while dashing she will vault over it, greatly extending the dash range.
+
+Zeri discharges a nova of electricity, dealing 150 / 200 / 250 (+70% AD +80% AP) magic damage to all enemies nearby and gaining 8 stacks of Overcharge for each champion hit for 10 seconds. While Overcharged, Zeri gains 0.5% movement speed per stack, 25% Attack Speed and 5 (+15% AP) bonus magic damage on hit.
+
+During this time, her Attack becomes a faster triple shot that chains the bonus 5 (+15% AP) magic damage and 16 (20% AD) physical damage to nearby enemies. Hitting an enemy champion with an attack or ability adds 1 stack of Overcharge. Takedowns increase its duration by 4 seconds.
+
+Zeri is a dragon lane hyper carry. She offers a unique kit that is both challenging and enjoyable. Zeri struggles in the early game because of her short attack range, and she doesn't do a lot of damage before she has a few levels and items. Zeri's auto attacks are very different from any champion you have played. Her auto attack is a skill shot that fires a few bullets in a direction. This makes it very difficult for last-hitting minions and focusing champions with Zeri; however, once you get the hang of it, you can deal a lot of damage.
+
+Zeri shields herself after damaging any enemy with a shield. She also gains movement speed for a few seconds when shielded. This also works when someone on her team shields her.
+
+This is why champions like Lulu, Janna and Karma work amazingly with Zeri; their shields will give Zeri movement speed and help keep her alive.
+
+Electrocute's passive is Zeri's auto attacks. She fires a burst of 6 rounds in a target direction that deals physical damage to the first enemy hit. Zeri's auto attacks are a skill shot, meaning it's very different from a standard one you might be used to from other champions and can be missed.
+
+Zeri's attack speed has a maximum of 1.5 attacks per second. A percentage of the extra attack speed you get over 1.5 is converted into bonus attack damage. This is why we only have one attack speed item in our build because we will reach 1.5 attack speed with Phantom Dancer + Lethal Tempo.
+
+Electrocute's passive zaps a location dealing magic damage to enemies and slowing them for a few seconds. This can be used during the laning phase to poke enemy champions and last-hit minions.
+
+Zeri fires out a straight line of electric pulse that deals magic damage to the first unit hit, slowing them for a few seconds. If the pulse hits a wall, it expands into a long-range later, applying the effects in an area and crit champions and monsters. At the start of a team fight, you can use Ultrashock Laser against a wall to slow multiple enemy champions so your team can follow up and deal damage to them.
+
+You can also use Ultrashock Laser whilst travelling with Spark Surge over a wall, which will expand the range. Using Ultrashock Laser on a wall also gives you vision in the area, so use this when you think major objectives are being taken, so your team gets vision.
+
+Zeri dashes a short distance and loads up lightning rounds for a few seconds, empowering the next few attacks to pierce and hit multiple enemy champions, dealing less damage to targets behind the first one. When Spark Surge is on cooldown, hitting a champion with an attack reduces this ability's cooldown by a second.
+
+When Zeri's dash touches a wall, she will vault over it, extending the range of the dash until Zeri reaches the end of the wall. When dashing over a wall, you can use Ultrashock Laser or Lightning Crash to get ahead before landing at the end of the wall.
+
+Zeri casts a giant nova of electricity in an area around her, dealing magic damage to all enemies nearby and gaining stacks of Overcharge for each champion hit for a few seconds.
+
+While Overcharged, Zeri gains movement speed per stack, attack speed, and her attacks deal bonus magic damage. This makes it important to make sure you don't waste your ultimate for no reason and make sure at least one champion is nearby.
+
+Zeri wants to build items that give her attack damage and she benefits a lot from attack speed and critical strike chance. Bloodthirster is the strongest first item for Zeri. You get a huge amount of attack damage, especially when you have not lost a lot of health. Even when you lose health, the Physical Vamp from Bloodthirster can help you heal from minions or monsters. Runaan's Hurricane is another excellent item. The extra bolts you can shoot at nearby enemies are strong during teamfights where Zeri is looking to dash in to deal a lot of damage.
+
+Onto the runes, we have:
+
+Lethal Tempo gives Zeri increased attack speed, which helps her auto attack more often. At maximum stacks, Lethal Tempo gives Zeri increased attack range, which helps Zeri deal damage at range.
+
+Brutal gives Zeri's auto attacks more damage giving her a lot of power in the early game to try and get an advantage to carry her team.
+
+When enemy champions are low on health, Zeri can deal bonus damage. This will help Zeri kill enemies faster. Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+The healing from Bloodline will be more beneficial for Zeri for the sustain and survivability compared to the attack speed from Alacrity since we already have a lot of attack speed in her build. Legend: Tenacity is another excellent option when playing against champions that have Crowd Control.
+
+Since Zeri will be dashing into close range trying to hit enemies with Lightning Crash, she will be vulnerable to taking a lot of damage. Bone Plating will help Zeri take reduced damage from the first three instances of damage which will help him survive longer.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get you out of a bad situation or allows you to flash into the team to get the killing blow. The go-to 2nd spell is Exhaust. Since Zeri doesn't have the longest attack range and she will be dashing in a lot, Exhaust will help you win them all important duels.
+
+Zeri is a weak champion in the early game. You want to stay as passive as possible and try not to die so you can farm up to get your core items and scale into the late game. Don't walk up and risk dying to try and get the last hit on a minion for gold because sometimes enemies will take advantage of that and kill you because of Zeri's short range. Remember you have Spark Surge to get away from enemies and you can use Electrocute to farm minions from safety.
+
+Once you reach the late game, have your core items and have a few levels, this is where Zeri can use her team fight potential to burst enemy champions and win the game. It's always best as an AD Carry to stay grouped with your team. You want to stay as far back from the enemies as possible and allow your front line to go in front of you to tank all the damage. Most of the time, you are the main damage output, so if you are caught by yourself and die, then your team is in really big trouble, so make sure you stay safe at all times.
+
+Zeri is a very complex but fun champion to play once you get use to her auto attacks being different. She is super mobile and can be a pain to deal with on the enemy team once she gets ahead.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

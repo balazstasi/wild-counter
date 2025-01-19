@@ -1,0 +1,97 @@
+Title: Kennen :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Kennen in League of Legends: Wild Rift. Our build guide will teach you how to play Kennen in the current meta.
+
+Headings:
+- Level 1 Kennen Stats
+- Kennen's Abilities
+- Kennen  Build Guide for Wild Rift
+- Kennen's Item Build
+- Kennen's Spells & Runes
+- Kennen's Situational Items
+- Kennen's Situational Runes
+- Kennen's Skill Order
+- Kennen's Item Build
+- Kennen's Spells & Runes
+- Kennen's Situational Items
+- Kennen's Situational Runes
+- Kennen's Skill Order
+- How to play Kennen
+- Kennen's Abilities
+- Mark of the Storm (Passive)
+- Thundering Shuriken (1)
+- Electrical Surge (2)
+- Lightning Rush (3)
+- Slicing Maelstrom (Ultimate)
+- Kennen Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Passive: Every 5th attack deals 55 / 65 / 75 / 85 (+70% / 80% / 90% / 100% bonus AD + 30% AP) bonus magic damage and applies a Mark of the Storm.
+
+Active: Shocks nearby enemies afflicted by Mark of the Storm, dealing 70 / 100 / 130 / 160 (+80% AP) magic damage.
+
+Transform into an electric ball for 2 seconds, becoming unable to attack but gaining 100% bonus Movement Speed, and dealing 70 / 120 / 170 / 220 (+70% AP) magic damage to enemies he passes through. The bonus Movement Speed is doubled during the first 0.5 seconds.
+
+Kennen gains 50% /60% / 70% / 80% Attack Speed for 3 seconds upon exiting Lightning Rush.
+
+Gains 40 Energy when Lightning Rush first damages an enemy. Deals 50% damage to minions.
+
+Summons a storm that grants Kennen 20 / 40 / 60 Armor and Magic Resist and deals 20 / 55 / 90 (+13% AP) magic damage every 0.5 seconds for 3 seconds.Each subsequent bolt against the same target deals 10% increased damage.
+
+Only applies 3 Marks of the Storm to a single target.
+
+Kennen is a mage with mobility, crowd control, and huge AOE damage. In the early game, Kennen does well against Melee champions since he can use his range to his advantage. Kennen is a champion who doesn't have mana when using his abilities; instead, he uses energy. Although Kennen might be low on energy for most of the game, he can regain energy when he hits some of his abilities. Once you start to roam and group with Kennen, he can make a difference with his ultimate, Slicing Maelstrom, a huge team fight ability that can win the game.
+
+Kennen can also be played in the Mid Lane; make sure to check the alternative build at the top of the page! The build with Kennen Mid Lane is the same as Baron Lane, and not much else is different in terms of playstyles. The only thing to keep in mind is matchups. In the mid-lane vs other Mages, Kennen won't be able to get an advantage with his range, so he'll need to play safer and wait for Level 5.
+
+Hitting enemies with abilities places a Mark of the Storm on them for a few seconds. At three stacks, the enemy is stunned for over a second, and Kennen gains energy. You'll know how many stacks an enemy has on them by looking at the rotating balls around the enemy. The amount of balls that turn into lighting indicates the enemy's stacks. Knowing when to engage depends on how many stacks you have on the enemy champions. If you have two stacks and get a 3rd stack, you can engage and deal a lot of damage.
+
+Kennen throws a shuriken, dealing magic damage to the first enemy hit. This is a long-range poke ability that can be used to great effect during the lane phase. However, be careful, as minions or monsters can block this ability.
+
+You can also use Thundering Shuriken to safely last-hit minions from a distance if you don't feel comfortable walking up to them and auto-attacking them.
+
+This ability has a passive and an active. The passive makes every 5th attack deal bonus magic damage and apply a Mark of the Storm. You can tell how many auto attacks you are on by looking underneath Kennen's Energy Bar.
+
+Make sure to use your empowered auto-attack on the enemy champion so you can follow it up with your other abilities to apply your passive. The active shocks nearby enemies afflicted by Mark of the Storm, dealing magic damage. This works best when you apply a Mark of the Storm with this abilities passive since the active range is longer than Kennen's auto-attack range.
+
+Kennen transforms into an electric ball for a few seconds, gaining bonus movement speed and dealing magic damage to enemies he passes through but cannot attack when active. If you do an auto attack, it will end the duration of Lightning Rush. You can also tap on the ability again to deactivate it. This is Kennen's main mobility ability that allows him to engage or disengage quickly. Kennen also gains bonus attack speed for a few seconds upon exiting Lighting Rush.
+
+Kennen summons a storm that grants him Armor and Magic Resist and deals magic damage for half a second for up to 3 seconds. This is Kennen's primary teamfight ability that allows him to carry any teamfight that comes his way. Each subsequent bolt against the same target deals increased damage. Kennen can also use other abilities whilst slicing Maelstrom is active.
+
+Kennen builds items that give him a lot of ability power to help with the damage from his abilities. Infinity Orb is a great first item for Kennen. This item will help Kennen deal more damage in the early game, and when enemies get low on health, Kennen's abilities will be able to critically strike, dealing even more damage. Rabadon's Deathcap is another perfect item for Kennen because of how much damage it gives him. Slicing Maelstrom is such an important ultimate, and the more damage you can do, the more impact you can make in team fights.
+
+For runes we have:
+
+Electrocute is a reliable way for Kennen to deal more damage with his combo.
+
+Since Kennen is a ranged champion he can bully champions with Brutal in the early game to get an advantage.
+
+When enemy champions are low on health, Kennen can deal bonus damage. This will help him when looking to assassinate backline carries. Giant Slayer is another good option against Bruisers and Tanks that build a lot of Health.
+
+Bloodline gives Kennen omnivamp, which includes magical vamp. This will work well with Kennen's abilities and Riftmaker, so he will be tough to kill. Legend: Tenacity is another good option in this row when playing against enemies with Crowd Control.
+
+When using Kennen's Ultimate, you will always put yourself in an awkward situation with enemies around you. With Ultimate Shield, you will gain a shield that will absorb some damage when you use your ultimate.
+
+For summoner spells, Flash is a must on Kennen. Flash gives Kennen another way of getting into the enemy backline so he can use his abilities to kill high-value enemies. Ignite is the go-to 2nd spell! It's nice for Kennen to get that extra little bit of damage when he is using his combos to try and kill the enemies.
+
+With Kennen, you can use his range to your advantage early on. Make sure you poke with your auto attacks and abilities when you can vs melee champions; however, keep track of the enemy minions attacking you, as sometimes they can do a lot of damage. You need to be careful if the enemy jumps onto you and you get into melee range. Kennen does not have a lot of health early on, and you can die pretty quickly. As soon as you hit level 5 with Kennen and get access to Slicing Maelstrom, you should look to roam and group with your teammates since you can win most fights with his ultimate.
+
+Kennen is one of the best teamfight champions in the late game. His huge AOE damage and crowd control work incredibly well in fights around major objectives (Dragon and Baron). When playing Kennen, you should always look to surprise the enemy and get into the backline as soon as possible to kill the enemy carries. Kennen does not do well in one-vs-one situations, so make sure you don't get caught by yourself and stay with your team at all times so that when you use your ultimate, they can follow up and kill the enemy team.
+
+Kennen is one of the best team fight champions in the game! If you like to group up with your team and focus on team fighting and winning with your team then Kennen is the go-to champion for you. He is also a safe champion in the laning phase as long as you keep your distance
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

@@ -1,0 +1,100 @@
+Title: Morgana :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Morgana in League of Legends: Wild Rift. Our build guide will teach you how to play Morgana in the current meta.
+
+Headings:
+- Level 1 Morgana Stats
+- Morgana's Abilities
+- Morgana  Build Guide for Wild Rift
+- Morgana's Item Build
+- Morgana's Spells & Runes
+- Morgana's Situational Items
+- Morgana's Situational Runes
+- Morgana's Skill Order
+- Morgana's Item Build
+- Morgana's Spells & Runes
+- Morgana's Situational Items
+- Morgana's Situational Runes
+- Morgana's Skill Order
+- Morgana's Item Build
+- Morgana's Spells & Runes
+- Morgana's Situational Items
+- Morgana's Situational Runes
+- Morgana's Skill Order
+- How to play Morgana
+- Morgana's Abilities
+- Soul Siphon (Passive)
+- Dark Binding (1)
+- Tormented Shadow (2)
+- Black Shield (3)
+- Soul Shackles (Ultimate)
+- Morgana Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Curses an area for 5 seconds, dealing 7 / 12 / 17 / 22 (+7% AP) magic damage every 0.5 seconds to enemies within, increased by up to 170% based on their missing health. Tormented Soil deals 195% damage against monsters.
+
+Tormented Shadow's current Cooldowns is reduced by 5% of its maximum whenever Soul Siphon triggers.
+
+Chains nearby enemy champions, dealing 14% / 16% / 18% (+0.015% AP) magic damage of their maximum health. The chains persist for 3 seconds, revealing and slowing by 15% Movement Speed. When the duration ends, chained targets are stunned for 1.5 seconds and dealt 14% / 16% / 18% (+0.015% AP) magic damage of their maximum health.
+
+Morgana gains 15% Movement speed as long as the chains last.
+
+Morgana is an AP Mage Support champion. She excels at dealing lots of magic damage with all of her abilities and combos. She is very strong during the laning phase with her poke and crowd control, you just need to be careful if the enemy bot lane engages onto you and make sure you time Black Shield to negate the crowd control. The later the game goes, the better Morgana gets. With all of her damage and crowd control, she is amazing during them crucial team fights.
+
+Morgana can also be played in the mid lane and the jungle, make sure to check the alternative build at the top of the page! With Morgana mid and jungle, the build and runes are not that much different, you want to build more burst damage items as you will be getting more gold and experience.
+
+Morgana heals a percentage of the damage dealt with abilities against champions, large minions and monsters. This will surprisingly help Morgana out a lot. Tormented Shadow does damage over time meaning Morgana will heal over time as well and the burst damage from Soul Shackles will give you a huge burst of healing that will help you survive in team fights.
+
+Morgana fires a bolt of dark energy, rooting the first enemy hit for a few seconds and dealing magic damage. This ability is Morgana's main crowd control ability. It can be used offensively to try and catch someone off guard or defensively if you need to protect your ADC. You can combo Dark Binding with Tormented Shadow after you hit the root to guarantee that you do a lot of damage with the pool.
+
+Morgana curses an area for a few seconds dealing magic damage over time. Tormented Soil deals extra damage to monsters in the jungle. Even though I don't have a Morgana Jungle build, you can give her a try as her jungle clear will be fast.
+
+When using Tormented Shadow, it's important to make sure the enemy champion is rooted/stunned so you can guarantee you will do more damage over time. You can also use the ability to help clear minion waves when it's needed.
+
+Morgana places a barrier around an allied champion or herself for a few seconds, absorbing magic damage and blocking disables while the shield holds.
+
+This is the most important ability for Morgana. Being able to block crowd control on an allied champion or herself can change the teamfight. Most of the time you want to look at your teammates (mainly your ADC) blocking crowd control and giving your ADC a magic shield will help them do a lot more damage.
+
+Morgana chains nearby enemy champions, dealing magic damage. The chains persist for a few seconds, revealing and slowing enemies movement speed. When the duration ends, the chained targets are stunned for just over a second and dealt magic damage.
+
+Soul Shackles is a great team fight ultimate that can change the game in an instant. When Soul Shackles chains persist you can use Stasis and the chains will still carry on. Meaning you will still be able to root enemies without taking any damage. This is a classic Morgana combo that is easy and effective.
+
+Morgana does great with most ability power items. Her main source of damage is from all her abilities. Liandry's Torment is an excellent item for Morgana. Since Morgana will be using Tormented Shadow a lot to poke enemy champions, the burn from Liandry's passive will help her deal extra damage. Rylai's Crystal Scepter helps slow enemy champions so you can follow up with her Soul Shackles or Dark Binding, making it extremely different for enemies to escape.
+
+With runes, we have the following:
+
+Morgana's abilities have incredible range that can be hit with ease. Arcane Comet will help Morgana deal extra damage when hitting enemy champions with her abilities.
+
+Gathering Storm is the best option in this selection. This will help Morgana gain a lot of Ability Power in the mid and late game, helping her deal more damage to enemy champions.
+
+When poking with Tormented Shadow, Morgana can do a lot of consistant damage. Coup de Grace can help Morgana do more damage to low health enemies to finish them off.
+
+Morgana does a lot of Magic Damage with her abilities. Sometimes you can get caught out and take a lot of damage when trying to kill enemy champions. However with Bloodline the little bit of Magic Vamp you get can help Morgana heal up and stay alive.
+
+Enchanter Supports like Morgana loves to build as much Ability Haste as possible so she can use her abilities more often. This means Morgana can shield her allies more often and peel for her team.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a sticky situation or if you're trying to go in for the killing blow! Ignite is a great option for Morgana as the 2nd summoner spell choice. You want to play aggressively in the laning phase and get an advantage early on and Ignite will help you deal that extra bit of damage.
+
+Morgana is played a bit differently from your traditional support. She's really strong in the early game, you can poke enemies with Dark Binding and Tormented Shadow. Keep an eye out on the enemy champions to make sure they are not about to engage your or your ADC. If they do make sure you use black shield to stop all the crowd control.
+
+You have to be very careful when stepping forward with Morgana, as if you get caught out and engaged, you can die very quickly. The best thing to do is let your AD Carry last hit minions and try to stay back but try and walk up when possible to poke down the enemy.
+
+In the late game, Morgana is a scary force that no one wants to deal with! All of her abilities (especially the ultimate) deal great amounts of damage and can be significantly impactful during team fights. You want to stay with your team at all times, stay near the back with your ADC (if you don't feel confident stepping forward) making sure you use Black Shield to protect your team. Sometimes you can step forward to try and hit your Dark Binding so you or your team can follow up and get an advantage.
+
+Overall Morgana is a fairly easy and beginner-friendly champion that anyone can pick up and play. She is really strong at all stages of the game. Whether it's a cheeky level 1 invade to catch someone sleeping or getting that 5 man lockdown with her ultimate Soul Shackles, there's something available at all stages of the game to carry your team.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

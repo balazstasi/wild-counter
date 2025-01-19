@@ -1,0 +1,114 @@
+Title: Graves :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Graves in League of Legends: Wild Rift. Our build guide will teach you how to play Graves in the current meta.
+
+Headings:
+- Level 1 Graves Stats
+- Graves's Abilities
+- Graves  Build Guide for Wild Rift
+- Graves' Item Build
+- Graves' Spells & Runes
+- Graves' Situational Items
+- Graves' Situational Runes
+- Graves' Skill Order
+- How to play Graves
+- Graves' Abilities
+- New Destiny (Passive)
+- End of The Line (1)
+- Smoke Screen (2)
+- Quickdraw (3)
+- Collateral Damage (Ultimate)
+- Graves Build Breakdown
+- Jungle Path
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Graves' shotgun has some unique properties:Double Barrel: Graves must reload when he runs out of ammo. Attack Speed reduces reload time slightly, but reduces time between attacks dramatically.
+
+12 Gauge: Attacks fire 4 bullets. Units hit take 72% AD physical damage +24% for additional bullets. Critical strikes fire 6 bullets, 130% damage each and increase each bullet's damage by 30%. Structures only take 75% damage.
+
+Buckshot: Bullets cannot pass through enemy units. Non-champions struck by multiple bullets are knock back slightly.
+
+Fires a powder round that deals 70 / 90 / 110 / 130 (+80% AD) physical damage and then detonates after 1 second to deal an additional 80 / 130 / 180 / 230 (+80% / 110% / 140% / 170% AD) physical damage.
+
+Detonates in 0.25 seconds if the round hits terrain, Deals 105% damage against monsters.
+
+Throws a canister that creates a cloud of smoke for 4 seconds. Enemies within the smoke cannot see outside of it.
+
+Enemies caught in the initial impact take 60 / 125 / 190 / 255 (+60% AP) magic damage and are slowed by 50% for 0.5 seconds.
+
+Dashes in a direction, reloading one shell and granting True Grit for 4 seconds. True Grit grants 8 / 14 / 20 / 26 Armor ( stacks 6 times) and refreshes when damaging non-minions.
+
+Dashing towards an enemy champion grants 2 stacks of True Grit. Each bullet hit reduces Quickdraw's cooldown by 0.5 seconds.
+
+Fires an explosive shell that deals 300 / 450 / 600 (+150% AD) physical damage and knocks Graves back from recoil. The shell explodes upon hitting an enemy champion or reaching the end of its range, dealing 200 / 320 / 440 (+120% AD) physical damage in a cone.
+
+Enemies damaged by the shell's initial impact do not take damage from the explosive cone.
+
+Graves is an AD skirmisher-focused jungler. He excels at farming efficiently through the jungle and duelling when he has completed his core items, thanks to his high burst damage and tankiness from his abilities. Graves has a unique Shotgun that only has two bullets, which means he needs to reload after two auto-attacks. So keep that in mind, and don't get caught whilst reloading.
+
+Graves can also be played in the top lane. With his early-game damage and aggression, he can bully out champions in the solo lane and get a lot more gold and experience than playing jungle, meaning you can reach your core items sooner and start to deal a lot of damage early.
+
+Graves auto-attacks are very unique. Graves uses a shotgun that has 2 shots. After 2 shots he has to reload. Attack speed reduces reload time but reduces the time between attacks.
+
+Each auto-attack fires 4 bullets. Critical strikes fire 6 bullets and increase each bullet's damage. When hitting all 6 bullets, Graves can fully stack Black Cleaver passive from just one auto attack.
+
+Bullets cannot pass through enemy units. So even though you might be targeting a champion, if there are minions, a tower or even another champion in the way, the auto-attacks will always hit the closest target to you.
+
+Non-champions struck by multiple bullets are knocked back slightly. This allows Graves to easily kite jungle camps and stay healthy when clearing through the jungle.
+
+Graves fires a powder round that deals physical damage and then detonates after just over a second to deal additional physical damage. If End of the Line hits terrain, it bounces off the terrain and detonates straight away.
+
+It's important to always aim End of the Line and try to hit the closest terrain because the damage from the 2nd part of this ability (when coming back) does more than the 1st part (when firing out).
+
+Graves throws a canister that creates a cloud of smoke for a few seconds. Enemies within the smoke cannot see outside of it, reducing their sight. This can be really powerful against any ranged champions as they cannot auto attack when in the smoke screen.
+
+Enemies caught in the initial impact take magic damage and are slowed for just under a second. So you can also use this ability to help when chasing to briefly slow on impact.
+
+This is Graves' main mobility tool. He dashes in a direction, reloading one shell from his Shotgun (New Destiny) and granting True Grit for a few seconds. True Grit grants Armor (stacking a few times) and refreshes when damaging non-minions. Dashing towards an enemy champion grants 2 stacks of True Grit instead of 1.
+
+Each auto-attack bullet hit reduces Quickdraw's cooldown by just under a second. It's important not to use this ability when you already have 2 bullets in your shotgun, as you won't be able to take advantage of auto-attacking 3 times before reloading.
+
+Graves fires an explosive shell that deals physical damage and knocks him back from recoil. The shell explodes upon hitting an enemy champion or reaching the end of its range, dealing physical damage in a cone.
+
+This ability is very useful when you are trying to snipe escaping enemies due to Collateral Damage having a very long range. When Graves gets knocked back he can get over walls so you can have situations where you kill an enemy champion and escape over the wall.
+
+Since Graves is more of a carry jungler, he does well with items that give him a lot of attack damage. Bloodthirster is a core item for Graves. The item gives him a lot of great stats and is one of the highest AD items in the game. On top of that, the Physical Vamp is vital for Graves to keeping him alive. Black Cleaver is another superb item that gives Graves some damage stats but also some tank stats that helps him a lot since he has low attack range. The cool part about Black Cleaver is that if Graves critical strikes with his shotgun and hits all six bullets, he can fully stack the Black Cleaver passive, reducing the enemy armour by a lot.
+
+Onto the runes, we have:
+
+With Graves auto attacks and abilities, you can stack Conqueror relatively quickly and get to full stacks, so he gets extra AD and omnivamp, which will help him sustain during fights.
+
+Gathering Storm is the best option from the selection of runes. It helps Graves get more Attack Damage the later the game goes helping him deal more damage.
+
+When enemy champions are low on health, Graves can deal bonus damage. This will help Graves when dashing in trying to kill low-heath enemies. Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+Alacrity gives Graves Attack Speed, which will help Graves clear jungle camps quicker and stack up to help him attack more often during team fights. Legend: Tenacity is another excellent option when playing against champions that have Crowd Control.
+
+Overgrowth allows Graves to gain permanent health throughout the game when nearby minions or monsters are killed. So the more Graves farms in the jungle, the more Maximum Health he will get. This will help Graves survive a lot of damage.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for that killing blow. Smite is a must for when you are playing jungle. Help's you out a lot when clearing the jungle and securing the epic monsters.
+
+With Graves, he has a very fast early jungle clear. This means that you can work your way around the jungle really fast and be aggressive when contesting the scuttle crabs in the rivers when they spawn. It is best to start at Red Brambleback as you don't really struggle on mana and the extra damage you get can help clear the jungle faster.
+
+This is what the jungle patch would look like:
+
+Below is a beginner's guide for jungle in Wild Rift. It goes in-depth about every jungle camp. Epic monsters and more!:
+
+In the late game, Graves can be a powerhouse with all the damage and crit strike items he builds. The best thing you can do is group with your team and try to pick off the enemies. Your main objective as a jungler is to keep track of when Dragon's, Rift Herald, and Baron spawn. Taking these epic monsters will give you and your team an advantage in the game. When in a team fight, try your best not to get caught out and keep auto-attacking and using your abilities to deal damage.
+
+Overall if you like the sound of an early aggressive jungler that can make an impact then Graves is the perfect champion for you. He has the potential to burst any champion with his combos and sustain enough to stay alive through an entire teamfight.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

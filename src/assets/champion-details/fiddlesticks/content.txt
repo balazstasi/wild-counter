@@ -1,0 +1,124 @@
+Title: Fiddlesticks :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Fiddlesticks in League of Legends: Wild Rift. Our build guide will teach you how to play Fiddlesticks in the current meta.
+
+Headings:
+- Level 1 Fiddlesticks Stats
+- Fiddlesticks's Abilities
+- Fiddlesticks  Build Guide for Wild Rift
+- Fiddlesticks' Item Build
+- Fiddlesticks' Spells & Runes
+- Fiddlesticks' Situational Items
+- Fiddlesticks' Situational Runes
+- Fiddlesticks' Skill Order
+- How to play Fiddlesticks
+- Fiddlesticks Abilities
+- A Harmless Scarecrow (Passive)
+- Terrify (1)
+- Bountiful Harvest (2)
+- Reap (3)
+- Crowstorm (Ultimate)
+- Fiddlesticks Build Breakdown
+- Jungle Path
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+After a champion or epic monster takedown, summons Scarecrow Effigy to where they were killed.
+
+Scarecrow Effigy fears nearby enemies after charging up for 2 seconds. Scarecrow Effigy can be removed by attacks while it is still charging up.
+
+Passive: While out of combat and stationary, or not visible to the enemy team, Fiddlesticks' next damaging ability additionally fears targets hit for 1 / 1.1 / 1.2 / 1.3 seconds.
+
+Active: Summons crows that attack enemies along the path, dealing magic damage equal to 4% / 5% / 6% / 7% of the targets' respective current Health.
+
+If the targets were recently feared, damage dealt is doubled.
+
+Deals a minimum of 45 / 70 / 95 / 120 damage to enemy champions and a maximum of 400 damage to monsters.
+
+Siphons the souls of nearby enemies, dealing 50 / 80 / 110 / 140 (+ 25% AP) magic damage every second for 2 seconds. The last strike deals damage equal to 10% / 11.5% / 13% / 14.5% of the target's missing Health. Heals itself by draining Health from enemies.
+
+Health recoverable by dealing damage:
+
+35% / 40% / 45% / 50% against enemy champions.
+
+15% against minions.
+
+45% against monsters.
+
+Deals 160% damage to monsters.
+
+Deals 50% damage to minions.
+
+Fiddlesticks is an AP assassin that is played in the jungle. He uses his crowd control and damage to scare and fear enemy champions from darkness, allowing him to assassinate any enemy that might walk into his path. Fiddlesticks has one of the fastest early-game jungle clears, allowing him to get level 5 very quickly. When reaching Level 5, you can use Fiddlesticks' Crowstorm to gank any lane to help get your team ahead.
+
+After a champion or epic monster (Dragon or Herald) takedown, Fiddlesticks summons a Scarecrow to where they were killed. The Scarecrow fears nearby enemies after charging for a few seconds.
+
+This makes Fiddlesticks very scary during teamfights, especially around epic monsters, allowing him to deal more damage with this passive. However, the Scarecrow can be removed by attacks while still charging up, so you cannot rely too much on it.
+
+Passive: While out of combat and stationary or not visible to the enemy team, Fiddlesticks' next damaging ability additionally fears targets hit. This is mainly beneficial when using his ultimate Crowstorm out of vision to fear the entire enemy team, allowing Fiddlesticks to do a lot of damage.
+
+Active: Fiddlesticks summons crows in a straight line skillshot, dealing damage equal to a percentage of the target's current health. If the target was recently feared from the passive, then the damage will be doubled.
+
+You always want to ensure you don't use Terrify at the start of the fight. Wait until you first fear the target, then use Terrify to deal the most damage.
+
+Fiddlesticks sucks the souls of nearby enemies, dealing magic damage and healing himself by draining health from enemies. The last strike deals additional damage. When you can, get the full charge off on an enemy champion to deal the most damage.
+
+It's important to note that you can move and use other abilities when using Bountiful Harvest. So, as soon as you fear an enemy champion, use this ability to best guarantee the full charge damage from this ability.
+
+Fiddlesticks slashes the target location with its scythe, dealing magic damage to enemies within the area and slowing them for over a second. Enemies in the centre are also silenced.
+
+his ability is a skillshot, and hitting an enemy in the middle is essential when using his all-in combo to silence enemies so they can't escape.
+
+Fiddlesticks channels for over a second, then blinks to a target location and summons Crowstorm, dealing magic damage to nearby enemies for 5 seconds.
+
+It's best to use this ultimate when out of vision to surprise all the enemies and fear them, thanks to the passive of Terrify. After that, Fiddlesticks can use his other abilities to assassinate and one-shot any enemy champion.
+
+Fiddlesticks is known for doing a lot of magic damage from his abilities; this is also reflected in the build. Awakened Soulstealer is an excellent item for Fiddlesticks. His burst potential with Crowstorm is insane, meaning you can one-shot any enemies and use Soulstealer's passive to use his other abilities more often. Fiddlesticks can also build Rabadon's Deathcap and Infinity Orb to help him do even more damage.
+
+With runes, we have the following:
+
+Since Fiddlesticks will be using his abilities (especially his ultimate) out of vision to try and fear enemy champions, he will always be dealing damage first, allowing him to deal a lot of True Damage with First Strike.
+
+Gathering Storm is the best option in this selection. This will help Fiddlesticks gain a lot of Ability Power in the mid and late game, helping him deal more damage to enemy champions.
+
+When engaging with Crowstorm Fiddlesticks can do a lot of burst damage. Coup de Grace can help Fiddlesticks do more damage to low health enemies to finish them off.
+
+Fiddlesticks does a lot of Magic Damage with his abilities. Sometimes you can get caught out and take a lot of damage when trying to kill enemy champions. However with Bloodline the little bit of Magic Vamp you get can help Fiddlesticks heal up and stay alive.
+
+When using Crowstorm, Fiddlesticks gains extra Magic Penetration to deal more damage to any enemies walking in his path.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for that killing blow. Smite is a must for when you are playing jungle. It helps you out a lot when clearing the jungle and securing the epic monsters (Dragons and Baron).
+
+With Fiddlesticks, he doesn't have the best one vs one potential early game vs other junglers. Instead, Fiddlesticks wants to fully clear the jungle and clear every camp to reach Level 5 as soon as possible. Once Level 5 has been reached, this is where Fiddlesticks can roam around the map and gank any lane with his Ultimate.
+
+This is what the jungle path would look like:1. Blue Sentinel
+
+2. Gromp
+
+3. Wolves
+
+4. Raptors
+
+5. Red Brambleback
+
+6. Krugs
+
+Below is a beginner's guide for the jungle in Wild Rift. It goes in-depth about every jungle camp, epic monsters and more!:
+
+In the late game, Fiddlesticks wants to use the darkness of the enemy team to his advantage. If he can surprise enemies by using his Ultimate out of vision and fearing everyone, he can carry any teamfight. When playing Jungle, your main job is to keep track of when Dragon, Rift Herald and Baron spawn. Taking these epic monsters will give you and your team a massive advantage in the game.
+
+Fiddlesticks is a very fun champion to play. He has such a high skill ceiling that you can learn, and when you do, you'll be able to carry every game on the rift.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

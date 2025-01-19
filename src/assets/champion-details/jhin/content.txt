@@ -1,0 +1,94 @@
+Title: Jhin :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Jhin in League of Legends: Wild Rift. Our build guide will teach you how to play Jhin in the current meta.
+
+Headings:
+- Level 1 Jhin Stats
+- Jhin's Abilities
+- Jhin  Build Guide for Wild Rift
+- Jhin's Item Build
+- Jhin's Spells & Runes
+- Jhin's Situational Items
+- Jhin's Situational Runes
+- Jhin's Skill Order
+- How to play Jhin
+- Jhin's Abilities
+- Whisper (Passive)
+- Dancing Grenade (1)
+- Deadly Flourish (2)
+- Captive Audience (3)
+- Curtain Call (Ultimate)
+- Jhin Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Jhin's hand cannon, Whisper, carries 4 shots before needing to be reloaded and fires at a fixed rate. (Attack speed will be converted into Attack Damage). The final bullet will critically strike and deal additional 11% missing Health physical damage. Whenever Whisper crits, Jhin gains a burst of 15% (+0.55% per 1% bonus AS) movement speed for 2 seconds.
+
+Attack Damage scales with Critical Rate and bonus Attack Speed.
+
+Places an invisible Lotus Trap that reveals nearby enemies when walked over. It slows enemies by 30% before dealing 20 / 100 / 180 / 260 (+120% AD +100% AP) magic damage.
+
+When Jhin kills an enemy champion, a Lotus Trap will spawn and detonate where they were killed.Deals 65% damage to non-champions and champions recelty hit by another trap.
+
+Channels to fire 4 super shots at extreme range in a cone. The shots stop on the first champion hit, slowing it by 80% for 0.75 seconds and dealing 75 / 150 / 225 (+25% AD) physical damage, increased by 3% for each 1% health the target is missing. The 4th shot crits for 200% damage.
+
+Tap the cancel button to cancel the channel.
+
+Jhin is a Duo Lane Marksman. Jhin has a unique playstyle compared to other traditional Dragon Lane champions. Jhin's weapon, Whisper, fires at a fixed rate and carries only four shots. Even though the 4th shot will always critically strike and do a lot of damage, Jhin has to reload afterwards, making him very vulnerable to any incoming damage. So, keeping track of how many bullets you have when playing Jhin is essential.
+
+Jhin is a bit different from other champions. He has a unique weapon with four bullets that fire at a fixed rate, and he reloads after running out of ammo. The attack speed that Jhin buys from the shop will be converted into Attack Damage.
+
+The final bullet (4th shot) will critically strike and deal additional physical damage. Whenever Whisper crits, Jhin gains a burst of movement speed for a few seconds.
+
+There is an indicator undeath Jhin's mana bar, which shows how many shots he has left until he needs to reload. When you are about to fire your 4th shot, you need to make sure you are in a safe place to run away, as this is an opportunity for the enemies to jump onto you.
+
+Jhin launches a magical cartridge at an enemy, dealing physical damage before bouncing to a nearby target that has not yet been hit. It can hit up to 4 targets, and gains damage each time it kills.
+
+When farming in the early game, if you want to push the lane, you can auto-attack a minion and wait for it to go low on health and then use your Dancing Grenade so you can clear the whole wave with one Ability. Sometimes, you can even hit an enemy champion with the Dancing Grenade if you bounce it off a few minions.
+
+Jhin fires a long-range shot that stops on the first champion hit. If the target champion was struck by Jhin or Jhin's allies within the last few seconds, they are rooted and Jhin gains movement speed. When playing Jhin, you want to stay at the backline and use abilities like Deadly Flourish to poke from range and use his crowd control to benefit your team. Deadly Flourish can be very difficult to hit since it has a small width, so you often want to wait and follow up your team's crowd control with Deadly Flourish.
+
+Jhin places an invisible trap that reveals nearby enemies when walked over. It slows enemies before dealing magic damage. You can use these traps in chokepoints around the map to slow the enemies down if they are trying to walk through, and you will get some vision of the enemy team.
+
+You can also use the traps to help you push the minion wave much quicker. The traps, combined with your 4th shot passive and Dancing Grenade (1st Ability), make it easy to push a minion wave so you can go back to base and buy some items.
+
+Jhin channels his ultimate to fire four super shots at extreme range in a cone. The shots stop on the first champion hit, slowing it and dealing physical damage. The 4th shot crits and does a lot of damage.
+
+When using Curtain Call, you need to make sure you are safe away from any enemy champions. You will be stood still and stuck unless you cancel your Ultimate, which means you will be vulnerable to anyone jumping onto you.
+
+Jhin does well when building attack damage items with some attack speed (which gets converted to Attack Damage) and critical strike chance, so his auto attacks can do a lot of damage. The Collector is a unique item for Jhin. Since Jhin has bullets and needs to reload, he doesn't deal consistent damage, so the execution can help him finish off enemies. Magnetic Blaster is another excellent item for Jhin. The energized passive gives Jhin more attack range and magic damage, making it difficult for enemies to itemize against him.
+
+Onto the runes, we have:
+
+Fleet Footwork synergizes well with Jhin with the extra movement speed that he can get, which helps him kite a lot during team fights.
+
+Brutal gives Jhin's auto attacks more damage, giving him a lot of power in the early game to try and get an advantage to carry his team.
+
+When enemy champions are low on health, Jhin can deal bonus damage. This will help Jhin kill enemies a lot faster with Collector. Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+The healing from Bloodline will be more beneficial for Jhin for the sustain and survivability compared to attack speed from Alacrity. Legend: Tenacity is another excellent option when playing against champions that have Crowd Control.
+
+As a marksman, Jhin will always be the main focus for the enemy team to try and take down. However, Bone Plating will help Jhin take reduced damage from the first three instances of damage, which can save his life.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get you out of a bad situation or allows you to flash into the team to get that killing blow! The go-to 2nd spell is Ghost. Since Jhin doesn't have a lot of mobility, the extra movement speed you get when using a Summoner Spell can help him escape difficult situations or help him chase down an enemy champion for the killing blow.
+
+With Jhin, you want to play quite aggressively in the early game. Ensure you always hit your 4th shot from Whisper on the enemy champions. This will deal a lot of damage, but be careful because, after the 4th shot, you will spend a bit of time reloading, so don't get caught. Use a few auto attacks on one of the melee minions, then use Dancing Grenade to kill 1 of the melee minions then, it will do increased damage to the other minions to make it easier to push. You can also use Captive Audience on the ranged minions to help push.
+
+Once you reach the late game and have your core items, Jhin can use his movement speed and critical damage very well. It's always best to stay grouped with your team as an AD Carry. You want to stay as far back from the enemies as possible and allow your front line to go in front of you to tank all the damage. Make sure you take advantage of Curtain Call's range. Most of the time, you are the main damage output, so if you are caught by yourself and die, your team is in trouble, so make sure you stay safe at all times.
+
+As mentioned, Jhin is a unique champion but one of my favourite designs. Once you understand how to utilise the 4th shot mechanic, you can start to take advantage of the enemy. If you want an early-game champion who can use his lead to carry in the late game, Jhin is your go-to champion.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

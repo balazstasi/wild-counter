@@ -1,0 +1,43 @@
+Title: Rumble :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Rumble in League of Legends: Wild Rift. Our build guide will teach you how to play Rumble in the current meta.
+
+Headings:
+- Level 1 Rumble Stats
+- Rumble's Abilities
+- Rumble  Build Guide for Wild Rift
+- Rumble's Item Build
+- Rumble's Spells & Runes
+- Rumble's Situational Items
+- Rumble's Skill Order
+- Coming Soon
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Every ability Rumble casts generates Heat. While above 50 Heat, Rumble enters the Danger Zone, causing his basic abilities to gain bonus effects. When he reaches 150 Heat, he becomes Overheated for 4 seconds.
+
+Overheated: Silences himself, but gains 55% bonus Attack Speed and empowers his attacks to deal additional 5 (+20% AP) magic damage plus 5% of the marget's max Health.
+
+Percent damage is limited to 65 - 150 on monsters.
+
+Ignites his flamethrower, dealing 150 / 190 / 230 / 270 (+110% AP) plus 6% / 8% / 10% / 12% of the target's max Health as magic damage over 3 seconds. The flamethrower deals 105% of this damage against minions.
+
+Danger Zone: Deals 225 / 285 / 345 / 405 (+165% AP) plus 9% of the target's max Health as magic damage instead.
+
+Percent damage is limited to 65 - 150 damage on monsters.
+
+Tosses up a barrier, gaining a shield that absorbs 45 / 80 / 115 / 150 (+6% of max Health +30% AP) damage for 1.5 seconds and 15% Movement Speed for 1 second.
+
+Danger Zone: Gains 22.5% Movement Speed and a shield that absorbs 67.5 / 120 / 172.5 / 225 (+9% of max Health +45% AP) damage instead.
+
+Launches an electrified harpoon, dealing 60 / 90 / 120 / 150 (+40% AP) magic damage, slowing by 30% / 35% / 40% / 45% for 1.5 seconds, and reducing the enemy's Magic Resist by 8% / 12% / 16% / 20% for 4 seconds. Hitting an enemy who is already slowed by Electro Harpoon increases the slow to 45% / 52.5% / 60% / 67.5% and Magic Resist reduction to 12% / 18% / 24% / 30%.
+
+Danger Zone: The harpoon deals 90 / 135 / 180 / 225 (+60% AP) magic damage instead, and the slow and Magic Resist reduction are increased by 50%.
+
+Charge: Gains a charge every 6 seconds, storing up to 2 charges.
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

@@ -1,0 +1,102 @@
+Title: Sett :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Sett in League of Legends: Wild Rift. Our build guide will teach you how to play Sett in the current meta.
+
+Headings:
+- Level 1 Sett Stats
+- Sett's Abilities
+- Sett  Build Guide for Wild Rift
+- Sett's Item Build
+- Sett's Spells & Runes
+- Sett's Situational Items
+- Sett's Situational Runes
+- Sett's Skill Order
+- How to play Sett
+- Sett's Abilities
+- Pit Grit (Passive)
+- Knuckle Down (1)
+- Haymaker (2)
+- Facebreaker (3)
+- The Show Stopper (Ultimate)
+- Sett Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Sett's Attacks alternate between left and right punches. Right punches follow the left quickly and deal an additional 7 (+50% AD) physical damage.
+
+Sett gains 0.25 bonus Health Regeneration for each 5% missing Health.
+
+Sett will reset back to a left punch if he does not do a right punch within 2 seconds of doing a left punch. The Attack Speed of a right punch is 8 times that of a left punch.
+
+Sett itches for a fight, gaining 30% Movement Speed towards enemy champions for 1.5 seconds.
+
+Additionally empowers the next two attacks to deal an additional 5 /20 / 35 50 + 1% (+0.01% / 0.015% / 0.02% / 0.025% AD) max health physical damage.
+
+The additional damage is capped at 100 against monsters.
+
+Passive: Stores 100% of damage taken as Grit, up to 305 (50% maximum HP). Grit decays quickly 4 seconds after the damage was taken.
+
+Active: Consumes all Grit, gaining a 100% Grit consumed shield decaying over 3 seconds. Sett then delivers a massive punch, dealing 80 / 105 / 130 / 155 + 25% (+0.275% AD) Grit consumed true damage to enemies in the center. Enemies not in the center instead take physical damage.
+
+Smashes enemies on either side into each other, dealing 50 / 75 / 100 / 125 (+60% AD) physical damage and slowing them by 50% for 0.5 seconds.
+
+If Sett grabbed at least one enemy on each side, all enemies are stunned for 1 second.
+
+Sett is a top-lane fighter. He can be a front line tank with his solid crowd control or you can build a little bit of damage to be able to suplex the backline carry and one-shot them with his massive AOE damage. Sett doesn't have a mana bar, but instead has a Grit bar that stores damage taken. When you activate Haymaker it consumes all grit, gaining a shield.
+
+Sett's auto attacks work a little bit different to other champions. Sett alternates between left and right punches. Right punches follow the left quickly and deal additional physical damage.
+
+It's important to make sure you auto-attack with a right punch straight after throwing a left punch because Sett will reset back to a left punch if he does not do a right punch within a few seconds.
+
+Sett gains movement speed towards enemy champions for a few seconds. Additionally empowers the next two attacks to deal bonus physical damage.
+
+There is a really neat combo you can do with Knuckle Down. If you throw a left and a right punch there is normally a slight delay until Sett can auto-attack again. However, if you use Knuckle Down as soon as you finish the right punch the delay will be decreased.
+
+Sett stores 100% of damage taken as Grit. Grit decays quickly a few seconds after the damage was taken. You can see how much Grit you have underneath your health bar.
+
+When you use Haymaker, Sett consumes all Grit, gaining a shield that decays over time. Sett then delivers a massive punch dealing true damage to enemies in the center. Enemies not in the center instead take physical damage.
+
+It's always important to keep a close eye on how much Grit you have as this can make the difference between surviving and dying.
+
+Sett smashes enemies on either side into each other, dealing physical damage and slowing them for just under a second. If Sett grabs at least one enemy on each side, all enemies are stunned for a second.
+
+Most of the time you want to use Facebreaker at the start of the fight so you bring enemies towards you so you can punch them and potentially use The Show Stopper to bring them to your team.
+
+Sett grabs an enemy champion and suppresses them as he carries them forward, then slams them into the ground, dealing damage to surrounding enemies and slowing them for a second. Enemies take less damage the further they are from where Sett lands.
+
+You can use this ultimate in 2 different ways. You can try and get behind enemy lines and Suplex an enemy champion into your team or you can Suplex an enemy front line champion into their own backline which means you can use your other abilities and punches to try and kill their carries.
+
+Sett uses a mixture of both damage and tank items that work well with his kit. Heartsteel is a core item for Sett. He gains stacking health throughout the game and damage based on how much bonus health he is building (which is a lot). Titanic Hydra is a great item that scales exceptionally well with all the health Sett builds and gets from items and runes. The more bonus health Sett gets, the more Attack Damage he'll get, meaning he can deal more damage.
+
+For runes, we have the following:
+
+Grasp helps Sett deal extra damage, depending on the % of his health. In addition, he can stack a lot of health and heal every time Grasp of the Undying is available.
+
+Sett has many abilities that can impair the movement of enemy champions giving him a shield to make him a little bit extra tanky.
+
+Second Wind works well with Sett's passive giving him 2 ways in which he can heal up to get back into a teamfight.
+
+Overgrowth allows Sett to gain permanent health throughout the game when nearby minions or monsters are killed. So the more Sett farms, pushes the lane and kills minions, the more Maximum Health he will get.
+
+Since Sett has a double auto attack. Brutal will give both these auto attacks more damage.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a sticky situation or if you're trying to go in for the killing blow! For the 2nd spell, it's best to go for Ignite. This helps a lot when going into fights and trying to get that extra damage to kill off the enemies.
+
+Sett is a really strong early game champion because of his damage and early sustain that helps keep him alive. When you hit level 3 and have access to all Sett's basic abilities. You can use Facebreaker to pull the enemy towards you and use Knuckle Down to do a lot of damage. If you do get into any trouble you can always use Haymaker to get a shield that can sometimes save your life.
+
+Sett is a great team fight champion in the late game because of his solid crowd control and massive AOE damage. You want to stay with your team at all times and try not to get caught out by yourself. When a team fight happens, you want to make sure you are at the front protecting your team. Make sure you always go towards the biggest threat on the enemy team and try to take them down.
+
+Overall Sett is a strong champion that can surprise a lot of people with how much damage he can do and how tanky he can be. Don;t be too afraid when playing Sett as you have a lot of abilities and shields that can help you escape rough situations.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

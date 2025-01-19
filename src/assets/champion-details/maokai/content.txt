@@ -1,0 +1,123 @@
+Title: Maokai :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Maokai in League of Legends: Wild Rift. Our build guide will teach you how to play Maokai in the current meta.
+
+Headings:
+- Level 1 Maokai Stats
+- Maokai's Abilities
+- Maokai  Build Guide for Wild Rift
+- Maokai's Item Build
+- Maokai's Spells & Runes
+- Maokai's Situational Items
+- Maokai's Skill Order
+- Maokai's Item Build
+- Maokai's Spells & Runes
+- Maokai's Situational Items
+- Maokai's Situational Runes
+- Maokai's Skill Order
+- Maokai's Item Build
+- Maokai's Spells & Runes
+- Maokai's Situational Items
+- Maokai's Situational Runes
+- Maokai's Skill Order
+- How to play Maokai
+- Maokai's Abilities
+- Sap Magic (Passive)
+- Bramble Smash (1)
+- Twisted Advance (2)
+- Sapling Toss (3)
+- Nature's Grasp (Ultimate)
+- Maokai Build Breakdown
+- Jungle Path
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Every 24 seconds, Maokai's next attack restores 2 x 30 (+4 x 10%) Health.
+
+Using an ability or being hit by an enemy champion's ability reduces this ability's cooldown by 3 seconds.
+
+Smashes his fist into the ground, unleashing a shockwave that deals 60 / 115 / 170 / 225 (+50% AP) magic damage plus 2.5% / 3% / 3.5% / 4% of the target's max Health and slows them briefly for 0.25 seconds. Nearby enemies are also knocked back.
+
+Deals 120 bonus damage to monsters.
+
+Transforms into a moving mass of roots, becoming untargetable and dashing to an enemy champion target. Upon arrival, he roots them for 0.8 / 0.95 / 1.1 / 1.25 seconds and deals 60 / 95 / 130 / 165 (+50% AP) magic damage.
+
+Deals 180% damage to monsters.
+
+Flings a sapling, which stands watch at where it lands for 20 seconds. Saplings chase nearby enemies, detonating on arrival to deal 60 / 90 / 120 / 150 (+25% AP +6% bonus Health) magic damage and slow nearby enemies by 30% for 2 seconds.
+
+If placed in brush, saplings stand watch for 30 seconds and cause a larger explosion upon catching up to targets, dealing 200% magic damage and slowing enemies hit by 30% (+1.5% per 100 bonus Health and +1% per 100 bonus AP) for 3 seconds.
+
+Saplings deal 130% damage to minions regardless of whether they are placed in brush or not.
+
+Saplings deal a maximum of 300 damage to monsters.
+
+Maokai is an AP tank jungler who offers tons of crowd control to lockdown the enemy team. His ultimate, Nature's Grasp, is one of the best engaging tools in the game. He can use it from afar to start a teamfight and follow up with Twisted Advance to lockdown any champion for multiple seconds. And with his passive, Sap Magic, when he auto attacks enemy champions, he can heal up, allowing him to stay in fights for longer.
+
+Every few seconds, Maokai's next attack restores Health. When he uses an ability or gets hit by an enemy ability, the cooldown is reduced. This passive helps Maokai stay in fights for longer.
+
+You can tell when his passive is available by looking underneath his health bar. When the yellow bar turns red, you know the passive is available on the next auto attack.
+
+Maokai smashes his fist into the ground, unleashing a shockwave that deals magic damage and slows briefly. When enemies are nearby, Maokai will also knock them back.
+
+This ability works best when Maokai is close to enemy champions. Maokai can walk behind enemy champions after using Twisted Advance or Nature's Grasp to knock them into his team.
+
+Maokai transforms, becoming untargetable and dashing to an enemy champion. Upon arrival, he roots the enemy and deals damage.
+
+Twisted Advance is a simple point-and-tap ability that can lock down a high-value target and gives you enough time to combo other abilities to guarantee extra damage will be dealt.
+
+Since Maokai becomes untargetable, he can look for tower dives, being able to take damage and then use Twisted Advance to toggle the turret aggro to someone else.
+
+Maokai flings a sapling, which stands watch at where it lands for a few seconds. Saplings will chase nearby enemies, detonating on arrival, dealing damage, and slowing nearby enemies.
+
+When Sapling Toss is placed in a brush, saplings stand watch for a longer time and cause a larger explosion when catching an enemy champion. When possible, Maokai should always look to put saplings in a brush when engaging in a fight or clearing through the jungle. This can also help when trying to get vision in a brush.
+
+Maokai summons a slow-moving wave of brambles, dealing damage and rooting the first enemy hit. The root duration is increased depending on how far the brambles travel. Hitting an enemy also grants Maokai movement speed so he can get into range to use his other abilities, like Twisted Advance.
+
+When using Nature's Grasp enemies will stand in a line to try and block/dodge Maokai's ultimate. If this is the case, try to engage with Maokai at an angle; this will make it harder for enemies to block his ultimate.
+
+Maokai is known as a tank that can survive a lot of damage, and that is reflected in his build. Searing Crown is an excellent first item for Maokai, giving him a considerable damage boost and the tank stats he needs. Spirit Visage is another fantastic item. With Spirit Visage's passive, Maokai can heal more from his Sap Magic, allowing him to stay in fights even longer.
+
+For runes, we have:
+
+Since Maokai will be using Twisted Advance to go straight into the enemy team, his slows and damage reduction to the enemy team will benefit both him and his team.
+
+Like Aftershock, Maokai can immobilize enemy champions with multiple abilities, giving Maokai a shield that makes him more difficult to kill.
+
+You will be engaging a lot with Maokai. With Bone Plating, Maokai will take reduced damage from the first few attacks or abilities that hit him when he looks to start a fight.
+
+Overgrowth allows Maokai to gain permanent health throughout the game when nearby minions or monsters are killed. So, the more Maokai farms, the more tankier he will get.
+
+With Hexflash, Maokai can flash forward to get into range to use Twisted Advance, which is huge when trying to kill enemy champions.
+
+For summoner spells, Flash is a must on Maokai; it's the perfect way to engage enemy champions and allows him to use Hextech Flashtraption every few seconds. Smite is also a must when you are playing jungle. It helps you out when clearing through the jungle and securing epic monsters to boost your team's stats.
+
+As a tank Maokai doesn't have the quickest of jungle clears compared to other champions. What Maokai does have, though, is a point-and-tap ability that he can use to look for early ganks to get an advantage for his team. Remember, when clearing through the jungle, you want to make sure you use his Saplings in brushes to help him deal more damage to the camps.
+
+This is what the jungle path would look like:1. Blue Sentinel2. Wolves3. Raptors4. Red Brambleback
+
+5. Krugs6. Scuttle/Look for Gank
+
+Below is a beginner's guide for jungle in Wild Rift. It goes in-depth about every jungle camp, epic monsters and more!
+
+In the late game, Maokai is one of the best champions at looking to start a teamfight with his long-range engage from his ultimate, Nature's Grasp. However, he cannot do this alone, so ensure that your team is there and ready to follow up on your engagement, or you'll be left alone to die.
+
+When a team fight occurs, look to focus on the high-value backline carries. Use Nature's Grasp, followed up by Twisted Advance, to extend the duration of the crowd control, and try to knock them back into your team with Bramble Smash.
+
+As a jungler, Maokai's main objective is to keep track of when Dragons, Rift Herald and Baron spawn. Taking these epic monsters will give you and your team a huge advantage throughout the game.
+
+Overall, Maokai is a very strong tank that is very easy to play. However, timing is crucial to doing well with Maokai. Knowing where to place saplings and knowing when to hit the go button will be the difference between winning and losing a game.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

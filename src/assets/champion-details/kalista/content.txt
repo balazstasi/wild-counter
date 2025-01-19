@@ -1,0 +1,111 @@
+Title: Kalista :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Kalista in League of Legends: Wild Rift. Our build guide will teach you how to play Kalista in the current meta.
+
+Headings:
+- Level 1 Kalista Stats
+- Kalista's Abilities
+- Kalista  Build Guide for Wild Rift
+- Kalista's Item Build
+- Kalista's Spells & Runes
+- Kalista's Situational Runes
+- Kalista's Skill Order
+- How to play Kalista
+- Kalista's Abilities
+- Martial Poise (Passive)
+- Pierce (1)
+- Sentinel (2)
+- Rend (3)
+- Fate's Call (Ultimate)
+- Kalista Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+When Kalista winds up her attacks, moving the left joystick will cause her to dash for a short distance in that direction after she throws her spear.
+
+When the game starts, she can choose an ally to become her Oathsworn. Kalista cannot change her Oathsworn.
+
+Once Kalista launches her attacks, they cannot be canceled. Her dash speed and distance scale with boot tier.
+
+Hurls a spear, dealing 60 / 125 / 190 / 255 (+105% AD) physical damage to the first target hit. If this kills the target, the spear continues onward, carrying the target's Rend stacks to the next enemy hit.
+
+After casting this ability, Kalista can dash using Martial Poise.
+
+Passive: When the distance between Kalista and her Oathsworn is less than 8, and both hit the same target within 4 seconds using attacks or Pierce, Kalista deals 14% / 15% / 16% / 17% of the target's max Health as bonus magic damage. This effect has a 10 second cooldown per target.
+
+Active: Sends a Soul Sentinel to patrol an area. Upon spotting an enemy champion, the Sentinel follows them for 4 seconds, revealing them for 4 seconds. Sentinels disappear after patrolling 3 laps.
+
+Charge: Kalista gains a charge every 45 / 40 / 35 / 30 seconds, storing up to 2 charges.
+
+This ability's passive deals at least 75 damage against minions and executes them if their Health is below 125.
+
+Passive: On hit, Kalista's spears linger in their target for 4 seconds, applying a stacking Rend.
+
+Active: Kalista rips the spears from nearby enemies, dealing 30 / 45 / 60 / 75 (+70% AD) physical damage plus 8 / 12 / 16 / 20 (+35% / 39% / 43% / 47% AD) physical damage per spear after the first. Slows enemies hit by 15% / 25% / 35% / 45% for 2 seconds.
+
+If this ability kills at least one target, it's cooldown is refreshed, and it refunds 12 / 18 / 24 / 30 Mana.
+
+Deals 50% damage to epic monsters.
+
+Kalista puts her Oathsworn into stasis and draws them to herself for up to 4 seconds.
+
+The Oathsworn can launch themselves in a direction, knocking nearby enemies airborne for 1 / 1.5 / 2 seconds upon hitting the first enemy champion. The Oathsworn then ricochets for a distance based on their max attack range.
+
+Kalista is a duo-lane marksman with a unique playstyle. Although it might seem she has the lowest auto-attack range of any marksman, she can dash in any direction when auto-attacking thanks to her passive, Martial Poise. The more attack speed she has, the more she can dash, making it very difficult to lock her down. When mastered, this can make a huge difference in her ability to kite during teamfights.
+
+When Kalista winds up her attacks, moving the left joystick causes her to dash for a short distance in that direction after her auto attack finishes. This can be used to jump over small terrain, making it difficult for the enemy to lock her down.
+
+Also, at the start of the game, Kalista can choose an ally to become her Oathsworn. The icon for this is just above the summoners' spells. Once Kalista chooses an ally, this cannot be changed. Most of the time, you want to Oathsworn your support, as this helps her deal more damage and win fights throughout the game.
+
+Kalista hurls a spear, dealing physical damage to the first target hit. If the spear kills the target, it continues onward, carrying the target's Rend stacks to the next enemy hit. This can be used to Kalista's advantage.
+
+When stacking Rend on minions, wait until it is low enough, then use Pierce to kill the minion and carry the Rend stacks to a champion so you can deal damage. After casting Pierce, Kalista can dash using her passive Martial Poise.
+
+Passive: When Kalista and her Oathsworn (which you chose at the start of the game) are close by, and both hit the same target within a few seconds, Kalista can deal bonus magic damage to that target. This is why picking an Oathsworn that you will be nearby for most of the game is essential.
+
+Active: Kalista will send a Soul Sentinel to patrol an area. This can be used for vision when walking around the rift to protect yourself from surprises. Upon spotting an enemy champion, the Sentinel will follow the target, revealing them for a few seconds.
+
+Passive: When Kalista auto-attacks a target, a spear lingers in the target for a few seconds, applying a stack of Rend. Kalista can then activate Rend to rip the spears out of nearby enemies, dealing physical damage and slowing enemies hit for a few seconds. If Rend kills at least one target, its cooldown is refreshed, and mana is refunded.
+
+Rend can be used during the laning phase to make last-hitting minions easier. Kalista can also auto-attack multiple targets at the same time and rip the spears out. This is super beneficial when looking to last-hit minions and deal free damage to champions.
+
+Kalista puts her Oathsworn into stasis and draws them to herself for a few seconds. The Oathsworn can then launch themselves in a direction, knocking nearby enemies airborne.
+
+Fate's Call is super effective when you reach Level 5 and have engage supports like Thresh, Alistar, or Nautilus. Fate's Call can put these champions in melee range so they can easily hit skillshots. Fate's Call can also be used to save the champion you have Oathsworn so keep an eye on that.
+
+Kalista does well when building attack damage and attack speed so she can dash more often with her passive Martial Poise. Blade of the Ruined King is a core item for Kalista. This item gives Kalista the Attack Damage and Attack Speed she needs to be able to carry. Also, the passive allows Kalista to steal enemy champions' movement speed so she can easily kite around them. Runaan's Hurricane is another excellent item for Kalista. The extra bolts from Runaan's passive works great with Rend. With Runaan's, Kalista can simultaneously put a spear into three targets, making it great for wave clearing and teamfights.
+
+Onto the runes, we have:
+
+With Kalista, she wants a lot of attack speed to dash as much as possible during the game. With all the attack speed from the items and Lethal Tempo, Kalista can dodge multiple skillshots and become impossible to lock down.
+
+As a Marksman, Kalista wants as much auto-attack damage as possible, and with Brutal, she'll get more on-hit damage with her auto attacks throughout the game.
+
+Kalista can deal bonus damage when enemy champions are low on health. This will help Kalista kill enemies faster. Giant Slayer is another good option when playing against Bruisers and Tanks that builds a lot of health.
+
+Like Lethal Tempo, Kalista wants a lot of attack speed, which will help her survivability. Legend: Tenacity is another excellent option when playing against champions with a lot of Crowd Control.
+
+As a marksman, Kalista will always be the main focus for the enemy team to try and take down. However, Bone Plating will help Kalista take reduced damage from the first three instances of damage, which can save her life.
+
+For Summoner Spells, Flash is a must on Kalista. It's a great spell to get you out of bad situations or allow you to flash in to get the killing blow. The other Summoner Spell is Exhaust. Since Kalista has a low attack range, she'll be able to use exhaust to help her survive and win duels.
+
+Kalista has a solid early game. With her Rend being able to stack on both minions and champions, Kalista can use this to her advantage to deal free damage to enemy champions. Once you reach Level 5, Kalista can use her ultimate on her support to engage onto the enemy champions. Most of the time, this will be the advantage you need to win the two vs two bot lane battles.
+
+Kalista scales incredibly well into the late game. With the items and runes, she'll get a lot of damage and attack speed to dash around like crazy in teamfights. It's always best to stay grouped with your team as a Marksman since you are vulnerable on your own. You want to stay as far from the enemies as possible and allow your front line to go in before you. Most of the time, you are the main damage output, so if you are caught by yourself and die, your team will be in trouble.
+
+Kalisa is a unique champion that will take some time to get used to. Her dashes from her passive are the difference between winning and losing a game. One dash in the wrong direction, and the game is over. One dash to dodge a huge skillshot can win the game.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

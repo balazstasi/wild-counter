@@ -1,0 +1,82 @@
+Title: Singed :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Singed in League of Legends: Wild Rift. Our build guide will teach you how to play Singed in the current meta.
+
+Headings:
+- Level 1 Singed Stats
+- Singed's Abilities
+- Singed  Build Guide for Wild Rift
+- Singed's Item Build
+- Singed's Spells & Runes
+- Singed's Situational Items
+- Singed's Situational Runes
+- Singed's Skill Order
+- Singed's Item Build
+- Singed's Spells & Runes
+- Singed's Situational Items
+- Singed's Skill Order
+- How to play Singed
+- Singed Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Draft off of nearby champions, gaining 20% bonus Movement Speed for 2 seconds.
+
+Each champion has a 10 second cooldown.
+
+Tosses an adhesive that sticks to the ground for 3 seconds at the target area. The adhesive explodes on landing, dealing 50 / 70 / 90 / 100 (+25% AP) magic damage and slowing by 35% / 40% / 45% / 50%. Enemies in the area are also grounded and cannot use movement abilities.
+
+If the target is flung into the adhesive, they are also rooted.
+
+Raises his shield and dashes toward the target, knocking aside enemies in his way. If he hits the target, he flings them behind him, dealing magic damage equal to 60 / 80 / 100 / 120 (+50% AP) plus 5% / 6% / 7% / 8% of the target's max Health.
+
+If the target is flung into Mega Adhesive, they are also rooted for 1.25 / 1.5 / 1.75 / 2 seconds.
+
+Deals a maximum of 500 damage against non-champions.
+
+Drinks a potent brew of chemicals, gaining buffs and granting 30% of the buffs to the nearest allied champion for 20 seconds.
+
+- Increases AP, Magic Resist, Armor  and Movement Speed by 30 / 55 / 80.
+
+- Grants 15 / 20 / 25 Health Regen and Mana Regen.
+
+Magic damage dealt while the potion is active applies 40% Grievous Wounds for 1 second.
+
+Signed is a top lane tank champion. As long as Singed can survive the early game and farm up to get his core items, he can run, deal a lot of damage and be a huge tank for the team. When he groups up later on in team fights, this is where Singed really can carry the game and be a big front-line tank that every team needs, whilst also flipping the enemy carries into your team with Fling. When playing Singed, make sure you turn off Poison Trail as this is a toggle ability and if you keep it on constantly, you will lose a lot of mana.
+
+Singed is known as a solo front-line tank that can survive a lot of damage while dealing a high amounts of magic damage when being chased, as that reflected in his build. Liandry's Torment is an excellent item since the passive works with Singed's poison, burning enemies and doing a lot of damage. Rabadon's Deathcap is another great item that increases Singed's overall Ability Power giving him a surprising amount of burst damage with his Fling and Poison Trail.
+
+For runes we have:
+
+Singed's damage over time from his poison works as damage towards phase rush making Singed much faster and difficult to lock down.
+
+Nullifying Orb is the best option here for this row, as the other two don't have much benefit.
+
+Second Wind helps Singed during the laning phase; when he takes a lot of damage, he can go back to the tower and health back a lot of health whilst forging items.
+
+Overgrowth allows Singed to gain permanent health throughout the game when nearby minions or monsters are killed. So the more Singed farms, pushes the lane and kills minions, the more Maximum Health he will get.
+
+Hexflash helps Singed get into range of enemy champions to be able to flip them into your team to get an advantage.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get you out of a bad situation or to Flash and save your ally and even get a kill. For the 2nd spell, you want to take Ghost. Ghost will help give Signed more movement speed to close the gap and try and Fling the enemy into your team.
+
+Singed doesn't do the best in the early game as a tank. It's best to stay back and farm up. When you get close to the enemy and start to fight, you want to make sure to use Poison Trail to get that little bit of poison damage. This will help a lot when fighting early on. Another thing to note is that if you are in trouble you can use Fling to throw the enemy away from you. You can also use Mega Adhesive to ground the enemy which means that they cannot use any mobility spells or flash. This helps when going in for a fight or when trying to run away.
+
+The later the game goes, the bigger and stronger Singed will get. You are so tanky and unkillable at this point of the game that you can walk up and take all the damage whilst using your abilities to deal damage and slow down the enemies so your team can follow up and kill them. You want to stay with your team at all times and try not to get caught out by yourself. When in a team fight, your main goal is to get on top of the enemy backline. Try to focus on them and run them down and flip them towards your team. Keep in mind that you don't do well at all in a 1 vs 1 situation.
+
+Singed is a great tank to play in the top lane. Not only does it take you a long time to die but you can run around the enemy team and deal a lot of damage with your poison.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

@@ -1,0 +1,100 @@
+Title: Vladimir :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Vladimir in League of Legends: Wild Rift. Our build guide will teach you how to play Vladimir in the current meta.
+
+Headings:
+- Level 1 Vladimir Stats
+- Vladimir's Abilities
+- Vladimir  Build Guide for Wild Rift
+- Vladimir's Item Build
+- Vladimir's Spells & Runes
+- Vladimir's Skill Order
+- Vladimir's Item Build
+- Vladimir's Spells & Runes
+- Vladimir's Situational Runes
+- Vladimir's Skill Order
+- How to play Vladimir
+- Vladimir's Abilities
+- Crimson Pact (Passive)
+- Transfusion (1)
+- Sanguine Pool (2)
+- Tides of Blood (3)
+- Hemoplague (Ultimate)
+- Vladimir Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Drains life from enemies, dealing 70 / 100 / 130 / 160 (+60% AP) magic damage and restoring 15 / 20 / 25 / 30 (+35% AP) Health. When this ability's cooldown ends, generates a stack of Bloodthirst.
+
+At 2 stacks, gain 10% bonus Movement Speed for 0.5 seconds and enters Crimson Rush for 2.5 seconds, gradually depleting all Bloodthirst stacks over this time.
+
+Crims Rush: While in this state, empowers the next cast of Transfusion to deal 75% bonus damage and heal himself for 30 - 170 + (5% +0.03% AP)  of missing Health.
+
+When cast, consumes all Bloodthirst stacks and ends Crimson Rush. The empowered version of this ability heals for 35% against minions.
+
+Charges for up to 1.5 seconds at the cost of 2 - 8% of his Health, dealing 20 / 40 / 60 / 80 (+35% AP +2.5% of max Health) magic damage to nearby enemies, increased by up to 100% after charging.
+
+Charging for 1 second or more consumes the max possible Health cost, but if he is below 12% of his Health, charging will not cost any Health. After charging for 1 second, he becomes slowed by 20% and also slows enemies hit by 40% / 45% / 50% / 55%.
+
+Infects an area with a toxic plague that infects enemies hit for 4 seconds, after with the plague explodes, dealing 150 / 250 / 350 (+70% AP) magic damage to infected targets.
+
+Also deals 10% of the damage taken by the targets during the infection period as bonus magic damage.
+
+After 0.4 seconds, the first infected enemy champion restores 150 / 250 / 350 (+70% AP) Health to Vladimir. Every subsequent champion provides 40% healing.
+
+Vladimir is an AP mage that can be played in either the Mid Lane or Baron Lane. He's very unique compared to other mages, as he doesn't use mana. Vladimir instead uses health when using Sanguine Pool and Tides of Blood. However, his sustain and healing is excellent thanks to his Transfusion. Vladimir is a champion that wants to focus on surviving and farming during the laning phase and scale into the late game, when he can be a one vs nine carry in team fights.
+
+Vladimir gains Ability Power when building Health and gains bonus Health when building Ability Power. So whether you want to build Vladimir with tank items or with a lot of Ability Power, he will always be able to fit both roles thanks to his passive.
+
+Vladimir drains life from enemies, dealing magic damage and restoring Health. When using Transfusion, he generates a stack of Bloodthirst. At two stacks, Vladimir gains movement speed, and the next cast of Transfusion deals bonus damage and heals himself a lot more.
+
+Bloodthirst will rapidly decrease at maximum stacks, so you don't have too long to use the empowered Transfusion. However, you can extend the duration using his other abilities or Zhonya's. This ability is vital for Vladimir to keep him healthy during team fights and the laning phase since his other abilities will cost health.
+
+Vladimir sinks into a blood pool, becoming untargetable for a few seconds. While the blood pool is active, Vladimir gains movement speed, and enemies within the blood pool take magic damage and are slowed.
+
+Whenever you get caught when playing Vladimir, this is his one-way ticket to escape, and when timed correctly, he can dodge important skill shots coming his way.
+
+Vladimir charges up, dealing magic damage to nearby enemies. The longer you charge, the more damage Vladimir can do with Tides of Blood; however, after charging for 1 second, Vladimir becomes slowed but also slows any enemies hit.
+
+One cool trick that Vladimir can do is whilst charging Tides of Blood, Vladimir can use Sanguine Pool so he can freely move around and get onto the enemy back line dealing a lot of damage. He can also Flash whilst charging Tides of Blood to surprise enemies.
+
+Vladimir infects an area with a toxic plague that infects enemies hit for a few seconds; after a few seconds, the plague explodes, dealing magic damage.
+
+After dealing damage to enemy champions, Vladimir can restore a lot of health based on how many champions he hits with Hemoplague. Being patient when using Vladimir's ultimate is essential since he wants to wait until everyone is grouped to do massive area damage.
+
+As an AP Mage, Vladimir does very well with items that give him Ability Power, so his abilities can deal a lot of damage. Infinity Orb is a powerful first item for Vladimir. This item gives him a lot of Ability Power and allows his abilities to Crit when enemies are low on health, helping him kill enemy champions quicker. Riftmaker is another core item for Vladimir; when he stays in combat for a while, he can deal true damage, which will ignore all enemy's Magic Resistance, allowing him to deal more damage.
+
+With runes, we have the following:
+
+Vladimir can easily hit a champion with his three basic abilities, giving him a massive burst of movement speed and reducing the cooldown of them abilities. This means Vladimir can use his basic abilities many times, dealing massive damage.
+
+Sweet Tooth helps Vladimir gain more health from Honey Fruit. This will help Vladimir stay in lane longer and trade more aggressively.
+
+Ability Power mages like Vladimir love to build as much Ability Haste as possible so he can use his abilities more often.
+
+Nimbus Cloak is very effective on Vladimir; when he uses Flash or Ghost he gains a lot of Movement Speed making him very difficult to kill whilst waiting for his abilities to come off cooldown.
+
+One of the best secondary runes to take that will help Vladimir at all stages of the game. Whether you want to take early-game trades or look for a huge team fight, taking reduced damage will always help Vladimir.
+
+For summoner spells, Flash is a must on Vladimir. It's an excellent spell for getting out of tricky situations or when you are looking to try to Flash forward and kill enemy champions. Vladimir can combo Flash with his Tides of Blood to surprise his enemies. Ghost is also an excellent spell for Vladimir since he wants to get into range to use all of his abilities, so the movement speed you get from Ghost will help him with that.
+
+In the early game, Vladimir wants to play passively and just farm until he gets 2 or 3 items. The most important thing you want to keep your eye on is his health. When low on health, don't use his Sanguine Pool or Tides of Blood as this will put you in huge danger and could potentially cause death. Whenever Transfusion is off cooldown, use this ability as much as possible, whether on minions or champions, to heal yourself back up.
+
+Vladimir is one of the best and most difficult champions to deal with when it comes to teamfights. He deals so much damage and has a lot of healing with his abilities and items. Being able to become untargetable and dodge skill shots makes it easier for Vladimir to access back-line carries. When joining a teamfight, use Vladimir's combos to deal a lot of damage and carry the team.
+
+Overall, Vladimir is an insane late-damage team fight focused champion who can easily 1 v 9 carry games. As long as you play passively in the early game and farm up until 2 or 3 items, you will be in for a fun ride.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

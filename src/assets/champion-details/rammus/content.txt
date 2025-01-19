@@ -1,0 +1,110 @@
+Title: Rammus :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Rammus in League of Legends: Wild Rift. Our build guide will teach you how to play Rammus in the current meta.
+
+Headings:
+- Level 1 Rammus Stats
+- Rammus's Abilities
+- Rammus  Build Guide for Wild Rift
+- Rammus' Item Build
+- Rammus' Spells & Runes
+- Rammus' Situational Items
+- Rammus' Situational Runes
+- Rammus' Skill Order
+- How to play Rammus
+- Rammus's Abilities
+- Rolling Armordillo (Passive)
+- Powerball (1)
+- Defensive Ball Curl (2)
+- Frenzying Taunt (3)
+- Soaring Slam (Ultimate)
+- Rammus Build Breakdown
+- Jungle Path
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+While out of combat gain, 32 Movement Speed, increased to 60 + Level x 1 during Powerball.
+
+Exit combat after not taking damage or using abilities for 5 seconds.
+
+Accelerates up to 115% + level x 5% bonus Movement Speed over 6 seconds. Colliding with an enemy deals 80 / 110 / 140 / 170 (+100% AP) magic damage in an area, knocking back and slowing enemies by 40% / 50% / 60% / 70% for 1 second.
+
+Activating cancels Defensive Ball Curl and puts it on cooldown.
+
+Spiked Shell: Attacks deal 10 / 12 / 14 / 16 (+10% Armor) bonus magic damage.
+
+Active: Brace for up to 6 seconds, gaining 30 (+55% / 60% / 65% / 70% Armor) Armor and 10 (+35% / 40% / 45% / 50% MR) Magic Resist. While curled Spiked Shell deals 50% more damage and also applies to enemies that attack Rammus.
+
+Deals 175% damage to monsters.
+
+Activating cancels Powerball and puts it on cooldown.
+
+Hop into the air and slam down, dealing  75 / 150 / 225 (+50% / 60% / 70% AP) magic damage and creating aftershocks for 4 seconds.
+
+Aftershocks deal 30 (+20% AP) magic damage every second and slow enemies incrementally by 10%, stacking up to 50%.
+
+If used during Powerball, Powerball's effects are applied at the center of the landing zone.
+
+Soaring Slam's range increases with Movement Speed.
+
+Soaring Slam damages structures.
+
+Rammus is a tank jungler. He is not the best champion before level 5, and needs a few items before he becomes useful. In the early game, Rammus wants to farm early and get level 5 so he can gank lanes easier with his Ultimate, Soaring Slam. When using your Ultimate, you can combo it with Frenzying Taunt to taunt the enemy. This enables your teammates to follow up and get an easy kill. One important thing to note with Rammus is that he is very, very fast. When out of combat, he gains movement speed and he can use Powerball to get around the map very quickly, so you can turn up and surprise the enemy in fights.
+
+While Rammus is out of combat he gains movement speed. This paired with Powerball makes Rammus one of Wild Rift's fastest and best roamers. This passive works great with the Pathfinder rune as they stack.
+
+When activating Powerball, Rammus accelerates and gains a lot of bonus movement speed over a few seconds. You get even more movement speed if out of combat thanks to your passive, Rolling Armordillo. Colliding with an enemy deals magic damage in an area, knocking back and slowing for a second.
+
+Powerball is Rammus' primary engagement tool. You can easily gank when using Powerball because you become so fast and hard to deal with. When rolling around with Powerball, be careful not to hit any minions or monsters as the effect will stop. You can use your Flash if the enemies are trying to hide behind minions to get past them.
+
+This ability has 2 parts. A passive where Rammus attacks deal bonus magic damage. The active braces Rammus for a few seconds, slowing him but also granting bonus armor and magic resist. While you have this active, your bonus magic damage is increased and also applies to enemies that attack Rammus.
+
+Defensive Ball Curl is normally used in combination with Frenzying Taunt which forces an enemy to attack Rammus. You can cancel Defensive Ball Curl if you want to get the movement speed back or get more movement speed by hitting the button again or by using Powerball.
+
+Rammus taunts an enemy champion or monster and gains attack speed for a few seconds. This ability in combination with Defensive Ball Curl is a deadly combo and helps you out a lot when trying to kill the enemy champions. Make sure when you're near monsters or a bunch of champions are together, that you drag the ability to make sure you taunt the correct target.
+
+Instead of attacking after Frenzying Taunt, you can walk away after taunting so the enemy follows you towards your team. This can help if you have teammates or a tower nearby.
+
+Rammus hops in the air and slams down, dealing magic damage and creating aftershocks in an area for a few seconds. Aftershocks deal magic damage every second and slow enemies. Soaring Slam's casting range increases with movement speed, so Powerball greatly increases your ultimate's cast range.
+
+Rammus is known as a big team fight tank that can change a fight in an instance with his ultimate and taunts, and this reflects on the build as well. When building Rammus, you want to build a lot of armour and magic resistance to stay alive when diving into team fights, and also, to increase the armour and magic resist you get from Defensive Ball Curl.
+
+Searing Crown is an excellent first item for Rammus that surprisingly gives him a huge damage boost with his abilities and auto attacks and has all the tank stats he needs. Thornmail is the perfect item for Rammus! It gives him health and armour to survive, and also since Rammus has a lot of crowd control that immobilizes the enemy champions, you will apply Grievous Wounds to stop their healing.
+
+For runes, we have the following:
+
+Rammus' Powerball, Frenzying Taunt and Soaring Slam can immobilize enemies. This means he will get the extra resistance to stay alive longer and allow him to remain near the enemies to deal damage.
+
+Same as Aftershock, Rammus can immobilize enemies easily, giving Rammus a shield to make him even more difficult to kill
+
+Since Rammus loves to engage and is generally at the front during team fights, he will take a lot of damage. Bone Plating will help Rammus take reduced damage from the first three instances of damage.
+
+Overgrowth allows Rammus to gain permanent health throughout the game when nearby minions or monsters are killed. So the more Rammus farms in the jungle, the more Maximum Health he will get.
+
+Pathfinder is a very unique rune for Rammus. Since Rammus wants to roll and roam a lot to find ganks the extra movement speed will help him get around the map quicker.
+
+For summoner spells, Flash is a must on most champions. Works really well with Rammus because if you see the whole team grouped, you can use your Flash with your Soaring Slam to get a huge team fight ultimate, and following that up with your taunts, you can tank a ton of damage. Smite is a must for when you are playing jungle. Helps you out a lot when clearing the jungle and securing the epic monsters.
+
+Rammus is OK vs other junglers early on with help from Defensive Ball Curl. Rammus' early clear speed is not the fastest either, so the best thing to do is a quick 3 camp clear and try and get some early pressure by going into the river and getting the scuttle crabs, while looking for some early ganks with your fast movement speed. It's important to start with Red Brambleback. You will not lose a lot of health thanks to your defensive stance from Defensive Ball Curl, and you won't have a lot of mana struggles.
+
+This is what the jungle patch would look like:
+
+Below is a beginner's guide for jungle in Wild Rift. It goes in-depth about every jungle camp, epic monsters and more!
+
+Rammus is a big beefy tank in the late game and is great in team fights! Rammus wants to stay with his team at all times as he has great abilities to help the team. As a jungler, your main objective is to keep track of when Dragons, Rift Herald, and Baron spawn. Taking these epic monsters will give you and your team an advantage in the game. When a team fight happens, Rammus is great at being in the front line protecting his team. He's a tank that has a lot of crowd control and as mentioned before, has a great Ultimate (Soaring Slam) and his taunts that can change a team fight.
+
+Overall Rammus is a fun and speedy champion that has easy to learn abilities if you're looking for a big tank junglers. He doesn't have the biggest carry potential but can help the team out a lot because of his tankiness and crowd control abilities.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

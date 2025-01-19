@@ -1,0 +1,116 @@
+Title: Diana :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Diana in League of Legends: Wild Rift. Our build guide will teach you how to play Diana in the current meta.
+
+Headings:
+- Level 1 Diana Stats
+- Diana's Abilities
+- Diana  Build Guide for Wild Rift
+- Diana's Item Build
+- Diana's Spells & Runes
+- Diana's Situational Items
+- Diana's Situational Runes
+- Diana's Skill Order
+- Diana's Item Build
+- Diana's Spells & Runes
+- Diana's Situational Runes
+- Diana's Skill Order
+- How to play Diana
+- Diana's Abilities
+- Moonsilver Blade (Passive)
+- Crescent Strike (1)
+- Pale Cascade (2)
+- Lunar Rush (3)
+- Moonfall (Ultimate)
+- Diana Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Casting an ability will gain bonus basic attack speed in 4 seconds.
+
+Every third attack deals 30 (+50% AP) magic damage in an area.
+
+Deals 50% damage to structures, and 75% damage to monsters.
+
+Creates 3 spheres that orbit Diana for 5 seconds. Upon contact with enemies the spheres detonate, dealing 20 / 35 / 50 / 65 (+20% AP) magic damage.
+
+Also grants a shield that absorbs 50 / 70 / 90 / 110 (+40% AP) damage. If the third sphere detonates, the shield is increased by 50 / 70 / 90 / 110 (+40% AP).
+
+Dashes to a point near an enemy, dealing 40 / 75 / 110 / 145 (+25% AP) magic damage and removing Moonlight in an area.
+
+Lunar Rush's Cooldown is reduced to 0.5 seconds if it removes Moonlight from an enemy.
+
+Summons the moon for up to 1 second, triggering Moonfall Glow when the charge is complete. Diana can move and cast abilities and spells while charging up. Click again to stop charging and trigger Moonfall Glow.
+
+Moonfall Glow: Deal 100 / 160 / 220 (+40% AP) to 200 / 320 / 440 (+80% AP) magic damage based on charge time and slowing targets by 20% for 2 seconds.
+
+Diana is an Assassin who can play in the Mid Lane or Jungle. She's the perfect Assassin, being able to initiate teamfights with her Moonfall, has a built-in gap closer with her Lunar Rush and has incredible one-shot potential. However, with all of this in mind, she is a very all-in champion who doesn't have a lot of ways to escape, leaving her vulnerable when you make the wrong decision and engage at the wrong time.
+
+Make sure to check the alternative build at the top of the page for playing Diana in the jungle.
+
+After casting an ability, Diana gains Attack Speed for a few seconds. Every third attack also deals additional Magic Damage to nearby enemies.
+
+When playing Diana Jungle, it's best not to spam all her abilities at once. Instead, only use an ability when her passive is about to expire. This means you'll constantly be playing with increased attack speed as you clear the jungle camps. When going in for fights, try to attack minions/monsters twice so you can get the bonus magic damage as soon as you initiate.
+
+Diana unleashes an arcing bolt of energy that deals magic damage and applies Moonlight for a few seconds.
+
+Enemies hit by Crescent Strike are revealed for a few seconds, allowing Diana to jump on them with Lunar Rush. Moonlight is an important effect that allows Diana to jump to the target hit with Lunar Rush for free, resetting the cooldown so Diana can dash again straight after.
+
+Creates 3 spheres that orbit Diana for a few seconds. Upon contact with enemies, the spheres detonate, dealing magic damage. Pale Cascade also grants a shield that absorbs damage. If the third sphere detonates, the shield is increased.
+
+The most efficient way to proc all 3 orbs is to use Pale Cascade right after you dash with Lunar Rush. This ensures Diana is in melee range when the orbs rotate around her. The shield also helps with Diana's survivability.
+
+Diana dashes to a point near an enemy, dealing magic damage and removing Moonlight in an area. Lunar Rush's cooldown is reduced if it removes Moonlight from an enemy.
+
+Lunar Rush with Crescent Strike is the core of playing Diana. You want to act like Lunar Rush's cooldown is the same as Crescent Strike, so you can reset the cooldown with Moonlight. This will help with Diana's burst damage or allow her to dash away to safety.
+
+Diana summons the moon, illuminating an area that expands. Enemies in this area are slowed. During this time, Diana charges, triggering Moonfall Glow when the charge is complete. Diana can move and cast abilities and spells whilst charging up.
+
+Moonfall Glow: After a second, Diana slams the moon down, dealing magic damage based on charge time and slowing targets for a few seconds. Diana cannot cast this ability if there are no enemy champions nearby.
+
+Since Diana can move and cast abilities and spells, if the enemy tries to escape with Flash, she can follow them by using Lunar Rush or Flash. This almost guarantees you'll always land Moonfall to do a crazy amount of damage.
+
+Infinity Orb helps with Diana's burst damage, allowing her to Critically Strike enemies for bonus damage when they're low on Health.
+
+Rabadon's Deathcap increases Diana's overall Ability Power, increasing her burst potential from her abilities and items.
+
+Lich Bane synergizes well with Diana's Kit. When you dash in with Lunar Rush, you can auto-attack whilst channelling her ultimate, increasing her burst damage.
+
+For runes we have the following:
+
+Electrocute gives Diana a burst of extra damage. You only need one more ability or auto attack after her Crescent Strike + Lunar Rush combo to proc Electrocute, which makes it super reliable.
+
+Nullifying Orb helps Diana's survivability when she drops low on Health jumping in with Lunar Rush. It can save you and bait the enemy into thinking you are already dead.
+
+Since Diana is a melee champion and she will be dashing into the backline a lot, she will be vulnerable to taking a lot of damage. Bone Plating will help Diana by helping her take reduced damage from the first three instances of damage.
+
+Second Wind is a great choice when playing against poke damage.
+
+Overgrowth gives Diana permanent Health throughout the game when farming minions or monsters, giving her a bit more tankiness to help when she dashes into fights.
+
+Perseverance is another excellent choice against Crowd Control.
+
+With Diana, she will always be using her Lunar Rush to jump into the enemy's back line. When she uses Lunar Rush, she gains Magic Penetration to deal more damage with her other abilities.
+
+Flash is essential for Diana since she has no escape mechanic, which is a big downfall. Diana can also use flash to surprise enemies when channelling her Moonfall to guarantee it will hit an enemy.Ignite gives Diana extra damage when she dashes into fights and can also reduce the healing from enemies.
+
+In the early game, Diana can struggle a lot. She is a melee champion who only has Flash as her escape mechanic. This makes it very easy for enemies to gank her. With this in mind, you usually want to stay back and use her Crescent Strike to last hit minions or poke down the enemy. Once you hit Level 3, if you land a Crescent Strike on the enemy, you can dash onto enemies with Lunar Rush and use Pale Cascade to gain the shield and win the trade. Because you hit Crescent Strike before using Lunar Rush, the cooldown will be reset, meaning after you dash in, you can dash to enemy minions to escape. However, you always need to be wary of where the enemy jungler is. One bad dash forward could be the death of you.
+
+In the Late Game, Diana becomes one of the best and scariest Assassins. She can one-shot any squishy champions on the enemy team, which, most of the time, will be the enemy Marksman. Always look to be in places where enemies don't have vision (e.g. bushes) to have the best opportunity to burst enemies unaware of your presence. In teamfights, you want to use Diana's mobility to your advantage by dashing onto the enemy backline and using Moonfall to start a teamfight. Moonfall does huge AOE damage and can make a huge difference, especially since you'll be building full damage.
+
+Diana is one of the best Assassins to play in Wild Rift. Her burst potential allows you to win fights and solo carry the game. She does have a few downsides with her lack of escape mechanics. However, you'll always come out on top if you can kill the enemy before they kill you.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

@@ -1,0 +1,99 @@
+Title: Veigar :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Veigar in League of Legends: Wild Rift. Our build guide will teach you how to play Veigar in the current meta.
+
+Headings:
+- Level 1 Veigar Stats
+- Veigar's Abilities
+- Veigar  Build Guide for Wild Rift
+- Veigar's Item Build
+- Veigar's Spells & Runes
+- Veigar's Situational Runes
+- Veigar's Skill Order
+- How to play Veigar
+- Veigar's Abilities
+- Phenomenal Evil Power (Passive)
+- Baleful Strike (1)
+- Dark Matter (2)
+- Event Horizon (3)
+- Primordial Burst (Ultimate)
+- Veigar Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Striking an enemy champion with an ability grants Veigar a stack of Phenomenal Evil. Takedowns grant an additional 5 stacks. Phenomenal Evil gives Veigar 1 ability power per stack.
+
+Veigar summons dark matter from the sky, dealing100 / 160 / 220 / 280 (+95% AP) magic damage.
+
+Every 50 stacks of Phenomenal Evil reduce this ability's cooldown by 10%.
+
+Veigar creates a cage that stuns enemies that pass through for 1.75 / 2 / 2.25 / 2.5 seconds. The cage lasts for 3 seconds.
+
+Veigar's Dark Matter auto casts will prioritize targets stunned by Event Horizon.
+
+Veigar blasts an Enemy Champion with primal magic to deal 185 / 250 / 315 (+75% AP) magic damage to them, increased by 0% - 100% based on the target's missing health.
+
+Deals max damage to enemies below 35% health.
+
+Veigar is an AP mage. He is a mid-lane champion that uses his abilities to crowd control, wave clear, and burst the enemies. Veigar is a scaling champion due to his passive, Phenomenal Evil Power. The more stacks you get, the stronger you become! When playing Veigar, it's best to play safely in the early game and try and get as many stacks as you can. Once you get to level 5 you can try and hit the Veigar combo!
+
+Veigar can also be played in the Duo lane, make sure to check the alternative build at the top of the page! When playing Veigar in the Duo Lane the build is the same as mid lane, there is not really much else that is different in terms of playstyles, build etc. The only thing to keep in mind is matchups.
+
+Veigar's passive allows him to stack AP. He gains stacks when he hits an enemy champion, kills minions or monsters with a spell or when he gets champion takedowns (kill or assist).
+
+In the early game, it's always important to try and last hit minions with his spells so he can get more stacks, and where possible try and walk up and hit an enemy champion with abilities.
+
+Veigar unleashes a bolt of dark energy, dealing magic damage to the first two enemies hit. This ability can be very tricky at first, but it's all about lining up the minions or champions to try and hit 2 with one spell.
+
+When lining up the ability, you want to make sure you can kill 2 minions at once or try and kill a minion and then hit the enemy champion behind. This helps a lot when stacking up your passive so you can get stronger as the game goes on.
+
+Veigar summons dark matter from the sky, dealing magic damage. This ability can be really hard to hit, when you use the ability there will be a delay before it strikes the ground and hits the enemy.
+
+Most of the time you only want to use this ability to push the waves or combo it with Event Horizon (3rd Ability) so you guarantee that you can land it on enemy champions.
+
+Every 50 stacks of Phenomenal Evil Power (Passive) reduces this ability's cooldown by 10% so make sure you get as many stacks as you can!
+
+Veigar creates a cage that stuns enemies that pass through for just over a second. The cage lasts for a few seconds. As Veigar's only crowd control ability, Event Horizon can be hard to hit because it has a wide area but it only stuns enemies at the edges.
+
+Event Horizon can also be used as a zoning tool. You can use this ability at choke points to trap enemies or force them to run around the long way. Not only does this help during team fights, but also when you are settings up objectives.
+
+Veigar blasts an enemy champion to deal magic game to them, increased by 0% - 100% based on the target's missing health. With this ability, it's important to leave it until last.
+
+Deal damage with your other abilities first to get the enemies low so you can deal more damage with Primordial Burst. Primordial Burst deals max damage to enemies below 35% health.
+
+Veigar does great with most ability power items. His main source of damage is from all his abilities. It's important to get Luden's Echo first for the extra mana, ability haste, and ability power. Luden's Echo also works well when clearing minion waves thanks to its passive. After building Luden's Echo, Veigar can build more ability power to make his abilities stronger as he is stacking his passive.
+
+With runes, we have the following:
+
+A great way to get extra damage with Veigar's combo. If you can land the stun from Event Horizon, you can use your other abilities to proc Electrocute easily.
+
+Gathering Storm is the best rune in this tree. This will give Veigar a lot of additional ability power in the mid/late game to help with his burst damage.
+
+Veigar has one of the highest burst combos in the game. However, he sometimes struggles against tanks, so Giant Slayer is here to help with dealing more damage to tanks.
+
+Due to Veigar's lack of mobility, he sometimes gets caught off guard. With the Magical Vamp from Bloodline, this can be useful to help him heal back up.
+
+Ability Power mages like Veigar love to build as much Ability Haste as possible so he can use his abilities more often. This is especially good on Veigar since he can use Event Horizon more often to control a team fight and catch enemies off guard.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a sticky situation or if you're trying to go in for the killing blow! The go-to 2nd spell is Barrier. The most important thing to note with this summoner spell is that it does not last a long time so you need to make sure you use it when you are about to take damage.
+
+In the early game, Veigar does well at clearing the waves with Baleful Strike and Dark Matter. When clearing waves, make sure you last hit minions with his abilities so you can get more passive stacks. In the laning phase, Veigar wants to hit Event Horizon on the enemy champion, if he does hit the stun, you can combo that with Baleful Strike, auto-attacks and Dark Matter to get a lot of damage and proc Electrocute.
+
+If you can reach the late game with Veigar and have a lot of passive stacks, this is where you can stand one-shotting anyone on the enemy team. When Veigar is grouped with his team and about to go into a team fight, it's best to stay at the back where he can use his abilities to crowd control, zone and deal damage to the enemy team. Veigar is not good when roaming around the map by himself as he has no mobility and no way to escape when he is caught by himself.
+
+Overall Veigar is a great starter champion for anyone that has just started playing Wild Rift. He is really fun to play and has the potential to carry any game with his high damage output.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

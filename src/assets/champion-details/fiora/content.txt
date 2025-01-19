@@ -1,0 +1,113 @@
+Title: Fiora :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Fiora in League of Legends: Wild Rift. Our build guide will teach you how to play Fiora in the current meta.
+
+Headings:
+- Level 1 Fiora Stats
+- Fiora's Abilities
+- Fiora  Build Guide for Wild Rift
+- Fiora's Item Build
+- Fiora's Spells & Runes
+- Fiora's Situational Items
+- Fiora's Situational Runes
+- Fiora's Skill Order
+- Fiora's Item Build
+- Fiora's Spells & Runes
+- Fiora's Situational Items
+- Fiora's Situational Runes
+- Fiora's Skill Order
+- How to play Fiora
+- Fiora's Abilities
+- Duelist's Dance (Passive)
+- Lunge (1)
+- Riposte (2)
+- Bladework (3)
+- Grand Challenge (Ultimate)
+- Fiora Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Revelas Vitals on nearby enemy champions. Striking a Vital deals 4% (+0.06% AD) of the target's max Health as true damage, heals Fiora for 45, and grants her 30% Movement Speed (based on Grand Challenge's rank), decaying over 1.75 seconds.
+
+New Vitals are revealed after striking one, or after 16.75 seconds.
+
+Lunges and stabs a nearby enemy, dealing 85 / 95 / 100 / 115 (+110% / 115% / 120% / 125% AD) physical damage in an area. Hitting an enemy refunds 50% of the cooldown.
+
+Lunge prioritizes Vitals and enemies it will kill. Applies on-hit effects to the primary target.
+
+Parries all incoming damage and debuffs for the next 0.75 econds. Then stabs in the target direction, dealing 120 / 170 / 220 / 270 (+100% AP) magic damage to the first enemy champion, slowing their Movement Speed and Attack Speed by 50% for 1.5 seconds.
+
+Riposte stuns instead of slows if it parries an immobilizing effect.
+
+Reveals all 4 Vitals on an enemy champion for 8 seconds and grants Duelist's Dance's Movement Speed while near them.
+
+Striking all 4 Vitals in 8 seconds -or if the target dies after at least one hit- heals Fiora and nearby allies for 80 / 110 / 140 (+60% bonus AD) each second. The heal persists for 2 to 5 seconds scaling with the number of Vitals hit.
+
+Striking all 4 Vitals deals 14% max health true damage.
+
+Fiora is a Baron Lane Bruiser. She's one of the best Baron Lane playmakers if used properly. Fiora is a very versatile champion because of her kit and has a lot of potential to outplay her opponent. She's a reasonably tricky champion to master as you need to use her Riposte, at the correct times whilst also considering vital positioning from Fiora's passive. Fiora is a strong champion at all stages of the game. In the early game, she can take advantage of her passive, Duelist's Dance , to proc vitals and deal a lot of damage. She is one of the best split push champions in the late game and can take towers very fast. However, she can join team fights and be a real nuisance for the enemy team.
+
+Fiora can also be played in the jungle; check the alternative build at the top of the page! As Fiora in the jungle, the build and playstyle are very similar. You do not want to build Hullbreaker, as you need to focus more on objectives than split pushing as the jungler. Also, you want to go Fleet Footwork instead of Grasp of the Undying since Grasp doesn't work on jungle camps and is hard to stack when playing jungle.
+
+Fiora reveals Vitals on nearby enemy champions. These Vitals are weak points and can be struck by Fiora auto-attacking or hitting Lunge or Riposte.
+
+Striking a Vital deals a percentage of the target's max health as true damage, healing Fiora and granting her bonus movement speed decaying over a few seconds. New Vitals are revealed after striking one or after around 17 seconds.
+
+Striking Vitals are a vital part of Fiora's playstyle and something you always want to keep your eye on. Try to hit them as much as possible to get an advantage.
+
+Fiora lunges and stabs a nearby enemy, dealing physical damage in an area. Hitting an enemy refunds a big percentage of the cooldown, so when using Lunge, you want to hit something, or you could be punished as it has a long cooldown if missed.
+
+Lunge prioritizes Vitals and enemies it will kill first, then champions, minions and monsters. Lunge also applies on-hit effects to the primary target hit. This works with the Spellblade passive of Divine Sunderer, meaning Lunge will do extra damage.
+
+Fiora parries all incoming damage and debuffs for under a second, then stabs in the target direction, dealing magic damage to the first enemy champion, slowing their movement speed and attack speed for just over a second.
+
+If Fiora parries an immobilizing effect, Riposte will stun instead of slow. Hence, it's crucial to time this ability right so you can use the Riposte to stun targets in front of you.
+
+Riposte is an excellent ability for Fiora in 1v1 situations. You will play mind games with the enemies and make them think twice about trying to fight you. Without Riposte, Fiora can feel quite vulnerable, so make sure you don't waste this ability.
+
+Empowers the next two attacks with increased attack speed. The first attack applies a slow for a second but cannot critically strike. The second attack will always critically strike for more physical damage. When playing Fiora, you want to use the first attack on a minion and then look to play aggressively when you want to use the 2nd attack of Bladework to try and hit a champion, as it's going to deal a lot of damage.
+
+Bladework is also an auto-attack reset, meaning that you can use this ability straight after an auto-attack so you can deal more damage in a shorter amount of time.
+
+Upon activation, Fiora Reveals all 4 Vitals on an enemy champion for a few seconds and grants Duelist's Dance's bonus movement speed while near them.
+
+Striking all four vitals in a few seconds or if the target dies after at least one hit will summon a field area on the floor, and if Fiora or an ally is in that field, they will be healed each second. The field will last longer depending on how many vitals you hit.
+
+Grand Challenge can also be used when trying to escape because of the bonus movement speed you get.
+
+Fiora uses a mixture of damage and tank items that work well with her kit. Trinity Force is a great first item for Fiora. This item gives her both damage and tank stats. Trinity Force's passive effect Spellblade also works excellent with Fiora's abilities, especially Lunge, which triggers on-hit effects when landing. Sterak's Gage is an excellent tank item for Fiora that also increases her Base Attack Damage and gives her a shield when she is low on health.
+
+For runes, we have the following:
+
+Fiora is a fighter who wants to get in the enemy's face and constantly attack, especially to proc her Vitals. With this in mind, you can stack Conqueror to deal extra damage and heal to help her survive longer.
+
+Great for when Fiora drops low on health when she dashes in. It can save you and bait the enemy into thinking you are already dead.
+
+Fiora can take a lot of damage from fighting early game or taking poke damage from ranged champions. Second Wind helps Fiora heal when out of combat, helping her stay in lane longer. However, you can also take Bone Plating when vs combo champions to reduce damage taken.
+
+When Fiora is farming, she'll be able to gain free health throughout the game, making him difficult to kill
+
+Brutal gives Fiora's auto attacks and Lunge more damage giving her a lot of power in the early game to take trades and maybe even solo kill early on.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for the killing blow. Flash can also help Fiora reposition to proc Vitals behind an enemy champion. For the 2nd spell, it's best to go for Ignite. This helps Fiora to get an early advantage in the laning phase and helps her deal extra damage.
+
+Fiora is reasonably strong in the early game. It's best to play passive, and farm in the early game since Fiora scales very well once she gets a few items; however, if you can go in and proc your Vitals, you will always win the small trades vs enemy champions. In the laning phase, you always want to keep your eyes on the vitals displayed on the enemy champion and use your Lunge to dash in and proc the vital. Riposte is a great spell to get out of a bad situation. It blocks all incoming damage, so if you time it correctly, you can use this ability effectively.
+
+Once Fiora gets to the late game, and you have your core items, this is where she can become the ultimate duelist. At this stage of the game, the best thing you can do is split-push; this means going to one of the side lanes (Baron or Dragon Lane) and pushing the minion wave. Fiora's one vs one potential is excellent, thanks to her kit, and she pushes towers fast, especially if you have Hullbreaker. However, Fiora can still be excellent when grouping with her team in team fights. In a team fight, your main goal is to get on top of the enemy backline and keep an eye on your vitals (passive) and dodge abilities where possible with Riposte.
+
+Overall, Fiora is a very fun and versatile champion with a unique playstyle that many people will enjoy. She is one of the best champions that can carry the game off her own back. Sometimes you can even get crazy games where you can split push, destroy the enemy's nexus, and win the game yourself!
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

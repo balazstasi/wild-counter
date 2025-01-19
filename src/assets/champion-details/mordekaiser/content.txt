@@ -1,0 +1,106 @@
+Title: Mordekaiser :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Mordekaiser in League of Legends: Wild Rift. Our build guide will teach you how to play Mordekaiser in the current meta.
+
+Headings:
+- Level 1 Mordekaiser Stats
+- Mordekaiser's Abilities
+- Mordekaiser  Build Guide for Wild Rift
+- Mordekaiser's Item Build
+- Mordekaiser's Spells & Runes
+- Mordekaiser's Situational Items
+- Mordekaiser's Situational Runes
+- Mordekaiser's Skill Order
+- How to play Mordekaiser
+- Mordekaiser Abilities
+- Darkness Rise (Passive)
+- Obliterate (1)
+- Indestructible (2)
+- Death's Grasp (3)
+- Realm of Death (Ultimate)
+- Mordekaiser Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Gains 1% Magic Pen. Attacks deal 30% bonus magic damage.
+
+When Mordekaiser gets a takedown, or his basic abilities or attacks hit an enemy champion or large monster, he gains 1 stack of Darkness Rise for 5 seconds. At 3 stacks, he cloaks himself in a negative energy field.
+
+The negative energy field deals magic damage equal to 4.75 (+ 0.25 per level + 25% AP ) plus 1% of the target's max Health per second and grants him 3% Movement Speed for 5 seconds.
+
+Takedowns and basic ability or attack hits against enemy champions or large monsters refresh the negative energy field's duration.
+
+Darkness Rise deals a maximum of 24 damage to monsters per second.
+
+Passive: Stores 35% of the damage he deals and 7% of the damage he takes.
+
+Active: Gains the stored damage as a shield for 4 seconds. Recasting Indestructible restores 35% / 38% / 40% / 42% of the remaining shield as Health.
+
+Minimum Shield: 5%
+
+Maximum Shield: 30%
+
+Banishes an enemy champion into the Death Realm with him for 7 seconds.
+
+During this period:
+
+- Steals 8% of the target's core stats (AP, AD, AS, Armor, Magic Resist and Max HP).
+
+- If Mordekaiser takes down the target, he keeps the stolen stats until the target respawns.
+
+-If he doesn't, the stolen stats are returned once the ability ends.
+
+Mordekaiser is an AP bruiser that is played in the Baron Lane. He is consistently strong throughout the game, his early game poke helps him in the laning phase, and his Realm of Death helps him carry teamfights in the late game. As a manaless champion he doesn't need to worry about running out of mana and doesn't need to buy mana items. This allows him to buy more damage or tank items be stronger during teamfights.
+
+When Mordekaiser gets a takedown, or his basic abilities or attacks hit an enemy, he gains a stack for a few seconds. At three stacks, he cloaks himself in an energy field. The energy field deals magic damage per second and grants Mordekaiser movement speed.
+
+The quickest way to get to 3 stacks is Death's Grasp and Obliterate into an auto attack. When Darkness Rise is active, Mordekaiser can use his basic abilities or attacks on an enemy to extend the duration.
+
+Mordekaiser smashes the ground, dealing magic damage. The damage is increased when Mordekaiser hits only one enemy. This is especially important during the laning phase. Try not to hit minions when hitting enemy champions. Step to the side and only hit the enemy to deal increased damage.
+
+Mordekaiser stores damage he deals and damage he takes. He can then activate Indestructible to gain the stored damage as a shield for a few seconds. The more damage he stores, the bigger the shield, meaning it's better to go into a fight, deal a lot of damage, and then activate the shield so he can resist even more damage.
+
+Mordekaiser pulls an enemy in a direction, dealing magic damage and slowing them for a second. Most of the time, you will use this ability to pull enemies towards you.
+
+However, you can use this ability in the opposite direction to push enemies away from you if you need to escape. Another cool technique is pulling enemies over a wall if they stand close enough. This can make it easier for your team to follow up.
+
+Mordekaiser banishes an enemy champion into the Death Realm with him for a few seconds. During this period, Mordekaiser steals the target's core stats. If Mordekaiser kills the enemy in the Death Realm, he will keep the stolen stats until the enemy respawns.
+
+It's vital to use Realm of Death when you have all other basic abilities available. You only have a limited time to kill the enemy so making sure you can deal the most damage possible will make a huge difference.
+
+Mordekaiser is a flexible champion when it comes to the build. Depending on your playstyle, he can build both burst damage and tanky items. Riftmaker has great synergy with Mordekaiser. The damage can help you out, and the omnivamp can allow you to heal a lot. Awakened Soulstealer is an incredible item for Mordekaiser. When you use Realm of Death, you'll be in a 1 vs 1 vs the enemy, and most of the time, you'll win, so you'll be able to steal their stats and reduce the cooldown of your abilities.
+
+With runes, we have the following:
+
+As a fighter, Mordekaiser will be in the front dealing damage with his basic attacks, abilities, and even passive damage over time, which all help stack Conqueror. At max stacks, Conqueror's healing and damage will help Mordekaiser carry fights.
+
+Nullifying Orb is the best option in this row. The extra shield when you drop low on HP can save your life.
+
+Second Wind helps Mordekaiser heal up during the laning phase. This allows him to stay in the lane longer to collect more gold before going back to base.
+
+Overgrowth allows Mordekaiser to gain permanent health throughout the game when nearby minions or monsters are killed. So the more Mordekaiser farms, pushes the lane, and kills minions, the more maximum health he will get.
+
+Mordekaiser loves Ability Haste since his abilities are so impactful.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get him out of a tricky situation or if you are trying to go in for that killing blow. The go-to 2nd spell is Ignite. This helps Mordekaiser get an early advantage in the laning phase.
+
+Even though Mordekaiser is strong during all phases of the game, his weakest will be during the laning phase. Use this time to farm minions and take trades with the enemies when in range to use Obliterate. Remember with Obliterate that you will do more damage to enemies if that's the only enemy you hit, so try to take fights away from the minions. Once you have reached level 5, you can look to roam and use his Realm of Death on an enemy to isolate them and get an advantage for your team
+
+Mordekaiser is a great teamfight champion in the late game. You can start by dealing damage and fighting the enemy front line to stack his passive and Indestructible for a bigger shield. When in range of an enemy mid-lane or duo-lane champion, you can use your ultimate to isolate them into a one vs. one. Since you have already started stacking your passive and Indestructible, it's very difficult for the enemy to come out on top.
+
+Overall Mordekaiser is a flexible champion that can fit multiple roles. He is excellent at isolating an enemy champion to help your team achieve victory.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

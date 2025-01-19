@@ -1,0 +1,92 @@
+Title: Shyvana :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Shyvana in League of Legends: Wild Rift. Our build guide will teach you how to play Shyvana in the current meta.
+
+Headings:
+- Level 1 Shyvana Stats
+- Shyvana's Abilities
+- Shyvana  Build Guide for Wild Rift
+- Shyvana's Item Build
+- Shyvana's Spells & Runes
+- Shyvana's Situational Items
+- Shyvana's Situational Runes
+- Shyvana's Skill Order
+- How to play Shyvana
+- Shyvana Build Breakdown
+- Jungle Path
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Slaying a Large Monster grants 10 stacks of Draconic Bloodline.
+
+Champion takedowns or slaying the Rift Herald or Baron Nashor grants 15 stacks of Draconic Bloodline.
+
+Slaying a Dragon grants 35 Draconic Bloodline.
+
+Every 100 stacks of Draconic Bloodline enhances one of Shyvana's abilities.
+
+Empowers Shyvana's next attack to strike twice, dealing 58 (100% AD) and 12 (20% / 40% / 60% / 80% AD) physical damage respectively. Attacks reduce the cooldown of Twin Bite by 0.5 seconds.
+
+Dragon Form: Strikes in a larger area and applies on-hits to all enemies.
+
+Acquiring 100 stacks of Draconic Bloodline, grants Weight of the Mountain, causing Twin Bite to slow enemies hit by 50% while in Dragon Form.
+
+Deals 40 / 55 / 70 / 85 (+30% bonus AD) magic damage per second to nearby enemies and hastes Shyvana by 30% / 35% / 40% / 45% decaying over 3 seconds. Attacking extends the duration of Burnout up to 4 seconds.
+
+Dragon Form: Expands the flames, dealing damage to a larger area.
+
+Acquiring 200 stacks of Draconic Bloodline, grants Wings of the Cloud, causing Burnout to haste Shyvana by an additional 25% while in Dragon Form.
+
+Launches a fireball that deals 60 / 110 / 160 / 210 (+30% AD +40% AP) magic damage to enemies hit and Scorches them for 5 seconds. Shyvana's attacks on Scorched enemies deal 3% bonus magic damage of their max Health.
+
+Dragon Form: The fireball explodes on impact, dealing 110 (+50% AD +70% AP) magic damage in an area that leaves a fire for 4 seconds that deals 34 (+10% AD +20% AP) magic damage and Scorches enemies within it.
+
+Acquiring 300 stacks of Draconic Bloodline, grants Breath of the Infernal, converting the damage dealt to Scorched enemies to True Damage while in Dragon Form.
+
+Passive: Generates 1.5 / 2 / 2.5 Fury per second and 2 Fury per attack. At 100 Fury, Shyvana can cast Dragon's Descent, Svhyvana remains in Dragon from until she has consumed all of her Fury.
+
+Active: Transforms into a dragon, gaining 300 / 400 / 500 Health and flying to a target location. Enemies along Shyvana's path take150 / 250 / 350 (+80% AP) magic damage and are knocked towards her landing point.
+
+Acquiring 400 stacks of Draconic Bloodline, grants Life of the Ocean, gaining 15% Omnivamp in Dragon Form.
+
+Shyvana is a fighter jungler. She is pretty weak early game, not having the best damage or mobility. When Shyvana farms the jungle and reaches Level 5 and has Dragon's Descent available, this is when she comes online. She stacks fury over time with auto attacks to be able to use her Ultimate. When she reaches max fury, you can activate your ultimate and turn into a dragon, enhancing all your abilities. Shyvana's abilities also get upgraded once you kill certain dragons. This means the later the game goes and if you have dragons secured, you become a real threat!
+
+Shyvana uses a mixture of both AD and tank items that allow her to deal damage and survive. Trinity Force is a great item for Shyvana and a core item that you must pick up early on. It gives her all the stats she needs and she works really well with the passives Spellblade and Rage. Sterak's Gage is an excellent tank item for Shyvana that also increases his Base Attack Damage and gives him a shield when he is low on health.
+
+For runes, we have the following:
+
+Shyvana is a fighter, so she wants to get in the enemies' faces and attack constantly whilst using her spells. This allows her to get the stacks pretty fast, to deal even more damage and gain a lot of physical vamp when fully stacked.
+
+Gathering Storm is the best option in this tree. Shyvana can gain more attack damage throughout the game, allowing her to be more of a carry in the mid/late game.
+
+When enemy champions are low on health, Shyvana can deal bonus damage. This will help Shyvana when she is using Dragon's Descent to jump onto the backline. Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+Bloodline gives Shyvana Physical Vamp, which will help her with healing and sustaining during teamfights which will help with her survivability.
+
+Overgrowth allows Shyvana to gain permanent health throughout the game when nearby minions or monsters are killed. So the more Shyvana farms in the jungle to get stacks for her passive, the more Maximum Health she will get.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for the killing blow. Smite is a must for when you are playing jungle. Helps you out a lot when clearing the jungle and securing the epic monsters.
+
+Shyvana has a relatively fast early jungle clear. This means that you can work your way around the jungle really fast and get close to Level 5 as soon as possible. She doesn't have the best 1 vs 1 potential vs other junglers. This means that most of the time you want to go for a full clear in the jungle. It is best to start at Red Brambleback as you don't have mana and you don't lose a lot of health when jungle clearing.
+
+This is what the jungle patch would look like:
+
+Below is a beginner's guide I did for jungle in Wild Rift. It goes in-depth about every jungle camp, epic monsters and more!
+
+Shyvana is a great team fight champion in the late game. Once you have your core items and you have stacked up a few dragons, you can Ultimate into the enemy team and do a lot of damage whilst also staying alive for a long time. You want to stay with your team at all times and try not to get caught out by yourself. As a jungler, your main objective is to keep track of when Dragons, Rift Herald, and Baron spawn. Taking these epic monsters will give you and your team an advantage in the game. When a team fight happens, you want to make sure you are at the front protecting your team.
+
+Overall Shyvana is a great starter champion if you want to play jungle! She has some easy abilities that you can learn straight away and can have a big impact on the game.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

@@ -1,0 +1,106 @@
+Title: Jarvan IV :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Jarvan IV in League of Legends: Wild Rift. Our build guide will teach you how to play Jarvan IV in the current meta.
+
+Headings:
+- Level 1 Jarvan IV Stats
+- Jarvan IV's Abilities
+- Jarvan IV  Build Guide for Wild Rift
+- Jarvan IV's Item Build
+- Jarvan IV's Spells & Runes
+- Jarvan IV's Situational Items
+- Jarvan IV's Situational Runes
+- Jarvan IV's Skill Order
+- How to play Jarvan IV
+- Jarvan IV's Abilities
+- Martial Cadence (Passive)
+- Dragon Strike (1)
+- Golden Aegis (2)
+- Demacian Standard (3)
+- Cataclysm (Ultimate)
+- Jarvan IV Build Breakdown
+- Jungle Path
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Extens Jarvan IV's lance, dealing 80 / 140 / 200 / 260 (+130% bonus AD) physical damage and reducing the Armor of enemies hit by 10% for 3 seconds.
+
+If the lance contacts a Demacian Standard it will pull Jarvan IV to the Demacian Standard's location, knocking up enemies in his path for 0.75 seconds.
+
+Unleashes a regal aura that slows nearby enemies by 30% / 35% / 40% / 45% for 2 seconds, and grants him a shield that absorbs damage equal to 100 / 140 / 180 / 220 plus 5% of his max Health for 5 seconds.
+
+Absorbs 10 (1.6% / 1.9% / 2.2% / 2.5% of max HP ) more damage for each nearby enemy champion.
+
+Passive: Gains 20% / 25% / 30% / 35% Attack Speed.
+
+Active: Throws a Demacian Standard that deals 80 / 135 / 190 / 245 (+80% AP) magic damage and remains in place for 8 seconds, granting nearby ally champions 30% / 35% / 40% / 45% Attack Speed.
+
+Tapping this ability while near a Demacian Standard will cast Dragon Strike towards it.
+
+Heroically leaps to an enemy champion, dealing 200 / 350 / 500 (+170% bonus AD) physical damage to nearby enemies and creating an arena of impassable terrain around them for 3.5 seconds.
+
+Damage dealt by enemies within the arena is reduced by 12% / 16% / 20%. The effect ends once they leave the terrain or when it collapses.
+
+Cast again to collapse the terrain.
+
+Jarvan IV is a versatile champion. He can be built for any situation and has many different build choices. He is a very aggressive early-game jungler that wants to look for early ganks with his early combo Flag and Drag (Demacian Standard and Dragon Strike). He has a crazy fast jungle clear, allowing him to get level 5 as soon as possible to lock down enemy champions with his ultimate Cataclysm and guarantee kills for his team. This same ultimate can be used in the late game when joining team fights. Always looks to use his basic combo and ultimate the main enemy carries to make their time difficult.
+
+The first attack against an enemy deals bonus physical damage equal to a percentage of their current health. This makes Jarvan deal more damage against bruisers and tanks that build a lot of health. This passive has a separate cooldown per enemy.
+
+To clear the jungle quicker, attack each monster one by one so you can use the passive multiple times. This can also be done to champions during team fights.
+
+Jarvan extends his lance, dealing physical damage and reducing the armour of enemies hit for a few seconds. This is Jarvan's primary damage source when clearing through the jungle. Make sure you hit Dragon Strike on multiple monsters when clearing the jungle to help make your jungle clear speed quicker.
+
+If the lance contacts a Demacian Standard (3rd Ability), it will pull Jarvan to the Demacian Standard's location, knocking up enemies in his path. This is Jarvan's main combo that is great for engaging, escaping and ganking at any point during the game.
+
+Jarvan unleashes an aura around him that slows surrounding enemies and grants a shield that absorbs damage for a few seconds. Jarvan will absorb more damage for each nearby enemy, meaning you can get a huge shield when surrounded by five enemies.
+
+This is mainly used after you land your 3rd + 1st ability combo to slow down enemies after they are knocked up. When clearing through the jungle, it's essential to use this every time it is up and available so you can stay healthy.
+
+Jarvan throws a Demacian Standard that deals magic damage and remains in place for a few seconds, granting nearby ally champions attack speed. This Ability is mainly used with Dragon Strike to get a knock-up.
+
+Another way to use Demacian Standard is when you are grouped near turrets or Major Objectives with your team. You can put the Demacian Standard near your team so they all gain attack speed so you can take the tower faster.
+
+Jarvan leaps to an enemy champion, dealing physical damage to nearby enemies and creating an arena of terrain around them for a few seconds.
+
+Keep an eye on who has Flashes and mobility abilities available because the enemy can use these to escape your Cataclysm. You can also block your allies, so re-cast it if it gets in the way.
+
+Jarvan does well with a mixture of damage and tank items that work well with his abilities. Trinity Force is a great item for Jarvan. The Spellblade passive works well with Jarvan's passive making his auto attacks deal a lot of damage. Black Cleaver is another great item. This will help Jarvan reduce the armor of enemies when going in with his combo, allowing him to deal more damage.
+
+Onto the runes, we have:
+
+Jarvan is a fighter, so he wants to get in the enemies' faces and attack constantly. This allows him to get the six stacks pretty fast, which means he can deal more damage and get a lot of physical vamp when fully stacked.
+
+Jarvan will be in many team fights using his Flag and Drag onto the backline and trying to kill the enemy carries, so restoring health every time he gets a takedown can come in really clutch and allow him to carry on fighting.
+
+When enemy champions are low on health, Jarvan can deal bonus damage. This will help Jarvan when he uses Flag and Drag to get onto the backline. Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+Alacrity gives Jarvan Attack Speed, which will help him clear jungle camps quicker and help him attack more often during team fights. Legend: Tenacity can also be taken when playing against champions that have Crowd Control.
+
+Overgrowth allows Jarvan to gain permanent health throughout the game when nearby minions or monsters are killed. So the more Jarvan farms in the jungle, the more Maximum Health he will get. This will make Jarvan super tanky whilst also dealing a lot of damage.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for that killing blow. It work's well with Jarvan because if you see the enemy team is grouped, you can use your Flash and Cataclysm to lock the enemy team in an area. Smite is a must for when you are playing jungle. Help's you out a lot when clearing the jungle and securing the epic monsters.
+
+With Jarvan, he has decent early jungle clear, but his main strengths are in his early ganks potential. With his flag and drag combo, Jarvan can look to gank as early as Level 2. You do decently in early skirmishes vs the enemy jungler so you can contest the scuttle crab early. It is best to start at Red Brambleback as you don't struggle on mana, and the extra damage you get can help clear the jungle faster.
+
+This is what the jungle patch would look like:
+
+Below is a beginner's guide for jungle in Wild Rift. It goes in-depth about every jungle camp. Epic monsters and more!:
+
+Jarvan is a great team fight champion in the late game. He wants to stay with his team at all times and try not to get caught out by himself to be impactful during team fights. As a jungler, your main objective is to keep track of when Dragon's, Rift Herald, and Barons spawn. Taking these epic monsters will give you and your team an advantage in the game. When a team fight happens with Jarvan, you always want to look to try and get into the backline and lock down their primary carries with Cataclysm.
+
+Overall, Jarvan is an excellent starter champion if you want to play jungle! With Jarvan's early ganking potential, you can learn when is best to gank and how to get an advantage for your team.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

@@ -1,0 +1,95 @@
+Title: Nilah :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Nilah in League of Legends: Wild Rift. Our build guide will teach you how to play Nilah in the current meta.
+
+Headings:
+- Level 1 Nilah Stats
+- Nilah's Abilities
+- Nilah  Build Guide for Wild Rift
+- Nilah's Item Build
+- Nilah's Spells & Runes
+- Nilah's Situational Items
+- Nilah's Situational Runes
+- Nilah's Skill Order
+- Nilah's Item Build
+- Nilah's Spells & Runes
+- Nilah's Situational Items
+- Nilah's Situational Runes
+- Nilah's Skill Order
+- How to play Nilah
+- Nilah's Abilities
+- Joy Unending (Passive)
+- Formless Blade (1)
+- Jubilant Veil (2)
+- Slipstream (3)
+- Apotheosis (Ultimate)
+- Nilah Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Passive: Gains 35% of current Critical Strike Chance as Armor Pen Rate.
+
+Nilah cracks her whip-blade in a straight line, dealing10 / 15 / 20 / 25 (+90% / 100% / 110% / 120% AD) physical damage to enemies hit along the way. Every 1% Critical Rate increases damage by 1%.After Formless Blade hits an enemy, Nilah gains 14% Attack Speed and 125 bonus Attack Range. Her attacks also deal 100% physical damage to enemies in a cone for 4 seconds. Damage against non-champion units is reduced by 80%.When Formless Blade is cast during Slipstream, Nilah leaves behind a wave that is sent towards her, dealing an equivalent amount of damage to all enemies hit.
+
+Damage ratio of Formless Blade to monsters: 25% .
+
+Nilah dashes forward for a fixed distance, dealing70 / 100 / 130 / 160 (+20% AD) physical damage to any enemies that she passes through. Empowered attacks reduce the cooldown of this ability by 1 second. Cooldown is further reduced by 1 second after hitting a champion. Hitty any unit will also refresh this ability's cooldown.Cooldown cannot be refreshed again within 10 seconds.If no unit was hit, immediately enters cooldown.
+
+Nilah whirls her whip-blade, dealing 60 / 120 / 180 (+140% AD) physical damage continuously over 1 second and reducing the enemy's Movement Speed by 10% for 3 seconds.When keeping her whip-blade, Nilah also deals125 / 225 / 325 (+120% AD) physical damage and pulls nearby enemies toward her. Nilah also heals herself and nearby allied champions by 20% (+30% Crit ) of the damage that she dealt to enemy champions.Excess healing is converted into a shield that lasts 6 seconds.Non-champion units are healed by 10% instead.
+
+Nilah is a late-game melee hyper-carry with huge duelling and team-fighting potential. Since Nilah's laning phase is weak due to her low range, she can struggle to get to the late game without a disadvantage. Her healing, damage and armor penetration scales with crit chance, so you always want to build critical strike chance on her.
+
+After an attack crits, Nilah heals herself based on the damage dealt. This means she always wants to build critical strike items to amplify her healing even more. Excess healing is converted into an equivalent amount of shield that lasts a few seconds.
+
+Passive: Nilah gains a percentage of her current critical strike chance as armor penetration. This makes Nilah strong against bruisers and tanks that will be building armor throughout the game.
+
+Active: Nilah cracks her whip-blade in a straight line, dealing physical damage to enemies hit along the way.
+
+Formless Blade can be cast during Slipstream, which leaves behind a wave that is sent towards her, dealing damage to all enemies hit. Use this ability during the laning phase to farm minions without getting poked and to push the lane when needed. After Formless Blade hits an enemy, Nilah gains attack speed and range, and her attacks also deal damage in a cone.
+
+Nilah envelops herself in a mist, during which she gains movement speed, reduces incoming magic damage taken and becomes immune to attacks. The timing of this ability is super important.
+
+Nilah can dodge things like Twisted Fate's gold card and stop the stacking of Tristana's bomb stacks. If allied champions are nearby, the nearest allied champion gains the same effects.
+
+Nilah dashes towards a direction dealing physical damage to enemies she passes through. Slipstream can be used anywhere at any time on the map. So if needed, use Slipstream to jump over walls to get away to safety. This is Nilah's mobility tool, which is important, especially because Nilah is a melee champion.
+
+Empowered attacks from Formless Blade reduce the cooldown of this ability. Also, hitting any unit will refresh this ability's cooldown. Cooldown cannot be refreshed again within a few seconds.
+
+Nilah whirls her whip-blade, dealing physical damage. Nilah also deals physical damage at the end of the duration and pulls nearby enemies toward her. Nilah also heals herself and nearby allied champions. Excess healing is converted into a shield.
+
+Since Apotheosis doesn't do that much damage, it's best to keep this ultimate for the Crowd Control during a team fight or when you need a bit of healing.
+
+Since Nilah is a melee champion, she greatly benefits from Physical Vamp to help keep her alive in team fights. Bloodthirster is the strongest first item for Nilah. You get a huge amount of attack damage, especially when you haven't lost a lot of health. Even when you lose health, the Physical Vamp from Bloodthirster can help you heal from minions or monsters. Infinity Edge is another excellent item for Nilah, as it increases her damage from critical strikes.
+
+Onto the runes, we have:
+
+Nilah will be attacking and using her abilities and combos to deal damage. This means you can get six stacks quickly, so she can deal extra damage and gain Physical Vamp.
+
+Since Nilah auto-attacks a lot. Brutal is a great choice that helps Nilah's auto-attacks deal more damage at all stages of the game.
+
+When enemy champions are low on health, Nilah can deal bonus damage. This will help Nilah kill enemies when dashing in. Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+The healing from Bloodline will be more beneficial for Nilah for the sustain and survivability compared to attack speed from Alacrity. Legend: Tenacity is another excellent option when playing against champions that have Crowd Control.
+
+When using Nilah's 3rd Ability Slipstream, she will gain Armor Penetration to deal more damage.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get you out of a bad situation or allows you to Flash into the team to get the killing blow! The go-to 2nd spell is Exhaust. Exhaust is perfect because Nilah wants to go into melee range to deal extra damage and use her Ultimate, so she will always be in range to use Exhaust.
+
+Nilah is one of, if not the worse early-game champions. This is because you are a melee champion that plays in the duo lane, and most other marksman will have longer range than you and use this to poke you down. The only thing Nilah wants to do is play passive and farm using her increased range from Formless Blade. Make sure to use Slipstream when in danger from enemies engaging or an incoming gank.
+
+Once you reach the mid to late game and have your core items, this is where Nilah can look to dash in when she can and start using her auto attacks and abilities to deal a lot of damage. It's always best as a Marksman to stay grouped with your team. Try to be patient when playing Nilah, you don't always have to dash in at every opportunity but when you can dash in and use her Apotheosis to pull everyone in and carry the teamfight.
+
+Nilah is a very fun but challenging champion to play. She is different from any other Duo Lane Marksman that you will play since she is a melee champion, so it will take some time to get used to, but as long as you are patient and wait for the right moment, she can be great.Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

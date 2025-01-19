@@ -1,0 +1,112 @@
+Title: Ashe :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Ashe in League of Legends: Wild Rift. Our build guide will teach you how to play Ashe in the current meta.
+
+Headings:
+- Level 1 Ashe Stats
+- Ashe's Abilities
+- Ashe  Build Guide for Wild Rift
+- Ashe's Item Build
+- Ashe's Spells & Runes
+- Ashe's Situational Items
+- Ashe's Situational Runes
+- Ashe's Skill Order
+- How to play Ashe
+- Ashe's Abilities
+- Frost Shot (Passive)
+- Ranger's Focus (1)
+- Volley (2)
+- Hawkshot (3)
+- Enchanted Crystal Arrow (Ultimate)
+- Ashe Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Attacks and damaging abilities slow targets hit by 15% for 2 seconds. Attacks against enemies slowed by Frost Shot deal 10% (+100% Critical chance) bonus damage.
+
+Ashe's critical strikes do not deal extra damage. Instead, they increase Frost Shot's slow to 40%, decaying over time.
+
+Passive: Store 2 Focus while Ranger's Focus is not active. Attacks grant an additional stack of Focus (up to 6) Stacks fall on one at a time.
+
+Active: For the next 6 seconds, attacks consume a stack of Focus to fire with 25% / 35% / 45% / 55% Attack Speed and barrage the target with a flurry of arrows for 115% / 120% / 125% / 130% physical damage.
+
+Ashe fires 5 / 7 / 9 / 11 arrows in a cone, dealing 20 / 40/ 60 / 80 (+115% AD) physical damage. Also applies a critical slow from Frost Shot.
+
+Ashe fires a hawk spirit that grants vision of enemies along its path.
+
+Re-cast: Explodes the hawk, granting vision of the area around it for 5 seconds. Units caught in the initial explosion are revealed for 5 seconds.
+
+Ashe launches a crystal arrow of ice that sunts the first champion hit and deals 200 / 350 / 500 (+40% AP) magic damage to all nearby enemies. The stun lasts between 1.5 to 3.5 seconds, increasing with the distance of the arrow's flight.
+
+Re-cast: Hold and drag to steer the arrow's flight path. The arrow can only deviate from its original launch angle by a fixed amount. Tap the cancel button to stop steering.
+
+Ashe is a marksman who can play in the Duo Lane. She's a versatile champion who offers a mix of both utility and damage to your team. Ashe's Frost Shot allows her auto attacks and Volley to slow enemies, furthermore her Enchanted Crystal Arrow is a great initiate tool which can create great opportunities for her team. With all of Ashe's Crowd Control, she becomes a valuable asset to any team. Her kit is pretty straightforward but offers depth in mastering positioning and timing.
+
+Ashe's auto attacks and Volley slow targets hit for a few seconds. Attacks against enemies slowed by Frost Shot deal bonus damage. Ashe's critical strikes do not deal extra damage. Instead, they increased Frost Shot's slow.
+
+Frost Shot makes kiting with Ashe much smoother. The slows makes it difficult for enemies to chase you down. However, it does mean that Ashe doesn't deal as much damage compared to other marksmen since her crits don't deal additional damage.
+
+Passive: Whilst Ranger's Focus is not active, Ashe stores 2 Focus. Attacks grant an additional stack of Focus (up to 6).
+
+Active: For the next few seconds, attacks consume a stack of Focus to fire with additional Attack Speed and Damage.
+
+You usually want to wait until you have max stacks (6) with Ranger's Focus before activating it. This will give you the most damage possible. You can tell how many stacks you have by looking at the number above the ability.
+
+Ashe fires 5 arrows in a cone, dealing physical damage and slowing the enemies thanks to her Frost Shot. Volley can be blocked by minions and monsters. Enemies can also block multiple arrows but only take damage once.
+
+Using Volley is all about getting the timing and accuracy right. As you level up Volley, the area increases, making it much stronger and easier to hit multiple enemies with different arrows. Always use Volley to check brushes; it has a very low cooldown and can save your life.
+
+Ashe fires a hawk that grants vision of enemies along its path.
+
+Recast: Explodes the hawk, granting vision of the area for a few seconds.
+
+In the early game, look to fire Hawkshot towards the enemy jungle to spot where the enemy jungler is heading. Hawkshot makes playing Ashe a lot safer since you can spot enemy threats that might be close by. Hawkshot can also reveal invisible enemies and wards, which can be destroyed if attacked quickly enough.
+
+Ashes launches an arrow of ice that suns the first champion hit and deals magic damage. The stun increases with the distance of the arrow's flight.
+
+Recast: You can hold and drag to steer the arrow's flight path. The arrow can only be steered from its original launch angle by a fixed amount.
+
+When steering Enchanted Crystal Arrow, Ashe can still move around, so be wary of where you are positioned. Look to use Ashe's ultimate when available to catch out enemies. Aiming the arrow down narrow choke points will make your chances of hitting the arrow much higher.
+
+Bloodthirster is an excellent sustain option for Ashe, allowing you to heal during combat and it also gives you bonus Attack Damage and Attack Speed.
+
+Runaan's Hurricane has extra bolts that spread to nearby enemies, which also works with Ashe's Frost Shot, allowing you to slow multiple enemies simultaneously.
+
+Phantom Dancer is a strong option for Ashe, giving her bonus movement speed to help kite during teamfights and after a few auto attacks, you gain a huge burst of movement speed.
+
+Onto the runes, we have:
+
+Lethal Tempo synergizes exceptionally well with Ashe since she wants to auto-attack a lot to slow enemies and benefit from her item build.
+
+Brutal gives Ashe more auto-attack damage throughout the game, helping with her damage output.
+
+Coup de Grace provides additional damage that helps burst enemies when they are low on health.
+
+Giant Slayer is another good option when playing against bruisers and Tanks that build a lot of health.
+
+Alacrity gives Ashe attack speed, which synergizes well with her kit and build to help her deal more damage.
+
+Bone Plating is a great choice for surviving all-ins from enemy champions. As the carry for your team, you'll get a lot of focus from the enemies.
+
+Since Ashe has no mobility in her kit, Flash is a must to help her get away to safety from ganks or enemies all in. Flash can also be used to help secure the killing blow.Ghost gives Ashe increased movement speed to help her kit during teamfights. With this, on top of the slows from Ashe's Frost Shot, it makes her extremely difficult to shut down.
+
+Ashe's early game isn't the best. She doesn't deal a lot of damage until she gets a few levels and items. When last hitting minions, use Volley to poke enemies and take advantage of your extra range. Only look to engage and trade onto enemies when your support goes in or once you have max stacks of Ranger's Focus. Remember that your Hawkshot has long range, so aim for the maximum range when you use it to get more vision. In the early game, use Hawkshot in the enemy jungle or river to spot where the enemy jungler is going.
+
+Late Game is where Ashe can shine. At this stage of the game, you will have a lot of attack speed to help with her kiting and damage output. You will need to play around the objectives and play with your team. Enchanted Crystal Arrow is a game-changer for Ashe in the Late Game. If you can catch a target with your arrow, your team can follow up to help you deal damage. When in a teamfight, ensure you stay in the backline as you are one of the main damage sources for your team.
+
+Ashe is a great starter champion to start your adventures in the Duo Lane. Her abilities are super simple and she has a great play style for beginners that are just starting to play Wild Rift.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

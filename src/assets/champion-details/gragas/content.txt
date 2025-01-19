@@ -1,0 +1,102 @@
+Title: Gragas :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Gragas in League of Legends: Wild Rift. Our build guide will teach you how to play Gragas in the current meta.
+
+Headings:
+- Level 1 Gragas Stats
+- Gragas's Abilities
+- Gragas  Build Guide for Wild Rift
+- Gragas' Item Build
+- Gragas' Spells & Runes
+- Gragas' Situational Items
+- Gragas' Situational Runes
+- Gragas' Skill Order
+- Gragas' Item Build
+- Gragas' Spells & Runes
+- Gragas' Situational Items
+- Gragas' Skill Order
+- How to play Gragas
+- Gragas' Abilities
+- Happy Hour (Passive)
+- Barrel Roll (1)
+- Drunken Rage (2)
+- Body Slam (3)
+- Explosive Cask (Ultimate)
+- Gragas Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Rolls a cask to target location that explodes upon re-casting or after 3 seconds. Enemies hit take 65 / 120 / 175 / 230 (+70% AP) magic damage and are slowed by 30% / 35% / 40% / 45% for 2 seconds.
+
+The damage and slow amount increase over the first 1.5 seconds, by up to 150%.
+
+The cask reveals the area and deals 50% damage to minions.
+
+Reduces damage taken by 11% / 13% / 15% / 17% (+0.04% AP) for 2.5 seconds.
+
+The next attack within 5 seconds after drinking is empowered to splash enemies for bonus 50 / 80 / 110 /140 (+90% AP) +7% magic damage of their max Health.
+
+Charges forward, colliding with the first enemy hit to deal 70 / 135 / 200 / 265 (+70% AP) magic damage to nearby enemies. Enemies hit are also bumped backwards, stunning them for 1 second.
+
+Body Slam's cooldown is reduced by 3 seconds if it succesfully collides with an enemy.
+
+Gragas is a flexible champion that can be played in multiple roles with various builds thanks to his high damage numbers, sustain and utility. He has numerous abilities that can crowd control enemies and has the potential to one-shot any enemy carries with one combo. Gragas does decent enough in the early game; however, as the game goes on and Gragas gets a few levels and his core items, he can pull off some nice combos to carry team fights. One of the best combos you can do with Gragas is hitting Body Slam and then using his Barrel Roll and Explosive Cask to deal a lot of burst damage.
+
+This guide is focused on Gragas mid-lane; however, he can also be played in the Jungle; make sure to check the alternative build at the top of the page! The build with Gragas jungle is very similar. In terms of playstyle, nothing changes when playing different roles. Just try and hit your combos on a high-value target.
+
+Casting an ability restores health. This passive helps Gragas stay healthy in the laning phase and when clearing through the jungle. The passive works best with Drunken Rage since it has a very low cooldown, and you will also take reduced damage.
+
+Gragas rolls a barrel to a target location that explodes upon re-casting or after a few seconds. Enemies hit take magic damage and are slowed for a few seconds. The damage and the slow amount increases over the first few seconds when the Barrel is on the ground. This is indicated when the Barrel turns red, and most of the time, you want to wait for that indicator before recasting to deal extra damage.
+
+This Ability is excellent for poking enemies in the laning phase or to last hit minions if you don't feel comfortable walking up.
+
+Barrel Roll also reveals the area hit, so if you are scared to check a brush, throw your Barrel in to check if someone is there before walking in.
+
+When used, Gragas takes reduced damage for a few seconds. Gragas cannot attack or cast spells during this Abilities animation, so activate it early before fighting or in a safe place.
+
+Within a few seconds after using Drunken Rage, the next attack is empowered to splash nearby enemies for bonus magic damage. It's important to always use Drunken Rage before looking to engage onto an enemy so you don't waste time using the ability when you are next to the champion.
+
+This is Gragas's primary engage tool. He charges forward, colliding with the first enemy hit to deal magic damage to nearby enemies. Enemies hit are also bumped backwards, stunning them for a second. Body Slam's cooldown is reduced by a few seconds if it collides with an enemy successfully.
+
+You can combo Body Slam with Flash to extend the range of this ability. This will catch a lot of enemies off guard and give them less time to react or dodge. To do this combo correctly, you need to use Body Slam, and whilst you are in the charge animation, use Flash, and the animation will carry on.
+
+Gragas hurls a barrel that explodes when it lands, dealing magic damage and knocking enemies away from the explosion's centre. Explosive Cask can make or break a team fight. You can knock an enemy into your team and burst them down or knock them away to save them. So always be careful when using Explosive Cask.
+
+When used correctly, you can use your ultimate at the start of the fight to knock enemies towards you. Then you can combo that with Body Slam to stun them, followed by a Drunken Rage auto-attack to deal a lot of damage.
+
+Since Gragas has high Ability Power damage ratios, he loves items that give him a lot of Ability Power to do more damage with his abilities and combos. Lich Bane increases Gragas's auto attack damage after using Drunken Rage giving him another way to burst enemy champions. After Lich Bane you want to build more Ability Power items Rabadon's Deathcap and Awakened Soulstealer to increase your overall ability power.
+
+With runes, we have:
+
+Gragas barrels are a great way to proc First Strike, giving him extra damage and money to help you scale and buy items sooner.
+
+When playing Gragas you will be using Body Slam to try and stun enemy champions to be able to follow it up with a lot of damage which Sudden Impact will help with.
+
+When Gragas engages with his Body Slam you want to make sure to auto-attack afterwards with Drunken Rage and with Empowered Attack this will deal more damage.
+
+Eyeball Collector is great since it gives Gragas more Ability Power every time he gets a takedown. Zombie Ward can also be a good choice if you often roam and look to kill wards.
+
+Since Gragas is a melee champion and will be dashing in a lot, he will be vulnerable to taking a lot of damage. Bone Plating will help Gragas take reduced damage from the first three instances of damage which will help him survive longer.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for that killing blow. Flash can also be combo'd with Body Slam to extend the range. For the 2nd spell, Ignite is amazing for Gragas when looking for solo kills. Ignite will help you deal that extra bit of damage over time.
+
+Gragas does quite well in the laning phase. You can use his Barrel Roll to poke enemies and last-hit minions when needed. This will also heal Gragas because of his passive Happy Hour at the same time. Once you hit level 3 and have all basic abilities, you can look for a solo kill on the enemy. First, use your Drunken Rage to enhance your next auto attack, then use Gragas's Body Slam to collide with the enemy and finish the combo by using your Barrel Roll. This will also proc Electrocute to deal a lot of early-game burst damage.
+
+Gragas scales well into the late game since we are going for a full-damage AP build. He deals a lot of damage with his abilities and combos; however, he can be very squishy and die fast, so keep that in mind when looking to engage. With Gragas, you always want to stay grouped with your team. Gragas has a lot of crowd control that can be used to help his team get an advantage. When you are grouped with your team and about to have a team fight, the best thing you want to do is jump to their backline, where you can kill the enemy carries.
+
+Overall, Gragas is a great carry champion that has a lot of simple combos that can win you any game of Wild Rift. He can punish any enemy if they step out of place and he has a huge presence in team fights but sometimes for the wrong reason.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

@@ -1,0 +1,115 @@
+Title: Corki :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Corki in League of Legends: Wild Rift. Our build guide will teach you how to play Corki in the current meta.
+
+Headings:
+- Level 1 Corki Stats
+- Corki's Abilities
+- Corki  Build Guide for Wild Rift
+- Corki's Item Build
+- Corki's Spells & Runes
+- Corki's Situational Items
+- Corki's Situational Runes
+- Corki's Skill Order
+- Corki's Item Build
+- Corki's Spells & Runes
+- Corki's Situational Items
+- Corki's Situational Runes
+- Corki's Skill Order
+- How to play Corki
+- Corki's Abilities
+- Hextech Munitions (Passive)
+- Phosphorus Bomb (1)
+- Valkyrie (2)
+- Gatling Gun (3)
+- Missile Barrage (Ultimate)
+- Corki Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Hextech Shrapnel: Attacks deal 11 (20% AD) physical damage + 42 (80% AD) magic damage.
+
+The Package: After 4 minutes, The Package is delivered to Corki's base. Corki can pick it up to gain the ability to cast Special delivery, wich grants him 35% Movement Speed out of combat for 45 seconds. A new Package arrives every 150 seconds.
+
+Dashes forward, leaving a flaming zone that deals 60 / 100 / 140 / 180 (+40% AP) magic damage per second for 3 seconds.
+
+Special Delivery: Enemies are knocked aside and the zone deals 27 (+150% AD +20% AP) magic damage per second for 5 seconds and slows by 90%.
+
+Fires a missile, dealing 80 / 115 / 150 (+25% / 50% / 75% AD +20% AP) magic damage.
+
+Big One: Every third missile fired deals 160 / 230 / 300 (+50% / 100% / 150% AD +40% AP) magic damage and has increased range and blast radius.
+
+Corki is a marksman who can play in the Duo Lane. He's a unique marksman who mainly builds attack damage but does magic damage from his auto attacks and abilities. This means Corki can be adaptable and flexible based on the enemy team and itemize in ways other marksman can't. One of Corki's main carry tools comes from his Package from his passive, Hextech Munitions. Be sure to keep an eye on your base to see when your Package is available. This will grant Corki bonus movement speed and an empowered cast of Valkyrie that can make a huge difference, especially during teamfights around objectives.
+
+Make sure to check the alternative build at the top of the page for playing Corki in the Mid Lane.
+
+Corki's attacks deal 20% physical damage and 80% magic damage.
+
+This means that even if Corki builds attack damage items, he will mainly deal magic damage. This makes Corki a good pick when your team has a lot of physical damage, which makes it very hard for the enemy to itemize against you.
+
+The Package: After 4 minutes, The Package is delivered to Corki's base. Corki can pick it up to gain the ability to cast Special Delivery, which grants him bonus movement speed while out of combat. A new package arrives every few minutes.
+
+TPackageage is extremely powerful around big objective fights (Baron and Dragon) and should always be kept available for these fights. Special Delivery does a lot of damage and can split a teamfight, allowing you to isolate backline carries and isolate them.
+
+Corki fires a bomb, dealing magic damage and granting vision of the area.
+
+Phosphorus Bomb is an excellent poking ability. It can be used during the laning phase to poke enemy champions or safely farm minions. It can also be deadly in the late game.
+
+Corki can also use Phosphorus Bomb to reveal invisible champions and check bushes before walking into them to see if any hidden champions are ready to ambush.
+
+Corki dashes, leaving a flaming zone that deals magic damage over time for a few seconds.
+
+Valkyrie allows Corki to maneuver around the map, making him one of the safest marksman to play. Valkyrie can cross most walls, giving Corki an escape mechanic when in danger. When you pick up The Package, Valkyrie will turn into Special Delivery.
+
+Special Delivery knocks enemies aside, and the zone does more damage for longer, slowing enemies that cross over it. When you use Special Delivery, you can use Valkyrie straight after to reposition in a fight.
+
+Corki fires his Gatling gun, dealing magic damage over time for a few seconds. This ability also shreds Magic Resist for a few seconds.
+
+Gatling Gun makes Corki a great pick against tanks and bruisers who tend to build defensive items since he'll be able to shred through most of it giving him and his team more damage. When the Gatling Gun is firing, you can still auto-attack and use other abilities which is essential to dealing as much damage as possible. The direction of the gun firing changes depending on where Corki is facing. If you have locked onto a target, Corki will continue facing forward even when walking away.
+
+Corki fires a missile, dealing magic damage. Every third missile fired deals bonus magic damage and has increased range and blast radius.
+
+Missile Barrage is a consistent poke tool that turns into a barrage in the late game. You'll know which missle Corki is on by looking underneath Corki's mana bar. Managing which missile Corki is on is important since you want to save the big missiles for teamfights.
+
+Muramana synergizes perfectly with Corki's playstyle and builds. His kit revolved around his basic attack and using a lot of abilities. The mana gives you more opportunities to use abilities throughout the game without worrying about running out.
+
+Trinity Force gives Corki great stats and is built for the Sheen passive. If you can mix in auto attacks with Corki's abilities, your damage output will increase substantially.
+
+Riftmaker allows Corki to do true damage. Since you will be using Corki's abilities to poke and stay in combat, after a few seconds, he can use Valkyrie to dash in, deal true damage and win every fight.
+
+For runes:
+
+Corki can use his poking abilities to stack Conqueror, allowing him to deal more damage and have more healing when he finds the right time to Valkyrie forward in fights.
+
+Brutal increases the damage of Corki's auto attacks, helping him deal more damage when he combines his auto attacks with abilities.
+
+Coup de Grace provides additional damage that helps burst enemies you are looking to use Valkyrie to dash into fights.
+
+Giant Slayer is another good option when playing against bruisers and Tanks that build a lot of health.
+
+Legend: Bloodline gives Corki omnivamp meaning that he can heal from both the Physical and Magic damage he is dealing throughout the game. This gives insane synergy and helps his sustainability throughout the game.
+
+Bone Plating is an excellent choice for surviving all-ins from enemy champions or if your Valkyrie too far forward. As the carry for your team, you'll get a lot of focus from the enemies.
+
+Flash is a must-have. It helps you to be safe in the laning phase and can be used with your Package and Valkyrie to dodge abilities and get away to safety.Exhaust helps Corki win duels in the early game and helps you survive burst damage from enemy carries in the late game.
+
+In the Early Game, Corki is one of the safest champions to play. He wants to use this safe playstyle to farm as much as possible to get his core items. When in a bad situation, Corki can use Valkyrie to escape and return to his tower. This means most of the time, you want to save Valkyrie and not use it aggressively since you want to save it to escape from ganks. Phosphorus Bomb can be used to poke the enemy champion when they walk up to last hit minions or used to last hit minions yourself. At 4 minutes in the game, you will hear a sound! This will be your Package, make sure you return to base and pick it up. This will give you a chance to roam for the upcoming objective fights.
+
+Corki's strength comes in the late game. With his upgraded Muramana, core items, and upgraded abilities, he can deal a lot of damage in teamfights. Ensure you always listen and keep track of when your Package is up and available, as this will help a lot during teamfights around objectives. In team fights, you want to hang back regardless of how far ahead you are. By now the enemy will recognise your strength and they will try and focus you. Poke down enemies with Missle Barrage and Phosphorus Bomb on any.
+
+Overall Corki is a fairly easy champion to pick up and play due to his kit being easy to understand with no crazy combos to learn. Although Corki doesn't have any crowd control, he makes up for it with his insane DPS potential.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

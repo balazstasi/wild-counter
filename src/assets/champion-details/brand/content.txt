@@ -1,0 +1,121 @@
+Title: Brand :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Brand in League of Legends: Wild Rift. Our build guide will teach you how to play Brand in the current meta.
+
+Headings:
+- Level 1 Brand Stats
+- Brand's Abilities
+- Brand  Build Guide for Wild Rift
+- Brand's Item Build
+- Brand's Spells & Runes
+- Brand's Situational Items
+- Brand's Situational Runes
+- Brand's Skill Order
+- Brand's Item Build
+- Brand's Spells & Runes
+- Brand's Situational Items
+- Brand's Situational Runes
+- Brand's Skill Order
+- How to play Brand
+- Brand's Abilites
+- Blaze (Passive)
+- Sear (1)
+- Pillar of Flame (2)
+- Conflagration (3)
+- Pyroclasm (Ultimate)
+- Brand Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Brand's abilities set enemies Ablaze, dealing 3% of their max Health as magic damage over 4 seconds.
+
+Stacking Ablaze 3 times on champions and large monsters causes them to detonate after 2 seconds, dealing 10% (+0.02% AP) of each nearby enemy's max Health as magic damage
+
+Enemies that detonate cannot stack Ablaze again within 4 seconds.
+
+Releases a torrent of flame that bounces up to 5 times between enemies or himself, each bounce dealing 100 / 200 / 300 (+30% AP) magic damage.
+
+Blaze: Pyroclasm briefly slows by 30% / 40% / 50% if the target is ablaze. Bounces attempt to max stack Blaze on champions.
+
+Brand is a mage who can play in the Mid Lane or Dragon Lane as a Support. Brand provides a ton of crowd control and aoe damage with his abilities and items. Before using Sear, make sure to use another ability beforehand to land a stun on an isolated target. Usually, this can cause a lot of burst damage to enemy champions. Since Brand has a lack of mobility positioning is always crucial. If any crowd control catches you, prepare to suffer.
+
+Make sure to check the alternative build at the top of the page for playing Brand in the Duo Lane as a Support.
+
+Pre 5 Combo
+
+All-In Combo
+
+Brand's abilities set enemies ablaze, dealing a percentage of their max health as magic damage. Stacking ablaze 3 times on champions or large monsters causes them to detonate after a few seconds, dealing a massive burst of magic damage. When you set enemies ablaze with an ability, the next ability you land on that target will be enhanced, which I will talk about with each ability.
+
+Getting 3 stacks of Blaze on an enemy is vital for Brand's damage output. If the enemy team is clumped, you can cause a huge chain reaction as the detonation has an aoe effect.
+
+Brand launches a fireball that deals magic damage to the first enemy hit.
+
+Blaze: Sear stuns for just over a second if the target is already ablaze from Brand's passive.
+
+It's important to note that minions and monsters can block this ability, so when hitting this ability on an enemy champion, make sure there are no minions or monsters in between that can block it. When using Sear, you usually want to be patient and save Sear for when a target is already ablaze. Stunning the target will make landing your other abilities much more manageable.
+
+After a short delay Brand fire erupts at a location dealing magic damage.
+
+Blaze: Pillar of Flame deals increased damage to enemies that are ablaze.
+
+Pillar of Flame is Brand's primary damage and poke ability. During the laning phase, this can be a huge threat to enemy champions when they walk up to try and last hit minions. Since there is a brief delay, you sometimes have to predict the enemy's movement or stun them beforehand with Sear to guarantee the hit.
+
+Brand ignites enemies near the target dealing magic damage.
+
+Blaze: Conflagration spreads farther if the target is ablaze.
+
+Conflagration is the easiest way to set the enemies ablaze and is mainly used to enable other abilities to stun and deal more damage. Conflagration can also be used on a minion to hit nearby enemy champions since it's an aoe ability without any requirements.
+
+Brand releases a torrent of flame that bounces up to 5 times between enemy champions, minions, monsters or himself, each bounce dealing magic damage.
+
+Blaze: Pyroclasm briefly slows enemies if the target is ablaze. Bounces will apply max stack Blaze on enemy champions.
+
+Pyroclasm has the potential to do insane damage during teamfights. The aoe damage from Pyroclasm and Blaze makes it extremely difficult for the enemies to chase you. If there are no other enemies nearby, when using Pyroclasm, use yourself to increase the damage output.
+
+Liandry's Torment is the best item for Brand. Liandry's passive Torment always works with his passive Blaze, meaning that even if enemies escape a fight, they will still be taking a lot of damage over time.
+
+Rabadon's Deathcap gives Brand a massive boost of Ability Power, which scales incredibly well into the mid and late-game. Having Deathcap in your build is essential to help with Brand's damage output.
+
+Infinity Orb helps Brand deal bonus damage to enemies who are low on health. Again, this also works with his passive Blaze, so when you do a huge amount of aoe damage, you can become a burst mage.
+
+With runes, we have the following:
+
+Electrocute gives Brand more burst damage when using his combo. This works exceptionally well when Brand's Sear stuns an enemy champion.
+
+Gathering Storm gives Brand scaling Ability Power throughout the game. So the longer the game goes, the more damage Brand will do.
+
+Coup de Grace helps Brand deal more damage to low-health enemies even if they are on fire from Blaze.
+
+Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+The healing from Legend: Bloodline will benefit Brand when he deals damage over time for the sustain and survivability.
+
+Transcendence gives Brand the ability haste he needs to perform his combos more often during the game. This is crucial to help with Brand's damage output and setting enemies ablaze.
+
+When vs aggressive assassins, it's best to take Bone Plating to reduce the enemy's damage.
+
+Flash is the most important Summoner Spell for Brand. It can be used to disengage from enemy champions or aggressively deal burst damage and follow up his combos.
+
+Ignite increases Brand's burst damage potential and gives him more opportunities to deal damage when stunning enemies with Sear.
+
+In the early game, Brand offers a wide variety of damage with his abilities. Pillar of Flame can be used as early as level 1 to poke enemy champions from a safe distance. At level 3 you will have access to his pre 5 combo. Using Conflagration to guarantee the enemies will be ablaze, into the stun from Sear and then the extra damage from Pillar of Flame. This combo does a lot of damage during the early game and can help you get an advantage. However, when your abilities are on cooldown, you will become quite vulnerable, so stay safe until your abilities are back up and available.
+
+In the late game, Brand becomes one of the best teamfight damage dealers with his huge aoe damage from his Ultimate and Blaze. Don't be afraid to use your abilities on the front line. Brand is a champion who struggles to access backline carries; however, his aoe damage can sometimes be enough to bounce to the backline, helping your team finish them off. Brand is a champion with low mobility and is very squishy, so you will need to be wary about your positioning throughout the late game to ensure you are not caught out.
+
+Overall, Brand is a fun skill shot champion that offers huge aoe damage for teamfights. He can catch enemies off guard and burst them from 100 to 0 very quickly with his crowd control and damage from his abilities.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

@@ -1,0 +1,136 @@
+Title: Viktor :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Viktor in League of Legends: Wild Rift. Our build guide will teach you how to play Viktor in the current meta.
+
+Headings:
+- Level 1 Viktor Stats
+- Viktor's Abilities
+- Viktor  Build Guide for Wild Rift
+- Viktor's Item Build
+- Viktor's Spells & Runes
+- Viktor's Situational Items
+- Viktor's Situational Runes
+- Viktor's Skill Order
+- How to play Viktor
+- Viktor's Abilities
+- Glorious Evolution (Passive)
+- Siphon Power (1)
+- Gravity Field (2)
+- Death Ray (3)
+- Chaos Storm (Ultimate)
+- Viktor Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Gains Hex Fragments whenever Viktor kills an enemy:
+
+- Killing minions or normal monsters grants 3 Hex Fragments.
+
+- Killing epic monsters, siege units, or super minions grants 5 Hex Fragments.
+
+- Champion takedowns grants 25 Hex Fragments.
+
+Every 100 Hex Fragments Viktor gains permanently upgrades an active ability. When all of his basic abilities are upgraded, the Hexcore will be perfected, augmenting Chaos Storm.
+
+Blasts an enemy, dealing 55 / 70 / 85 / 100 (+35% AP) magic damage and gaining a shield that absorbs up to 30 / 55 / 80 / 105 (+15% AP) damage over 2.5 seconds. The next attack within 3.5 seconds deals 20 / 50 / 80 / 110 (+100% AD +50% AP) bonus magic damage.
+
+Upgrade - Turbocharge: This ability's shield absorbs up to 50 / 90 / 130 / 170 (+25% AP) damage and Viktor gains 30% bonus Movement Speed for 2.5 seconds.
+
+Deploys a gravity field for 4 seconds, slowing enemies by 25% / 30% / 35% / 40%. After a short delay, the field applies a Gravitation stack to the target every 0.5 seconds, stacking up to 3 times.
+
+At 3 stacks, all stacks are consumed to stun the target for 1.5 seconds. The target then becomes immune to Gravitation for a short duration.
+
+Upgrade - Slow: The first time Siphon Power, Death Ray, and Chaos Storm deal damage to enemies slow them by an additional 20%.
+
+Fires a chaos beam that cuts across the battlefield in a line, dealing 90 / 130 / 170 / 210 (+45% AP) magic damage to enemies in its path.
+
+Upgrade - Blastquake: After a brief delay, an explosion follows the beam's wake, dealing 30 / 70 / 110 / 150 (+75% AP) magic damage.
+
+Conjures a Chaos Storm at the target location for 5.5 seconds, dealing 150 / 225 / 330 (+60% AP) magic damage to enemies within the area and disrupting their channeled abilities. The storm then deals 50 / 80 / 110 (+35% AP) magic damage to enemies within it every second.
+
+Upgrade - Howl: Chaos Storm moves faster. Champion takedowns empower the storm, extending its duration by 3.5 seconds and increasing its area of effect. The storm can be empowered up to 5 times.
+
+The closer the storm is to Viktor, the faster it moves.
+
+Viktor is a mage who can play in the Mid Lane. He's one of the best scaling mages in the game, with his crazy AOE damage, great zone control, and mobility, thanks to his upgraded Siphon Power. Speaking of upgrades, Viktor can upgrade his basic abilities at every 100 stacks from his passive, Glorious Evolution. The order in which you want to upgrade your abilities are:
+
+Death Ray - Extra explosion after the beam for better waveclear and damage.
+
+Siphon Power - Movement speed helps Viktor kite or chase down enemies.
+
+Gravity Field - Extra slow when dealing damage with his other abilities.
+
+Viktor gains Hex Fragments whenever he kills minions, monsters and champions. For every 100 Hex Fragments, Viktor can upgrade his active abilities. When all of his basic abilities are upgraded, the hex-core will be perfected, upgrading his Chaos Storm.
+
+The great thing about Glorious Evolution is choosing which basic ability you upgrade. You want to upgrade Death Ray for the bonus damage, then Siphon Power for the movement speed and finally Gravity Field to help him slow enemies more often.
+
+Viktor blasts an enemy, dealing magic damage and gaining a shield that absorbs damage. The next attack deals bonus magic damage.
+
+Upgrade: Siphon Power's shield absorbs more damage, and Viktor gains movement speed for a few seconds.
+
+Siphon Power is an excellent tool during the laning phase. You should always be looking to trade with the enemy using this ability, as it does a lot of damage and gives you a shield, guaranteeing you will win most trades. If you are low in a fight, ticking down from an ability or Ignite, look around for something to use Siphon Power on to save your life.
+
+Viktor deploys a gravity field for a few seconds, slowing enemies. After a short delay, the field applies a stack to the target. At 3 stacks, all stacks are consumed to stun the target for 1.5 seconds.
+
+Upgrade: The first time any of Viktor's basic abilities deals damage to enemies, slow them by an additional amount.
+
+This ability is great when placed at choke points. It forces enemies away from teamfights or objectives since they won't be able to cross over the field. Since Gravity Field takes a while to ramp up and stun enemies, you don't want to place this directly below enemies. Try to manually cast it in the path so they are guaranteed to be stunned, or put it below you, forcing the enemies to walk around it, giving you more time to deal more damage.
+
+Viktor fires a chaos beam that casts in a line, dealing magic damage to enemies in its path.
+
+Upgrade: After a brief delay, an explosion follows the beam's wake, dealing more magic damage.
+
+Death Ray is Viktor's most important ability. It's his main damage source outside of his ultimate. It's also his main waveclear tool; when upgraded, you can clear an entire minion wave with one Death Ray. The difficulty with Death Ray is the aiming. It is one of the most complicated abilities to learn and master.
+
+You can auto-cast the ability to start the laser at the nearest enemy and auto-aim in an area. Even though this is the quickest way to use Death Ray, it can be pretty unreliable. Alternatively, when aiming Death Ray, you can tap the tick button, and you'll be able to aim the laser and activate it in any direction. This can be difficult to get used to, but it's the best way to aim and deal damage with Death Ray.
+
+Viktor conjures a Chaos Storm at the target location for a few seconds, dealing magic damage to enemies within the area. The storm then deals more magic damage every second.
+
+Upgrade: Chaos Storm moves faster. Champion takedowns empower the storm, extending its duration and increasing its area of effect.
+
+After casting Chaos Storm, you can hold and drag the ability button to direct the storm to a different location. Chaos Storm gives Viktor a ton of AOE damage and makes him a significant threat that needs to be dealt with. Chaos Storm can also interrupt enemy channelling abilities to stop some huge abilities on the enemy team.
+
+Luden's Echo gives Viktor a much-needed mana item whilst also being able to deal a lot of burst damage and help you clear minions waves faster.
+
+Lich Bane synergizes exceptionally well with Siphon Power since you will always be auto-attacking after using this ability, giving you more damage output.
+
+Rabadon's Deathcap gives Viktor a massive boost of Ability Power, which scales incredibly well into the mid and late game. It's essential to have in your build to help with Viktor's overall damage.
+
+For runes, we have the following:
+
+Electrocute helps Viktor with his burst damage, especially during the early game. You can utilize Siphon Power and Death Ray to bully out enemy champions during the laning phase.
+
+Phase Rush is another great option for more survivability.
+
+Shield Bash is a unique rune for Viktor but works so well with Siphon Power since you will be auto-attacking after using an ability to make full use of the shield you'll be getting.
+
+Empowered Attack helps you deal more damage when auto-attacking after using Siphon Power.
+
+Eyeball Collector is the best rune in this row, giving Viktor more ability power every time he gets a takedown.
+
+The Ability Haste from Transcendence allows Viktor to use his abilities more often. When they are upgraded, this can make a huge difference.
+
+When vs aggressive assassins, it's best to take Bone Plating to reduce the enemy's damage.
+
+Flash is the most important Summoner Spell for Viktor. It's the best offensive and defensive summoner spell in the game and allows Viktor to play flexibly throughout the game. Ignite offers extra damage and enhances Viktor's burst damage to help secure kills.
+
+In the Early Game, Viktor has the option to play aggressively or defensively, depending on the matchup. You can start with Siphon Power and utilize the shield early on with the bonus damage from Shield Bash and Empowered Attack. During the laning phase, your main goal is to farm as much as possible and get as many Hex Fragments as possible. Once you have 100 Hex Fragments from Glorious Evolution, Viktor can upgrade his Death Ray. With this on top of Luden's Echo, Viktor can start clearing minion waves and look to roam to impact the rest of the map. However, when it comes to roaming, be careful as you don't have a lot of mobility early on until you hit your upgraded Siphon Power for movement speed.
+
+Late Game is where Viktor shines. You want to group with your team constantly. Viktor does huge AOE damage, making him a significant threat to the enemy team. However, he is very squishy, so he needs the support and protection from his team. Make sure to utilize the slows from Gravity Field and movement speed from Siphon Power help reposition during teamfights. You should never be by yourself; the only time you want to be in a side lane is to clear minions waves to help with your Hex Fragment stacking.
+
+Overall, Viktor is a highly skilled champion who has the potential to do insane AOE damage to carry a fight. However, positioning and aiming your abilities will be crucial to making it work.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

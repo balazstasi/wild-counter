@@ -1,0 +1,68 @@
+Title: Rakan :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Rakan in League of Legends: Wild Rift. Our build guide will teach you how to play Rakan in the current meta.
+
+Headings:
+- Level 1 Rakan Stats
+- Rakan's Abilities
+- Rakan  Build Guide for Wild Rift
+- Rakan's Item Build
+- Rakan's Spells & Runes
+- Rakan's Situational Items
+- Rakan's Situational Runes
+- Rakan's Skill Order
+- How to play Rakan
+- Rakan Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Every 40 seconds, gain a 31 (+80% AP) health shield. Attacks and abilities on enemy champions reduce this cooldown by 1 second.
+
+Lover's Leap: Xayah and Rakan can join each other's recall. Both will reach Summoming Platform at the time of wich the initiator's recall ends.
+
+Fling a magical feather that deals 80 / 140 / 200 / 260 (+60% AP) magic damage to the first enemy hit.
+
+If the feather hits a champion or epic monster, Rakan restores 22 (+70% AP) health to himself and nearby allies after 3 seconds or when he touches an ally.
+
+Flies to an allied champion, granting them a shield that absorbs 50 / 80 / 110 / 140 (+65% AP) damage for 3 seconds. Can be re-cast for free within 5 seconds.
+
+When cast on Xayah, the shield amount is increased by 25% and the cooldown is reduced.
+
+Rakan is a support champion. He excels at engaging with his heavy crowd control abilities and getting out with his high mobility. Rakan has a great level 3 power spike, being able to jump in with Grand Entrance and then dash out after shielding his teammate with Battle Dance. In the late game, Rakan uses that mobility to get a huge team fight The Quickness to charm the whole enemy team. When paired with Xayah in the bot lane, Rakan's passive and Battle Dance get enhanced. You can recall with Xayah at any point and if you shield Xayah, she gets a stronger shield compared to everyone else on your team. This makes Xayah and Rakan a perfect bot lane combo.
+
+Rakan does amazing with tank/support items that can help him stay alive whilst going into the enemies with his crowd control. Imperial Mandate is a core item for Rakan. Grand Entrance and The Quickness are two abilities that can immobilize multiple enemies at once, meaning Rakan will deal more damage thanks to Mandate. Zeke's Convergence is another great item for Rakan. This item will slow and damage nearby enemies when you use his ultimate giving you more carry potential.
+
+With runes, we have the following:
+
+With Rakan's Combo, when he dashes in with Grand Entrance, he can easily proc Electrocute, which gives him more damage.
+
+Grand Entrance works as a dash, giving Rakan Magic Penetration thanks to Sudden Impact. This helps Rakan deal more damage and be more of a carry for his team.
+
+Rakan's Grand Entrance is used multiple times during team fights to try and immobilize enemy champions. With Cheap Shot, he can deal true damage when Rakan lands Grand Entrance.
+
+Eyeball Collector is great since it gives Rakan more Ability Power every time she gets a takedown. Zombie Ward can also be a good choice if you often roam and look to kill wards.
+
+Rakan is one of the best engage champions in the game with multiple abilities being able to win a game in a matter of seconds. Transcendence's ability haste means Rakan can use his abilities more often to go for game-changing plays.
+
+For summoner spells, Flash is a must on most champions. It works really well on Rakan, allowing you to Flash in and charm the whole team with your Ultimate or knock everyone up with Grand Entrance. Ignite is a nice way to get that extra little bit of damage with Rakan when he is jumping in on the enemy team to try and 'secure' the kill!
+
+Rakan can struggle against ranged champions early on especially at level 1. The best thing to do is stay safe at level 1, then when you hit level 2/3 you can use Grand Entrance on the enemies to try and get a good trade or maybe even potentially get an early kill. Once you hit level 5 and get The Quickness, you can engage at any point (just make sure your team is ready to go in with you). Rakan also has great roaming potential because of his amazing crowd control. You can go to mid lane and help your team out by trying to get an advantage or maybe even a kill on the enemy mid laner.
+
+It's really important as a support to stay with your team! Your job is to try and get your team grouped up for a big 5 vs 5 team fight, this where you thrive. If you can get a huge combo off on the enemy team or an important target, your team can follow up and kill everyone. If this is not possible, the best option you have is to stick by your AD Carry (Dragon Lane Champion). The AD Carry in your team is one of the main damage sources and keeping he/her alive is really important! Use your Battle Dance and healing from Gleaming Quill to keep your AD alive.
+
+Overall Rakan is a super fun champion to play! If you like being at the forefront of engages and having lots of crowd control whilst also being super mobile to stay alive then Rakan is the champion for you!
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

@@ -1,0 +1,117 @@
+Title: Lucian :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Lucian in League of Legends: Wild Rift. Our build guide will teach you how to play Lucian in the current meta.
+
+Headings:
+- Level 1 Lucian Stats
+- Lucian's Abilities
+- Lucian  Build Guide for Wild Rift
+- Lucian's Item Build
+- Lucian's Spells & Runes
+- Lucian's Situational Items
+- Lucian's Situational Runes
+- Lucian's Skill Order
+- Lucian's Item Build
+- Lucian's Spells & Runes
+- Lucian's Situational Items
+- Lucian's Situational Runes
+- Lucian's Skill Order
+- How to play Lucian
+- Lucian's Abilities
+- Lightslinger (Passive)
+- Piercing Light (1)
+- Ardent Blaze (2)
+- Relentless Pursuit (3)
+- The Culling (Ultimate)
+- Lucain Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+After using an Ability, Lucian's next Attack within 3.5 seconds will fire two shots.
+
+The second shot deals 40% / 52.5% / 65% physical damage, increased to 100% against minions. The second shot is a separate Attack that applies on-hit effects and can critical strike.
+
+Vigilance: When healed or shielded by allied champions, or when a nearby enemy champion is immobilized, Lucian's next two attacks deal an additional 20 (+10% AD) magic damage (stores up to four empowered attacks).
+
+Fires a shot that explodes at the end of its range or on the first enemy hit, dealing 75 / 125 / 175 / 225 (+90% AP) magic damage, briefly revealing enemies and marking them for 6 seconds.
+
+When Lucian or an ally damages a marked enemy, Lucian gains 65 / 70 / 75 / 80 Movement Speed for 1 second. When allied champions trigger the mark, it grants Lucian Vigilance.
+
+Quickly dashes a short distance.
+
+Cooldown is reduced by 1 second whenever Lucian hits an enemy with Lightslinger ( 2 seconds for champions).
+
+Fires rapidly in a direction for 3 seconds. Each shot deals 20 / 40 / 60 (+25% AD +10% AP) physical damage to the first enemy hit. Fires a total of 22 / 26 / 30 bullets.
+
+Lucian may use Relentless Pursuit during The Culling.Recast to cancel early.
+
+Minions take 200% damage from The Culling.
+
+Lucian is a marksman that focuses on building AD items to deal high amounts of damage. Lucian is a very mobile and aggressive champion especially in the laning phase and can do well against many matchups. He can greatly damage the enemies so when you find an opportunity to dash in and take advantage of your passive (Lightslinger), it's always best to take that opportunity. As the game goes on you scale effectively into the mid and late game, especially if you understand Lucian's combo.
+
+With this combo, you can get 2 (sometimes even 3) dashes off from Relentless Pursuit in a teamfight which is crucial when trying to go in for kills or dash out to safety.
+
+Lucian can also be played in the mid lane, make sure to check the alternative build at the top of the page! With Lucian mid, you can play aggressively into a lot of matchups to get an advantage early on. The build is very similar
+
+After using an Ability, Lucian's next attack within a few seconds will fire two shots. This is the most important part of Lucian's kit, making sure you auto attack in between abilities is super important as it allows you to deal more damage and being able to dash more with your 3rd ability, Relentless Pursuit.
+
+Lucian's second shot deals 50% of your physical damage. The second shot is a separate attack that applies on-hit effects and can critically strike. This works really well with Kraken Slayer as it counts towards the three auto attacks to deal true damage.
+
+Lucian shoots a bolt of piercing light through an enemy unit, damaging enemies in a line for physical damage. When using this ability it's important to aim it so Lucian can hit multiple targets at the same time.
+
+This works well especially in the laning phase as you can line a minion up with a champion and hit them both.
+
+Lucian fires a shot that explodes at the end of its range or on the first enemy hit, dealing magic damage, briefly revealing enemies and marking them for a few seconds. As Lucian when you are scared to walk into a bush that you don't have vision in, it's always best to use Ardent Blaze to check it. If it hits someone you know they are in there. If it hits no one you are ok to walk in safely.
+
+When Lucian or an ally damages a marked enemy, Lucian gains bonus movement speed for a second. This allows Lucian to be more mobile when he is moving around in fights. On top of your 3rd ability (Relentless Pursuit), this makes Lucian a very mobile and safe AD Carry to play.
+
+Lucian quickly dashes a short distance. This can go through some small walls but not every wall. I'd recommend going into practice mode and try dashing through walls to see which you can and cannot dash through.
+
+The cooldown of Relentless Pursuit is reduced by a second whenever Lucian hits an enemy with Lightslinger. This is really important and should be utilized when possible. Doing your combo and making the most of your passive allows you to dash 2 or 3 times during a fight.
+
+Lucian fires rapidly in a direction for a few seconds. Each shot deals physical damage to the first enemy hit. Lucian cannot change the direction of The Culling so make sure you aim it in the right direction so you don't waste any shots.
+
+Lucian can move and use Relentless Pursuit during the ultimate so if an enemy tries to escape you can try and chase after them to land more shots.
+
+You can recast the ability (tap the ability whilst active) to cancel early. You mainly use this if there is an enemy that is really close that you want to auto-attack or if you are not hitting anything.
+
+Lucian performs well when building attack damage and ability haste to use his combo as much as possible. He also benefits significantly from attack speed and critical strike chance. With Lucian being an early-game champion, Bloodthirster can allow him to deal a lot of damage compared to other items. Magnetic Blaster gives Lucian much-needed attack range to help with his survivability.
+
+Onto the runes, we have:
+
+Lucian's passive, Lightslinger allows Lucian to auto attack twice after using an ability. This is a great way to stack Press the Attack and make someone vulnerable.
+
+With Lucian's aggressive playstyle and abilities, he will always be taking trades and auto-attacking enemy champions, especially with his passive Lightslinger; this means the extra damage from Brutal can greatly help.
+
+When enemy champions are low on health, Lucian can deal bonus damage. This will help Lucian kill enemies when dashing in. Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+The healing from Bloodline will be more beneficial for Lucian for the sustain and survivability compared to attack speed from Alacrity. Legend: Tenacity is another excellent option when playing against champions that have Crowd Control.
+
+As a marksman, Lucian will always be the main focus for the enemy team to try and take down. However, Bone Plating will help Lucian take reduced damage from the first three instances of damage which can save his life.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a sticky situation or if you're trying to go in for the killing blow! The go-to 2nd spell is Exhaust. Lucian doesn't have the longest attack range and he will be dashing around a lot which means you'll get in range to use Exhaust to easily win fights.
+
+Lucian is strong in the early game thanks to his high base damage and abilities that allow him to play aggressively. When using your Piercing Light try and link it up so it hits both the minions and champions so you can get a little bit of poke damage whilst also farming.
+
+In the laning phase, be careful when using your Relentless Pursuit aggressively as it has a long cooldown early on so you might get caught out without a way to escape. When using your abilities make sure to auto-attack in between so you can reduce its cooldown and deal more damage.
+
+Once you reach the late game and have your core items, this is where Lucian can be very mobile and deal a lot of damage. Try and use the combo above as much as you can throughout the game so you can dash around a lot and deal damage. This makes Lucian hard to deal with and difficult to kill.
+
+It's always best as an AD Carry to stay grouped with your team. You want to stay as far back from the enemies as possible and allow your front line to go in front of you to tank all the damage. Most of the time you are the main damage output, so if you are caught by yourself and die then your team is in really big trouble. Make sure you stay safe at all times!
+
+Lucian is a very fun and safe champion to play. If you want a champion that can be aggressive in the early game and can snowball into the mid and late-game but can also be safe at the same time then you should buy Lucian and give him a go!
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

@@ -1,0 +1,104 @@
+Title: Blitzcrank :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Blitzcrank in League of Legends: Wild Rift. Our build guide will teach you how to play Blitzcrank in the current meta.
+
+Headings:
+- Level 1 Blitzcrank Stats
+- Blitzcrank's Abilities
+- Blitzcrank  Build Guide for Wild Rift
+- Blitzcrank's Item Build
+- Blitzcrank's Spells & Runes
+- Blitzcrank's Situational Items
+- Blitzcrank's Situational Runes
+- Blitzcrank's Skill Order
+- How to play Blitzcrank
+- Blitzcrank's Abilities
+- Mana Barrier (Passive)
+- Rocket Grab (1)
+- Overdrive (2)
+- Power Fist (3)
+- Static Field (Ultimate)
+- Blitzcrank Build Breakdown
+- Early Game
+- Late game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Gains 50% / 55% / 60% / 65% decaying Movement Speed for 2.5 seconds.
+
+Blitzcrank may reactivate Overdrive to gain 140% / 150% / 160% / 170% decaying Movement Speed for 1.5 seconds.
+
+When Overdrive ends, Blitzcrank is slowed by 33% for 1 second. This is increased to 99% for 1 seconds if Overdrive was recast.
+
+Passive: While Static Field is off cooldown, attacks mark enemies to deal 40 / 80 / 120 (+15% AP) magic damage after 1 second.
+
+Active: Deals 275 / 400 / 525 (+80% AP) magic damage to nearby enemies and silences them for 0.5 seconds.
+
+Blitzcrank is a tank who can play in the duo lane as a Support. He's one of the best engage supports in the game thanks to his game-changing hooks from Rocket Grab. A well-landed hook can instantly turn the tide of a fight in your favor by catching out a key enemy carry. Blitzcrank is also a great tank. When his health is low, he will gain a large shield, which gives him survivability when playing against burst damage.
+
+Blitzcrank gains a shield that absorbs damage for a few seconds upon falling below 35% health. The shield is increased based on your Max Mana, which is why you buy items like Zeke's Convergence & Frozen Heart.
+
+When you have Mana Barrier available, look to play more aggressively. You can use it to bait enemies into a fight where you are low, but you still have your passive.
+
+Blitzcrank fires his right hand to deal magic damage and pulls the target to Blitzcrank.
+
+Rocket Grab is Blitzcrank's main ability, which can instantly change a fight if you hook a high-value target.
+
+The best combo to do is Rocket Grab and Static Field, so they can't use spells or abilities to escape, and then your Power Fist to knock them up.
+
+Blitzcrank gains a lot of movement speed that decays over time. You can reactivate Overdrive to gain more movement speed. However, he will be slowed for 1 second when the Overdrive ends.
+
+Overdrive is Blitzcrank's main gap closer. In some scenarios, you want to use Overdrive to get close enough to use Power Fist and then use Rocket Grab afterwards to chain the crowd control.
+
+Empowers Blitzcrank's next attack to critically strike and knock up the target.
+
+Power Fist is used when you want to initiate onto the enemy or use it to peel your backline. Knockup enemy champions that are chasing your Marksman to protect them.
+
+Passive: While Static Field is available, attacks mark enemies to deal magic damage.
+
+Active: Deals a massive burst of magic damage to nearby enemies and silences them.
+
+Static Field's cast time is instant, so you can use it to deal burst damage and instantly silence enemies. Silencing an enemy means they cannot use abilities or summoner spells to escape. Static Field has a 10-second cooldown in the late game, so don't be afraid to use it for damage.
+
+Zeke's Convergence increases Blitzcrank's damage output and makes it much more difficult for enemies to escape, thanks to the slow after using Static Field.
+
+Frozen Heart gives Blitzcrank much-needed extra mana to be able to use his abilities since he'll be having mana problems throughout the game. His magic damage will also slow the attack speed of enemy champions.
+
+Redemption provides Heal and Shield strength to help with Redemption's healing and Blitzcrank's shield from Mana Barrier.
+
+For runes we have:
+
+Glacial Augment helps with Blitzcrank's already insane amount of crowd control, slowing enemies when Rocket Grab or Power Fist hits them.
+
+Courage of the Colossus gives Blitzcrank more survivability when hitting a Rocket Grab.
+
+Bone Plating will help Blitzcrank against burst damage when he is looking to engage and sprint forward to try and land his Rocket Grab.
+
+Second Wind is excellent against poke champions for the extra healing.
+
+Overgrowth's extra health will help Blitzcrank survive longer, the stacking health will benefit you when you are looking to engage.
+
+When vs Crowd Control Perseverance works great with Blitzcrank, giving him more tank stats to survive.
+
+Hexflash gives Blitzcrank more opportunities to make plays throughout the game when Flash is on cooldown. Use Hexflash in a bush or behind a wall to surprise your opponent and engage with Blitzcrank's Rocket Grab.
+
+You must take Flash in all your games, as you can use it to engage and surprise the enemy or use it to escape bad situations. Also, you need Flash to use Hexflash.Ignite helps Blitzcrank's kill potential especially when he lands a hook. If you hit your hook in the early game you have the potential to kill them with Ignite.
+
+At Level 1 you will instantly have access to Rocket Grab. You should try to use this to create pressure in the Duo Lane; this can be done by simply standing in a bush, making it dangerous for the enemies to walk up and approach the minion wave. When you see an opportunity, land a hook on the enemy. Make sure your marksman is within range to deal damage with you.
+
+In the Late Game, Blitzcrank becomes a horror for the enemy team. Every time they see you approach them, they will be worried that you will hook them into your team. Use this to your advantage by zoning the enemies. This is especially useful around Dragon & Baron. However it's not always best to look for engages. Sometimes, you need to peel for your marksman. This means using Rocket Grab to pull them away from your marksman.
+
+Overall, Blitzcrank is a great beginner champion for you to start your journey as a support. If you like playing champions with a game-changing playstyle with just your Rocket Grab, then Blitzcrank is the perfect champion for you.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

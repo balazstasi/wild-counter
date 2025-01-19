@@ -1,0 +1,75 @@
+Title: Zed :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Zed in League of Legends: Wild Rift. Our build guide will teach you how to play Zed in the current meta.
+
+Headings:
+- Level 1 Zed Stats
+- Zed's Abilities
+- Zed  Build Guide for Wild Rift
+- Zed's Item Build
+- Zed's Spells & Runes
+- Zed's Situational Items
+- Zed's Situational Runes
+- Zed's Skill Order
+- Zed's Item Build
+- Zed's Spells & Runes
+- Zed's Situational Items
+- Zed's Situational Runes
+- Zed's Skill Order
+- How to play Zed
+- Zed Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Passive: Zed gains 35 / 40 / 45 / 50 Energy whenever an ability strikes the same enemy twice. Energy can only be gaines once per cast ability.
+
+Active: Zed's shadow dashes forward, remaining in place for 4.5 seconds. Reactivating Living Shadow will cause Zed to swap positions with his shadow.
+
+Zed and his shadows slash, each dealing 70 / 100 / 130 / 160 (+75 bonus AD) physical damage to nearby enemies and slowing them by 25% / 30% / 35% / 40% for 1.5 seconds. Slashes beyond the first striking the same enemy deal 60% damage and increase the slow by 50%.
+
+Each enemy champion hit by Zed's slash reduces Living Shadow's cooldown by 2 seconds.
+
+Deals 60% damage to monsters.
+
+Zed becomes untargetable and dashes to target enemy champion, marking them. After 2.8 seconds, the mark triggers, dealing 60 (100% AD) physical damage + 30% / 42.5% / 55% of all damage dealt to the target by Zed while the mark was active.
+
+The dash leaves a shadow behind for 6 seconds. Zed can reactivate Death Mark to switch positions with this shadow.
+
+Zed is a mid-lane attack damage assassin. He is a melee champion that can struggle a lot in the early game when trying to walk up and last hit minions. Once you hit level 5 and get Death Mark, you can look to get a solo kill on the enemy or roam around the map with his aggressive playstyle. The main thing to note is that when you active Death Mark, you have a small time frame when it won't do any damage. This is your window to deal as much damage as you can to the enemy with your attacks and abilities. The more damage you do while the champion is marked, the more damage the ultimate will do at the end.
+
+With Zed being an attack damage focused champion, he does really well when you build attack damage. Zed also benefits a lot from armor penetration and ability haste so his ultimate is up and available sooner. Youmuu's Ghostblade and Serylda's Grudge are great items for Zed. It gives him attack damage and ability haste that he needs. Also, both the passives are great. Ghostblade gives him more movement speed when roaming around the map and Serylda's Grudge has a slow effect when you hit his abilities.
+
+For runes, we have the following:
+
+As an Assassin, it's pretty easy for Zed to be the first person to damage enemy champions with Living Shadow, giving him true damage and a lot of extra gold.
+
+As a late game assassin, Zed's early game can be fairly weak, however if you farm safely and get a few items with Gathering Storm he can carry any game
+
+When enemy champions are low on health, Zed can deal bonus damage. This will help Zed jump in and kill enemies faster. Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+Zed doesn't have any healing with his abilities or items we are building so Legend: Bloodline will help with keeping Zed alive. Legend: Tenacity is another great option when playing against champions that have Crowd Control.
+
+As an assassin, Zed is very squishy and will be the main focus for the enemy team when jumping in. With Bone Plating, this will help Zed take reduced damage from the first three instances of damage which can save his life.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for the killing blow. For the 2nd spell, it's best to go for Ignite. When you go in with Zed, you want to try and kill at least one person with your ultimate so using Ignite on them can help you get that little bit of extra damage.
+
+Zed struggles a bit in the early game as a melee champion. Most of the time you want to stay back and wait for the enemy champion to push the minion wave under your tower. You can use your Living Shadow in combination with your 1st and 3rd abilities to farm from a distance. Just make sure you don't press the 2nd ability a 2nd time or you will travel to your shadow, if you do this you can take a lot of damage and be in trouble. Once you hit level 5 this is where you can potentially look for the all-in and try and kill the enemy mid-lane. If you can't find the opportunity in the mid lane, you can try to roam around the map and use your Ultimate in the side lanes.
+
+When you reach the mid and late game and get a few items, this is where Zed can start to become useful since you have quite a lot of mobility and damage that the enemy team has to try and deal with. The best thing you can do is try and look for a solo kills on the enemy team. Try to hide in a bush and wait for the enemy carries to walk near you. This is when you can use your Ultimate and try to get an early advantage in a team fight. When you are grouped with your team and about to have a team fight, the best thing you want to do is get to their backline where you can kill the enemy carries.
+
+Overall Zed is a very fun and mobile champion to play with the ability to out-play the enemy team and deal a lot of damage to a single target and potentially turn a team fight around.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

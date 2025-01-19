@@ -1,0 +1,84 @@
+Title: Master Yi :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Master Yi in League of Legends: Wild Rift. Our build guide will teach you how to play Master Yi in the current meta.
+
+Headings:
+- Level 1 Master Yi Stats
+- Master Yi's Abilities
+- Master Yi  Build Guide for Wild Rift
+- Master Yi's Item Build
+- Master Yi's Spells & Runes
+- Master Yi's Situational Items
+- Master Yi's Situational Runes
+- Master Yi's Skill Order
+- How to play Master Yi
+- Master Yi Build Breakdown
+- Jungle Path
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Becomes untargetable and strikes up to 4 enemies for30 / 70 / 110 / 150 (+60% AD) physical damage. If there are no other targets Master Yi will strike a previous target for 25% damage.
+
+Attacks reduce the cooldown of Alpha Strike by 1 seconds.
+
+Deals 95 / 125 / 155 / 185 bonus damage to monsters and minions.
+
+Can critically strike, dealing 60% bonus damage.
+
+Channels for up to 4 seconds, gaining 55% / 60% / 65% / 70% damage reduction and healing for 40 / 60 / 80 / 100 (+25% AP) each second. Damage reduction increases to 90% during the first 0.5 seconds. Damage reduction effect during the first 0.5 seconds of channeling will continue after the channeling is interrupted.
+
+Heal is increased the lower Master Yi's Health is, up to 100%.
+
+Passive: Gains 8% AD while Wuju style is off cooldown.
+
+Active: Attacks deal 40 / 45 / 50 / 55 (+25% AD) true damage for 5 seconds.
+
+The ability resets attacks.
+
+Passive: Reduces Meditate's Cooldown by 90% and other basic abilities Cooldown by 70% on takedown.
+
+Active: Becomes immune to slows, gains 35% / 45% / 55% Movement Speed and 30% / 50% / 70% Attack Speed for 7 seconds.
+
+Takedowns extend the duration by 7 seconds.
+
+Master Yi is an AD fighter jungler. He is not the best champion in the early game, but once you hit level 5 and get Highlander, he becomes a lot stronger at running down the enemies and dealing serious damage! The best jungle path for Master Yi is to do a full clear early on so you can get level 5 as soon as possible. Master Yi is not the best at ganking as he has no crowd control abilities but if your team lands some crowd control you can follow up and do a lot of damage.
+
+Master Yi is known for building a lot of attack damage and attack speed that can help with his abilities and damage. Blade Of The Ruined King is a great item for Master Yi. It gives him attack damage and attack speed and also has a great passive. The passive is when you hit a champion with 3 basic attacks or abilities, it steals movement speed from that champion. This is ideal when chasing down enemies. After Blade of the Ruined King, you want to keep building attack speed items so you can stack Lethal Tempo fasting and deal more damage.
+
+Onto the runes, we have:
+
+Master Yi loves attack speed. Not only does it help Master Yi do a lot of damage, but basic attacks also reduce the cooldown of Alpha Strike, so you can keep teleporting around doing tons of damage.
+
+With Master Yi, you will be auto-attacking a lot during teamfights as this is your primary source of damage. So, taking Brutal will help your damage output throughout the game.
+
+When enemy champions are low on health, Master Yi can deal bonus damage. This will help Master Yi kill enemies faster. Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+Alacrity gives Master Yi Attack Speed, which will give him some early-game power and allow him to play more aggressively. Legend: Tenacity is another excellent option when playing against champions that have Crowd Control.
+
+Overgrowth allows Master Yi to gain permanent health throughout the game when nearby minions or monsters are killed. So the more he farms in the jungle, the more Maximum Health he will get. This will help Master Yi take more damage and survive when running in for the kills.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for that killing blow. Smite is a must for when you are playing jungle. Helps you out a lot when clearing the jungle and securing the epic monsters.
+
+With Master Yi, he doesn't have the best 1 vs 1 potential vs other junglers early on. This means that most of the time you want to go for a full clear in the jungle which means you work your way through your jungle and kill every camp. When you finish killing every camp in your jungle you will get Level 5 and have access to Highlander. When doing a full clear it's best to start Blue Sentinel as it's a lot easier to get around the jungle. Also, Yi can use a lot of mana in the jungle so it's best to get that regen early on.
+
+This is what the jungle path would look like:
+
+Below is a beginner's guide for jungle in Wild Rift. It goes in-depth about every jungle camp. Epic monsters and more!:
+
+Once you reach the late game with Master Yi and you have your core items, you can start to become useful. As a jungler, your main objective is to keep track of when Dragon's, Rift Herald, and Baron spawn. Taking these epic monsters will give you and your team an advantage in the game. When in a 5 vs 5 team fight your main goal is to get on top of the enemy backline! Try to focus on them and run them down with your Highlander. A tip as well is that your Alpha Strike can dodge crowd control and damage from the enemy team so make sure you use this at the right time.
+
+Overall Master Yi is a really simple, easy, and great champion to play for all beginners. If you like to run down the enemy and auto attack and get some quick and easy kills then he is the go-to champion for you.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

@@ -1,0 +1,117 @@
+Title: Volibear :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Volibear in League of Legends: Wild Rift. Our build guide will teach you how to play Volibear in the current meta.
+
+Headings:
+- Level 1 Volibear Stats
+- Volibear's Abilities
+- Volibear  Build Guide for Wild Rift
+- Volibear's Item Build
+- Volibear's Spells & Runes
+- Volibear's Situational Items
+- Volibear's Situational Runes
+- Volibear's Skill Order
+- Volibear's Item Build
+- Volibear's Spells & Runes
+- Volibear's Situational Items
+- Volibear's Situational Runes
+- Volibear's Skill Order
+- How to play Volibear
+- Volibear's Abilities
+- The Relentless Storm (Passive)
+- Thundering Smash (1)
+- Frenzied Maul (2)
+- Sky Splitter (3)
+- Stormbringer (Ultimate)
+- Volibear Build Breakdown
+- Jungle Path
+- End Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Volibear gains 5% (+4% AP) Attack Speed for 6 seconds whenever he deals damage with an Ability or Attack, stacking up to 5 times.
+
+At 5 stacks, Volibear's claws ignite with lightning, causing his Attacks to deal an additional 15 (+40% AP) magic damage to the target and 4 closest enemies.
+
+Volibear gains 10% / 15% / 20% / 25% Move Speed, increased to 20% / 30% / 40% / 50% towards enemy champions for the next 4 seconds. While active, Volibear's next Attack deals 15 / 40 / 65 / 90 (+100% bonus AD) physical damage and Stuns the target for 1 second.
+
+If Volibear becomes Immobilized before he Stuns a target, Thundering Smash's duration is paused.
+
+Volibear mauls an enemy, dealing 5 / 30 / 55 / 80 (+100% AD +5% bonus HP) physical damage. If Volibear maul's a champion or Large Monster he goes into a Frenzy for 8 seconds.
+
+If this Ability is used when in a Frenzy, its damage is increased to 8 / 48 / 88 / 128 (+160% AD + 8% bonus HP) physical damage and Volibear restors 10 + 10% (7%) missing Health.
+
+This Ability applies on-hit effects. Base Health Regeneration: 20 / 30 / 40 / 50 Damage ratio to monsters: 80% .
+
+Volibear summons a thundercloud that fire a lightning bolt, dealing 80 / 110 / 140 / 170 (+50% AP) + 11% max Health magic damage and Slowing by 40% for 2 seconds.
+
+If Volibear is inside the blast zone, he gains a 131 (75% AP) + 14% max Health Shield for 3 seconds.
+
+Damage against non-champions is capped at 150 / 250 / 350 / 450.
+
+Volibear transforms and leaps, gaining 175 / 350 / 525 Health and 50 Attack Range for the next 12 seconds.
+
+Upon landing, Volibear cracks the earth, Disabling nearby towers for 3 seconds and dealing 300 / 450 / 600 (+100% AP +200% bonus AD) physical damage to them. Nearby enemies are Slowed by 50%, decaying over 1 second. Enemies directly underneath Volibear suffering
+
+Volibear is a fighter that is a powerhouse in the jungle. Volibear has one of the fastest jungle clear speeds in the game thanks to his Frenzied Maul being able to reset on jungle monster. On top of this, his passive allows him to spread damage when auto-attacking jungle camps. These enable Volibear to reach Level 5 sooner than any other champion. Once Volibear reaches Level 5, he can use Stormbringer when ganking a lane to deal a lot of damage and disable the tower making it easy to get a few kills.
+
+Volibear can also be played in the Baron Lane; check the alternative build at the top of the page! The build with Volibear Baron Lane is very similar to the jungle build; not much else is different regarding playstyles.
+
+Volibear gains attack speed for a few seconds whenever he deals damage with an ability or attacks stacking up to five times. The yellow bars underneath his mana bar indicate the number of stacks.
+
+At five stacks, Volibear's claws ignite with lightning, causing his attacks to deal additional damage to the target and four closest enemies. This works on jungle monsters and minions in the lane, making it very powerful.
+
+Volibear gains movement speed; this is increased when moving towards enemy champions for a few seconds. This makes Thundering Smash the core ability when ganking lanes.
+
+While active, Volibear's next attack deals damage and stuns the target for a second. Thundering Smash can be combo'd with Sky Splitter to guarantee the damage with the stun.
+
+Volibear mauls an enemy dealing damage. If Volibear mauls a champion or Large Monster, he goes into a Frenzy for a few seconds. If this ability is used again when Volibear is Frenzied, its damage is increased, and Volibear restores health.
+
+While Frenzied, Volibear can use the ability again on another enemy and still get the increased damage, this is super effective when taking jungle monsters and making his jungle clear much faster than other champions.
+
+Volibear summons a thundercloud that fires a lightning bolt, dealing damage and slowing for a few seconds. Sky Splitter can be guaranteed to hit an enemy champion when hitting the stun from Thundering Smash.
+
+Volibear gains a shield for a few seconds if he is inside the blast zone. With Sky Splitter, you want to try and predict the enemy movement and manually aim Sky Splitter since auto-casting will just cast this ability in the middle of an enemy champion which isn't the most beneficial.
+
+Volibear transforms and leaps, gaining Health and Attack Range for over 10 seconds. Upon landing, Volibear cracks the earth, Disabling nearby towers for a few seconds and dealing damage to them. This is extremely powerful when playing Volibear Jungle.
+
+When looking for a gank, you don't need to worry about the tower since you can use ultimate and disable it, giving you more time to get kills. Enemies in the centre of the Ultimate will take additional damage. Nearby enemies will also be slowed for a second.
+
+Volibear uses a mixture of AD and tank items that allows him to deal a lot of damage whilst also surviving a lot of damage. Trinity Force is an excellent first item for Volibear, giving him stats to carry his team. The passive Spellblade also helps him deal more damage when being Frenzied from Frenzied Maul. Sterak's Gage is an excellent example of a tank item that works well with Volibear. It gives him a lot of health, and when he drops low on health, he gets a shield to help keep him alive longer.
+
+For runes, we have the following:
+
+Volibear is a fighter who wants to get in the enemies' faces and attack constantly. This allows him to get the six stacks pretty fast, which means he can deal more damage and get a lot of physical vamp when fully stacked.
+
+Volibear will be in many team fights, running and jumping into the backline to try and kill the enemy carries. Most of the time, Volibear's damage is enough to get a takedown, so the healing will be helpful to keep him alive.
+
+When enemy champions are low on health, Volibear can deal bonus damage. This will help Volibear when he is jumping onto the backline. Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+Volibear does really well when he can stay in fights for a long time using his abilities and dealing as much damage as possible. With Legend: Bloodline the extra Omnivamp will help keep him when dealing damage.
+
+Overgrowth allows Volibear to gain permanent health throughout the game when nearby minions or monsters are killed. So the more Volibear farms in the jungle, the more Maximum Health he will get.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for that killing blow. Flash can also help Volibear get closer to enemies to hit his stun from Thundering Smash. Smite is a must for when you are playing jungle. Help's you out a lot when clearing the jungle and securing the epic monsters.
+
+With Volibear, he has a very fast early jungle clear. You want to full clear on your first jungle rotation to get Level 5 as soon as possible. Once you hit Level 5, you can look for ganks and use your ultimate Stormbringer for tower dives. It is best to start at Red Brambleback as you don't struggle on mana, and the extra damage you get can help clear the jungle faster.
+
+This is what the jungle patch would look like:
+
+Below is a beginner's guide for jungle in Wild Rift. It goes in-depth about every jungle camp. Epic monsters and more!:
+
+Volibear is a great team fight champion in the late game. He wants to stay with his team at all times and try not to get caught out by himself to be impactful during team fights. As a jungler, your main objective is to keep track of when Dragon's, Rift Herald, and Barons spawn. Taking these epic monsters will give you and your team an advantage in the game. When a team fight happens with Volibear, you always want to look to try and get into the backline and lock down their primary carries.
+
+Overall, Volibear is an entertaining and enjoyable champion to play. His abilities are not hard to understand, and disabling towers is a fun and unique mechanic that you can use to your advantage.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

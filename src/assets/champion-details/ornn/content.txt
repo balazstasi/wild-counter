@@ -1,0 +1,115 @@
+Title: Ornn :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Ornn in League of Legends: Wild Rift. Our build guide will teach you how to play Ornn in the current meta.
+
+Headings:
+- Level 1 Ornn Stats
+- Ornn's Abilities
+- Ornn  Build Guide for Wild Rift
+- Ornn's Item Build
+- Ornn's Spells & Runes
+- Ornn's Situational Items
+- Ornn's Situational Runes
+- Ornn's Skill Order
+- Ornn's Item Build
+- Ornn's Spells & Runes
+- Ornn's Situational Items
+- Ornn's Situational Runes
+- Ornn's Skill Order
+- How to play Ornn
+- Ornn's Abilities
+- Living Forge (Passive)
+- Volcanic Rupture (1)
+- Bellows Breath (2)
+- Searing Charge (3)
+- Call of the Forge God (Ultimate)
+- Ornn Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Ornn can spend gold to forge items anywhere on the map.
+
+Ornn gains an additional 7% / 12% / 17% / 22%
+
+Ornn slams the ground, creating a fissure dealing 25 / 60 / 95 / 130(+110% AD) physical damage and slowing by 55% for 2 seconds.A pillar of rock forms at the fissure's end for 4 seconds.
+
+The fissure stops shortly after hitting an enemy champion.
+
+Ornn stomps forward Unstoppably while breathing fire, dealing10% / 11% / 12% / 13% max Health magic damage over 0.75 seconds. Enemies hit by the final bout of flame become Brittle for 3 seconds.
+
+Immobilizing effects on Brittle targets have their duration increased by 30% and deal an additional 8% max Health magic damage( 7% - 22%). Ornn's Attacks against Brittle targets Knock them Back, dealing additional damage.
+
+Dealing a minimum of 90 / 140 / 190 / 240 magic damage to minions, and a max of 155 / 190 / 225 / 260 magic damage to jungle monsters.Immobilizing deals a maximum of 250 damage to monsters.
+
+Ornn charges, dealing 80 / 140 / 200 / 260( +40% bonus Armor +40% bonus MR) physical damage. If Ornn rams into terrain, he creates a shockwave that Knocks Up enemies for 1.25 seconds and applies the same damage to those in the area.
+
+Ornn's charge destroys magma pillars and terrain created by enemies and reduces the cooldown of this skill by 25%.
+
+Ornn summons a massive lava elemental, wich stampedes towards him, dealing 125 / 175 / 225 (+20% AP) magic damage, and applies Brittle for 3 seconds. The elemental also slows by up to 40% for 2 seconds, based on Ornn's level.
+
+Ornn can recast this to dash with a headbutt. If he dashes into the elemental, he redirects and empowers it, causing it to Knock Up the first champion hit for 1 second and subsequent champions for 0.5 seconds.
+
+The elemental also deals 125 / 175 / 225 (+20% AP) magic damage and reapplies Brittle.
+
+Ornn is a super tanky Baron Lane champion. Not only is Ornn an insane tank that scales to become an unkillable champion, but he also has crowd control in every ability and can still look for solo kills in the Laning Phase. Ornn has a unique passive that allows him to buy and craft items anywhere on the map. This is so effective for Ornn, giving him so much power and item advantage at any point of the game, making him a complete tank.
+
+Ornn can spend gold to buy and forge items anywhere on the map. This means that Ornn doesn't need to return to base during the Laning Phase. If he has enough Health and Mana to stay in the lane, he can forge any item (Tier 1, Tier 2 or Tier 3) and remain in the lane giving him a considerable advantage.
+
+On top of this, Ornn also gains additional bonus Health, Armor and Magic Resist from all sources. So every time Ornn buys tank items, it gives him more stats allowing him to scale and become an unkillable tank in the late game.
+
+Finally, upon reaching Level 7, crafting items near ally champions grants them five stacks of Living Forge, meaning your allies can also benefit from being able to craft items wherever they want on the map. This is more effective for your carries.
+
+Ornn slams the ground, creating a fissure dealing damage and slowing for a few seconds. At the end of the cast, a pillar of rock forms at the fissure's end for a few seconds. The pillar of rock works as a wall meaning he can use Searing Charge to knock up enemy champions nearby.
+
+Volcanic Rupture can also be used at choke points as a zoning tool to stop enemies from crossing paths when taking objectives. If they do step close, use Searing Charge, knock them up and deal a lot of damage.
+
+Ornn stomps forward Unstoppably (blocking crowd control) while breathing fire, dealing max health damage. Enemies hit by the final point of damage become Brittle for a few seconds.
+
+Ornn's attacks against Brittle targets Knock them Back, dealing additional damage, so you want to make sure you auto-attack after using Bellow Breath. Immobilizing effects on Brittle targets have their duration increased and deal additional damage.
+
+Ornn charges, dealing damage. If Ornn rams into terrain, he creates a shockwave that Knocks Up enemies. With this ability, you always want to look to try and knockup enemy champions.
+
+Remember that this knockup works with Volcanic Rupture and other terrains, including Jarvan IV's ultimate. The only time you want to use Searing Charge when not knocking up is to try and escape.
+
+Ornn summons a massive Lava Elemental, which stampedes towards him, dealing damage and applying Brittle for a few seconds. The elemental also slows for a few seconds based on Ornn's level.
+
+Ornn can recast this to dash and headbutt the elemental. If he dashes into the elemental, he redirects and empowers it, causing it to Knock Up enemy champions. Be careful; when you recast, you can miss the headbutt and put yourself in a difficult position.
+
+This ultimate is one of the best ultimates in the game because of its insane damage and crowd control. With this ability, you will be the main initiator for your team.
+
+Ornn is a solo front-line tank that can survive a lot of damage whilst also dealing a lot of damage and crowd-controlling the whole enemy team. Heartsteel is a core item for Ornn. He gains stacking health throughout the game and damage based on how much bonus health he is building (which is a lot). Sunfire Aegis is another item that will give Ornn a lot of Health. Sunfire's passive also benefits Ornn since he will be in the face of enemies using his attacks and abilities.
+
+For the runes we have:
+
+With Ornn, you can easily walk up and take trades since you are very tanky and deal a lot of damage. This allows you to stack Grasp easily to get more health and become unkillable.
+
+Ornn has multiple abilities that allow him to immobilize enemies. With Courage of the Colossus, Ornn will gain a shield making him even more difficult to kill as a tank.
+
+Second Winds helps Ornn during the laning phase; when he takes a lot of damage, he can go back to the tower and health back a lot of health whilst forging items.
+
+Overgrowth allows Ornn to gain permanent health throughout the game when nearby minions or monsters are killed. So the more Ornn farms, pushes the lane and kills minions, the more Maximum Health he will get.
+
+Demolish works well with Ornn since you can win a lot during the laning phase and take some early tower plates with Demolish. Plus, since Ornn builds a lot of health, Demolish can deal more damage.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get you out of a bad situation or allows you to flash and save your ally or even maybe get a kill. The 2nd spell is Ignite; this is great to give Ornn some kill pressure during Laning Phase. If you can land his combo, you can look to ignite and get a solo kill.
+
+Ornn is surprisingly very powerful during the early game. Once you play passive for the first three levels, you can use his combo, deal a lot of damage, and sometimes even solo kill the enemy Baron lane champion. Ornn is the best when grouping with your team, so once the major objectives spawn, look to group with your team and use Call of the Forge God to knock up multiple enemy champions and jump onto the backline with Searing Charge.
+
+Thanks to Ornn's Passive, Living Forge, the more tank items you buy, the tankier and stronger Ornn will get. Not only do you have a great team fight ultimate that can change the game, but you also are tanky and unkillable at this point of the game that you can walk up and take all the damage whilst your team is doing all the damage to them. You want to always stay with your team and try not to get caught out by yourself. You don't do well at all in a one vs one situation, especially against Hullbreaker enemies in the side lane.
+
+Ornn is an easy-to-play super tank that can also turn into an assassin at any time, which is always fun to play. He is also the strongest tank to play in the game right now, so if you want to play an unkillable champion, then Ornn is the right champion for you
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

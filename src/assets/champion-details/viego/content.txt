@@ -1,0 +1,112 @@
+Title: Viego :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Viego in League of Legends: Wild Rift. Our build guide will teach you how to play Viego in the current meta.
+
+Headings:
+- Level 1 Viego Stats
+- Viego's Abilities
+- Viego  Build Guide for Wild Rift
+- Viego's Item Build
+- Viego's Spells & Runes
+- Viego's Situational Items
+- Viego's Situational Runes
+- Viego's Skill Order
+- How to play Viego
+- Viego's Abilities
+- Sovereign's Domination (Passive)
+- Blade of the Ruined King (1)
+- Spectral Maw (2)
+- Harrowed Path (3)
+- Heartbreaker (Ultimate)
+- Viego Build Breakdown
+- Jungle Path
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+The souls of enemy champions that die within 3 seconds of being damaged by Viego become wraiths that remain in place for 8 seconds.Viego can channel for 1 second to Possess them for 10 seconds. During Possession:
+
+- Becomes untargetable
+
+- Gains a free cast of Heartbreaker
+
+- Gains 10% Movement Speed when moving toward enemy champions
+
+- Gains access to the Possessed champion's basic abilities, attacks and items
+
+- Heals for 5% (2 + 4% bonus AD + 2% AP +5 bonus AS) of the target's max Health
+
+Viego cannot use the Possessed champion's enchantment item actives.
+
+Passive: Attacks deal bonus physical damage equal to 3% / 4% / 5% / 6% of the target's current Health. After damaging an enemy with an ability, Viego's first attack against them within 5 seconds strikes twice, dealing physical damage equal to 15% of AD (+15% AP) and healing himself for 135% of the damage dealt. Passive bonuses are kept during Possession.
+
+Active: Stabs forward, dealing 25 / 45 / 65 / 85  ((+ 80% AD) * (1 + 0.5% bonus Critical rate)) physical damage.
+
+This ability's cast time reduces with Attack Speed.
+
+Charge: Gathers Black Mist and charges up for 3 seconds, slowing himself by 10% during this period.
+
+Cast: Dashes forward and hurls the ball of gathered Black Mist, dealing 80 / 150 / 220 / 290 (+90% AP) magic damage to the first enemy hit and stunning them for 0.4 - 1.25 seconds ( based on charge time).
+
+Teleports to a target location nearby, dealing physical damage equal to 120% - 210% AD * (1 + 0.5 Crit rate) to all the champions in the area.
+
+Deal 12% / 16% / 20% (+6% bonus AD) of the target's missing Health to the enemy champion with the lowest percentage of Health, slowing them by 99% for 0.25 seconds and knocking back enemies nearby them.
+
+Viego is a jungle fighter. He is an excellent champion at all stages of the game, as his damage output is great, he has crowd control, and can also tank a lot of damage. Viego has one of the most unique kits in Wild Rift. His passive, Sovereign's Domination, allows him to possess the body of enemy champions after they die, giving Viego all of that champion's basic abilities. However, this means that when playing Viego, you need to know what every champion's abilities do so you understand what to do when you take over their soul.
+
+The below combo allows Viego to stack Conqueror in under 2 seconds.
+
+The souls of enemy champions that die within a few seconds of being damaged by Viego become wraiths that Viego can possess. When Viego possesses a soul, he gains a free cast of his ultimate, Heartbreaker (this will remove the possession), bonus movement speed, and access to the champion's basic abilities.
+
+This passive doesn't have a cooldown and can be used multiple times during a teamfight. So, ensure you understand every champion's basic abilities to carry with Viego.
+
+This ability has a passive and an active:
+
+The passive is after Viego damages an enemy with an ability; his first attack against them within a few seconds strikes twice. This double auto attack works on stacking Conqueror and/or Blade of the Ruined King (item), making it incredibly powerful with Viego.
+
+The active is Viego stabs forward, dealing physical damage. Attack Speed reduces the cast time, meaning we can stack Conqueror quicker the more attack speed Viego has.
+
+Viego can charge Spectral Maw, slowing him, but the more Viego charges, the longer the stun duration will be on an enemy when Viego casts the ability.
+
+When engaging with Viego, you always want to start the fight with Spectral Maw. The stun will give him enough time to auto-attack and use other abilities.
+
+Viego sends a spectre to haunt the first terrain hit with Black Mist. While inside the Black Mist, Viego becomes camouflaged and gains movement and attack speed.
+
+When clearing through the jungle, use Harrowed Path to help Viego's clear speed. Viego's enemies can see the Black Mist when it goes around the terrain they have vision. Keep this in mind when looking for ganks with Viego.
+
+Viego teleports to a target location and deals damage to all enemies in the area. Viego deals bonus damage the more missing health the enemies have. This means that most of the time, Viego doesn't want to use his ultimate unless the enemy is low on health. If Viego hits multiple enemy champions with his Heartbreaker, he will knock all other enemies away.
+
+Viego uses a mixture of AD and tank items, allowing him to deal damage and have survivability. Trinity Force is an excellent first item for Viego that gives him stats to allow him to carry his team. He also gains extra movement speed and damage from the passives. Blade of the Ruined King is another excellent item for Viego. With Viego's basic combo, he can proc Blade of the Ruined King's passive instantly, which allows him to deal incredible damage.
+
+For runes, we have the following:
+
+Viego is a fighter, so he wants to get in the face of the enemies and attack constantly. Viego's passive from Blade of the Ruined King also helps Viego stack Conqueror incredibly fast. When doing Viego's combo correctly, he can stack Conqueror in under 2 seconds.
+
+Viego will be in many teamfights, jumping onto the enemy's backline to try to kill them and take their souls with his passive. Triumph will help Viego restore health when he gets a takedown to stay in fights longer.
+
+Coup de Grace synergizes well with Viego's ultimate Heartbreaker since it does more damage the lower the enemy champion's health. Since Coup de Grace does more damage to enemies below 50% health, it helps Viego deal more damage.
+
+Legend Alacrity gives Viego Attack Speed when clearing through the jungle or getting enemy takedowns. Attack speed also reduces the cast speed of Blade of the Ruined King.
+
+Overgrowth allows Viego to gain permanent health throughout the game when nearby minions or monsters are killed. So the more Viego farms, the more Maximum Health he gets. This will help Viego's survival in the late game.
+
+For summoner spells, Flash is a must on Viego to Flash away to safety or Flash in to get the killing blow. Smite is a must for when you're playing jungle. It greatly helps you when clearing the jungle and taking epic monsters.
+
+Viego has a fast early jungle clear with his double Auto Attacks from Blade of the Ruined King and extra attack speed from Harrowed Path. This means Viego can quickly work through the jungle and play aggressively towards the Scuttle Crabs.This is what the jungle path would look like:1. Krugs2. Red Brambleback3. Raptors4. Wolves5. Blue Sentinel6. GrompBelow is a beginner's guide for the jungle in Wild Rift. It goes in-depth into every jungle camp, epic monsters, and more!
+
+Viego does very well in the late game. His passive, Sovereign's Domination, allows him to take the soul of enemy champions when they die, which can potentially make for some incredible plays. As a Jungler, your main job is to keep track of Epic Monsters (Dragons, Rift Herald, and Baron). Taking these Epic Monsters will give you and your team an advantage in the game. When in a teamfight, try your best not to get caught out and use your mobility to get onto the backline carries.
+
+Overall, Viego is a unique and exciting champion to play. Understanding all the champion's basic abilities can be pretty difficult at first. However, if you're an experienced player who can use his passive effectively, you can carry every game.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

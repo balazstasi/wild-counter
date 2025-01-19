@@ -1,0 +1,119 @@
+Title: Camille :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Camille in League of Legends: Wild Rift. Our build guide will teach you how to play Camille in the current meta.
+
+Headings:
+- Level 1 Camille Stats
+- Camille's Abilities
+- Camille  Build Guide for Wild Rift
+- Camille's Item Build
+- Camille's Spells & Runes
+- Camille's Situational Items
+- Camille's Situational Runes
+- Camille's Skill Order
+- Camille's Item Build
+- Camille's Spells & Runes
+- Camille's Situational Items
+- Camille's Situational Runes
+- Camille's Skill Order
+- How to play Camille
+- Camille's Abilities
+- Adaptive Defenses (Passive)
+- Precision Protocol (1)
+- Tactical Sweep (2)
+- Hookshot (3)
+- Hextech Ultimatum (Ultimate)
+- Camille Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Attacking an enemy champion grants a shield that absorbs 130 physical / magic damage (20% HP) for 2 seconds.
+
+The shield type is based on the type of damage the attacked target deals.
+
+Empowers the next attack to deal 130% / 140% / 150% / 160% physical damage and grant 25% Movement Speed for 1.5 seconds.
+
+Slices in a direction, dealing 100 / 130 / 160 / 190 (+110% AD) and an additional 4% / 6% / 8% / 10% of the target's maximum Health as physical damage.
+
+Enemies hit by the outer half are slowed by 80% decaying over 2 seconds, healing Camille for 50% of the damage dealt to champions.
+
+Deals 80% damage to monsters.
+
+First Cast: FIres a hookshot that attaches to terrain, pulling Camille to it. If Camille misses, it is placed on a 3 second cooldown.
+
+Second Cast: Dashes from the wall, dealing 60 / 110 / 160 / 210 (+75% AD) physical damage on landing. Regardless of landing, Camille's next basic attack against enemy champions within 3 seconds, grants 50% / 60% / 70% / 80% Attack Speed for 5 seconds. If the dash hits an enemy champion, they are stunned for 0.75 seconds, and Hookshot's cooldown is reduced by 5 seconds.
+
+Camille is a fighter who can play in the Solo Lane or Jungle. She's a versatile champion who offers a high skill ceiling for players willing to learn and master her. Camille's mobility allows her to quickly engage or disengage from fights, making her a powerful duelist in the sideline who can create constant pressure on the map. Her kit provides a balance of offence and defense, allowing her to adapt to different situations.
+
+Make sure to check the alternative build at the top of the page for playing Camille in the Jungle.
+
+Attacking an enemy champion grants a shield that absorbs physical/magic damage for a few seconds. The shield type is based on the type of damage the attacked target deals.
+
+A small symbol will appear next to enemy champions, which shows when the passive is available. Red means you will get a physical shield and blue means you will get a magic shield.
+
+The shield is extremely powerful, especially during the laning phase when you trade against the enemy champion. You will win most early-game trades when you fight if your passive is up and available.
+
+Camille empowers her next attack to deal physical damage and grant movement speed for a second. 1 second after the first attack, Precision Protocol automatically empowers another basic attack, dealing true damage.
+
+Timing is key when it comes to Precision Protocol. Hearing and knowing when the 2nd attack is available is key when trading and teamfights. You can use Precision Protocol on a minion, then after a second, use the empowered auto attack on the enemy champion. This will help you win early game trades in the laning phase.
+
+Camille slices in a direction, dealing physical damage. Enemies hit by the outer half are slowed for a few seconds and heal Camille for 50% of the damage dealt to champions.
+
+Camille can use Tactical Sweep to poke the enemy champion in the laning phase. You can also combo Tactical Sweep with Hookshot to deal a lot of damage.
+
+First Cast: Camille fires a hookshot that attaches to terrain, pulling Camille to it. If Camille misses, it is placed on a shorter cooldown.
+
+Second Cast: Camille dashes from the wall, dealing physical damage on landing. Regardless of landing, Camille's next basic attack against enemy champions within 3 seconds grants Attack Speed for 5 seconds. If the dash hits an enemy champion, they are stunned, and Hookshot's cooldown is reduced.
+
+Hookshot allows Camille to be very mobile. It helps her split push, engage, and disengage easily, knowing you can use Hookshot to go in or out at any time. You can use Flash with Hookshot to extend the range and hit enemies further away.
+
+Camille leaps to an enemy champion, dealing magic damage, knocking away other enemies and creating an inescapable zone for a few seconds. Hextech Ultimatum ends when Camille leaves the zone.
+
+This ultimate is extremely good at locking down high-value targets on the enemy team. They cannot use dashes or Flashes to escape, meaning you will be in a duel, which you will win most of the time.
+
+Trinity Force gives Camille both damage and tank stats. The Spellblade passive synergizes well with Camille's Precision Protocol, giving your auto attacks more damage.
+
+Sundered Sky with Trinity Force is an insane combo. These items give Camille extra healing and damage in her kit. Sundered Sky gives her critical damage on her auto attacks every few seconds.
+
+Sterak's Gage is a great defensive item for Camille. She will get a shield to help her survive when she drops low on health. This will sometimes bait enemies into thinking they will kill you quickly enough.
+
+For runes, we have the following:
+
+Since Camille can walk up to enemies and win trades in the early game with her passive, Fleet Footwork can benefit her by restoring health and mana and dealing more damage.
+
+Nullifying Orb helps Camille gain a shield when she is low on health, giving her more time to escape.
+
+Bone Plating helps Camille take reduced damage from melee champions who want to engage.
+
+Second Wind is a great choice when playing against poke damage.
+
+Overgrowth gives Camille permanent health throughout the game, making her more difficult to kill.
+
+Perseverance is another great choice against Crowd Control.
+
+Camille is a champion who wants to auto-attack a lot to deal the most damage possible, and with Brutal, she will deal even more auto-attack damage.
+
+Flash is a must for Camille. It can help you escape from certain situations. However, Camille can use it in different ways with her abilities, giving her longer range to catch enemies very far away.Ignite gives Camille more damage throughout the game. During the laning phase, you can combo Ignite with Precision Protocol for burst damage, or in the late game, use Ignite with Hextech Ultimatum to help kill high-value targets.
+
+In the early game, Camille can struggle against other Solo Laners. You should look to take short trades vs the enemy. Play around your passive shield Adaptive Defenses and try to auto attack champions with Precision Protocol's 2nd auto attack to deal empowered damage. When playing around these two abilities, you should be able to win early-game trades. Be careful when using Hookshot aggressively since it has a long cooldown in the early game, and it is usually best to save it for when you get ganked.
+
+In the late game, you generally want to open up the map by splitting and pushing in the opposite lane. Camille is one of the best duelists in the game and can win most 1vs1 duels and quickly take towers. When doing this, always keep an eye on the minimap, and if the enemies try to kill you, use Hookshot to escape over walls.
+
+Regarding teamfights, Camille is great at locking down targets and one-shotting them with her damage. Look to flank the enemy carries in the backline and use Hextech Ultimatum to lock them down. Saving your 2nd auto attack from Precision Protocol is crucial in dealing extra damage.
+
+Camille is one of the highest-skilled champions in the game. If you enjoy a challenge with a champion with no limits, then Camille is the perfect choice. Whether you are split-pushing, team fighting, or just roaming around the map, Camille will always find her way to get advantages for her team.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

@@ -1,0 +1,94 @@
+Title: Pantheon :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Pantheon in League of Legends: Wild Rift. Our build guide will teach you how to play Pantheon in the current meta.
+
+Headings:
+- Level 1 Pantheon Stats
+- Pantheon's Abilities
+- Pantheon  Build Guide for Wild Rift
+- Pantheon's Item Build
+- Pantheon's Spells & Runes
+- Pantheon's Situational Items
+- Pantheon's Situational Runes
+- Pantheon's Skill Order
+- Pantheon's Item Build
+- Pantheon's Spells & Runes
+- Pantheon's Situational Items
+- Pantheon's Skill Order
+- How to play Pantheon
+- Pantheon Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Tap Cast: Stabs forward, dealing 70 / 110 / 150 / 190 (+120% AD) physical damage. Refunds 60% of Comet Spear's Cooldown.
+
+Charge Cast: Hurls the spear, dealing the same damage to the first enemy hit and 50% less to subsequent targets.
+
+Enemies below 35% Health are critically hit for 110 / 200 / 290 / 380 (+180% AD) physical damage instead.
+
+Mortal Will: Deals an additional 30 (+120%AD) physical damage.
+
+Damage to minions is reduced by 20%.
+
+Deals 110% damage to monsters.
+
+Dash to an enemy, stunning for 1 second and dealing70 / 120 / 170 / 220 (+100% AP) physical damage.
+
+Mortal Will: Follows up with an Empowered attack that strikes 3 times, dealing a total of 87 (135% AD) physical damage.
+
+Block all non-tower damage from a direction for 1.5 seconds and deal 64 (100% AD) physical damage to nearby enemies. At the end slam forward and deal 60 / 120 / 180 / 240 (+150% AD) physical damage.
+
+Mortal Will: When Pantheon slams his shield he gains 60% Move Speed for 1.5 seconds.
+
+Pantheon is slowed by up to 50% when moving away from the blocking direction.
+
+Recast to end early.
+
+Damage to minions is reduced by 50%.
+
+Passive: Gains 10% / 20% / 30% Armor Penetration.
+
+Active: Leaps into the air and throws a spear that deals 30 (Comet Spear damage) physical damage and slows by 50% for 2 seconds. Then crashes down, dealing up to 300 / 500 / 700 (+100% AP) magic damage.
+
+Grand Starfall instantly readies Mortal Will. Damage is decreased by up to 50% at the edges of the landing area.
+
+Pantheon is a fighter. He is very strong in the early game being able to trade and fight vs most top lane champions. As you get into the late game, Pantheon falls off in terms of damage and becomes more of a crowd control champion that helps the team survive. One thing to note is to always keep an eye on your Mortal Will to see how many stacks you have. After 5 stacks, your next basic ability will be enhanced which means they get bonuses.
+
+Pantheon can also be played in the jungle. He has great ganking tools with Shield Vault being a point and tap stun and you can use his ultimate, Grand Starfall, from really far away to surprise the enemies. The build is pretty much the same with slight changes to boots upgrade and runes.
+
+Pantheon uses a mixture of both damage and tank items that work well with his kit. Youmuu's Ghostblade is an excellent early game power spike to Pantheon. Pantheon is one of the best ganking junglers in the game and with Ghostblade the extra movement speed helps him get around the map faster and the stats allow him to do a lot more damage. Black Cleaver is a great way for Pantheon to reduce the enemies armor when jumping in to deal damage.
+
+For runes, we have the following:
+
+When using Shield Vault, Pantheon can deal quick bursts of damage with his auto attack and abilities, this damage is increased thanks to Electrocute.
+
+Brutal gives Pantheon a lot more early game power and gives him the opportunity to trade and fight more effectively.
+
+When enemy champions are low on health, Pantheon can deal bonus damage. Pantheon already has a lot of damage potential and will always look to jump onto enemy carries, so dealing extra damage can help Pantheon kill them.
+
+Alacrity gives Pantheon Attack Speed, which will provide him with a lot of power in the early game to get an advantage with his insane burst damage.
+
+Pantheon always starts his engagement with Shield Vault to stun an enemy champion. With this ability, Pantheon will gain Armor Penetration with Sudden Impact to help him kill that target.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for the killing blow. For the 2nd spell, it's best to go for Ignite. As mentioned before, Pantheon wants to play aggressively and get an early lead so this will help you get that little extra damage off.
+
+As Pantheon, you want to be really aggressive early game. You have one of the best 1 vs 1 potential against any other top lane champion. Auto-attack minions to stack your Mortal Will and once you have full stacks, you can use your Shield Vault to jump in and get 3 free auto attacks off and combo that with your Comet Spear. Make sure when fighting against the enemy you use your Aegis Assault shield to block all incoming damage. It can be a lifesaver!
+
+Pantheon really struggles when it gets too late game because he doesn't do the most damage and can be really easy to play against. The best thing you can do at this point is group up with your team using Grand Skyfall at distance to surprise the enemy. When in a team fight your main goal is to get on top of the enemy backline! Use your Shield Vault to lock down one of the enemy's carries so your team can follow up and help kill them.
+
+Overall Pantheon is a super fun champion to play that can join a team fight from miles away. If you want to play a champion that has insane early game damage that you can get an advantage from and then use your semi-global ultimate to help the team then Pantheon is the go-to champion for you.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

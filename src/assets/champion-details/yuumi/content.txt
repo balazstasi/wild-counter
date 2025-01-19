@@ -1,0 +1,99 @@
+Title: Yuumi :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Yuumi in League of Legends: Wild Rift. Our build guide will teach you how to play Yuumi in the current meta.
+
+Headings:
+- Level 1 Yuumi Stats
+- Yuumi's Abilities
+- Yuumi  Build Guide for Wild Rift
+- Yuumi's Item Build
+- Yuumi's Spells & Runes
+- Yuumi's Situational Items
+- Yuumi's Skill Order
+- How to play Yuumi
+- Yuumi's Abilities
+- Bop N' Block (Passive)
+- Prowling Projectile (1)
+- You and Me! (2)
+- Zoomies (3)
+- Final Chapter (Ultimate)
+- Yuumi Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Yuumi's attacks and abilities against champions grant her 35 (+ 10 per level +15% AP) shield. (18 seconds cooldown.)
+
+Shields and haste effects Yuumi placed on herself will be passed on to her Attached ally.
+
+Hold and drag: Steers a missile, dealing 60 / 100 / 140 / 180 / 220 (+20% AP) magic damage to the first enemy hit.
+
+If Yuumi is Attached, the missile is enhanced after 1 second, dealing 70 / 120 / 170 / 220 / 270 (+30% AP) magic damage+ 2% / 3% / 4% / 5% / 6% current Health magic damage instead and slowing champions by 20% for 1 seconds.
+
+Deals up to 120 damage against monsters.
+
+Passive: Increases Attached ally's Adaptive Force by 8 / 14 / 20 / 26 + (2 + 0.15 per level bonus AD) or 16 / 28 / 40 / 52 + (2 + 0.15 per level bonus AP). Yuumi also gains the same amount of Adaptive Force.
+
+Active: Dashes to an ally champion and Attaches to them. While Yuumi is Attached, she follows her partner's movement and is Untargetable except from towers.
+
+Immobilizing effects on Yuumi place You and Me! on a 5 second cooldown.
+
+Yuumi restores 20 / 30 / 40 / 50 (+10% AP) Health and gains 15% (+0.03% AP) Movement Speed and 20% / 25% / 30% / 35% Attack Speed for 3 seconds. Her next 3 attacks and ability hits heal her for 20 / 30 / 40 / 50 (+10% AP).
+
+If Yuumi is Attached, this ability affects her ally instead.
+
+Channels for 3.5 seconds, launching 7 waves dealing 80 / 100 / 120 (+15% AP) magic damage. Waves after the first deal 50% magic damage. Champions hit by 3 waves are rooted for 1.5 seconds.
+
+Yuumi can move and cast You and Me! and Zoomies while channelling.
+
+Yuumi is a very unique champion, she can attach to allies with You and Me and be immune to almost all damage and able to use summoner spells and abilities. This means in team fights you can dash around the front line to set up big area of effect plays with Final Chapter. Yuumi also has the option of not taking Flash, so you can use two combat summoner spells (Exhaust, Ignite and Heal) instead. This means in the laning phase she can look to enable both herself and her Duo Lane to snowball early.
+
+Yuumi's attacks against champions grant her a shield and restores mana. This effect has quite a long cooldown. You can see when her passive is available by looking at the bar just underneath her mana bar. The shield follows Yuumi until broken and will protect Yuumi's attached ally while she has one. In the laning phase, you should always look to jump out of your ally to auto-attack enemy champions when you have the passive available especially because Yuumi struggles with mana in the early game.
+
+This ability is a hold and drag ability that can be aimed in any direction. Yuumi steers an errant missile, dealing magic damage to the first enemy hit. If Yuumi is attached to an ally, the missile will be enhanced if it travels for a second before impacting, dealing more magic damage and slowing enemies for a second. The tricky part about this ability is steering the missile through minions and making sure you hit champions. Head into practice and give it a try before you jump into a game.
+
+Yuumi dashes to an ally champion and attaches to them. Whilst Yuumi is attached, she follows her partner's movement and is untargetable except from towers. While Yuumi is attached to an ally, she increases the ally's adaptive force (Attack damage or Ability Power). Yuumi also gains the same amount of Adaptive Force.
+
+Yuumi can dash out of allies, back in and to different allies as many times as she wants. However if Yuumi is hit with any immobilizing effects, the ability gets placed on a 5-second cooldown. Be careful!
+
+Yuumi restores health to herself and gains movement speed and attack speed for a few seconds. If Yuumi is attached, this ability affects her ally instead. This is what makes Yuumi so strong when paired with Duo lane carries that love attack speed and front line carries that also love attack speed and extra movement speed, for example Olaf.
+
+This is Yuumi's huge area of effect ability that can be impactful in team fights. Yuumi channels for a few seconds, launching waves dealing magic damage. Waves after the first deal reduced magic damage. Champion bit by 3 waves are rooted for just over a second.
+
+Yuumi can move and cast You and Me! and Zoomies while channelling Final Chapter. So even if you accidentally aim the ability in the wrong direction, you can always recover by moving around!
+
+Yuumi does well with support items that give her shields and heals more power. With that in mind, Staff of Flowing Water is a go-to and must-buy on Yuumi. Gives her a lot of Ability Power, Mana and Ability Haste which are all good stats that will help her jump around and carry the team. Also when Yuumi heals or shields an ally you, both get Ability Haste and Ability Power for a few seconds. Another strong and must-buy item is Ardent Censer. Not only do you get health and ability power, but the passive is the important part. When you shield or heal an ally, they gain bonus attack speed and deal more damage.
+
+With runes, we have the following:
+
+This gives Yuumi's shields and heals more power and helps you deal a little bit extra damage, which is excellent for early-game trades in the laning phase.
+
+Scorch gives Yuumi a lot of poking power in the early game when using Prowling Projectile to deal damage to enemy champions.
+
+Yuumi can impair the movement of enemy champions by using her Prowling Projectile to poke or by hitting her Ultimate 3 times giving her true damage.
+
+Eyeball Collector is great since it gives Yuumi more Ability Power every time she gets a takedown. Zombie Ward can also be a good choice if you often roam and look to kill wards.
+
+Enchanter Supports like Yuumi loves to build as much Ability Haste as possible so she can use her abilities more often. This means Yuumi can heal her allies more often and deal a lot of poke damage.
+
+For summoner spells, Yuumi does not need an escape summoner spell-like Flash because she will be attached to an ally and be untargetable. With that in mind, the best 2 Summoner Spells you can take are Exhaust and Heal. Exhaust is really good especially if an enemy jumps on the ally you are attached to, since you can just Exhaust the enemy and they won't deal as much damage. Heal is another great option as it also works with Yuumi's items. However, if your duo lane carry takes Heal, you can go for Ignite instead so you can snowball in the early game.
+
+Yuumi does ok in the early game, You can poke the enemy with Prowling Projectile and keep your duo lane carry healthy with Zoomies. Yuumi struggles a lot with mana in the early game so make sure you just out of your ally when Bop N' Block is available so you can auto-attack an enemy champion and restore a bit of mana, but be careful because if you get caught by any crowd control you will be exposed to a lot of damage since you don't have flash.
+
+The later the game goes, the stronger Yuumi gets, as her shields and heals get stronger with more items. It is really important as a support that you stay with your team and help them during team fights. This is especially important with Yuumi since she is very squishy and can die very quickly. Prioritize staying on the front line carries to give them movement speed and attack speed and also this allows you to get a better angle when using Final Chapter.
+
+Yuumi is a very unique champion and is very different to every other champion in the game. She is a great support that loves to keep her team alive but can still make a huge difference in team fights!
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

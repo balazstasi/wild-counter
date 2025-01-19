@@ -1,0 +1,76 @@
+Title: Vayne :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Vayne in League of Legends: Wild Rift. Our build guide will teach you how to play Vayne in the current meta.
+
+Headings:
+- Level 1 Vayne Stats
+- Vayne's Abilities
+- Vayne  Build Guide for Wild Rift
+- Vayne's Item Build
+- Vayne's Spells & Runes
+- Vayne's Situational Items
+- Vayne's Situational Runes
+- Vayne's Skill Order
+- How to play Vayne
+- Vayne Build Breadown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Gain 10 Movement Speed when moving towards enemy champions.
+
+Final Hour: Gains 70 Movement Speed instead.
+
+Dashes forward and empowers her next attack to deal an additional 24 (40% / 50% / 60% / 70% AD) physical damage.
+
+Final Hour: Gains 1 second of invisibility on cast.
+
+Tumble does not go through walls.
+
+Passive: Every third consecutive attack or ability on the same target deals additional 3% / 6% / 9% / 12% true damage of the enemy's maximum Health.
+
+Active: Gains 40% / 45% / 50% / 55% Attack Speed for the next 3 attacks within 5 seconds and heals for 40% of the damage Silver Bolts dealt.
+
+Passive deals at least 50 / 65 / 80 / 95 true damage.Passive damage is capped at 200 against monsters.
+
+Gains 20 / 30 / 40 Attack Damage and strengthens Night Hunter and Tumble for 8 / 10 / 12 seconds.
+
+When an enemy champion damaged by Vayne dies within 3 seconds, Final Hour's duration is extended by 4 seconds, up to an additional 8 / 10 / 12 seconds.
+
+Vayne is a dragon lane champion that focuses on attack damage to kill the enemy team. She really struggles in the early game because of her very short range and she doesn't do a lot of damage. When Vayne reaches the very late game and has all her core items plus more, she can be useful and duel anyone in a 1 vs 1 with her high mobility and kiting potential. With Vayne's Silver Bolts, she does true damage on every 3rd attack which is great vs tank-heavy teams and does really well in the late game when you have a high attack speed.
+
+Vayne does really well when building attack damage items and also benefits a lot from attack speed. Blade Of The Ruined King is a perfect 1st item for Vayne. It gives her attack damage and attack speed that is needed but also has a great passive. The passive steals movement speed from the champion hit by 3 attacks and abilities. This is great when chasing down enemies with Vayne's mobile kit. Blade of the Ruined King also gives you physical vamp which can help Vayne survive in the early laning phases. After you finish building Blade, you want to go for more attack speed that can help with Silver Bolts to deal more true damage.
+
+Onto the runes, we have:
+
+Vayne loves attack speed. Her 2nd ability Silver Bolts; every time you attack the same champion three times, she deals true damage. So more attack speed = more true damage!
+
+Brutal gives Vayne's auto attacks more damage; since Vayne will have a lot of attack speed and auto-attack a lot, this is the perfect rune for her.
+
+When enemy champions are low on health, Vayne can deal bonus damage. This will help Vayne kill enemies faster. Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+The healing from Bloodline will be more beneficial for Vayne for the sustain and survivability compared to the attack speed from Alacrity since we already have a lot of attack speed in her build. Legend: Tenacity is another excellent option when playing against champions that have Crowd Control.
+
+As a marksman, Vayne will always be the main focus for the enemy team to try and take down. However, Bone Plating will help Vayne take reduced damage from the first three instances of damage which can save her life.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get you out of a bad situation or allows you to flash into the team to get the killing blow. The go-to 2nd spell is Exhaust. Since Vayne doesn't have the longest attack range and she will be tumbling in a lot Exhaust will help you will them all important duels.
+
+Vayne is a really weak champion in the early game. You want to stay as passive as you can and try not to die so you can farm up to get your core items and be able to scale into the late game. Don't walk up and risk dying just to try and get the last hit on a minion for gold because sometimes enemies will take advantage of that and kill you because of Vayne's short range. Remember you have Tumble to get away from enemies and you can push enemies away with Condemn to help you survive.
+
+Once you reach the late game (and we are talking about the very late game) and have your core items plus more, this is where Vayne can use her duelling potential and carry the game. It's always best as an AD Carry to stay grouped with your team. You want to stay as far back from the enemies as possible and allow your front line to go in front of you to tank all the damage. Most of the time you are the main damage output, so if you are caught by yourself and die, then your team is in really big trouble, so make sure you stay safe at all times.
+
+With Vayne if you are happy to sit back and relax for the first 10 minutes and are able to farm up you can definitely carry the game later on and have a big impact on team fights.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

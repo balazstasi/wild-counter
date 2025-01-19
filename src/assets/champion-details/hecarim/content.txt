@@ -1,0 +1,106 @@
+Title: Hecarim :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Hecarim in League of Legends: Wild Rift. Our build guide will teach you how to play Hecarim in the current meta.
+
+Headings:
+- Level 1 Hecarim Stats
+- Hecarim's Abilities
+- Hecarim  Build Guide for Wild Rift
+- Hecarim's Item Build
+- Hecarim's Spells & Runes
+- Hecarim's Situational Items
+- Hecarim's Situational Runes
+- Hecarim's Skill Order
+- How to play Hecarim
+- Hecarim's Abilities
+- Warpath (Passive)
+- Rampage (1)
+- Spirit of Dread (2)
+- Devastating Charge (3)
+- Onslaught of Shadows (Ultimate)
+- Hecarim Build Breakdown
+- Jungle Patch
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Charges his halberd for 0.75 seconds, increasing the area Hecarim deals damage to. Automatically casts when fully charged, dealing 5 / 15 / 25 / 35 (+110% AD) physical damage.
+
+If Hecarim hits an enemy champion or a large monster with a full charge, he critically strikes them for 120% damage and gains a 30% Movement Speed bonus that decays over 3 seconds. This also empowers Hecarim's next Rampage within the next 8 seconds to deal 120% damage.
+
+Gains 6 / 12 / 18 / 24 Armor and Magic Resist, and deals 15 / 20 / 25 / 30 (+20% AP) magic damage to nearby enemies once every 0.5 seconds for 4 seconds. For every enemy hit, he heals for 5 (+1% of bonus HP).
+
+Damaging enemies restores Health equal to 20% of damage dealt + 0.02% of bonus AD.
+
+Healing gained from damaging minions and monsters is reduced by 50% and capped at 90 Health.
+
+Gains 25% Movement Speed, which increases to 55% over 4 seconds. Hecarim dashes toward the enemy if his next attack is within 5 seconds, dealing 5 / 10 / 15 / 20 (+30% bonus AD) physical damage and knocking them back. He will also pursue the enemy that was knocked back. The remaining duration of this ability is paused during Onslaught of Shadows.
+
+Hecarim is a bruiser that is played in the jungle. Hecarim is one of the best ganking junglers in the game, thanks to the insane movement speed he gets from his Devastating Charge. This allows him to go behind enemy champions and knock them back into your team. Hecarim is also a great champion in teamfights. His ultimate Onslaught of Shadows is a great initial engage tool, and he has a lot of AOE damage from his first ability, Rampage, which has a very low cooldown.
+
+Hecarim gains Attack Damage the more Movement Speed he has. This is why going for Ghost as a summoner spell and Glorious Enchant is vital to help Hecarim when engaging and ganking and give him a bit of extra damage.
+
+When tapping Rampage, Hecarim charges his weapon, increasing the damage area. This can be tapped again during the charge time to swing his weapon, dealing damage. The longer the charge time, the more damage this ability will do.
+
+The best way to deal the most damage is to tap this ability once, wait until it is fully charged, and let it recast itself. If you quickly tap this ability twice, you will lose damage. Also, when Rampage is fully charged, the damage will critically strike and give Hecarim bonus Movement Speed for a few seconds.
+
+Hecarim gains Armor and Magic Resist, heals himself and deals magic damage over a few seconds to nearby enemies. This makes Hecarim super tanky and really difficult to kill when it comes to teamfights as he can still use his other abilities when Spirit of Dread is active.
+
+Hecarim can also use this when clearing through the jungle to allow him to stay healthy.
+
+Hecarim gains movement speed, which increases over time. If Hecarim attacks an enemy within the next few seconds, he dashes toward the enemy, dealing damage and knocking them back, and Hecarim will follow that target.
+
+The ideal way to use this ability is to utilize the movement speed to get behind an enemy champion, knock them back to isolate them, and allow your team to follow up and deal a lot of damage.
+
+Hecarim summons spectral riders and charges forward. At the end of the charge, he unleashes a shockwave that gears everyone nearby. This is one of the best engage teamfight ultimates in the game. Having the opportunity to fear enemy champions and isolate them makes it so powerful.
+
+Similar to Devastating Charge, the ideal way to use Onslaught of Shadows is to try and aim the ultimate so you end up behind an enemy champion to fear them towards your team, making it easier for them to help you out.
+
+Hecarim uses a mixture of both AD and tank items that allow him to survive and deal a lot of damage. Trinity Force is a great first item for Hecarim. This item gives him both damage and tank stats, and the passive effect Spellblade works nicely with Hecarim's abilities, especially Rampage, since you'll be using this multiple times during teamfights. Black Cleaver is another great item that now works with Trinity Force meaning Hecarim can get double the movement speed which means more damage.
+
+For runes, we have the following:
+
+Hecarim has an easy-to-execute combo that quickly uses three separate abilities and attacks. Since Phase Rush will give Hecarim more movement speed, this will also increase his damage, thanks to his passive.
+
+Since Hecarim will be in many teamfights, deashing into the backline trying to kill enemy carries. Most of the time, Hecarim's damage is enough to get a takedown, which will heal him back up and allow him to stay in teamfights longer.
+
+When enemy champions are low on health, Hecarim can deal bonus damage. This will help Hecarim when he is running in to kill enemies. Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+Hecarim does well when he can stay in fights for a long time using his abilities and dealing as much damage as possible. With Legend: Bloodline the extra Omnivamp will help keep him when dealing damage.
+
+Overgrowth allows Hecarim to gain permanent health throughout the game when nearby minions or monsters are killed. So the more Hecarim farms the more Maximum Health he will get making him unkillable during teamfights.
+
+For summoner spells, Ghost is great with Hecarim. Not only does it help Hecarim get to his target quicker, and the extra movement speed means he will be getting more damage thanks to his passive. Smite is a must for when you are playing jungle. It greatly helps you when clearing the jungle and securing the epic monsters.
+
+Hecarim has an incredibly fast jungler clear thanks to his low cooldown on his Rampage. This allows him to full clear the whole jungle and get Level 5 very quickly making his ganking potential event stronger. Make sure when using Rampage to not recast the ability and help it naturally cast for the most amount of damage.
+
+This is what the jungle path would look like:
+
+1. Krugs
+
+2. Red Brambleback
+
+3. Raptors
+
+4. Wolves
+
+5. Blue Sentinal6. Gromp
+
+7. Scuttle Crab into gank
+
+Hecarim is one of the best teamfight champions in the game, thanks to his ultimate ability to split fights and his incredible AOE damage. You want to make sure you stay with your team at all times and try not to get caught out by yourself. As a jungle, your main goal is to keep track and try to take major objectives (Dragons, Rift Herald and Baron). Taking these epic monsters will give you and your team a massive advantage in the game. When a teamfight happens, use Devastating Charge and Onslaught of Shadows to get onto the backline carry to try and kill them.
+
+Overall, Hecarim is an easy-to-learn champion that doesn't have skillshots that you need to learn. He is extremely fun to play and fits everything you need as a jungler.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

@@ -1,0 +1,108 @@
+Title: Lillia :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Lillia in League of Legends: Wild Rift. Our build guide will teach you how to play Lillia in the current meta.
+
+Headings:
+- Level 1 Lillia Stats
+- Lillia's Abilities
+- Lillia  Build Guide for Wild Rift
+- Lillia's Item Build
+- Lillia's Spells & Runes
+- Lillia's Situational Items
+- Lillia's Situational Runes
+- Lillia's Skill Order
+- How to play Lillia
+- Lillia's Abilities
+- Dream-Laden Bough (Passive)
+- Blooming Blows (1)
+- Watch Out! Eep! (2)
+- Swirlseed (3)
+- Lilting Lullaby (Ultimate)
+- Lillia Build Breakdown
+- Jungle Path
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Lillia's abilities apply Dream Dust, dealing 6% (+0.012% AP) max Health magic damage over 3 seconds. Lillia restores 24 (+6% AP) Health over the duration against large jungle monsters, and restores 17 (+15% AP) Health against champions.
+
+Dream Dust's damage is capped at 66 damage over the duration against jungle monsters.
+
+Dream Dust heal is 33% effective for each source beyond the first.
+
+Dream Dust can only heal from one monster at a time.
+
+Passive: Lillia's Ability hits grant 4.5% / 5.5% / 6.5% / 7.5% (+0.02% AP) Move Speed for 6 seconds, stacking up to 4 times.
+
+Active: Lillia whirls her censer, dealing 35 / 55 / 75 / 95 (+40% AP) magic damage, plus an additional 55 / 55 / 75 / 95 (+40% AP) true damage at the outer edge.
+
+Blooming Blows deals 110% damage to monsters.
+
+Lillia winds up a huge strike, dealing 70 / 110 / 150 / 190 (+35% AP) magic damage. Enemies in the center take 140 / 220 / 300 / 380(+70% AP) magic damage instead.
+
+Deals 50% damage to minions.
+
+Lillia causes all enemy champions with Dream Dust to become Drowsy for 1.5 seconds. Afterward they fall Asleep for 2 / 2.3 / 2.5 seconds.
+
+When awakened by damage, they take an additional 100 / 150 / 200(+40% AP) magic damage.
+
+Drowsy units are slowed over the duration, and fall Asleep afterwards. Asleep units can't move or act until damage by an enemy with non-periodic damage.
+
+Lillia is a highly mobile AP champion who is played in the jungle. She uses her abilities to deal tons of AOE damage, and when possible, she can put the whole enemy stream to sleep with her Lilting Lullaby. Blooming Blows' passive gives Lillia a lot of stacking movement speed, making it easier to maneuver in teamfights to deal bonus damage and dodge skillshots. She's also one of the best tank killers in the game, thanks to her abilities and help from the build.
+
+Lillia's abilities apply Dream Dust, dealing max Health magic damage over a few seconds. Lillia also restores health when Dream Dust is applied against large jungle monsters and champions.
+
+With this passive dealing Max Health damage, Lillia does well against Tanks. Also, the damage over time synergizes well with the build, burning enemies for true damage.
+
+Whenever Lillia hits any of her abilities, she gains movement speed for a few seconds, stacking a few times. This makes Lillia super mobile during team fights.
+
+When activating Blooming Blows, Lillia whirls her censer around her, dealing magic damage. If Lillia hits enemies on the outer edge, she deals additional true damage, so it's essential to try to hit enemies on the outer edge since true damage will ignore the magic resistance built by the enemies.
+
+Lillia winds up a hug strike, dealing magic damage. Enemies hit in the centre take more magic damage. This ability does AOE damage, so when clearing through the jungle, hit all jungle monsters with one cast. When using this ability over a wall, it might seem like you can jump over it, but you cannot. However, the damage will still go through.
+
+Lillia lobs a swirlseed overhead, dealing magic damage where it lands, revealing and slowing them for a few seconds. If no enemies are hit, the seed rolls until it hits an enemy or collides with terrain.
+
+Since Swirlseed is a global ability that can go from one side of the map to the other, it can be tricky to aim. When aiming Swirlseed, you can look at the minimap to see where the swirlseed will land.
+
+Lillia causes all enemy champions with Dream Dust (Passive) to become Drowsy for over a second. Afterwards, they fall asleep for a few seconds, meaning they cannot move or use their abilities.
+
+Lillia or her allies can awaken the sleeping enemy champions by dealing damage; if they do, the enemy champions will take additional magic damage. Lilting Lullaby is best combo'd with Blooming Blows since this ability can hit multiple enemies, this means you can make multiple enemies sleep whilst moving around during a team fight.
+
+Lillia is known for doing a lot of magic damage from her abilities, and this is reflected in the build. Riftmaker is an excellent first item for Lillia. The base stats help her deal more damage and have a bit of survivability. Also, the passive, Void Corruptions, means Lillia can deal True Damage and get plenty of healing to keep her alive longer. Liandry's Torment is another excellent item that helps with the damage over time cased by Dream-Laden Bough. The double damage over time can be painful for the enemies, as they think they've escaped and still burn to death.
+
+For runes, we have the following:
+
+When hitting any of Lillia's abilities, the movement speed she gets makes it easier for Lillia to follow up with her other abilities, allowing her to proc Electrocute to deal more burst damage.
+
+Gathering Storm is the best option in this selection. This will help Lillia gain a lot of Ability Power in the mid and late game, allowing her to deal more damage to enemy champions.
+
+With Lillia's combos, she can do a lot of burst damage. Coup de Grace will help Lillia do more damage to low-health enemies to help deal the killing blow.
+
+Lillia does a lot of Magic Damage with her abilities, and these abilities are on a low cooldown. When dealing a lot of damage, Legend: Bloodline will give Lillia Magic Vamp that can help keep herself alive during teamfights.
+
+Overgrowth allows Lillia to gain permanent health throughout the game when nearby minions or monsters are killed. So the more Lillia farms in the jungle, the more Maximum Health she will get, making her very tanky and difficult to kill.
+
+For summoner spells, Flash is a must on most champions. It's an excellent spell for Lillia, as you can use it in combo with Blooming Blows to sleep multiple enemy champions. Smite is a must when you are playing in the jungle. It greatly helps you when clearing the jungle and securing the epic monsters (Dragons and Baron).
+
+Lillia doesn't have the best one vs one potential against other junglers early on. You often want to go for a full clear and kill every jungle camp. When you finish killing every jungle camp, you will get close to Level 5 and have access to Lillia's Lilting Lullaby to have a stronger impact when ganking a lane.
+
+This is what the jungle path would look like:
+
+Below is a beginner's guide for the jungle in Wild Rift. It goes in-depth about every jungle camp. Epic monsters and more!:
+
+As Lillia, you want to take advantage of her high mobility during team fights. Make sure to always group with your team and use Lillia's combo when the enemies are grouped so you can sleep multiple enemy champions. If you hit any of your abilities on a high-value target, use your Ultimate immediately so you can easily follow up with your other abilities for insane burst damage. When playing Jungle, your main job is to keep track of when Dragon, Rift Herald, and Baron spawn. Taking these epic monsters will give you and your team an advantage in the game.
+
+Lillia is a very fun and easy champion to play and master. Her high mobility means that you can always look to run around and have some fun during the game whilst also dealing a lot of damage and having a lot of crowd control, making enemies fall asleep.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

@@ -1,0 +1,100 @@
+Title: Thresh :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Thresh in League of Legends: Wild Rift. Our build guide will teach you how to play Thresh in the current meta.
+
+Headings:
+- Level 1 Thresh Stats
+- Thresh's Abilities
+- Thresh  Build Guide for Wild Rift
+- Thresh's Item Build
+- Thresh's Spells & Runes
+- Thresh's Situational Items
+- Thresh's Situational Runes
+- Thresh's Skill Order
+- How to play Thresh
+- Thresh's Abilities
+- Damnation (Passive)
+- Death Sentence (1)
+- Dark Passage (2)
+- Flay (3)
+- The Box (Ultimate)
+- Thresh Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Thresh can harvest the Souls of enemies that die near him, each soul permanently granting him 2 Armor and 2 Ability Power.
+
+Thresh does not gain Armor on level up.
+
+Throws out a scythe, stunning the first unit hit and pulling them in for 1.5 seconds. The scythe does 80 / 130 / 180 / 230 (+50% AP) magic damage and grants True Sight for the duration.
+
+Recast: Dashes to the bound enemy.
+
+Cooldown is reduced by 3 seconds if it hits an enemy.
+
+Throws a Lantern to a target location, allowing an ally to tap the Minion Button to dash to Thresh.
+
+The Lantern also grants a shield to Thresh and the first ally that comes near it, absorbing up to 65 / 115 / 165 / 215 (+2 per Soul) damage for 4 seconds.
+
+Passive: Basic attacks deal additional 0 to 58 (2 per Soul to 2 per Soul + 80% / 100% / 120% / 140% AD) magic damage based on how long since he last attacked.
+
+Active: Thresh whips his chains, pulling or pushing enemies in the direction of the swing. Enemies hit are also slowed by 20% / 25% / 30% / 35% for 1 second and take 65 / 105 / 145 / 185 (+40% AP) magic damage.
+
+Creates a prison of spectral walls, slowing champions by 99% for 2 seconds and dealing 250 / 400 / 500 (+100% AP) magic damage. Walls break after one collision, and after one is broken, the rest deal no damage and slow for half duration.
+
+An enemy cannot be afftected by multiple walls simultaneously.
+
+Thresh is a tank support. He is a strong early game champion that transitions well into the late game with his strong zoning and crowd-control abilities. Thresh fits into any composition really well. If you need a front line tank that can engage... Thresh can do that! Or if you need someone to stay at the back line and peel for your carries... Thresh can also do that!
+
+Thresh can collect the souls of enemies that die near him, the souls can drop from minions, champions, epic monsters and more! Thresh has to stand pretty close to the soul to collect them, so be careful when walking up and make sure you won't be in any danger before collecting the soul. Each soul permanently grants Thresh Armor and Ability power.
+
+Thresh throws a Scythe, stunning the first unit hit and pulling them in for just over a second. The Scythe does magic damage and grants True Sight for the duration. True Sight means that this ability grants vision of someone if it hits an enemy. This means that it can sometimes be useful to use your Death Sentence towards a bush if you feel like someone might be hiding. When you hit your Death Sentence you can recast the ability which allows Thresh to dash to the bound enemy. This is really good when you want to combo Death Sentence with Flay as you can use your Flay in mid-air to slow down the enemy.
+
+Thresh throws a Lantern to a target location, allowing an ally to tap the Minion Button to dash to Thresh. The Lantern also grants a shield to Thresh and the first ally that comes near it. With Dark Passage, it's important to note that if you want the shield you need to make sure you tap the ability so the Lantern falls on top of you. However, you can manually aim the ability to throw it and potentially save someone's life or throw it behind you so your ally can travel to you and set up an engagement on the enemy.
+
+Flay has 2 parts, a passive and an active.
+
+The passive is that Thresh's basic attacks deal additional magic damage based on how long it's been since he last attacked. This is really strong early on and why most of the time you want to get your Flay at level 1 because you can do a lot of damage.
+
+The active is Thresh whips his chains, pulling or pushing enemies in the direction of the swing. This allows you to push enemies away on pull enemies towards you. Enemies hit are also slowed for a second and take magic damage.
+
+Thresh creates a prison of spectral walls slowing champions for just over a second and dealing magic damage. Walls break after one collision, and after one is broken, the rest deal half damage and slow for half the duration. An enemy cannot be affected by multiple walls simultaneously.
+
+If you are close to an enemy you can combo your Box with Flay to knock an enemy straight into a wall so they will take a lot of damage and be slowed a lot. Then you can easily land your Death Sentence and chain your crowd control.
+
+Thresh greatly benefits from tank items as well as items that give him a bit of ability haste so his abilities will be up and available more often. Warmog's Armor is a great item for Thresh. It's a huge tank item that gives him a lot of health and health regeneration, so if you get low on health, you can go out of combat and heal back up before looking to go in for another fight. Dead Man's Plate is another strong tank item for Thresh. It also gives him the movement speed he needs to close the gap and get into range to use his abilities making your life a lot easier.
+
+For runes we have:
+
+Glacial Augment is a great Keystone for Thresh. When walking towards enemy champions, he can use Flay to slow enemies and reduce their damage making it easier to hit Thresh's other abilities.
+
+Thresh has multiple abilities that allow him to immobilize enemies. With Courage of the Colossus, Thresh will gain a shield making him even more difficult to kill as a tank.
+
+As Thresh, you will be engaging and fighting a lot. With bone plating after taking damage from a champion, the next few abilities or attacks deal less damage.
+
+Overgrowth allows Thresh to gain permanent health throughout the game when nearby minions or monsters are killed, meaning you don't even need to kill the minions or monsters to gain stacks.
+
+Hexflash gives Thresh more opportunities to make plays throughout the game when Flash is on cooldown. Use hex flash in a bush or behind a wall to surprise your opponent and engage with Thresh's abilities.
+
+For summoner spells, Flash is a must on most champions. Works really well with Thresh because you can Flash forward and try and land his Death Sentence or Flay. Ignite is a nice way to get extra damage with Thresh. When you pull someone in you can use you're ignite to try and kill the enemy.
+
+Thresh is a really strong early game champion. At level 1 you will have access to your Flay so your auto attacks will deal more damage and you can easily proc Aftershock when fighting early to win every trade. Then at level 3, you will have access to your Death Sentence that you can look to land at any stage early on and your Dark Passage that you can use to help an ally escape or use aggressively to try and engage on the enemy. Thresh is also great at roaming early on to the mid lane to try and get a hook on the enemy champion.
+
+The best thing you can do with Thresh in the late game is staying with your team. This is because you can land a crucial hook on a big enemy target and your team can follow up and hopefully get a nice and easy kill. Try your best to keep your AD carry alive at all times with Flay to zone away the enemies and your The Box to push enemies away.
+
+Overall Thresh is quite a difficult champion to master, but he is one of the best designed and most fun champions that Riot has ever released and he is really fun to play!
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

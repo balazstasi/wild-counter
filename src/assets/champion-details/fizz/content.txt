@@ -1,0 +1,96 @@
+Title: Fizz :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Fizz in League of Legends: Wild Rift. Our build guide will teach you how to play Fizz in the current meta.
+
+Headings:
+- Level 1 Fizz Stats
+- Fizz's Abilities
+- Fizz  Build Guide for Wild Rift
+- Fizz's Item Build
+- Fizz's Spells & Runes
+- Fizz's Situational Items
+- Fizz's Situational Runes
+- Fizz's Skill Order
+- How to play Fizz
+- Fizz's Abilities
+- Seastone Trident (Passive)
+- Urchin Strike (1)
+- Rending Wave (2)
+- Playful Trickster (3)
+- Chum The Waters (Ultimate)
+- Fizz Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Attacks deal an additional 24 (+45% AP) magic damage over 3 seconds.
+
+Deals 90% damage to monsters.
+
+Empowers the next attack to gush water around the target, dealing 50 / 75 / 100 / 125 (+45% AP) magic damage and applying Seastone Trident to enemies hit. Additional attacks within 5 seconds deal 10 / 15 / 20 / 25 (+40% AP) bonus magic damage.
+
+Killing a unit with the first attack reduces Rending Wave's cooldown to 1 second.
+
+Vaults to target location, becoming untargetable while balanced on the trident. After 1.2 seconds, Fizz hops down with a large splash that deals 80 / 150 / 220 / 290 (+80% AP) magic damage and slows enemies hit by 40% / 45% / 50% / 55% for 2 seconds.
+
+Re-cast: Hop down early towards a direction, but deal damage in a smaller splash that does not slow enemies.
+
+Launches a fish in taget direction that attaches to the first champion hit and reveals them. After 2 seconds, the fish attracts a shark that knocks up its target and knocks away enemies around them. The farther the fish travels, the larger the shark it will attract, dealing 150 / 250 / 350 (+60% AP) to 300 / 400 / 500 (+120% AP) magic damage and slowing enemies hit by 40% to 80% based on the size of the shark.
+
+If the fish does not attach to a champion, it will flop on the ground and still attract a shark at its location.
+
+Fizz is a mid-lane assassin. He's a very slippery fish with a lot of mobility to dodge, dip and dive in and out of team fights, making him one of the most annoying champions to play against. On top of that, Fizz's ultimate, Chum the Waters, is a long-range Shark, and being hit by this ability marks the health of any squishy target.
+
+Fizz's attacks deal additional magic damage over a few seconds. This will significantly help you when trying to last-hit minions in the laning phase. Seastone Trident also deals more damage to monsters in the jungle. So if you are looking for a jungler with a lot of mobility and one-shot potential when ganking, then Fizz is the right champion for you!
+
+Fizz dashes through target enemies, dealing magic and physical damage and applying on-hit effects. You can use Urchin Strike on minions to get closer to enemy champions or to escape difficult situations.
+
+When using Urchin Strike, always be wary of how far you are from the target. If you use Urchin Strike at max range, you will always end up in melee range of the target; however, if you use Urchin Strike when very close to the target, you will end up further away.
+
+Empowers Fizz's next auto attack to deal magic damage and applies Seastone Trident (Passive). Additional attacks within a few seconds after your first attack deals extra magic damage.
+
+Killing a unit with the first attack reduces Rending Wave's cooldown to 1 second. Rending Wave makes last-hitting minions a lot easier and helps you push waves so you can look to roam around the map.Rending Wave is also an auto-attack reset and is one of the core parts of Fizz's combo. Before using Rending Wave, make sure you auto-attack once, so you deal more damage in a short space of time.
+
+Fizz vaults to a target location, becoming untargetable while balanced on the trident. After just over a second, Fizz hops down with a large splash that deals magic damage and slows enemies hit for a few seconds.
+
+You can re-cast Playful Trickster to hop down early and in a direction, you want to go, but you deal damage in a smaller splash that does not slow enemies.
+
+Most of the time, you want to use Playful Trickster as a dodging/disengaging tool so you can become untargetable when skill shots are flying towards you. You can also use Flash with Playful Trickster to guarantee you deal damage to a target if they are too far away.
+
+Fizz launches a fish in target direction that attaches to the first champion hit. After a few seconds, a shark comes that knocks up its target and knocks away enemies around them. The farther the fish travels, the larger the shark will be, meaning it will deal more damage and slow enemies hit, which is increased depending on the shark's size. Remember that even if you don't hit a target with Chum The Waters, the shark will still pop up, dealing damage and knocking enemies away in that area.When using Chum The Waters, it's best to stay out of vision as this will give the enemy less time to try and react and dodge this ability since they won't see the original cast from Fizz.
+
+With Fizz, you want to build items that give a lot of ability power to help with the damage from his abilities. Lich Bane is a core item for Fizz; this item gives Fizz a lot of Ability Power and Ability Haste. Also, the Spellblade passive is excellent for Fizz since you will always be within melee range of the enemies, so you can auto-attack after using an ability. Fizz has the power to one-shot any squishy enemy champion; this will be even easier once you have Infinity Orb and Rabadon's Deathcap completed, as it will give Fizz a lot of Ability Power and Magic Penetration so his abilities will be dealing more damage.
+
+With runes, we have the following:
+
+Fizz can start fights sitting in a bush with Chum The Waters, being the first one to deal damage to the enemy. This will proc First Strike, giving Fizz extra damage and money to help scale and buy items sooner.
+
+Gathering Storm helps Fizz gain more Ability Power throughout the game to help with his one-shot potential on high-value targets.
+
+With his combos, Fizz can do a lot of burst damage, and with Coup de Grace this can help Fizz do more damage to low-health enemies
+
+Fizz does a lot of Magic Damage with his abilities. Sometimes, you can get caught out and take a lot of damage when trying to kill enemy champions. However with Bloodline the little bit of Magic Vamp you get can help Fizz heal up and stay alive.
+
+With Fizz, he has two dashing abilities, Urchin Strike and Playful Trickster. He will always jump into the enemy's back line with these dashing abilities, gaining Magic Penetration to deal more damage.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for that killing blow. With Fizz, you can also combo Flash with Playful Trickster to guarantee you deal damage to a target if they are too far away. For the 2nd spell, Ignite is fantastic for Fizz; when looking to one-shot squishy targets, Ignite will help you deal that extra bit of damage over time.
+
+As a melee champion, Fizz can struggle a lot in the early game. Most of the time, you want to stay back and wait for the enemy champion to push the minion wave under your tower so you can farm without being in danger. However, you can walk up to minions early on and use Playful / Trickster to jump away once you have last hit the minion but be careful, as Playful / Trickster has a long cooldown in the early game. When you find an opening, look to use Urchin Strike on the enemy champion and use the auto attack reset of Rending Wave to easily proc electrocute and then use Playful Trickster to jump away to safety.
+
+When you reach the mid and late game and get his core items, this is where Fizz can look to roam around the map and one-shot squishy targets. You have a lot of mobility with your Urchin Strike, and you can dodge abilities with Playful / Trickster. The best thing you can do is try to isolate one enemy champion and look to kill it before a team fight starts. Try to hide in a bush and wait for the enemy carries to walk near you. This is when you can use your Ultimate and try to one-shot them. When you are grouped with your team and about to have a team fight, the best thing you want to do is get to their backline, where you can kill the enemy carries.
+
+Overall, Fizz is a very fun champion to play with his high mobility and outplay potential the sky is the limit when you are playing Fizz! Just be careful when using Fizz's abilities, as sometimes you can get too overconfident and die very quickly.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

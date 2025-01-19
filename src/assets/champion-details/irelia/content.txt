@@ -1,0 +1,115 @@
+Title: Irelia :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Irelia in League of Legends: Wild Rift. Our build guide will teach you how to play Irelia in the current meta.
+
+Headings:
+- Level 1 Irelia Stats
+- Irelia's Abilities
+- Irelia  Build Guide for Wild Rift
+- Irelia's Item Build
+- Irelia's Spells & Runes
+- Irelia's Situational Items
+- Irelia's Situational Runes
+- Irelia's Skill Order
+- Irelia's Item Build
+- Irelia's Spells & Runes
+- Irelia's Situational Items
+- Irelia's Situational Runes
+- Irelia's Skill Order
+- How to play Irelia
+- Irelia's Abilities
+- Ionian Fervor (Passive)
+- Bladesurge (1)
+- Defiant Dance (2)
+- Flawless Duet (3)
+- Vanguard's Edge (Ultimate)
+- Irelia Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Hitting enemies with abilities grant 3% - 17% bonus Attack Speed for 6 seconds, stacking up to 4 times.
+
+At max stacks attacks deal an additional 30 - 120 (+30% AD) magic damage on hit.
+
+Attacking enemy champions refreshes the duration.An ability grants multiple stacks upon hitting multiple champions.
+
+Dashes through an enemy, dealing 15 / 45 / 75 / 105 (+60% AD) physical damage and healing herself for 19% / 21% / 23% / 25% AD. Bladesurge's cooldown is refreshed if the target was Marked or dies to Bladesurge.
+
+When aimed, Bladesurge will prioritize targets it will reset on.
+
+Deals 150% damage to minions.
+
+Hold: Defends with her blades for up to 1.5 seconds, taking 60% (+7% AP) reduced damage.
+
+Release: Whips the blades forward, dealing 20 / 35 / 50 / 65 (+50% AD +40% AP) physical damage, increased by up to 100% with charge time.
+
+Cannot be interrupted.
+
+Sends a blade to target location. May be recast within 3 seconds to send another blade.
+
+The blades converge upon reaching their destination, dealing 80 / 130 / 180 / 230 (+80% AP) magic damage, stunning for 1 second, and Marking enemy champions and large monsters hit for 5 seconds.
+
+Fires a storm of blades that deals 125 / 250 / 375 (+70% AP) magic damage and Marks enemy champions and Large Monsters for 5 seconds.
+
+The blades explode into a wall for 3 seconds upon hitting an enemy champion, The bladewall deals 100 / 175 / 250 (+70% AP) magic damage and slows by 90% for 1 second.
+
+Irelia is a highly mechanical flexible champion that can be played in multiple roles. With Irelia's high skill ceiling, she can look to get resets with Bladesurge to dash around during the laning phase and team fights. Irelia is not the best in the early game; she needs to find the right opportunity to stack up her passive Ionian Fervor and then look to dash in with Bladesurge once she has full stacks so she has high attack speed and bonus damage.
+
+Irelia can also be played in the mid-lane and jungle; make sure to check the alternative build at the top of the page! With Irelia Mid, the build and playstyle are the same. With Irelia Jungle, the build and runes are slightly different since you will be grouping around objectives more, and we want to build items that help Irelia clear the jungle faster.
+
+Hitting enemies with abilities grants bonus attack speed for a few seconds, stacking up to 4 times. At max stacks, attacks deal additional magic damage. Abilities that hit multiple champions grant multiple stacks, and attacking enemy champions refreshes the duration.
+
+Irelia heavily relies on Ionian Fervor to deal damage, and it's always best to stack your passive before going into fights to deal extra damage. The most reliable way to stack Ionian Fervor is by using Bladesurge and resetting the ability on multiple minions before looking to hit Flawless Duet and Bladesurge onto the enemy.
+
+Irelia dashes through an enemy dealing physical damage and healing herself. Bladesurge's cooldown is refreshed if the target was marked (from Flawless Duet or Vanguard's Edge) or dies to Bladesurge. Bladesurge also applies on-hit effects, so item passives like Spellblade will allow Irelia to deal more damage with Bladesurge.
+
+This is one of her essential abilities of Irelia as it helps her to stack her passive faster and allows her to be mobile in team fights.
+
+When you hold the ability, Irelia defends herself with her blades for just over a second, taking reduced damage. When you release the ability, Irelia whips the blades forward, dealing physical damage, increasing by up to 100% based on charge time.
+
+Defiant Dance can last hit minions from range if you are low on health or in a losing matchup in the baron lane. You can also use Defiant Dance to get minions low enough to use Bladesurge to get resets and start stacking your passive.
+
+Irelia sends a blade to a target location, which can be recast within a few seconds to send another blade. When you activate both parts of the ability, the blades converge upon reaching their destination, dealing magic damage, stunning for a second and marking enemy champions and large monsters hit for a few seconds.
+
+This ability is Irelia's primary crowd control ability and her main set-up for her ultimate Vanguard's Edge and helps her dive into the backline and get multiple stacks of her passive and resets from Bladesurge to kill the enemy.
+
+Irelia fires a storm of blades that deals magic damage and marks enemy champions for a few seconds. Each enemy marked will count as a stack towards her passive Ionian Fevour. If you hit four or more enemies, she can get her full stacks on her passive with just one ability. After hitting an enemy champion, the blades explode into a wall for a few seconds. The wall deals magic damage and slows enemies for a second.
+
+Irelia uses a mixture of damage and tank items that work well to help with her damage and to help keep her alive for longer. Blade of the Ruined King is a great first item for Irelia. This item gives her a lot of attack damage and attack speed and allows her to steal movement speed from the enemies, which can be really impactful when you are trading in Baron Lane and trying to go in for the kill. Trinity Force is another excellent item for Irelia. This item gives her both damage and tank stats. Trinity Force's passive effect, Spellblade works excellently with Irelia's abilities, especially Bladesurge. Using Bladesurge on an enemy champion instantly uses the Spellblade passive allowing it to deal more damage.
+
+For runes, we have the following:
+
+Irelia is a fighter who wants to get in the enemy's face and attack constantly. Irelia's fast auto attacks and abilities allow her to gain stacks quickly. With Conqueror, this helps her deal more damage and gain physical vamp to heal up when at full stacks.
+
+Brutal gives Irelia's auto attacks and Bladesurge a lot more damage, especially in the early game, giving her more power to try and get advantages.
+
+When enemy champions are low on health, Irelia can deal bonus damage. This will help Irelia when she is dashing in to kill enemies. Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+Irelia's early game is solid, and with Alacrity, this becomes even stronger with the extra attack speed from her passive, Ionian Fervor. Legend: Tenacity is another excellent option when playing against champions that have Crowd Control.
+
+Since Irelia is generally at the front during team fights dashing around, she will take a lot of damage. Bone Plating will help Irelia take reduced damage from the first three instances of damage which will help her survive longer.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for the killing blow. For the 2nd spell, it's best to go for Ignite. This helps Irelia try and take advantage of her early-game damage to trade against the enemy and get early kills. If needing to play defensively, swap Ignite for Barrier.
+
+Irelia struggles a bit in the early game. It's best to play passive unless you have an excellent opportunity to go in when you have your passive Ionian Fervor at full stacks, meaning you will gain attack speed and bonus damage. In the laning phase, you want to use Bladesurge to last hit minions to gain stacks on her passive and reset the cooldown. When looking to engage, use Flawless Duet behind you and try to dash onto a minion to better your chances of laning the stun. Then you can use Bladesurge to dash onto the enemy to deal a lot of damage.
+
+You can become unstoppable once you get to the late game, and Irelia has her core items. At this stage of the game, you have two options. You can try and split-push to try and get towers in the side lane or group with your team and try to jump onto the enemy backline carry to kill them.
+
+Irelia's one vs one potential is perfect because her kit allows her to be so mobile, and she pushes towers quickly. Ensure you keep an eye on your team and rotate to a team fight if needed. In a team fight, your main goal is to get on top of the enemy backline. Use your Ultimate to get passive marks on the backline so you can dash to them and deal loads of damage.
+
+Overall Irelia is one of the most highly skilled and mechanical champions in the game. Knowing how and when to use her abilities will be a big part and a huge learning curve when playing Irelia. However when done correctly Irelia can be a beast and carry a lot of games.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

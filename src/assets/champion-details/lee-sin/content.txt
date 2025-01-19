@@ -1,0 +1,100 @@
+Title: Lee Sin :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Lee Sin in League of Legends: Wild Rift. Our build guide will teach you how to play Lee Sin in the current meta.
+
+Headings:
+- Level 1 Lee Sin Stats
+- Lee Sin's Abilities
+- Lee Sin  Build Guide for Wild Rift
+- Lee Sin's Item Build
+- Lee Sin's Spells & Runes
+- Lee Sin's Situational Runes
+- Lee Sin's Skill Order
+- How to play Lee Sin
+- Lee Sin's Abilities
+- Flurry (Passive)
+- Sonic Wave / Resonating Strike (1)
+- Safeguard / Iron Will (2)
+- Tempest / Cripple (3)
+- Dragon's Rage (Ultimate)
+- Lee Sin Build Breakdown
+- Jungle Path
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Sonic Wave: Fires an energy wave that deals 55 / 90 / 125 / 160 (+105% AD) physical damage to enemies and reveals them. Hitting an enemy allows Resonating Strike to be cast within 3 seconds.
+
+Resonating Strike: Dash to enemy marked by Sonic Wave, dealing 55 / 90 / 125 / 160 to 110 / 180 / 250 / 360 (+105% to +210% AD) physical damage based on its missing Health.
+
+Safeguard: Dashes to target location. If an enemy is nearby on arrival, Lee Sin shield himself for 70 / 130 / 190 / 250 (+100% AP) for 2 seconds. Allows Iron Will to be cast within 3 seconds.
+
+Safeguard's cooldown is reduced by 0.5 seconds with each attack.
+
+Iron Will: Empowers next two attacks to deal an additional 26 / 39 / 52 / 65 (+40% AP) magic damage and gain 16% / 24% / 32% / 40% Omnivamp.
+
+Tempest: Deals 90 / 140 / 190 / 240 (+125% AD) magic damage, to nearby enemies and reveals them for 3 seconds. Hitting an enemy allows Cripple to be cast within 3 seconds.
+
+Cripple: Slows enemies hit by Tempest by 30% / 40% / 50% / 60%, decaying over the course of 4 seconds.
+
+Launches a powerful roundhouse kick at an enemy champion, dealing 100 / 250 / 400 (+200% bonus AD + 10% / 13% / 16% of the target's maximum health) physical damage and knocking them back. Enemies the target collides with along the way are knocked Airborne for 1 second and take 100 / 300 / 500 (+200% bonus AD + 10% / 13% / 16% of the target's maximum Health).
+
+Damage dealt to monsters is caped at 800.
+
+Lee Sin is a high mobility AD jungler. He has one of the best early games in terms of jungle clear and 1 vs 1 potential vs the enemy jungler, and has great early game ganks that you can take advantage of to snowball your lanes. He does fall off a bit when you get to the late game which is why you need to play an aggressive early game jungle playstyle to get an early advantage.
+
+Lee Sin's abilities grant him bonus Attack Speed for 2 attacks within a few seconds. It's really important to make sure you use the Flurry passive to full effect when clearing the jungle. You will be able to stay healthy and clear the jungle a lot quicker. The first attack after using an ability restores energy and the second restores half of that amount.
+
+Lee Sin fires an energy wave that deals physical damage to enemies and reveals them. Hitting an enemy allows Resonating Strike to be cast within a few seconds. You can use Sonic Wave as your primary engage tool if you hit an enemy champion, but be careful before recasting Sonic Wave because you might put yourself in a difficult position that you can't get out of.
+
+You can also use Sonic Wave to move around the jungle a lot quicker meaning you can clear the jungle faster than the enemy.
+Resonating Strike dashes Lee Sin to the marked enemy target dealing physical damage.
+
+Lee Sin dashes to a target location. If an enemy is nearby on arrival, Lee Sin shields himself for a few seconds and allows Iron Will to be cast within a few seconds. This is Lee Sin's main mobility and defensive tool. Safeguard's cooldown is reduced by just under a second with each attack.
+
+This means you want to mainly use Safeguard at the start when clearing the jungle so you can use it multiple times to stay healthy and get the extra attack speed. Iron Will empowers the next two attacks to deal additional damage and gain physical and magic vamp.
+
+Tempest is an AoE ability that deals magic damage to nearby enemies and reveals them for a few seconds. Hitting an enemy allows Cripple to be cast within a few seconds. Cripple slows enemies hit by Tempest decaying over 4 seconds.
+
+Lee Sin kicks an enemy champion dealing physical damage and knocking it away. Lee Sin can also deal damage to enemies that are affected by the kicked champion and knock them up as well for a second. Dragon's Rage is a great way to burst down an enemy target. You can use this at the start of a teamfight to knock an enemy into your team or at the end to finish off for the kill.
+
+A basic but effective combo is using Sonic Wave and Resonating Strike to travel to the enemy, then use Safeguard to go behind the enemy so you can use Dragon's Rage to kick them right into your team.
+
+Lee Sin uses a mixture of both AD and tank items that allow him to deal damage and survive. Youmuu's Ghostblade is a great first item for Lee Sin because it helps him roam around the map a lot quicker and gives him some extra burst damage. Trinity Force is another item that will help with Lee Sin's burst damage allowing him to deal more damage after using an ability.
+
+For runes, we have the following:
+
+With Lee Sin, you can hide in bushes to surprise enemies. As long as you hit Sonic Wave before taking damage, you'll be able to deal true damage to that target, which will help your damage.
+
+Gathering Storm gives Lee Sin a lot of Attack Damage as the game gets into the mid/late game. It's not that useful during the early game, but during the late game, this will help.
+
+When enemy champions are low on health, Lee Sin can deal bonus damage. This will help him when looking to assassinate backline carries.
+
+Bloodline gives Lee Sin physical vamp. This will work well with how much damage Lee Sin will be dealing, making him tougher to kill. Legend: Tenacity is another good option in this row when playing against enemies with Crowd Control.
+
+When using Sonic Wave and/or Safeguard Lee Sin will gain Armor Penetration to deal more damage.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for that killing blow. Smite is a must for when you are playing jungle. Help's you out a lot when clearing the jungle and securing the epic monsters.
+
+Lee Sin has a very fast early jungle clear. This means that you can work your way around the jungle really fast and be aggressive when contesting the scuttle crabs in the rivers. It is best to start at Red Brambleback as you don't have mana and you don't lose a lot of health when jungle clearing. With Lee Sin, you want to make sure you make the best out of your passive, Flurry. Every time you use an ability, your next 2 auto attacks gain attack speed and return energy. Every basic ability for Lee Sin has 2 activates so it's best to press ability, auto twice, press ability, auto twice, and so on.
+
+This is what the jungle patch would look like:
+
+Below is a beginner's guide for jungle in Wild Rift. It goes in-depth about every jungle camp. Epic monsters and more!:
+
+Lee Sin can struggle a lot in the late game. Your damage falls off really fast and you don't have a lot of teamfight crowd control. Your best way to go about the late game is trying to get a Dragon's Rage kick on an important target to kick them into your team. Your main objective as a jungler is to keep track of when Dragons, Rift Herald and Baron spawn. Taking these epic monsters will give you and your team an advantage in the game. When in a team fight, try your best not to get caught out and try to keep auto-attacking and using your abilities to deal damage.
+
+If you like an aggressive jungle playstyle and a champion that can use his early advantage to carry the team then Lee Sin is the go-to pick for you. He has a lot of mobility allowing him to jump over multiple walls and can make some really good flashy plays.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

@@ -1,0 +1,98 @@
+Title: Ahri :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Ahri in League of Legends: Wild Rift. Our build guide will teach you how to play Ahri in the current meta.
+
+Headings:
+- Level 1 Ahri Stats
+- Ahri's Abilities
+- Ahri  Build Guide for Wild Rift
+- Ahri's Item Build
+- Ahri's Spells & Runes
+- Ahri's Situational Items
+- Ahri's Situational Runes
+- Ahri's Skill Order
+- How to play Ahri
+- Ahri's Abilities
+- Essence Theft (Passive)
+- Orb of Deception (1)
+- Fox-Fire (2)
+- Charm (3)
+- Spirit Rush (Ultimate)
+- Ahri Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Grants a stack of Essence Theft if her ability hits a target. At 3 stacks, Ahri's next ability that hits an enemy heals her for 40 (+20% AP).
+
+If an enemy champion that Ahri has damaged within 3 seconds dies, she will consume their essence to heal herself for 80 (+35% AP).
+
+Ahri dashes forward and fires essence bolts, damaging nearby enemies for 60 / 90 / 120 (+35% AP) magic damage. Spirit Rush can be cast up to three times before going on cooldown.
+
+During Spirit Rush, if Ahri devours a champion's essence with Essence Theft, Ahri will extend Spirit Rush's recast duration up to 10 seconds, and she gains an extra charge of Spirit Rush (Can store up to 3 charges).
+
+Dash range increases while leveling up. Essence bolts attack champions first.
+
+Ahri is a burst mage who can play in the Mid Lane. Ahri aims to single out vulnerable targets by locking them down with Charm and following up with tons of damage from Orb of Deception and Fox-Fire. Ahri's weakest point is in the early game. Her cooldowns on her abilities are pretty high. It's best to stay safe until you reach level 5, once you reach level 5 you'll have access to her ultimate, Spirit Rush. Spirit Rush gives Ahri a lot of mobility and outplay potential, making her mid/late game much stronger.
+
+Ahri gains a stack of Essence Theft if her abilities hit a target. At three stacks, Ahri's next ability, which hits an enemy, heals her.
+
+There is an indicator underneath Ahri's mana bar that shows how many stacks she has of her passive. It's good to remember this, as you can heal from minions to help Ahri sustain while in lane. Whenever Ahri gets a takedown within a few seconds of damaging them, she consumes their essence and heals herself.
+
+Ahri throws an orb forward that deals magic damage to all enemies it passes through and will also deal the same damage back but as true damage.
+
+It's good to keep in mind that the damage from the orb moving back is much stronger than the damage moving forward. This will be your main source of waveclear throughout the game, which allows Ahri to roam with her Ultimate to get kills.
+
+Fox-Fire creates three flames that will damage nearby enemies. Fox-Fire prioritizes champions hit by Charm, followed by Ahri's recently attacked enemies.
+
+Activating Fox-Fire also gives Ahri movement speed immediately when used. This is great when trying to dodge enemy skillshots or to catch up to enemies to hit her other abilities.
+
+Ahri sends a kiss toward a location. If it hits a target, it charms them and forces them to walk toward you whilst also slowing them.
+
+This is easily Ahri's most important ability. Hitting Charm on a champion allows her to follow up and hit her other abilities. If you miss her Charm, it's best to wait until it comes back up against before using her other abilities.
+
+Spirit Rush enables Ahri to dash in any direction, dealing damage to nearby enemies. It's important to know that Spirit Rush can be recast up to two more times. If you manage to take down an enemy champion while using this ability, it will extend the recast duration and grant another additional recast, storing up to 3 recasts at a time.
+
+Spirit Rush is the key to Ahri's aggressive but some times safe play style. It allows her to dash to dodge incoming ganks or dash towards enemies. Spirit Rush can also help hit Charm, which can be combined with her other abilities to deal tons of damage.
+
+Luden's Echo provides Ahri with all the stats she needs, including the mana to help with her early-game struggles. Luden's Echo passive also helps Ahri clear minion waves faster, allowing her to roam more often.
+
+Rabadon's Deathcap gives Ahri a massive boost of Ability Power which scales incredibly well into the mid/late game. It's essential to have in your build to help with Ahri's damage.
+
+Infinity Orb helps Ahri deal bonus damage to enemies that are low on health. Hitting Ahri's Charm vulnerable target will put them low enough on health for the rest of her abilities to deal the bonus damage.
+
+With runes, we have the following:
+
+Electrocute is the most consistent keystone to help with Ahri's burst damage. It synergizes extremely well with Ahri's kit and combo after hitting Charm.
+
+When performing Ahri's combo, it's always possible to sneak in an auto attack to deal extra damage.
+
+Like Psychic Wave, you can auto-attack during Ahri's combo to help with Ahri's burst damage potential.
+
+Eyeball Collector is great since it gives Ahri more Ability Power every time she gets a takedown.
+
+The Ability Haste from Transcendence allows Ahri to perform her combo more often during a game, which is the pinnacle of her game plan.
+
+When vs aggressive assassins, it's best to take Bone Plating to reduce the enemy's damage.
+
+Flash is the most important Summoner Spell for Ahri. When her ultimate is on cooldown, she has no other escapes, and her Charm is not a reliable way to save you. You can also use flash aggressively to catch enemies off guard and hit her abilities.Ignite offers extra damage and enhances her burst all-ins to help secure kills.
+
+Ahri's weakest point is in the early game. With her high cooldowns, it's best to use her abilities, like Orb of Deception, to clear minion waves and farm as much as possible. Whenever the enemy steps too far forward during the laning phase, remember to use Ahri's Charm to deal short burst damage. Hitting your Charm will always help Ahri win early-game trades. Ahri also has one of the best setup potential for ganks with her Charm to help your jungler follow up with their damage.
+
+In the late game, Ahri becomes a versatile champion who can be played in multiple ways. She can sit in bushes and catch enemies off guard with her Charm and combo that with other abilities to deal a lot of damage. Or she can join her team and start a teamfight with the same combo. When Ahri is grouped with her team, use Spirit Rush to access vulnerable carries in the back line. Hitting your Charm on these carries will easily one-shot them with your high burst damage.
+
+Overall, Ahri is an excellent starter champion that anyone can pick up. She has a fun playstyle and aggressive playstyle that can help carry games. She is also one of the safest champions, with her Ultimate allowing her to escape any tough scenarios.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

@@ -1,0 +1,96 @@
+Title: Katarina :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Katarina in League of Legends: Wild Rift. Our build guide will teach you how to play Katarina in the current meta.
+
+Headings:
+- Level 1 Katarina Stats
+- Katarina's Abilities
+- Katarina  Build Guide for Wild Rift
+- Katarina's Item Build
+- Katarina's Spells & Runes
+- Katarina's Skill Order
+- How to play Katarina
+- Katarina's Abilities
+- Voracity (Passive)
+- Bouncing Blades (1)
+- Preparation (2)
+- Shunpo (3)
+- Death Lotus (Ultimate)
+- Katarina Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Whenever an enemy champion dies that Katarina has damaged in the last 3 seconds, her remaining ability cooldowns are reduced by 15 seconds.
+
+Katarina slashes at all nearby enemies whenever she picks up a Dagger, dealing 55 (+100% bonus AD +34% AP) magic damage.
+
+Throws a Dagger, dealing 75 / 115 / 155 / 195 (+30% AP) magic damage to the target and 2 nearby enemies. The Dagger then riccochets to the ground behind the initial strike point.
+
+The Dagger's time in the air is the same regardless of how many times it bounces.
+
+Blink to a location near a Dagger or unit, dealing 20 / 50 / 80 / 110 (+50% AD +30% AP) magic damage to the nearest enemy.
+
+Picking up a Dagger greatly reduces the Cooldown of Shunpo.
+
+Rapidly throws blades at the 3 nearest enemy champions, dealing 400 / 600 / 800 (+260% AD +290% AP) magic damage and applying 60% Grievous Wounds. Katarina can move and throw blades for up to 2.6 seconds.
+
+Grievous Wounds reduces the effectiveness of Healing and Regeneration effects.
+
+Katarina is a mid-lane assassin. She is a melee champion who can struggle in the early game when trying to walk up and last-hit minions. Often, Katarina wants to use Bouncing Blades to farm in the early game. Once Katarina hits level 5, she gets access to Death Lotus. With Death Lotus, you can roam around the map and get advantages elsewhere or engage the enemy mid-lane champion to try and get a solo kill. Katarina also can jump in and out of fights with her Shunpo, making her extremely difficult to lock down. Just watch your daggers and jump to them to reset Shunpo's cooldown.
+
+Whenever an enemy champion dies that Katarina has damaged in the last 3 seconds, her remaining ability cooldowns are reduced. This passive can reset the cooldown of all basic abilities and sometimes make Death Lotus (Ultimate) available multiple times during a teamfight which can be huge!
+
+When using other abilities like Bouncing Blade (1st Ability) and Preparation (2nd Ability), daggers will be left on the floor for a while. When Katarina picks up the Daggers, she slashes at all nearby enemies, dealing magic damage. Katarina can also use Shunpo to these daggers, which will also reset the cooldown.
+
+Katarina throws a dagger, dealing magic damage to the target and two nearby enemies. The Dagger will then ricochet to the ground behind the initial strike point.
+
+This makes it an excellent ability to set up Shunpo (3rd Ability), allowing you to jump behind the enemy to do a lot of damage. Bouncing Blade can be used as a poking tool in the laning phase; it's best to start the Ability on a minion and try and bounce it to an enemy champion so the dropping Dagger will be closer to jump to.
+
+Katarina tosses a dagger in the air and gains a short burst of movement speed. You want to use Preparation just before using Death Lotus (Ultimate), so you can get more damage from your passive as you're moving around in your ultimate.
+
+In other situations, you can use Preparation before you engage so you have a dagger that you can use Shunpo (3rd Ability) to jump back to or deal a bit more damage when you jump onto the enemy with your passive.
+
+Katarina blinks to a location near a dagger or unit, dealing magic damage to the nearest enemy. You can also blink to allies, minions, blast cones and honey fruits. If you pick up a dagger, your Shunpo cooldown will be greatly reduced.
+
+Most of the time, you want to dash to a dagger so you can use the Ability again after a few seconds. However, you can use Shunpo to dash elsewhere and use Preparation (2nd Ability) to drop a dagger on the floor so you can reset the cooldown.
+
+Katarina rapidly throws blades at the three nearest enemy champions, dealing magic damage and inflicting grievous wounds. This means you don't need to buy items with grievous wounds because your ultimate will help you reduce the healing of the enemy champions.
+
+Katarina can move and throw blades for a few seconds. Before you use Death Lotus, you want to try to use Bouncing Blade and Preparation so you can catch daggers as you're moving around in your ultimate.
+
+Katarina builds ability power items to help with the damage from her abilities and passive. Infinity Orb is a perfect item for Katarina. It helps her deal more damage to low-health targets with her abilities. Katarina also has low cooldowns on her abilities, so you can jump around and get resets. As for the other items, it's all about buying more magic damage to help you kill the enemies. Rabadon's Deathcap gives you a lot of ability power that scales well into the mid and late game to help Katarina deal more damage.
+
+For runes we have the following:
+
+First strike helps Katarina deal more damage. She can use Bouncing Blades before jumping in to deal extra true damage, making it difficult for the enemy to survive.
+
+Katarina's Shunpo has a very low cooldown and can be reset when picking up her daggers from her Passive Voracity, giving her extra Magic Penetration often during the game.
+
+Katarina doesn't have any benefit from the other two rune choices in this row, so Mark of the Weak is the best to increase his damage.
+
+Eyeball Collector is great since it gives Katarina more Ability Power every time she gets a takedown. Zombie Ward can also be a good choice if you often roam and look to kill wards.
+
+Since Katarina is a melee champion and dashes a lot to try and kill enemy champions, she gets pretty vulnerable to a lot of damage. Bone Plating will help Katarina take reduced damage from the first three instances of damage, which will help her survive longer.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for that killing blow. For the 2nd spell, it's best to go ignite with Katarina. You want to get in amongst the enemies and get kills to help with Voracity to reduce the cooldown of all your spells so Ignite can help deal that extra bit of damage to finish off an enemy.
+
+Katarina struggles a lot in the early game as a melee champion. You usually want to stay back and use your Bouncing Blade to last hit minions or poke down the enemy. Once you hit level 3, you will have all of Katarina's basic abilities available to you; this allows you to combo your abilities to jump around with Shunpo. One important thing to know is you can use your Shunpo to jump to minions, monsters and even plants. This can be great for escaping the enemy or going into team fights early on.
+
+When you reach the mid and late game and get a few items, Katarina starts to get strong. When you are grouped with your team and about to have a team fight, the best thing you want to do is get to the enemy's backline. You have a lot of mobility when comboing your abilities. Your ultimate Death Lotus is a huge team fight ability that allows you to move around when active so you can deal a lot of damage.
+
+Katarina may take some time to master and to understand how her combos work. I'd recommend going into practice mode and learning her combos before jumping into a game. Once you get the hang of it she can jump around dealing a lot of damage and killing everyone in her path.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

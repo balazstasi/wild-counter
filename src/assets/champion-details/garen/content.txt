@@ -1,0 +1,108 @@
+Title: Garen :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Garen in League of Legends: Wild Rift. Our build guide will teach you how to play Garen in the current meta.
+
+Headings:
+- Level 1 Garen Stats
+- Garen's Abilities
+- Garen  Build Guide for Wild Rift
+- Garen's Item Build
+- Garen's Spells & Runes
+- Garen's Situational Items
+- Garen's Situational Runes
+- Garen's Skill Order
+- How to play Garen
+- Garen's Abilities
+- Perseverance (Passive)
+- Decisive Strike (1)
+- Courage (2)
+- Judgment (3)
+- Demacian Justice (Ultimate)
+- Garen Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+If Garen has not recently been struck by damage or enemy abilities within the last 5 seconds, he regenerates 2.2% (1% + champion level x 0.3) missing Health per second.
+
+Damage from minions and non-epic monsters does hot affect this effect.
+
+Breaks free from all slows, becoming immune to them for 0.5 seconds and gaining 35% Movement Speed for 2 / 2.5 / 3 / 3.5 seconds.
+
+The next attack within 3 seconds is empowered to deal an additional 40 / 80 / 120 / 160 (+40% AD) physical damage and silence the target for 1.5 seconds.
+
+Reduce damage taken for 4 seconds. For the 1 second, damage is reduced by 70% and Garen gains 70% Tenacity.
+
+Damage is reduced by 30% for the remaining duration.
+
+Tenacity reduces the duration of most movement impairing effects.
+
+Rapidly spin in a bladestorm for 3 seconds, dealing 12 / 16 / 20 / 24 (+35% / 40% / 45% / 50% AD) physical damage 8 times, Enemies hit by the bladestorm's edge are critically struck for 135% / 140% / 145% / 150% damage.
+
+Re-cast: Stops spinning.
+
+Deals 60% damage to minions.
+
+Calls forth the might of Demacia to execute an enemy champion, dealing 150 / 250 / 350 +15% (+0.12% AD) true damage of the target's missing health. Nearby enemies take 75 +7.5% (+0.06% AD) true damage of their missing health.
+
+When casting Demacian Justice and the target dies, moves out of range, becomes untargetable, or activates Zhonya's Hourglass or Guardian Angel, the mana cost will be refunded and go on a 5 second cooldown.
+
+Deals a max of 600 damage to epic monsters.
+
+Garen is a tanky fighter that is played in the Baron Lane. Garen is one of the easiest champions to play, yet he is still one of the strongest because of his tankiness and high damage from Judgment and execution from his ultimate, Demacian Justice. He can make his way through crowds of enemies to kill high-value targets on the enemy team. Garen is strong at all stages of the game. He is very difficult to chase down and kill, and he's also difficult to escape from.
+
+If Garen has not been struck by damage or enemy abilities within the last few seconds, he regenerates missing health per second. This is most effective during the laning phase, where Garen wants to take short trades so when he walks away, he will be able to heal the damage taken.
+
+You can walk up to an enemy and fight them for a few seconds, then walk away and regenerate all the health back that you lost.
+
+Garen breaks free from all slow, becoming immune to them for under a second and gaining bonus movement speed for a few seconds. The next attack within a few seconds is empowered to deal physical damage and silence the target for over a second. Most of the time, you don't want to use this Ability to chase down enemies as you won't be able to silence them or make use of the extra damage you can deal. Instead, try to use this when in close range between your auto attacks to deal the most damage.
+
+Garen reduces damage taken for a few seconds. For the first second, the damage reduction is higher than the rest of the duration, and Garen gains Tenacity. This means that all crowd control towards Garen is reduced. It's important to time this Ability correctly as soon as you are about to take a lot of damage and try not to waste it; otherwise, Garen can be pretty vulnerable and take a lot more damage.
+
+Garen rapidly spins in a blade storm for a few seconds, dealing physical damage eight times. Enemies hit by the blade storm's outer edge are critically struck for increased damage.
+
+Garen can re-cast this Ability at any time to stop spinning at any point.
+
+You can combo Decisive Strike (1st Ability) with Judgment to gain movement speed when spinning around.It would be best if you always looked to hit enemies and minions with the outer edge of the spin. This will help you deal more damage to push the wave or help you deal more damage to enemy champions.
+
+Garen calls forth the might of Demacia to execute an enemy champion, dealing true damage. Demacian Justice deals more damage depending on how much health the enemy is missing. Nearby enemies also take true damage, and the damage is increased depending on how much health they are missing.
+
+It's essential to note that you should never use Demacian Justice if the enemy is over 50% HP. You will not deal a lot of damage at all, and you will waste the damage potential of your Ultimate.
+
+Garen is a solo front-line tank that can take and deal a lot of damage. Black Cleaver is a strong item that gives Garen some damage while giving him some tank stats to help him survive. Black Cleaver's passives also work great with Garen's kit. You can reduce the enemy's armor when dealing physical damage, which boosts Garen's damage output even more. You also gain movement speed when auto-attacking, which helps Garen chase down enemies. Divine Sunderer is another core item for Garen. The Spellblade passive works well when running towards enemies with Decisive Strike.
+
+For runes, we have:
+
+With Garen, you can walk up to enemy champions using Courage to auto-attack enemy champions to proc Grasp to start stacking the extra health that can help a lot in the mid and late-game.
+
+Great for when Garen drops low on health when he goes in to try and kill the enemy. It can save you and bait the enemy into thinking you are already dead.
+
+Second Wind helps Garen a lot, especially during the laning phase. It allows him to take short trades, and when he backs off, he heals up to stay in the lane longer. This also stacks with his passive, Perseverance.
+
+When Garen is farming, he'll be able to gain free health throughout the game, making him difficult to kill
+
+Demolish helps Garen push towers and take tower platings in the early game, which can give him a huge gold lead that can be used to get a lead in lane or roam around to help the rest of the map.
+
+For summoner spells, Flash is a must on Garen. It's a great spell to get out of bad situations or if you are trying to go in for that killing blow. For the 2nd spell, it's best to go for Ignite. This can help get the final bit of damage you need to get a kill on the enemy champion.
+
+Garen does well in the early game. He has good base damage from his abilities and can take a lot of damage with Courage allowing you to walk up and start taking short trades. Judgment is a great ability to help Garen push minion waves in the early game to create pressure, and it also helps when you are taking short trades against enemy champions. If you do get low on health, don't be afraid because you can walk away, and Perseverance will regen a lot of health over time, allowing you to stay in lane longer.
+
+Garen is a great team fight champion in the late game. You want to always stay with your team and try not to get caught out by yourself. When a team fight happens, you want to make sure you are at the front protecting your team. You are a tank with a lot of health and resistance to survive a long time against the enemy team. Ensure you always go towards the biggest threat on the enemy team and try to kill them.
+
+Alternatively, you can look to split push and take towers with Demolish and Hullbreaker if the opportunity arrives but be careful not to extend too far and get caught.
+
+Overall, Garen is a very easy and strong champion. He is an excellent starter champion for anyone that wants to practice playing in the Baron Lane. You are a big tank that can survive a lot of damage whilst also being able to one-shot the enemy carries.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

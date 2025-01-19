@@ -1,0 +1,88 @@
+Title: Ezreal :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Ezreal in League of Legends: Wild Rift. Our build guide will teach you how to play Ezreal in the current meta.
+
+Headings:
+- Level 1 Ezreal Stats
+- Ezreal's Abilities
+- Ezreal  Build Guide for Wild Rift
+- Ezreal's Item Build
+- Ezreal's Spells & Runes
+- Ezreal's Situational Items
+- Ezreal's Situational Runes
+- Ezreal's Skill Order
+- How to play Ezreal
+- Ezreal's Abilities
+- Rising Spell Force (Passive)
+- Mystic Shot (1)
+- Essence Flux (2)
+- Arcane Shift (3)
+- Trueshot Barrage (Ultimate)
+- Ezreal Build Breakdown
+- Early game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Fires an orb that sticks to a champion, epic monster or structure for 4 seconds.
+
+Hitting the target with an attack or ability detonates the orb, dealing 80 / 155 / 230 / 305 (+60% AD +75% / 80% / 85% / 90% AP) magic damage and refunding 60 / 70 / 80 / 90 Mana.
+
+Fires an energy wave, dealing 350 / 500 / 650 (+100% AD +90% AP) magic damage.
+
+Deals 50% reduced damage to minions and non-epic monsters.
+
+Ezreal is a Dragon Lane carry that relies mainly on mechanics to deal the most damage efficiently. When playing Ezreal, you need to be good at hitting skillshots as every one of his abilities is a low cooldown skillshot and is his primary source of damage. In the early game, Ezreal struggles to keep up in damage compared to the other AD carries. However, Ezreal's Mystic Shot is a great way to keep safe whilst also last hitting minions so you can get the items you need to carry the game. Once Ezreal gets to mid and late game and has his core items, he can stay back and use his abilities to take down the enemies from range.
+
+Ezreal gains attack speed for a few seconds when hitting abilities, stacking up to 4 times. You will see a bar underneath your mana once you hit an ability; this will show you how many stacks you have; once you reach full stacks, the bar will start decreasing, and every time you hit an ability to duration will refresh. It's essential to make sure you always stay at maximum stacks to get the most damage output during team fights.
+
+Mystic Shot is one of Ezreal's primary abilities that deal the most damage. He fires a bolt that deals physical damage. Hitting a target reduces Ezreal's other ability cooldowns by just over a second. Hence, trying and hit Mystic Shot every time is essential so you can use your other abilities more often.
+
+Mystic Shot also applies on-hit effects like Spellblade from Trinity Force and Bitter Cold from Serylda's Grudge, which is why these two items are really strong.
+
+Ezreal fires an orb that sticks to a champion, epic monster or structure for a few seconds. Once you have applied Essence Flux, if you hit the target with an attack or Ability, it detonates the orb dealing bonus magic damage and refunding mana.
+
+This Ability is an excellent way to setup up and deals bonus damage during the laning phase. You can combo Essence Flux with Mystic Shot (1st Ability) at range, or combo it with Arcane Shift (3rd Ability) when you want to play aggressively and look to fight.When looking to attack towers, it's essential to use Essence Flux on the tower whenever available, as this makes you deal much more damage.
+
+Ezreal blinks to a target location and fires a bolt dealing magic damage. The bolt prioritizes enemies hit by Essence Flux (2nd Ability) over the nearest enemy to you.
+
+This Ability has a very long cooldown in the early game, so you need to be careful when using Arcane Shift. However, once you put a few levels into Arcane Shift and have a few items that give you Ability Haste, this Ability can be available every few seconds and pretty much works as a 2nd flash, making Ezreal very safe to play.
+
+Trueshot Barrage is a global ultimate meaning that the projectile can travel across the whole map. When used, Ezreal fires an energy wave, dealing magic damage. When you combo this Ability with Essence Flux (2nd Ability), you can deal a lot of burst damage; however, it is difficult to land.
+
+You can use Trueshot Barrage at the start of a team fight to deal a bit of early damage on the enemies, or you can use it right at the end to deal a killing blow from afar.
+
+Ezreal has a unique build path compared to other dragon lane champions. Firstly with Ezreal, you build Manamune, this is because with Ezreal you will be using your abilities all the time, and they all have very low cooldowns, so not only do you need the mana from Manamune, but you can also stack the passive very fast and upgrade this item to Muramana. Trinity Force is another core item, mainly because of the Spellblade passive. This works well with your Mystic Shot. If you land your Mystic Shot, it counts as landing an auto-attack, so not only do you get the damage from the Ability, but you also get extra damage from the Spellblade passive.
+
+Onto the runes, we have:
+
+Empowerment is a great rune for Ezreal since his first ability Mystic Shot works as an auto attack meaning you can deal a lot of burst damage.
+
+Like Kraken Slayer, Brutal gives Ezreal's auto attacks and Mystic Shot more damage giving him a lot of power in the early game.
+
+When enemy champions are low on health, Ezreal can deal bonus damage. This will help Ezreal kill enemies from afar. Giant Slayer is another good option when playing against Bruisers and Tanks that build a lot of health.
+
+The healing from Bloodline will be more beneficial for Ezreal for the sustain and survivability compared to attack speed from Alacrity.
+
+As a marksman, Ezreal will always be the main focus for the enemy team to try and take down. However, Bone Plating will help Ezreal take reduced damage from the first three instances of damage which can save his life.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get you out of a bad situation or allows you to flash into the enemy team to get that killing blow! The go-to 2nd spell is Exhaust. Exhaust can help Ezreal in one vs one fights and against assassins and bruisers that can easily jump on top of him.
+
+Ezreal is not the best champion in the early game. You can use his Mystic Shot at range to deal damage to the enemy champions and last-hit minions. You can combo Essence Flux with your auto-attack, Mystic Shot or Arcane Shift to do more damage to the enemy champions when you find the right opportunity to play aggressively. Even though Ezreal has a weak early game, you can use Arcane Shift to dash away from danger so you can play as safely as possible.
+
+Now, this is where the fun begins! Once Ezreal gets his three core items (Manamune upgraded, Trinity Force, and Blade of the Ruined King), you can sit back, relax and poke out the enemy team because they will not be able to get close to you. It's always best as an AD Carry to stay grouped with your team. You want to stay as far back from the enemies as possible and allow your front line to go in front of you to tank all the damage. Most of the time, you are the main damage output, so if you are caught by yourself and die, then your team is in trouble, so make sure you stay safe at all times.
+
+Ezreal is an entertaining and safe champion to play. It might take a while for you to get used to him as he primarily uses his abilities for damage. But with a bit of practice and learning how to land your skill shots, you will have a lot of fun jumping around the map and killing everyone.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

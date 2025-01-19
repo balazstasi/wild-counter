@@ -1,0 +1,112 @@
+Title: Kha'Zix :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Kha'Zix in League of Legends: Wild Rift. Our build guide will teach you how to play Kha'Zix in the current meta.
+
+Headings:
+- Level 1 Kha'Zix Stats
+- Kha'Zix's Abilities
+- Kha'Zix  Build Guide for Wild Rift
+- Kha'Zix's Item Build
+- Kha'Zix's Spells & Runes
+- Kha'Zix's Situational Items
+- Kha'Zix's Situational Runes
+- Kha'Zix's Skill Order
+- How to play Kha'Zix
+- Kha'Zix's Abilities
+- Unseen Threat (Passive)
+- Taste Their Fear (1)
+- Void Spike (2)
+- Leap (3)
+- Void Assault (Ultimate)
+- Kha'Zix Build Breakdown
+- Jungle Path
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Enhances next attack against enemy champions to deal an additional10 + 8 per level (+50% AD) magic damage and slow by 25% for 2 seconds.
+
+Unseen Threat is refreshed when the enemy team loses sight of Kha'Zix.
+
+Slashes with his claws, dealing 65 / 100 / 135 / 170 (+130% AD) physical damage. If the target is isolated, the damage is increased by 100%.
+
+Evolved Reaper Claws: Attacks and Taste Their Fear gain 50 range and 40% Taste Their Fear's cooldown is refunded against isolated targets.
+
+Units without allied units or structures nearby are isolated.
+
+Fires spikes that deal 80 / 120 / 160 / 200 (+100% AD) physical damage. Heals himself for 40 / 75 / 110 / 145 (+50% AP) if he is within the explosion.
+
+Evolved Spike Racks: Fires two additional spikes, revealing and slowing enemies by 60% for 2 seconds.
+
+Leaps to target area, dealing 65 / 110 / 155 / 200 (+20% AD) physical damage.
+
+Evolved Wings: Gain 250 range on Leap. Leap's cooldown is reset on champion takedowns.
+
+Passive: Each rank in Void Assault allows Kha'Zix to evolve one of his abilites.
+
+Active: Becomes invisible and gain 40% Movement Speed for 1.25 seconds. Void Assault can be cast again within 10 seconds.
+
+Evolved Adaptive Cloaking: Invisibility duration is increased to 2 seconds and ca be cast up tot three times.
+
+Kha'Zix is a mobile AD assassin. With his high mobility and burst damage, Kha'Zix has the potential to solo carry games when finding isolated targets. Kha'zix wants to farm early on until he reaches Level 5; this is when Kha'Zix can choose an ability to evolve early on. Taste Their Fear is the best ability to evolve early on, helping Kha'Zix clear through the jungle and deal more damage to isolated targets.
+
+Kha'zix can evolve his abilities throughout the game when you get your Ultimate (Levels 5, 9 and 13). At the moment, the best abilities to evolve are:
+
+Unseen Threat enhances Kha'Zix's next attack against enemy champions to deal additional damage and slow for a few seconds. Unseen Threat will refresh when the enemy team loses sight of Kha'Zix.
+
+Unseen Threat can be activated multiple times in a teamfight by hiding in brushes and using Kha'Zix's ultimate, Void Assault. If you hide in a bush and realize you don't have your passive, the enemy has vision of you (most likely a ward). To utilize your passive the most, make sure you auto-attack after using abilities, especially your ultimate, as the slow will make it hard for the enemies to escape.
+
+Kha'Zix slashes with his claws, dealing physical damage. If the target is isolated, the damage is increased. An enemy is isolated if the enemy has no allied champions or minions nearby. Taste Their Fear is Kha'Zix's primary damage source. Due to the bonus damage on isolated targets, Kha'Zix is excellent in a one vs one duels and can solo kill targets quickly.
+
+Evolve-Reaper Claws - This evolve gives attacks and Taste Their Fear bonus range and a percentage of Taste Their Fear's cooldown is refunded against isolated targets.
+
+Kha'Zix fires spikes that deal physical damage and heals himself if he is within the explosion. In the early game, Void Spikes are crucial to keeping Kha'Zix healthy in the jungle, and the explosion can help a lot with his jungle clear speed.
+
+Evolve-Spike Racks - This evolve fires two additional spikes and slows enemies for a few seconds. This evolve is excellent, especially during team fights, to poke down the enemies and slow them to engage or peel for your team. When face-checking with no vision and you think someone might be there, use your Void Spikes first to see if there is an enemy there. You will know someone is there if the explosion goes off.
+
+Kha'Zix leaps to a target area, dealing physical damage. When in the jungle clearing camps, you can use Leap to get to the monsters faster and deal more damage.
+
+Evolve-Wings - Kha'Zix gains extra range on Leap and its cooldown is reset on champion takedowns. This evolve is fantastic during team fights and when trying to pick off enemies. When you get a takedown, you can quickly jump back out of a fight if you are low or jump further to try and kill off the rest of the enemy team.
+
+Kha'Zix becomes invisible and gains movement speed. Void Assault can be cast again within a few seconds after completing the first cast. This offers Kha'Zix lots of utility. You can use it when ganking to reduce the distance between you and the enemy, to move around during team fights and approach from another position, or to reset your passive to get more damage.
+
+Evolve-Adaptive Cloaking - Invisibility duration is increased and can be cast up to 3 times. This helps you move around team fights more or to keep you alive when trying to escape and dodge skill shots.
+
+Kha'Zix works best with Attack Damage items that give him a lot of Armor Penetration so he can be a carry for his team. Duskblade of Draktharr is a great item for Kha'Zix. It gives him a lot of Attack Damage and the passive means Kha'Zix can deal more damage when jumping and attacking enemy champions. Serylda's Grudge is another excellent item that gives Kha'Zix a lot of damage and gives him a slow whenever he hits an ability from the passive, Bitter Cold.
+
+For runes, we have the following:
+
+Kha'Zix is a champion who wants to stealth around the map and catch enemies off guard in bushes. Ensure that you're the first to deal damage and First Strike will give you a massive burst of true damage.
+
+Gathering Storm gives Kha'zix a lot of Attack Damage as the game gets into the mid/late game. It's not that useful during the early game, but it will help Kha'Zix deal more damage during the late game.
+
+When enemy champions are low on health, Kha'Zix can deal bonus damage. This will help him when looking to assassinate backline carries.
+
+Bloodline gives Kha'Zix physical vamp. This will work well with how much damage Kha'Zix will be dealing, making him tougher to kill. Legend: Tenacity is another good option in this row when playing against enemies with Crowd Control.
+
+When using Kha'Zix 3rd Ability Leap or Ultimate, he will gain Armor Penetration to deal more damage.
+
+For summoner spells, Flash is a must on most champions. It's an excellent spell for Kha'Zix; he can use Flash to get away to safety or Flash in to try and get the killing blow so he can get his reset on his Leap to jump away. Smite is a must when you are playing jungle. It helps you clear the jungle and secure the epic monsters.
+
+Kha'Zix has a decent early jungle clear. This means that you can work your way around the jungle relatively quickly and go to contest the scuttle crabs in the rivers. It is best to start at Red Brambleback as it will help you clear through the jungle faster you don't lose a lot of mana early on.
+
+This is what the jungle patch would look like:
+
+Below is a beginner's guide I did for jungle in Wild Rift. It goes in-depth about every jungle camp, epic monsters and more!
+
+With Kha'Zix, you want to take advantage of your passive Unseen Threat and your 1st Ability Taste Their Fear. To do this, try to catch enemies by themselves. Roam around the map solo without your team and try to get solo kills on the enemy carries. This will give your team a considerable advantage when pushing or taking objectives. Kha'Zix is not the best in team fights and is usually there to clean up when enemies get low on health. When playing Jungle, your main job is to keep track of when Dragons, Rift Herald, and Baron spawn. Taking these epic monsters will give you and your team an advantage in the game.
+
+If you love to jump around the map as an AD assassin picking off enemies and being able to kill enemies with ease then Kha'Zix is the perfect champion for you. You can jump into an enemy, kill them and jump straight back out.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

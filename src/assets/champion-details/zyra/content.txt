@@ -1,0 +1,105 @@
+Title: Zyra :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Zyra in League of Legends: Wild Rift. Our build guide will teach you how to play Zyra in the current meta.
+
+Headings:
+- Level 1 Zyra Stats
+- Zyra's Abilities
+- Zyra  Build Guide for Wild Rift
+- Zyra's Item Build
+- Zyra's Spells & Runes
+- Zyra's Situational Items
+- Zyra's Situational Runes
+- Zyra's Skill Order
+- Zyra's Item Build
+- Zyra's Spells & Runes
+- Zyra's Situational Items
+- Zyra's Situational Runes
+- Zyra's Skill Order
+- How to play Zyra
+- Zyra's Abilities
+- Garden of Thorns (Passive)
+- Deadly Spines (1)
+- Rampant Growth (2)
+- Grasping Roots (3)
+- Stranglethorns (Ultimate)
+- Zyra Build Breakdown
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+An additional Thorn Spitter sprouts with every enemy champion, large monster, or epic monster Deadly Spines hits.
+
+A Thorn Spitter sprouts when Grasping Roots first hits an enemy champion. If no enemy champion is hit, a Thorn Spitter will sprout when Grasping Roots ends.
+
+While active, Thorn Spitters automatically attack targets.
+
+Thorn Spitter Health: 20 - 272 (+25% AP).
+
+Thorn Spitter Damage: 10 - 80 (+13% AP).
+
+Deals 50% damage to monsters.
+
+Enemy champions deal 40% ability damage to Thorn Spitters.
+
+Zyra sends binding vines forward, rooting enemies hit for 1 / 1.25 / 1.5 / 1.75 seconds, and dealing 60 / 100 / 140 / 180 (+40% AP) magic damage.
+
+A Thorn Spitter spwans when the ability first hits an enemy champion or when it ends. (Large and epic monsters are also considered as champions.)
+
+Zyra summons the fury of nature, growing a twisted thicket that deals 170 / 250 / 330 (+60% AP) magic damage to enemies. After 2 seconds, the vines snap upwards, knocking up enemies for 1 second.
+
+The Thorn Spitters within the thicket become enraged, resetting their duration and gaining 50% bonus Health and 50% bonus Attack Speed.
+
+Zyra is a unique AP carry primarily played as a Support thanks to her incredible crowd control and zoning potential. Zyra focuses on involving her plants to do damage to enemy champions. Whenever she casts Deadly Spines or Grasping Roots, Zyra will spawn a plant that will damage the nearest enemy. The plants can also be buffed by using Rampant Growth and Strangle Thorns.
+
+Zyra can also be played in the mid-lane; make sure you check the alternative build at the top of the page. With Zyra mid, the build and runes are similar without the support item.
+
+An additional plant spawns with every enemy champion, large monster, or epic monster Deadly Spines hits. This means if you hit five enemy champions with Deadly Spines, Zyra will spawn five plants that will attack enemy champions, allowing her to deal a lot of damage.
+
+A plant spawns when Grasping Roots first hits an enemy. If no enemy champion is hit, a plant will spawn when Grasping Roots ends. When a plant spawns, it will automatically attack targets.
+
+Vines spread and burst into spines, dealing magic damage and spawning one plant. This ability can only be used horizontally, so if you want to use this ability to help you clear a minion wave, make sure to stand to the side so this ability can hit all minions. Try to hit as many enemy champions as possible; the more you hit, the more plants will spawn.
+
+Zyra targets an enemy champion, dealing magic damage over time and slowing them down for a few seconds. You want to use Rampant Growth when you have some plants spawned because plants will deal bonus damage to targets affected by Rampart Growth. However, Rampant Growth doesn't have the longest range, so you do need to be careful.
+
+Zyra sends binding vines forward, rooting enemies hit and dealing magic damage. This is your primary engagement tool that will set up the rest of your abilities to do a lot of damage and spawn a lot of plants—a plant spawns when the ability first hits an enemy champion or when it ends.
+
+Zyra summons the fury of nature, growing a twisted plant that deals a lot of magic damage to enemies. After a few seconds the vines snap upwards knocking up enemies for a second.
+
+The plants Zyra already has within the readius of the Ultimate become enraged gaining bonus health and attack speed. This means most of the time Zyra doesn't want to use Stranglethorns until after she has a few plants on the ground.
+
+Zyra does great with Ability Power items. Her primary source of damage comes from her abilities and plants, which all do Magic Damage. Liandry's Torment is a core item for Zyra. Liandry's Torment burn from the passive also works on her plants, making her extremely difficult to play against, and sometimes you can get kills when you least expect it. Rylai's Crystal Scepter is a great utility item, giving her abilities slows, making it easier for you to land your other abilities.
+
+With runes, we have the following:
+
+Electrocute is an excellent way for Zyra to deal extra damage when hitting her combo. Electrocute stacks also work on her plants.
+
+Zyra has incredibly long range with her abilities and plants. So when poking in the laning phase and dealing damage with her plants or abilities, she'll be able to deal more damage thanks to Scorch.
+
+Zyra always wants to use Grasping Roots at the start of a fight to root enemy champions in place, and with cheap shot, she'll also be able to deal true damage.
+
+Eyeball Collector is great since it gives Zyra more Ability Power every time she gets a takedown. Zombie Ward can also be good if you often roam looking to try and clear vision.
+
+Ability Power mages like Zyra love to build a lot of Ability Haste so they can use their abilities more often. This is especially good on Zyra, so she can spawn more plants to deal more damage.
+
+For summoner spells, Flash is a must on Zyra. It's an excellent spell for getting out of tricky situations and when you're trying to kill an enemy champion. You can also use Grasping Roots and Flash to close the distance and surprise enemies. Exhaust is another excellent spell for Zyra. If any enemy champions come close enough, exhaust can reduce the enemy's damage and movement speed, helping you escape.
+
+Zyra has incredible pressure and zoning control in the early game, thanks to her abilities and plants. Use Deadly Spines to harass enemy champions as much as possible. Use Grasping Roots to root enemies to deal more damage or as an escape tool when being ganked. But be careful; if you miss, it will be tough to get away. Not only are you strong during the laning phase but also around objectives since you can spawn more plants when hitting major objectives like dragons, allowing your team to take it extremely fast.
+
+Zyra is a versatile champion in the late game because she can fill multiple roles. She can sit in bushes and catch enemies off guard with her Grasping Roots and combo that with her other abilities, or she can group with her team and help her team in teamfights and taking major objectives. When Zyra is grouped with her team, it's best to stay at the back, where she can use her abilities to damage the enemies and protect her allies.
+
+Zyra is an incredibly fun-to-play champion with unique mechanics that will make you think differently when playing Wild Rift. Playing around something other than the champion itself can be difficult at first, but it can be enjoyable when you get the hang of it.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

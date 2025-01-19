@@ -1,0 +1,83 @@
+Title: Yasuo :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Yasuo in League of Legends: Wild Rift. Our build guide will teach you how to play Yasuo in the current meta.
+
+Headings:
+- Level 1 Yasuo Stats
+- Yasuo's Abilities
+- Yasuo  Build Guide for Wild Rift
+- Yasuo's Item Build
+- Yasuo's Spells & Runes
+- Yasuo's Situational Items
+- Yasuo's Situational Runes
+- Yasuo's Skill Order
+- Yasuo's Item Build
+- Yasuo's Spells & Runes
+- Yasuo's Situational Items
+- Yasuo's Situational Runes
+- Yasuo's Skill Order
+- How to play Yasuo
+- Yasuo Build Breakdown.
+- Early Game
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Resolve: Moving builds Flow, wich is tracked on Yasuo's resource bar. At max Flow, damage from a champion or monster grants a shield that absorbs 100 damage and lasts 1.5 seconds.
+
+Intent: Yasuo's Critcal Rate is doubled, but his Critical Strike damage is reduced to 180%.
+
+Yasuo converts Critical Rate above 100% into Attack Damge at a rate of 0.4 Attack Damge per 1% Critical Rate.
+
+Thrusts forward, dealing 25 / 60 / 95 / 130 (+100% AD) physical damage. Grants a stack of Gathering Storm if the thrust damages an enemy. At 2 stacks, Steel Tempest launches a whirlwind that knocks enemies Airborne.
+
+If tapped during Sweeping Blade's dash, Steel Tempest will strike as a circle.
+
+Steel Tempest is treated as an attack: it can Critically Strike for 80% bonus damage and applies on-hit efects to all units hit. Cooldown and cast time are reduced by Attack Speed.
+
+Dashes through target enemy, dealing 70 / 80 / 90 / 100 (+20% bonus AD + 60% AP) magic damage. Each cast increasesd the next dash's base damage by 25%, up to +50%.
+
+Cannot be re-cast on the same enemy for 8 / 7 / 6 / 5 seconds.
+
+If Steel Tempest is tapped during this dash, it will strike as a circle.
+
+Blinks to an Airborne enemy champion, dealing 250 / 400 / 550 (+160% bonus AD) physical damage and holding all Airborne enemies in the area in the air for an additional 1.3 seconds. Grants maximum Flow but resets all stacks of Gathering Storm.
+
+For the next 15 seconds, Critical Strikes gain 30% Armor Penetration.
+
+Yasuo is a mid-lane attack damage assassin. He is a melee champion and can struggle a lot in the early game when trying to walk up and last hit minions. Once you hit level 5 and get Last Breath, you can look to stack your Steel Tempest until you get your tornado. When your tornado is ready, you can look to knock up the enemy to try and get a solo kill or you can roam around the map with his aggressive play style. Yasuo works really well with a team that has knock-ups as you can use your Last Breath on any knock-up that your team does.
+
+Yasuo does really well when you build attack damage. He also benefits a lot from critical strike chance as this stat gets doubled from Way of the Wanderer. Infinity Edge is the perfect item for Yasuo. With Yasuo, he gains double the amount of Critical Strike Chance, and Infinity Edge increases his Critical Strike damage; this makes Yasuo do crazy damage. With Mortal Reminder on top, Yasuo gets 100% Critical Strike Chance with just 2 items and he'll be able to deal crazy damage.
+
+For runes, we have the following:
+
+Attack Speed lowers Steel Tempest's cooldown. So, if you're in fights for a long time, stacking Lethal Tempo will help Yasuo deal more damage.
+
+Brutal gives Yasuo's auto attacks and Steel Tempest more damage giving him a lot of power in the early game to try and get an advantage to carry her team.
+
+When enemy champions are low on health, Yasuo can deal bonus damage. This will help Yasuo kill enemies faster.
+
+Alacrity gives Yasuo attack speed. Yasuo benefits a lot from attack speed. Not only does it allow him to attack faster, but it also reduces the cooldown of Steel Tempest.
+
+Since Yasuo will be dashing in a lot trying to deal damage, he will be a main target for the enemy. Bone plating will help Yasuo take reduced damage from the first three instances of damage which will help him survive longer.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for the killing blow. For the 2nd spell, it's best to go for Ignite. This helps Yasuo to get an early advantage in the laning phase and helps him deal extra damage.
+
+Yasuo struggles a bit in the early game as a melee champion. Most of the time you want to stay back and wait for the enemy champion to push the minion wave under your tower. You can walk up to minions early on when you have your Way of the Wanderer shield up and available so you don't take damage to your health. Once you hit Level 5, this is where you can potentially look for the all-in and try and kill the enemy mid-lane. If you can't find the opportunity in the mid lane, you can try to roam around the map and use your Ultimate in the side lanes.
+
+When you reach the mid and late game and get a few items, this is where Yasuo can start to become useful since you have quite a lot of mobility and crowd control. When you are grouped with your team and about to have a team fight, the best thing you want to do is get to their backline where you can kill the enemy carries. Always keep an eye on your teammates, especially ones that have a knock-up as you can follow it up with your Ultimate. You can also use your Wind Wall to block damage and abilities to help you and your team.
+
+Overall Yasuo is a very fun and mobile champion to play with the ability to out-play the enemy team and win the fight with some insane combos and knock-ups. At times it might be difficult to play Yasuo as he has a high skill gap but once you practice him a few times you can carry.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

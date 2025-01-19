@@ -1,0 +1,138 @@
+Title: Kindred :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Kindred in League of Legends: Wild Rift. Our build guide will teach you how to play Kindred in the current meta.
+
+Headings:
+- Level 1 Kindred Stats
+- Kindred's Abilities
+- Kindred  Build Guide for Wild Rift
+- Kindred's Item Build
+- Kindred's Spells & Runes
+- Kindred's Situational Items
+- Kindred's Situational Runes
+- Kindred's Skill Order
+- How to play Kindred
+- Kindred's Abilities
+- Mark of the Kindred (Passive)
+- Dance of Arrows (1)
+- Wolf's Frenzy (2)
+- Mounting Dread (3)
+- Lamb's Respite (Ultimate)
+- Kindred Build Breakdown
+- Jungle Patch
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Marks targets with Mark of the Kindred for hunting. Deals additional 30% damage to small monsters, Red Bramblebacks, and Blue Sentinels that are marked. There are different ways to mark a target:
+
+1. Auto-refresh: Every 30 seconds, the Mark on a monster expires and a new one is automatically applied. Marks on monsters are highlighted on the minimap.
+
+2. Active: Tap the Mark button above your spells to mark an enemy champion.
+
+Scoring a takedown against a hunted target grants a Mark of the Kindred stack that empowers Kindred. The first 3 stacks gained grant 75 attack range, and every 3 stacks gained subsequently grant 25 attack range.
+
+Mark of the Kindred also empowers abilities and grants them the following effects:
+
+Dance of Arrows: Gain 0% bonus Attack Speed (5% of Mark of the Kindred stack count).
+
+Wolf's Frenzy: Deal bonus damage equal to 0% of current Health (1% of Mark of the Kindred stack count).
+
+Mounting Dread: Deal bonus damage equal to 0% of missing Health (1% of Mark of the Kindred stack count).
+
+Rolls in a target direction and fires an arrow up to 3 enemies, dealing 50 / 75 / 100 / 125 (+70% bonus AD) physical damage and gaining 20% (+3% of Mark of the Kindred stack count) Attack Speed for 4 seconds.
+
+While in Wolf's Frenzy, this ability's cooldown is reduced to 4 seconds.
+
+Passive: Gains Hunter's Vigor stacks when moving or attacking. After gaining 100 stacks, Kindred's next attack restores Health (Health restored is based on missing Health and level).
+
+Active: Claims an area as territory and directs Wolf to maul the last target that Lamb attacked.
+
+Wolf's mauling deals 25 / 30 / 35 / 40 (+20% of bonus AD +20% AP) magic damage plus 1.5% (+1% of Mark of the Kindred stack count) of the target's current Health.
+
+Wolf deals 100% damage to marked monsters and other surrounding monsters, slowing them by 50% for 2 seconds.
+
+Health restored is the greatest when below 30% Health.
+
+Deals up to 300 damage to monsters.
+
+Slows and enemy by 50% (+5% AP) for 1 second.
+
+Kindred's third attack within 4 seconds of attacking an enemy directs Wolf to pounce on the target, dealing 80 / 105 / 130 / 155 (+70% bonus AD) physical damage plus 8% (+0.5% of Mark of the Kindred stack count) of the target's missing Health.
+
+Wolf's attack deals 80 / 105 / 130 / 155 (+70% bonus AD) bonus physical damage plus 12% (+0.75% of Mark of the Kindred stack count) of the target's missing Health to enemies below 25% (+40% Crit Damage) Health.
+
+Deals up to 300 damage against monsters.
+
+Lamb blesses the ground under herself for 3 seconds, creating a zone where all units within cannot be killed. When units inside the zone fall to 10% Health or below, they become invulnerable to damage for as long as they stay inside the zone, during which they cannot be healed.
+
+When the blessing ends, restores 150 / 200 / 250 Health to units within the zone and heals for 50 Health.
+
+This ability does not take effect against structures.
+
+Kindred is a ranged AD jungler who focuses on invading the enemy jungle to obtain marks. These marks from her passive buff Kindred's power and help her carry in the late game. When clearing through the jungle, you always want to keep your eye on the minimap to see where the next mark is. Obtaining these marks is crucial and can make a big difference when playing Kindred. Thanks to her Dance of Arrows, Kindred has the mobility to steal enemy jungle camps and get away to safety.
+
+Kindred marks targets with Mark of the Kindred for hunting. Tapping the Mark button above your spells allows you to select which target you want to Mark.
+
+Mark of the Kindred also marks jungle camps every 30 seconds. These can be Scuttle Crabs, enemy jungle camps, or even epic monsters. When Kindred secures one of these marks, she gains bonus stats and buffs her other abilities.
+
+Kindred rolls in a target direction and fires an arrow at the three closest enemies, dealing Physical Damage and gaining Attack Speed for a few seconds.
+
+Dance of Arrows cooldown can be reduced while in Wolf's Frenzy. The cooldown difference is huge, so using Dance of Arrows in Wolf's Frenzy is vital.
+
+Dance of Arrows can also be used to jump over some terrain, making it easier to escape tricky situations. Dance of Arrows also works as an auto attack reset, resetting the cooldown of your auto attack after using this ability.
+
+Kindred gains Hunter's Vigor stacks when moving and attacking. After gaining 100 stacks, Kindred's next attack restores health. This helps her stay healthy when clearing through the jungle and can help her heal up during teamfights.
+
+Wolf's Frenzy also has an active, which allows Kindred to claim a targeted area and direct the Wolf to attack targets. Wolf's Frenzy's targeted area can be used over walls to get vision of objectives or jungle camps during the game.
+
+This is Kindred's only Crowd Control ability, which allows her to slow enemies when targeted for a second. After which, she can auto-attack the same target, and if she auto-attacks three times within 4 seconds, the 3rd attack sends out her Wolf, dealing bonus physical damage.
+
+Even though Mounting Dread is excellent for its crowd control, it can also be used when an enemy is about to die since it does more damage to enemies that have more missing health.
+
+Kindred blesses the ground under herself for a few seconds, creating a zone where all units within cannot be killed. This includes champions and even epic monsters like Baron and Dragon, making stealing objectives easier for Kindred. After the blessing ends, Kindred restores health to all units and gives herself more healing.
+
+Kindred is a carry jungler, so you want to build items that give her a lot of attack damage. Trinity Force is an excellent first item for Kindred, giving her a lot of damage but also some survivability. Trinity Force's passive Spellblade also synergizes well with Kindred's Dance of Arrows, since it has an incredibly low cooldown when you're in Wolf's Frenzy. After Trinity Force, you want to build Critical Strike Chance and more Attack Damage so Kindred can be the primary carry for her team.
+
+For runes, we have the following:
+
+Since Dance of Arrows works as an auto-attack reset, Kindred can auto-attack twice in quick succession. Thus, all she needs to do is auto-attack again to make the enemy vulnerable so you can do more damage.
+
+Even though this rune doesn't work on jungle camps, the extra damage it deals to champions will help Kindred carry a lot.
+
+Coup synergizes well with Kindred's third ability, Mounting Dread, since they both deal more damage to enemies with lower health. Giant Slayer is also another great alternative against tanks and bruisers that build a lot of health.
+
+Legend Alacrity gives Kindred Attack Speed when clearing through the jungle and getting enemy takedowns. This will help Kindred be more of a carry in the late game.
+
+With Dance of Arrows being a dash and having such a low cooldown, Kindred can consistently get the extra Armor Pen from Sudden Impact during teamfights, giving her more damage.
+
+For summoner spells, Flash is a must on Kindred to help her Flash away to safety or Flash in to deal the killing bow. Smite is also a must when playing jungle since this greatly helps you clear jungle camps and secure epic monsters.
+
+Kindred's jungle path solely depends on where she marks her first target and where the game marks the enemy jungle camps. At the start of the game, though, I'd recommend starting off by marking the enemy jungler and doing a four-camp clear so you are ready for when scuttle crabs spawn to secure your first mark.This is what the jungle patch would look like:1. Red Brambleback
+
+2. Wolves
+
+3. Blue Sentinel
+
+4. Gromp
+
+5. Scuttle Crab for mark
+
+Below is a beginner's guide for the jungle in Wild Rift. It goes in-depth into every jungle camp, epic monsters and more!
+
+Kindred is a ranged carry. You want to play her like you would a marksman. Stay in the back line and allow your team to protect you. Make sure to always keep an eye on your ally's health bar. If it goes too low, you can use your Ultimate to save them. As a Jungler, you also want to keep track of Epic Monsters (Dragons, Rift Herald, and Baron). Taking these Epic Monsters will give you and your team an advantage in the game.
+
+Overall, Kindred is a great carry to play in the jungle and is one of the only ranged marksmen you can play. Understanding how her marks work and where to be on the map at the right time will be the difference between winning and losing the game.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

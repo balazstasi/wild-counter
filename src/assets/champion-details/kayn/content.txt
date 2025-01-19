@@ -1,0 +1,186 @@
+Title: Kayn :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Kayn in League of Legends: Wild Rift. Our build guide will teach you how to play Kayn in the current meta.
+
+Headings:
+- Level 1 Shadow Assassin Stats
+- Shadow Assassin's Abilities
+- Shadow Assassin  Build Guide for Wild Rift
+- Shadow Assassin's Item Build
+- Shadow Assassin's Spells & Runes
+- Shadow Assassin's Situational Items
+- Shadow Assassin's Skill Order
+- How to Play Shadow Assassin
+- Shadow Assassin's Abilities
+- The Darkin Scythe (Passive)
+- Reaping Slash (1)
+- Blade's Reach (2)
+- Shadow Step (3)
+- Umbral Trespass (Ultimate)
+- Shadow Assassin's Build Breakdown
+- Jungle Path
+- Late Game
+- Conclusion
+- Level 1 Rhaast Stats
+- Rhaast's Abilities
+- Rhaast  Build Guide for Wild Rift
+- Rhaast's Item Build
+- Rhaast's Spells & Runes
+- Rhaast's Situational Items
+- Rhaast's Situational Runes
+- Rhaast's Skill Order
+- How to play Rhaast
+- Rhaast's Abilities
+- The Darkin Scythe (Passive)
+- Reaping Slash (1)
+- Blade's Reach (2)
+- Shadow Step (3)
+- Umbral Trespass (Ultimate)
+- Rhaast Build Breakdown
+- Jungle Path
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Kayn the Shadow Assassin fights Rhaast the Darkin Slayer for control.
+
+Damaging ranged champions charges the Shadow Assassin, and damaging melee champions charges the Darkin Slayer. At full charge, Kayn can permanently transform at his base.
+
+Shadow Assassin: Attacks and abilities deal an additional 44% magic damage for 3 seconds. This only occurs if Kayn has been out of combat for 6 seconds or used Umbral Trespass.
+
+Dashes and deals 70 / 100 / 130 / 160 (+60% / 65% / 70% / 75% AD) physical damage, then spins his scythe to deal the same damage.
+
+Deals and additional 35 physical damage to minions and monsters.
+
+Swipes the scythe upward, dealing 90 / 150 / 210 / 270 (+110% AD) physical damage and slowing enemies hit by 90% decaying over 1.5 seconds.
+
+Gains 75% movement speed, slow immunity and the ability to move through terrain for 5 / 5.5 / 6 / 6.5 seconds. Kayn restores 100 / 120 / 140 / 160 health upon enetering terrain for the first time.
+
+Being immobilized or spending more than 1.2 consecutive seconds outisde of terrain or in combat with enemy champions ends this ability early.
+
+Infests an enemy champion for 2.5 seconds, becoming untargetable.When the infestation ends, the target is dealt 200 / 300 / 400 (+165% AD) physical damage and The Darkin Scythe's cooldown is refreshed.
+
+When Kayn is in his Darkin form, infesting a target with Umbral Trespass and the target dies, ending the infestation in advance, the ult will still trigger the health regeneration.
+
+Re-cast: Ends the infestation early.
+
+Shadow Assassin Kayn is the Blue Assassin version of Kayn. Once you have collected enough orbs from damaging ranged champions, you will get this transformation in the base. You want to play Shadow Assassin if you are playing against a lot of ranged champions and champions with a low amount of health since Shadow Assassin does a lot of burst damage with his auto attacks and abilities.
+
+After Kayn has not been in champion combat for a few seconds, his attacks and abilities deal additional damage to enemy champions for a few seconds. This is great for an assassin champion; when you are roaming around the map, keep track of his passive, so when you go in for a fight, you can use all your abilities and auto attacks to deal more damage to the enemies.
+
+Kayn dashes and deals physical damage, then spins his scythe to deal the same damage. This ability has two instances of damage. When killing jungle camps, you can use this ability up against the wall to reduce the cast time, meaning you can clear the jungle much quicker. This ability also deals additional damage to minions and monsters.
+
+Kayn swipes the scythe upward, dealing physical damage and slowing enemies hit decaying over a second. When playing Shadow Assassin, Kayn can move and use other abilities whilst using Blade's Reach, increasing the ability's range.
+
+You can use Blade's Reach to your advantage at the start of a fight. There will be no channel timing when using this ability, so with the combo above, you can do it quickly and deal a lot of burst damage.
+
+Kayn gains movement speed (increased in Shadow Assassin form), becomes immune to slows and can move through terrain for a few seconds. Kayn restores health upon entering terrain, so when you are low on health, try to enter any terrain to get a little bit of health back.
+
+The cooldown is also reduced when in Shadow Assassin form. This makes it so you can move around the map much quicker and try to get onto the back line carries to deal a lot of damage.
+
+Kayn infests an enemy champion for a few seconds, becoming untargetable whilst inside an enemy champion. When the infestation ends, the target is dealt Physical damage. You can recast this ability early to end the infestation early, deal damage quickly, and jump straight back out.
+
+With Shadow Assassin, the ability's range is increased, the distance Kayn can exit is also increased, and it refreshes Darkin Scythe's cooldown. So make sure before you use Umbral Trespass that you use Darkin Scythe so you can quickly refresh the abilities cooldown to deal more damage.
+
+Since Shadow Assassin Kayn is an Assassin, you want to build a lot of lethality items; this will allow him to deal a lot of damage. Youmuu's Ghostblade is an excellent item for Shadow Assassin as this gives him a lot of damage, and the passive means he can roam around the map even quicker and look to make a difference when ganking. Duskblade of Draktharr is another strong item for Kayn. He already does a lot of damage with his abilities and with the auto attacks from Duskblade this will help you one-shot any champion on the rift.
+
+For runes, we have the following:
+
+As an Assassin that goes through walls, it's pretty easy for Kayn to be the first person to damage the enemies, giving him true damage and a lot of extra gold.
+
+Kayn's Reaping Slash and Shadow Step can give Kayn Armor Pen from Sudden Impact, allowing him to deal more damage.
+
+Mark of the Weak gives Kayn more damage with his abilities when hitting an enemy champion. This is especially effective when using his combo
+
+Eyeball Collector is great since it gives Kayn more Attack Damage every time he gets a takedown. Zombie Ward can also be a good choice if you often roam and look to kill wards.
+
+Overgrowth allows Kayn to gain permanent health throughout the game when nearby minions or monsters are killed. So the more Kayn farms in the jungle, the more Maximum Health he will get. This will help Kayn survive more damage when dashing in for kills.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for that killing blow. Smite is a must for when you are playing jungle. Help's you out a lot when clearing the jungle and securing the epic monsters.
+
+Kayn has a reasonably fast early jungle clear. This means that you can work your way around the jungle quite fast. However, Kayn is not the strongest champion in the early game, so you want to fully clear the jungle to get Level 5 as soon as possible, then look to gank to start getting orbs from enemy champion so you can quickly get to your transformation.
+
+This is what the jungle patch would look like:
+
+Below is a beginner's guide I did for the jungle in Wild Rift. It goes in-depth about every jungle camp, epic monsters and more!
+
+With Shadow Assasin, you want to take advantage of being able to go through terrain and your high movement speed. Roam around the map solo without your team and try and get solo kills on enemy champions. This will give your team a considerable advantage when pushing or taking objectives. When playing jungle, your main job is to keep track of when Dragon, Rift Herald, and Baron spawn. Taking these epic monsters will give you and your team an advantage in the game.
+
+Even though Shadow Assassin Kayn is the weaker of the two forms, this transformation can still work against low-health enemy champions, and when it works well, it is enjoyable to play. You do a lot of damage compared to Rhaast form, and you have so much mobility to get around the map very fast.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Kayn the Shadow Assassin fights Rhaast the Darkin Slayer for control.
+
+Damaging ranged champions charge the Shadow Assassin, and damaging melee champions charge the Darkin Slayer. At full charge, Kayn can permanently transform at his base.
+
+Darkin Slayer: Kayn heals for 24% - 38% of physical damage dealt to champions.
+
+Dashes and deals 70 / 100 / 130 / 130 / 160 (60% / 65% / 70% / 75% AD)  plus 7% (+0.06% bonus AD) of the target's maximum health as physical damage (max 235 / 310 / 385 / 460 vs monsters), then spins his scythe to deal the same damage.
+
+Deals an additional 35 physical damage to minions and monsters.
+
+Swipes the scythe upward, dealing 90 / 150 / 210 / 270 (+110% AD) physical damage. Enemies hit are knocked up for 1 second and slowed by 90% decaying over 1.5 seconds.
+
+Gains 35% Movement speed and can move through terrain for5 / 5.5/ 6 / 6.5 seconds. Kayn restores 100 / 120 / 140 / 160 (+50% AD) health upon entering terrain for the first time.
+
+Being immobilized or spending more than 1.2 consecutive seconds outside of terrain or in combat with enemy champions ends this ability eary.
+
+Infest an enemy champion for 2.5 seconds, becoming untargetable.When the infestation ends, the target is dealt 36% (+0.13% AD) of the targets maximum health as physical damage and Kayn heals for 27% (+0.1% AD) of the target's maximum health.
+
+When Kayn is in his Darkin form, infesting a target with Umbral Trespass and the target dies, ending the infestation in advance, the ult will still trigger the health regeneration.
+
+Re-cast: Ends the infestation early.
+
+Rhaast Kayn is the Red Bruiser version of Kayn. You will get this transformation at his base once you have collected enough orbs from damaging melee champions. You want to play Rhaast if you are playing against a lot of melee champions and champions with a high amount of health since Rhaast does Maximum Health damage and can heal from all damage done.
+
+Kayn heals for a percentage of physical damage dealt to champions. This reflects on the playstyle and build of Rhaast Kayn; since you are more of a Tank and a Bruiser, being able to heal when dealing damage with your abilities and auto attacks will allow you to stay in fights a lot longer.
+
+Kayn dashes and deals physical damage plus a percentage of the largest maximum health as Physical damage then spins his scythe to deal the same damage. This ability has two instances of damage. When killing jungle camps, you can use this ability up against the wall to reduce the cast time, meaning you can clear the jungle much quicker. This ability also deals additional damage to minions and monsters.
+
+Kayn swipes the scythe upward, dealing physical damage and slowing enemies hit decaying over a second. When playing Rhaast, Kayn knocks up the enemy's hit for a second. The knockup will happen once the ability's channelling is complete so enemy champions can dodge this. Hitting multiple enemies with Blade's Reach is important and can make a huge difference in a team fight.
+
+Kayn gains movement speed, becomes immune to slows and can move through terrain for a few seconds. Kayn restores health upon entering terrain, so when you are low on health, try to enter any terrain to get a little bit of health back. This makes it so you can move around the map much quicker and get into a position to surprise the enemies.
+
+Kayn infests an enemy champion for a few seconds, becoming untargetable whilst inside an enemy champion. When the infestation ends, the target is dealt a percentage of the target's maximum health as Physical damage. You can recast this ability early to end the infestation early, deal damage quickly, and jump straight back out. With Rhaast, Kayn heals for a percentage of the target's maximum health.
+
+Since Rhaast Kayn is a Bruiser, you want to build items that give Kayn both Attack Damage and tank stats so he can stay in fights for longer. Youmuu's Ghostblade is an excellent item for Rhaast as this gives him a lot of damage, and the passive means he can roam around the map even quicker and look to make a difference when ganking. Black Cleaver is a core item for Rhaast. It provides him much-needed health, attack damage and, most importantly, ability haste so he can use his abilities more often.
+
+For runes, we have the following:
+
+Rhaast Kayn is a fighter, so he wants to get in the enemy's face and attack constantly. This allows him to get stacks pretty fast, which means he can deal more damage and get a lot of physical vamp when fully stacked.
+
+Gathering Storm is the best option for the first selection, as the other 2 offer few benefits.
+
+Kayn can jump in to deal bonus damage when the enemy champions are low on health. Giant Slayer is another good option when playing against Bruisers and Tanks, which build a lot of health.
+
+Bloodline's healing works well with the healing that Rhaast Kayn already gets. All this healing makes him extremely difficult to kill.
+
+Overgrowth allows Kayn to gain permanent health throughout the game when nearby minions or monsters are killed. So the more Kayn farms in the jungle, the more Maximum Health he will get. This will make Kayn super tanky and very difficult to kill.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for that killing blow. Smite is a must for when you are playing jungle. Help's you out a lot when clearing the jungle and securing the epic monsters.
+
+Kayn has a reasonably fast early jungle clear. This means that you can work your way around the jungle quite fast. However, Kayn is not the strongest champion in the early game, so you want to fully clear the jungle to get Level 5 as soon as possible, then look to gank to start getting orbs from enemy champion so you can quickly get to your transformation.
+
+This is what the jungle patch would look like:
+
+Below is a beginner's guide I did for the jungle in Wild Rift. It goes in-depth about every jungle camp, epic monsters and more!
+
+With Rhaast, you want to take advantage of being able to go through terrain and your high movement speed. Roam around the map and try to get picks when you can, but with Rhaast, you often want to stay with your team so you can be a tank and take a lot of damage. When playing jungle, your main job is to keep track of when Dragon, Rift Herald, and Baron spawn. Taking these epic monsters will give you and your team an advantage in the game.
+
+Rhaast Kayn is the stronger of the two transformations. Even though you don't deal as much damage as Shadow Assassin, the extra percentage health damage, the healing, and the crowd control Rhaast Kayn has to offer make him a really strong champion.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+

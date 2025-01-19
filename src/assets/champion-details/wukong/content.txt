@@ -1,0 +1,89 @@
+Title: Wukong :: Wild Rift Build Guide (Patch 6.0) :: Items, Runes, Abilities
+Meta Description: Find the best build for Wukong in League of Legends: Wild Rift. Our build guide will teach you how to play Wukong in the current meta.
+
+Headings:
+- Level 1 Wukong Stats
+- Wukong's Abilities
+- Wukong  Build Guide for Wild Rift
+- Wukong's Item Build
+- Wukong's Spells & Runes
+- Wukong's Situational Items
+- Wukong's Situational Runes
+- Wukong's Skill Order
+- Wukong's Item Build
+- Wukong's Spells & Runes
+- Wukong's Situational Items
+- Wukong's Situational Runes
+- Wukong's Skill Order
+- How to play Wukong
+- Wukong Build Breakdown
+- Jungle Path
+- Late Game
+- Conclusion
+- League of Legends: Wild Rift Champions:
+- Mobafire Network
+- #Social
+
+Paragraphs:
+Switch between Dark and Light themes
+
+Gains a stack of Stone Skin whenever Wukong damage enemy champions, stacking up to 3 times.
+
+Each stack grants 11 Armor and heals for 0.3% of his max Health per second.
+
+Passive: Golden Staff adds an empowering effect on Wukong's base attacks every 12 seconds. Takedowns will reduce Golden Staff's passive Cooldown by 2 seconds. The Cooldown of the passive will be reduced by 2 seconds per level, and killing enemy champions will refresh the Cooldown.
+
+Active: Empowers his next attack to deal 60 / 90 / 120 / 150 (+35% / 40% / 45% / 50% AD) physical damage.
+
+Wukong and his clones attacks reduce Golden Staff's cooldown by 0.5 seconds. After casting this ability, Wukong's next attack gains bonus range.
+
+Becomes invisible for 1 second and dashes forward, leaving behind a clone for 3 / 3.5 / 4 / 4.5 seconds that attacks nearby enemies for20% / 30% / 40% / 50% damage.
+
+The clone will mimic Wukong's Golden Staff, Nimbus Strike and Cyclone. The clone can move with the joystick control.
+
+Moves toward a target while sending clones to 2 additional enemies nearby, dealing 80 / 120 / 160 / 200 (+80% bonus AD) physical damage to each enemy.
+
+After hitting the targeted enemy, Wukong gains 25% / 35% / 45% / 55% Attack Speed for 4 seconds.
+
+Extends his staff and spins to gain 20% Movement Speed, dealing 149 (220% AD) physical damage + 10% / 14% / 118% of enemies' max health over 2 seconds. Enemies that are hit for the first time are knocked up.
+
+Cyclone can be recast once within 8 seconds.
+
+Wukong is a highly mobile attack damage jungler. He has a really strong early game in terms of clearing and 1 vs 1 potential vs the enemy jungler and has strong early game ganks that you can utilize to snowball your lanes. He is also a great champion in the mid and late game. His ultimate Cyclone can crowd control a whole team and you can be a real game-changer.
+
+Wukong can also be played in the top lane, make sure to check the alternative build at the top of the page! The build focuses a lot on being a front line tank. You can stack Grasp of the Undying really easily and build defensive items so you can survive a long time during teamfights.
+
+Wukong uses a mixture of both AD and tank items that allow him to do damage and survive. Trinity Force is a great item for Wukong. This item gives him both damage and tank stats, and the passive effect Spellblade works well for Wukong, especially with his Golden Staff. Sterak's Gage is an excellent example of a tank item that still gives Wukong bonus Attack Damage. Sterak's gives Wukong a lot of health, and the passive gives him a shield when he gets low on health, keeping him alive longer.
+
+For runes, we have the following:
+
+Wukong is a fighter, so he wants to get in the enemy's face and attack constantly whilst using his spells. This allows him to get the six stacks pretty fast, which means he can deal more damage and get a lot of physical vamp when fully stacked.
+
+Gathering Storm is the best option for the first selection, as the other 2 offer few benefits. The extra attack damage will help Wukong become more of a carry.
+
+Wukong can dash in to deal bonus damage when enemy champions are low on health. Giant Slayer is another good option when playing against Bruisers and Tanks, which build a lot of health.
+
+Bloodline's healing will help keep Wukong alive during teamfights. Legend: Tenacity is another excellent option when playing against champions with a lot of Crowd Control.
+
+Overgrowth allows Wukong to gain permanent health throughout the game when nearby minions or monsters are killed. So the more Wukong farms in the jungle, the more Maximum Health he will get.
+
+For summoner spells, Flash is a must on most champions. It's a great spell to get out of a situation or if you are trying to go in for the killing blow. Smite is a must for when you are playing jungle. Helps you out a lot when clearing the jungle and securing the epic monsters.
+
+Wukong has a relatively fast early jungle clear. This means that you can work your way around the jungle really fast and be aggressive when contesting the scuttle crabs in the rivers. It is best to start at Red Brambleback as you don't struggle with mana early and you can stay pretty healthy. In the jungle, you can use Warrior's Trickster so the clone takes all the damage when fighting the jungle camp.
+
+This is what the jungle patch would look like:
+
+Below is a beginner's guide I did for jungle in Wild Rift. It goes in-depth about every jungle camp, epic monsters and more!
+
+Wukong is a great team fight champion in the late game. Once you have your core items you can ultimate into the enemy team and do a lot of damage whilst also staying alive for a long time for your team to follow up and help you out. You want to stay with your team at all times and try not to get caught out by yourself. As a jungler, your main objective is to keep track of when Dragons, Rift Herald, and Baron spawn. Taking these epic monsters will give you and your team an advantage in the game. When a team fight happens you want to make sure you are at the front protecting your team.
+
+Overall Wukong is a great starter champion if you want to play jungle! He has some easy abilities that you can learn straight away and can have a big impact on the game.
+
+Thank you for reading this guide! Feel free to follow me and ask any questions on:
+
+Good luck on the rift summoners!
+
+iTzSTU4RT
+
+Copyright © 2024 WildRiftFire | All Rights Reserved
+
